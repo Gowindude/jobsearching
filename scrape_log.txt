@@ -1,0 +1,102 @@
+Scrape run: 2026-06-21
+Method: Greenhouse API (boards-api.greenhouse.io/v1/boards/{slug}/jobs), Lever API (api.lever.co/v0/postings/{slug}?mode=json), WebSearch for startup discovery
+
+=== SPACE & LAUNCH ===
+SpaceX             | Greenhouse (spacex) | board live | 0 intern roles
+Rocket Lab         | Greenhouse (rocketlab) | board live | 8 intern roles (Fall 2026 only)
+Relativity Space   | Greenhouse (relativity) | board live | 0 intern roles
+Sierra Space       | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: sierraspace.com/careers
+Firefly Aerospace  | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: firefly.com/careers
+Blue Origin        | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: blueorigin.com/careers
+Vast               | Greenhouse (vast) | board live | 0 intern roles
+Apex Space         | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: apexspace.com/careers
+Varda Space        | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: varda.com/careers
+Starfish Space     | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: starfishspace.com/careers
+Turion Space       | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: turionspace.com/careers
+Virgin Galactic    | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: virgingalactic.com/careers
+United Launch Alliance | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: ulalaunch.com/careers
+ABL Space Systems  | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: ablspacesystems.com/careers
+Stoke Space        | Greenhouse (stokespacetechnologies) | Spring 2027 closed Jun 15; Summer 2027 opens Jul 6 2026 | verified via web search
+
+=== AERONAUTICS / eVTOL ===
+Joby Aviation      | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: jobyaviation.com/careers
+Archer Aviation    | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: archer.com/careers
+Wisk Aero          | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: wisk.aero/careers
+Beta Technologies  | Lever (beta) | board live but empty | 0 roles
+Supernal           | Greenhouse (supernal) | board live | 0 intern roles (6 full-time only)
+Lilium             | 404 on all Greenhouse/Lever slugs tried | company restructured 2023 | ATS unknown
+Textron Aviation   | 404 on all Greenhouse/Lever slugs tried | likely Taleo | manual check: textron.taleo.net
+Cirrus Aircraft    | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: cirrusaircraft.com/careers
+
+=== DEFENSE & COUNTER-UAS ===
+Anduril            | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: anduril.com/careers
+Shield AI          | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: shield.ai/careers
+Palantir           | Lever (palantir) | board live | 5 intern roles (rolling, no term specified)
+Skydio             | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: skydio.com/careers
+Dedrone (Axon)     | Greenhouse (axon) | board live | 0 intern roles
+Fortem Technologies | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: fortemtech.com/careers
+D-Fend Solutions   | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: d-fendsolutions.com/careers
+AeroDefense        | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: aerodefense.net/careers
+Kratos Defense     | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: kratosdefense.com/careers
+Leidos             | 403 Forbidden on careers page | ATS unknown | manual check: careers.leidos.com
+L3Harris           | TalentBrew ATS confirmed | no API access | manual check: careers.l3harris.com
+SAIC               | 403 Forbidden on careers page | ATS unknown | manual check: jobs.saic.com
+Booz Allen Hamilton | Workday confirmed (bah.wd1.myworkdayjobs.com) | manual check: careers.boozallen.com
+Teledyne FLIR      | fetch blocked | ATS unknown | manual check: teledyne.com/en-us/careers
+
+=== PRIMES ===
+Boeing             | Workday (presumed) | manual check: jobs.boeing.com
+Lockheed Martin    | Workday (presumed) | manual check: lockheedmartinjobs.com
+Northrop Grumman   | Workday (presumed) | manual check: northropgrumman.com/careers
+RTX / Raytheon     | Workday (presumed) | manual check: careers.rtx.com (also covers Collins, P&W)
+General Dynamics   | Workday (presumed) | manual check: gd.com/careers
+BAE Systems        | Workday (presumed) | manual check: jobs.baesystems.com
+Collins Aerospace  | Workday via RTX | manual check: careers.rtx.com
+Honeywell Aerospace | Workday (presumed) | manual check: careers.honeywell.com
+
+=== PROPULSION ===
+Aerojet Rocketdyne | 404 on Greenhouse/Lever | absorbed by L3Harris 2023 | manual check: careers.l3harris.com
+Ursa Major         | Greenhouse (ursamajor) | board live | 0 intern roles (43 full-time)
+Firehawk Aerospace | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: firehawk-aerospace.com/careers
+Venus Aerospace    | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: venusaero.com/careers
+Hermeus            | Lever (hermeus) | board live | 1 intern role (Fall 2026 only)
+GE Aerospace       | Workday (presumed) | manual check: jobs.gecareers.com
+Pratt & Whitney    | Workday via RTX | manual check: careers.rtx.com
+
+=== GNC / FLIGHT SOFTWARE ===
+Draper Laboratory  | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: draper.com/careers
+Garmin Aviation    | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: careers.garmin.com
+Near Space Labs     | Greenhouse (nearspacelabs) | board live | 0 intern roles
+Kittyhawk          | 404 on all Greenhouse/Lever slugs tried | possible defunct | ATS unknown
+
+=== CFD / SIMULATION ===
+Luminary Cloud     | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: luminarycloud.com/careers
+PhysicsX           | Greenhouse (physicsx) | board live | 0 intern roles
+Ansys              | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: ansys.com/careers
+Siemens (Simcenter) | 404 on all Greenhouse/Lever slugs tried | large company, likely SAP SuccessFactors | manual check: jobs.siemens.com
+Cadence            | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: cadence.com/careers
+
+=== RESEARCH ===
+NASA               | custom portal | not scrapeable via API | manual check: intern.nasa.gov
+AFRL Scholars      | custom portal | not scrapeable via API | manual check: afrlscholars.usra.edu
+Sandia National Labs | 404 on all Greenhouse/Lever slugs tried | likely iCIMS | manual check: sandia.gov/careers
+Oak Ridge National Lab | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: ornl.gov/careers
+
+=== AUTONOMY ===
+Sarcos Technology  | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: sarcos.com/careers
+Reliable Robotics  | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: reliable.aero/careers
+Xwing              | 404 on all Greenhouse/Lever slugs tried | ATS unknown | manual check: xwing.com/careers
+Zipline            | Greenhouse (flyzipline) | board live | 26 intern roles (Fall 2026 only)
+
+=== BUCKET B STARTUPS DISCOVERED ===
+Stoke Space        | Greenhouse (stokespacetechnologies) | Spring 2027 confirmed via web; Summer 2027 opens Jul 6 2026
+True Anomaly       | Greenhouse (trueanomalyinc) | 6 rolling intern roles confirmed open (flight SW, GNC, full stack, front end, gen eng, IT)
+
+=== SUMMARY ===
+Companies checked: 67
+Greenhouse boards confirmed active: SpaceX, Rocket Lab, Relativity Space, Vast, Supernal, Axon/Dedrone, Ursa Major, Hermeus (Lever), Beta Technologies (Lever), Near Space Labs, PhysicsX, Stoke Space, True Anomaly, Palantir (Lever), Zipline
+Intern roles found (Summer/Spring 2027): 11 (True Anomaly x5, Palantir x5, Stoke Space Summer 2027 opens Jul 6)
+Intern roles found (Fall 2026): 35 (Rocket Lab x8, Zipline x26, Hermeus x1)
+Spring 2027 confirmed but closed: Stoke Space (3 roles, window closed Jun 15 2026)
+Workday / manual-check only: 15 companies
+404 / ATS unknown: 32 companies
