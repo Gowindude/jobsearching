@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. Workday roles listed separately
 for manual check — they can't be verified programmatically. US-based roles only.
 
-Last updated: 2026-06-24
+Last updated: 2026-06-29
 Open verified 2027 roles: 17
 
 ---
@@ -121,14 +121,15 @@ These are Fall 2026 roles found during this run. Not the primary target, but ope
 | Manufacturing Engineering Intern – Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/922ee234-94aa-473b-8464-03f28a709872) |
 | Manufacturing Engineering Intern – Fall 2026 | Los Angeles, CA | [Apply](https://jobs.lever.co/hermeus/a1f3aa29-72ea-4843-b2ea-801f3bef73ae) |
 | Mechanical Engineering Intern – Fall 2026 | Los Angeles, CA | [Apply](https://jobs.lever.co/hermeus/6b6afa4a-b37d-4033-ac3b-e6501a951b98) |
-| Mission Systems Platform Intern – Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/86fd77a9-6498-43df-bfe0-2159aa6933db) |
-| Operations and Test Engineering Intern – Fall 2026 | Los Angeles, CA | [Apply](https://jobs.lever.co/hermeus/6afd9372-2a91-4935-b7a5-7a1cf4eb960b) |
+| Flight Test Operations Pilot Intern – Fall 2026 | Los Angeles, CA | [Apply](https://jobs.lever.co/hermeus/8b890bfe-924e-4520-a8a9-0641f0581514) |
+| Test and Operations Engineering Intern – Fall 2026 | Los Angeles, CA | [Apply](https://jobs.lever.co/hermeus/6afd9372-2a91-4935-b7a5-7a1cf4eb960b) |
 | Propulsion Engineer Intern – Fall 2026 | Los Angeles, CA | [Apply](https://jobs.lever.co/hermeus/a949f158-6900-42e1-890d-fb3ec339c3d0) |
 | Propulsion Test Engineering Intern – Fall 2026 | Jacksonville, FL | [Apply](https://jobs.lever.co/hermeus/31513d2a-8e08-424b-b125-4f972fcfc805) |
 | Software Engineering Intern (HIL) – Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf) |
 | Software Engineering Intern (HMI) – Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67) |
 | Software Engineering Intern (Modeling & Simulation) – Fall 2026 | Los Angeles, CA | [Apply](https://jobs.lever.co/hermeus/49f7cf3f-bf66-44ca-bf97-ee0f7180a68d) |
 | Structures Engineering Intern – Fall 2026 | Los Angeles, CA | [Apply](https://jobs.lever.co/hermeus/273cb94a-ff5b-4814-81e8-34f406d403c6) |
+| Structures/Mechanical Engineering Intern – Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/08a3c5df-559a-49c8-a685-8165cb8388c7) |
 | Subsystem Test Engineering Intern – Fall 2026 | Atlanta, GA | [Apply](https://jobs.lever.co/hermeus/3ee3f243-bab8-4bdb-b0d0-2214874ef49e) |
 
 ### Varda Space (Greenhouse: `vardaspace`)
@@ -140,6 +141,11 @@ These are Fall 2026 roles found during this run. Not the primary target, but ope
 | Mechanical Engineering Internship – Fall 2026 | El Segundo, CA | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7670782003) |
 | Mission Operations Internship – Fall 2026 | El Segundo, CA | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7663358003) |
 | Vehicle Integration and Test Internship – Fall 2026 | El Segundo, CA | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7660858003) |
+
+### Vast (Greenhouse: `vast`)
+| Role | Location | Apply |
+|------|----------|-------|
+| Supplier Quality Engineering Intern – Fall 2026 | Long Beach, CA | [Apply](https://job-boards.greenhouse.io/vast/jobs/4691428006) |
 
 ### Zipline (Greenhouse: `flyzipline`)
 | Role | Location | Apply |
@@ -160,8 +166,11 @@ These are Fall 2026 roles found during this run. Not the primary target, but ope
 | Mechatronics Perception Intern (Fall 2026) | South San Francisco, CA | [Apply](https://www.zipline.com/open-roles?gh_jid=7763697003) |
 | Perception Intern (Fall 2026) | South San Francisco, CA | [Apply](https://www.zipline.com/open-roles?gh_jid=7761650003) |
 | Quality & Manufacturing Intern (Fall 2026) | South San Francisco, CA | [Apply](https://www.zipline.com/open-roles?gh_jid=7743224003) |
+| Software Engineer Intern (Fall 2026) | South San Francisco, CA | [Apply](https://www.zipline.com/open-roles?gh_jid=7787509003) |
 | Software Systems Validation Intern (Fall 2026) | South San Francisco, CA | [Apply](https://www.zipline.com/open-roles?gh_jid=7780103003) |
 | Supplier Industrialization Engineering Intern (Fall 2026) | South San Francisco, CA | [Apply](https://www.zipline.com/open-roles?gh_jid=7766424003) |
+| System Test Automation Intern (Fall 2026) | South San Francisco, CA | [Apply](https://www.zipline.com/open-roles?gh_jid=7786445003) |
+| Maps Intern (Fall 2026) | South San Francisco, CA | [Apply](https://www.zipline.com/open-roles?gh_jid=7787868003) |
 
 ---
 
@@ -255,6 +264,7 @@ verified programmatically. Check their careers pages directly.
 | True Anomaly | Full Stack Software Engineer Intern (Summer 2027) | 2026-06-24 |
 | True Anomaly | Front End Software Engineer Intern (Summer 2027) | 2026-06-24 |
 | True Anomaly | General Engineering Internship (Summer 2027) | 2026-06-24 |
+| Hermeus | Mission Systems Platform Intern – Fall 2026 | 2026-06-29 |
 
 </details>
 
