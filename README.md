@@ -171,7 +171,7 @@ No formal intern programs yet, but great for cold outreach to learn about the wo
 | Impulse Space | Orbital transfer vehicles (Tom Mueller) | [impulsespace.com/careers](https://www.impulsespace.com/careers) |
 | Xona Space | LEO PNT / GPS alternative — GNC/orbital mechanics | [xonaspace.com/careers](https://www.xonaspace.com/careers) |
 | Umbra | Highest-res commercial SAR — software heavy | [umbra.space/careers](https://umbra.space/careers) |
-| Albedo | VLEO 10 cm optical imaging | [jobs.lever.co/albedo](https://jobs.lever.co/albedo) |
+| Albedo | VLEO 10 cm optical imaging | [albedo.com](https://albedo.com) (Lever slug removed — cold email) |
 | Slingshot Aerospace | AI / sim for space traffic mgmt | [slingshot.space/careers](https://www.slingshot.space/careers) |
 | Loft Orbital | Satellite-as-a-service, full-stack + embedded | [loftorbital.com/careers](https://www.loftorbital.com/careers) (Lever) |
 | Firehawk Aerospace | Hybrid propulsion | [fireflyspace.com/careers](https://fireflyspace.com/careers) |
