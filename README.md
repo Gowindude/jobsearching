@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-07-14
-Open verified 2027 roles: 49
+Open verified 2027 roles: 48
 
 ---
 
@@ -32,11 +32,6 @@ NASA JPL application window: ~Oct 2026–Feb 2027.
 ---
 
 ## ☀️ Summer 2027
-
-### Space & Launch
-| Company | Role | Location | | Apply |
-|---------|------|----------|--|-------|
-| Stoke Space ⭐ | Summer 2027 Internship | Kent, WA / Moses Lake, WA / Cape Canaveral, FL | | [Careers Page](https://www.stokespace.com/careers/current-openings/) |
 
 ### Defense & Counter-UAS
 | Company | Role | Location | | Apply |
@@ -123,6 +118,7 @@ These are confirmed target companies with no verified open 2027 listings as of t
 | Company | Portal | ATS | Notes |
 |---------|--------|-----|-------|
 | SpaceX ⭐ | [job-boards.greenhouse.io/spacex](https://job-boards.greenhouse.io/spacex) | Greenhouse (auto-scraped) | Fall 2026 open; Spring/Summer 2027 expected Sept–Oct 2026 |
+| Stoke Space ⭐ | [stokespace.com/careers/current-openings](https://www.stokespace.com/careers/current-openings/) | Greenhouse (auto-scraped) | Summer 2027 application window: Sept–Nov 2026 |
 | NASA JPL ⭐ | [jpl.nasa.gov/edu/internships](https://www.jpl.nasa.gov/edu/internships/) | Custom JPL portal | Application window opens Oct 2026–Feb 2027 for Summer 2027 |
 | Nvidia ⭐ | [nvidia.wd5.myworkdayjobs.com](https://nvidia.wd5.myworkdayjobs.com) | Workday | 2026 intern reqs live; 2027 drops fall 2026 |
 | Relativity Space ⭐ | [job-boards.greenhouse.io/relativity](https://job-boards.greenhouse.io/relativity) | Greenhouse (auto-scraped) | Off-season gap; intern board at `rsinternboard` also |
