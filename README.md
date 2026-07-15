@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-07-13
-Open verified 2027 roles: 42
+Last updated: 2026-07-14
+Open verified 2027 roles: 49
 
 ---
 
@@ -45,7 +45,6 @@ NASA JPL application window: ~Oct 2026–Feb 2027.
 | Anduril ⭐ | 2027 Electrical Engineer Intern | Atlanta / Boston / Costa Mesa / Irvine / Reston / Seattle | 🇺🇸 | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5148101007) |
 | Anduril ⭐ | 2027 Mechanical Engineer Intern | Atlanta / Boston / Costa Mesa / Irvine / Reston / Seattle | 🇺🇸 | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5153187007) |
 | Anduril ⭐ | 2027 Manufacturing Engineer Intern | Atlanta / Boston / Costa Mesa / Irvine / Reston / Seattle | 🇺🇸 | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5153218007) |
-| Anduril ⭐ | Naval Architect Co-op – Winter 2027 | Costa Mesa, CA | 🇺🇸 | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5170844007) |
 | Palantir ⭐ | Forward Deployed Software Engineer, Internship – Defense Tech | Washington, D.C. | 🇺🇸 | [Apply](https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b) |
 | Palantir ⭐ | Forward Deployed Software Engineer, Internship – Intel | Washington, D.C. | 🇺🇸 | [Apply](https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89) |
 | Palantir ⭐ | Forward Deployed Software Engineer, Internship – US Government | Honolulu, HI | 🇺🇸 | [Apply](https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e) |
@@ -82,21 +81,27 @@ NASA JPL application window: ~Oct 2026–Feb 2027.
 
 ### Space & Launch
 
-> 🚨 **URGENT — Blue Origin closes July 15, 2026 (tomorrow). Apply now.**
+> 🚨 **URGENT — Blue Origin closes July 15, 2026 (TOMORROW). Apply now.**
 
 | Company | Role | Location | | Apply |
 |---------|------|----------|--|-------|
-| Blue Origin ⭐ | Spring 2027 Software Developer Internship (Undergraduate) | Kent, WA | 🇺🇸 🔥 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027--Software-Developer-Internship---Undergraduate_R66216) |
-| Blue Origin ⭐ | Spring 2027 Software Developer Internship (Graduate) | Kent, WA | 🇺🇸 🔥 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027--Software-Developer-Internship---Graduate_R66409) |
-| Blue Origin ⭐ | Spring 2027 Avionics Software Internship (Undergraduate) | Kent, WA | 🇺🇸 🔥 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027-Avionics-Software-Internship---Undergraduate_R66213) |
-| Blue Origin ⭐ | Spring 2027 Avionics Software Internship (Graduate) | Kent, WA | 🇺🇸 🔥 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027-Avionics-Software-Internship---Graduate_R66209) |
-| Blue Origin ⭐ | Spring 2027 Test Engineering Internship (Undergraduate) | Kent, WA | 🇺🇸 🔥 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027-Test-Engineering-Internship---Undergraduate_R66360) |
-| Blue Origin ⭐ | Spring 2027 Structural & Mechanical Engineering Internship (Undergraduate) | Kent, WA | 🇺🇸 🔥 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027-Structural---Mechanical-Engineering-Internship---Undergraduate_R66356) |
-| Blue Origin ⭐ | Spring 2027 GNC Internship | Kent, WA | 🇺🇸 🔥 | [Search Portal](https://www.blueorigin.com/careers/search) |
+| Blue Origin ⭐ | Spring 2027 Software Developer Internship (Undergraduate) | Kent, WA | 🇺🇸 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027--Software-Developer-Internship---Undergraduate_R66216) |
+| Blue Origin ⭐ | Spring 2027 Software Developer Internship (Graduate) | Kent, WA | 🇺🇸 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027--Software-Developer-Internship---Graduate_R66409) |
+| Blue Origin ⭐ | Spring 2027 Avionics Software Internship (Undergraduate) | Kent, WA | 🇺🇸 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027-Avionics-Software-Internship---Undergraduate_R66213) |
+| Blue Origin ⭐ | Spring 2027 Avionics Software Internship (Graduate) | Kent, WA | 🇺🇸 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027-Avionics-Software-Internship---Graduate_R66209) |
+| Blue Origin ⭐ | Spring 2027 Test Engineering Internship (Undergraduate) | Kent, WA | 🇺🇸 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027-Test-Engineering-Internship---Undergraduate_R66360) |
+| Blue Origin ⭐ | Spring 2027 Structural & Mechanical Engineering Internship (Undergraduate) | Kent, WA | 🇺🇸 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027-Structural---Mechanical-Engineering-Internship---Undergraduate_R66356) |
+| Blue Origin ⭐ | Spring 2027 GNC Internship (Undergraduate) | Kent, WA | 🇺🇸 🔥 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Guidance--Navigation---Controls-Internship---Undergraduate_R66295) |
+| Blue Origin ⭐ | Spring 2027 Aerospace Systems Engineering Internship (Undergraduate) | Kent, WA | 🇺🇸 🔥 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027-Aerospace-Systems-Engineering-Internship----Undergraduate_R66207) |
+| Blue Origin ⭐ | Spring 2027 Aerospace Systems Engineering Internship (Graduate) | Kent, WA | 🇺🇸 🔥 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Aerospace-Systems-Engineering-Intern---Graduate_R66202) |
+| Blue Origin ⭐ | Spring 2027 Fluid Systems Engineering Internship (Undergraduate) | Kent, WA | 🇺🇸 🔥 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Fluid-Systems-Engineering-Internship---Undergraduate_R66292) |
+| Blue Origin ⭐ | Spring 2027 Manufacturing Engineering Internship (Undergraduate) | Cape Canaveral, FL | 🇺🇸 🔥 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Space-Coast-FL/Spring-2027-Manufacturing-Engineering-Internship---Undergraduate_R66348) |
 
 ### Defense & Counter-UAS
+
 | Company | Role | Location | | Apply |
 |---------|------|----------|--|-------|
+| Anduril ⭐ | Naval Architect Co-op – Winter 2027 | Costa Mesa, CA | 🇺🇸 | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5170844007) |
 | Shield AI | Electrical Engineering Spring Co-op (January 2027) | Dallas, TX / San Diego, CA / Boston, MA | 🇺🇸 | [Apply](https://jobs.lever.co/shieldai/87d982f2-8b2b-4c73-9a19-71e461c7b724) |
 
 ### Primes & OEMs
@@ -138,7 +143,7 @@ These are confirmed target companies with no verified open 2027 listings as of t
 | Boeing | [boeing.wd1.myworkdayjobs.com](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS) | Workday `boeing.wd1` (auto-scraped) | No 2027 listings yet |
 | Honeywell Aerospace | [careers.honeywell.com](https://careers.honeywell.com) | Workday `honeywell.wd5` (auto-scraped) | No 2027 yet; recruits heavily at fall career fairs |
 | L3Harris | [careers.l3harris.com](https://careers.l3harris.com) | Workday `l3harris.wd5` (auto-scraped) | No 2027 yet |
-| Leidos | [leidos.wd5.myworkdayjobs.com](https://leidos.wd5.myworkdayjobs.com) | Workday (auto-scraped) | Engineering Intern (Huntsville, AL) open — check term |
+| Leidos | [leidos.wd5.myworkdayjobs.com](https://leidos.wd5.myworkdayjobs.com) | Workday (auto-scraped) | [Engineering Intern (Huntsville, AL)](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern_R-00187036) open — term unconfirmed, check before applying |
 | General Dynamics | [gd.com/careers](https://www.gd.com/careers) | Workday `generaldynamics.wd5` (auto-scraped) | No 2027 yet |
 | GE Aerospace | [geaerospace.wd5.myworkdayjobs.com](https://geaerospace.wd5.myworkdayjobs.com) | Workday (auto-scraped) | Spring 2027 co-ops closed; check for new postings |
 | Draper Laboratory | [draper.wd5.myworkdayjobs.com](https://draper.wd5.myworkdayjobs.com/Draper_Careers) | Workday (auto-scraped) | GNC/embedded co-op program; check term for current listing |
@@ -157,7 +162,7 @@ These are confirmed target companies with no verified open 2027 listings as of t
 | Joby Aviation | [careers-jobyaviation.icims.com](https://careers-jobyaviation.icims.com) | iCIMS — manual only | No Spring 2027 confirmed |
 | Wisk Aero | [wisk.wd108.myworkdayjobs.com/Wisk_Careers](https://wisk.wd108.myworkdayjobs.com/Wisk_Careers) | Workday (add to script) | Possible open: Flight Test, SW Eng, Autonomy interns — year not confirmed |
 | Archer Aviation | [job-boards.greenhouse.io/archer56](https://job-boards.greenhouse.io/archer56) | Greenhouse (auto-scraped) | No interns posted |
-| Skydio | [skydio.com/careers](https://www.skydio.com/careers) | Unknown (not Ashby anymore) | — |
+| Skydio | [skydio.com/careers](https://www.skydio.com/careers) | Ashby | SW Eng Intern open (Winter 2027 Jan start) — added to Bucket B |
 
 ---
 
@@ -177,7 +182,7 @@ No formal intern programs yet, but great for cold outreach to learn about the wo
 | Firehawk Aerospace | Hybrid propulsion | [fireflyspace.com/careers](https://fireflyspace.com/careers) |
 | Turion Space | Space domain awareness + servicing | [turionspace.com/careers](https://www.turionspace.com/careers) |
 | Venus Aerospace | Hypersonic propulsion | [venusaero.com/careers](https://www.venusaero.com/careers) |
-| SoloPulse | Radar DSP / EW | [jobs.lever.co/solopulseco](https://jobs.lever.co/solopulseco) |
+| SoloPulse | Radar DSP / EW | [jobs.lever.co/solopulseco](https://jobs.lever.co/solopulseco) — active Lever postings for DSP Intern/Co-Op and Systems Eng Intern (term unspecified — apply or email) |
 
 ---
 
@@ -186,6 +191,8 @@ No formal intern programs yet, but great for cold outreach to learn about the wo
 | Company | Role | Location | Term | Apply |
 |---------|------|----------|------|-------|
 | Pyka | Electrical Engineering Intern | Alameda, CA | Fall 2026 | [Apply](https://jobs.lever.co/pyka/8acefc96-2bdb-43ca-ad0e-9e4d85512a70) |
+| Pyka | Mechanical Engineering Intern – Dropship | Alameda, CA | Fall 2026 🔥 | [Apply](https://jobs.lever.co/pyka/92d3f17a-8fc7-4105-862c-2429db8d4859) |
+| Skydio | Software Engineer Intern | San Mateo, CA | Winter 2027 (Jan start) 🔥 | [Apply](https://www.skydio.com/jobs/f6320e9b-4eed-408d-8d37-d509fb0406ee) |
 
 ---
 
