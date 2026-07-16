@@ -187,6 +187,7 @@ No formal intern programs yet, but great for cold outreach to learn about the wo
 | Genesis AI | Full-stack general-purpose robotics + generative simulation — $105M seed | [genesis.ai](https://www.genesis.ai) — email: zhouxian@genesis-ai.company (Zhou Xian, CEO) |
 | Skild AI | Robot foundation models — general-purpose robotic intelligence — $1.8B raised | [skild.ai](https://www.skild.ai) — email: pathak@skild.ai (Deepak Pathak, CEO) |
 | Physical Intelligence (π) | Dexterous robot manipulation + generalist robot policies — $400M raised | [physicalintelligence.company/careers](https://www.physicalintelligence.company/careers) |
+| Navier AI | AI-driven engineering platform — FEA/FVM/CFD agents + flight code gen (YC, SF) | [navier.ai](https://www.navier.ai) — email: cameron@navier.ai (Cameron Flannery, CEO; already emailed Evan Kay co-founder) |
 
 ---
 
