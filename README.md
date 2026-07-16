@@ -2,7 +2,7 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-07-14
+Last updated: 2026-07-15
 Open verified 2027 roles: 48
 
 ---
@@ -179,6 +179,14 @@ No formal intern programs yet, but great for cold outreach to learn about the wo
 | Turion Space | Space domain awareness + servicing | [turionspace.com/careers](https://www.turionspace.com/careers) |
 | Venus Aerospace | Hypersonic propulsion | [venusaero.com/careers](https://www.venusaero.com/careers) |
 | SoloPulse | Radar DSP / EW | [jobs.lever.co/solopulseco](https://jobs.lever.co/solopulseco) — active Lever postings for DSP Intern/Co-Op and Systems Eng Intern (term unspecified — apply or email) |
+| nTop | Topology optimization + meshless CFD/FEA — aerospace & defense clients; NVIDIA-backed | [ntop.com/careers](https://www.ntop.com/careers) — email: marcja@ntop.com (Marc Jacobs, CTO) |
+| PhysicsX | ML-accelerated physics simulation for aerospace/auto — $602M raised, Lever ATS | [physicsx.ai/careers](https://www.physicsx.ai/careers) — email: arran.ferguson@physicsx.ai (Arran Ferguson, Head of Talent) |
+| Pasteur Labs | Differentiable physics / simulation intelligence — NASA advisor background | [simulation.science/careers](https://simulation.science/careers) — email: lavin@simulation.science (Alexander Lavin, CEO); careers@simulation.science |
+| Godela | AI physics foundation model — CFD/FEA/CAD answers without solvers (YC X25, SF) | [godela.ai](https://www.godela.ai) — email: cinnamon@godela.ai (Cinnamon Sipper, CEO) |
+| Archetype AI | Physical AI foundation model "Newton" — multimodal sensor fusion for industrial | [archetypeai.io/careers](https://www.archetypeai.io/careers) — email: nick.gillian@archetypeai.team (Nick Gillian, Founder/CTO) |
+| Genesis AI | Full-stack general-purpose robotics + generative simulation — $105M seed | [genesis.ai](https://www.genesis.ai) — email: zhouxian@genesis-ai.company (Zhou Xian, CEO) |
+| Skild AI | Robot foundation models — general-purpose robotic intelligence — $1.8B raised | [skild.ai](https://www.skild.ai) — email: pathak@skild.ai (Deepak Pathak, CEO) |
+| Physical Intelligence (π) | Dexterous robot manipulation + generalist robot policies — $400M raised | [physicalintelligence.company/careers](https://www.physicalintelligence.company/careers) |
 
 ---
 
@@ -189,6 +197,9 @@ No formal intern programs yet, but great for cold outreach to learn about the wo
 | Pyka | Electrical Engineering Intern | Alameda, CA | Fall 2026 | [Apply](https://jobs.lever.co/pyka/8acefc96-2bdb-43ca-ad0e-9e4d85512a70) |
 | Pyka | Mechanical Engineering Intern – Dropship | Alameda, CA | Fall 2026 🔥 | [Apply](https://jobs.lever.co/pyka/92d3f17a-8fc7-4105-862c-2429db8d4859) |
 | Skydio | Software Engineer Intern | San Mateo, CA | Winter 2027 (Jan start) 🔥 | [Apply](https://www.skydio.com/jobs/f6320e9b-4eed-408d-8d37-d509fb0406ee) |
+| Machina Labs | Robotic Process Engineer, Intern | Chatsworth, CA | term TBD | [Apply](https://jobs.lever.co/MachinaLabs/40bf906a-0078-444d-a4a6-95719c8634ed) |
+| Machina Labs | Robotic Process Engineer, Intern (2) | Chatsworth, CA | term TBD | [Apply](https://jobs.lever.co/MachinaLabs/da8632d8-5a1d-4d1b-8270-b8e6209f0cc1) |
+| Luminary Cloud | Engineering Intern | San Mateo, CA | term TBD | [Apply](https://ats.rippling.com/luminarycloud/jobs) |
 
 ---
 
