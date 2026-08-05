@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-08-04
-Open verified 2027 roles: 71
+Last updated: 2026-08-05
+Open verified 2027 roles: 72
 
 ---
 
@@ -36,10 +36,10 @@ NASA JPL application window: ~Oct 2026–Feb 2027.
 ### Space & Launch
 | Company | Role | Location | | Posted | Apply |
 |---------|------|----------|--|--------|-------|
-| SpaceX ⭐ 🔥 | Summer 2027 Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8621740002?gh_jid=8621740002) |
-| SpaceX ⭐ 🔥 | Summer 2027 Software Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002) |
-| SpaceX ⭐ 🔥 | Summer 2027 Silicon Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002) |
-| SpaceX ⭐ 🔥 | Summer 2027 Civil/Structural Engineering Internship | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8636144002?gh_jid=8636144002) |
+| SpaceX ⭐ | Summer 2027 Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8621740002?gh_jid=8621740002) |
+| SpaceX ⭐ | Summer 2027 Software Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002) |
+| SpaceX ⭐ | Summer 2027 Silicon Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002) |
+| SpaceX ⭐ | Summer 2027 Civil/Structural Engineering Internship | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8636144002?gh_jid=8636144002) |
 
 ### Defense & Counter-UAS
 | Company | Role | Location | | Posted | Apply |
@@ -96,14 +96,15 @@ NASA JPL application window: ~Oct 2026–Feb 2027.
 | Blue Origin ⭐ | Spring 2027 Avionics Software Internship (Undergraduate) | Kent, WA | 🇺🇸 | Unknown | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027-Avionics-Software-Internship---Undergraduate_R66213) |
 | Blue Origin ⭐ | Spring 2027 Test Engineering Internship (Undergraduate) | Kent, WA | 🇺🇸 | Unknown | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027-Test-Engineering-Internship---Undergraduate_R66360) |
 | Blue Origin ⭐ | Spring 2027 Structural & Mechanical Engineering Internship (Undergraduate) | Kent, WA | 🇺🇸 | Unknown | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027-Structural---Mechanical-Engineering-Internship---Undergraduate_R66356) |
-| Blue Origin ⭐ | Spring 2027 GNC Internship (Undergraduate) | Kent, WA | 🇺🇸 🔥 | Unknown | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Guidance--Navigation---Controls-Internship---Undergraduate_R66295) |
-| Blue Origin ⭐ | Spring 2027 Aerospace Systems Engineering Internship (Undergraduate) | Kent, WA | 🇺🇸 🔥 | Unknown | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027-Aerospace-Systems-Engineering-Internship----Undergraduate_R66207) |
-| Blue Origin ⭐ | Spring 2027 Fluid Systems Engineering Internship (Undergraduate) | Kent, WA | 🇺🇸 🔥 | Unknown | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Fluid-Systems-Engineering-Internship---Undergraduate_R66292) |
-| Blue Origin ⭐ | Spring 2027 Manufacturing Engineering Internship (Undergraduate) | Cape Canaveral, FL | 🇺🇸 🔥 | Unknown | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Space-Coast-FL/Spring-2027-Manufacturing-Engineering-Internship---Undergraduate_R66348) |
-| SpaceX ⭐ 🔥 | Spring 2027 Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002) |
-| SpaceX ⭐ 🔥 | Spring 2027 Software Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002) |
-| SpaceX ⭐ 🔥 | Spring 2027 Silicon Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002) |
-| SpaceX ⭐ 🔥 | Spring 2027 Civil/Structural Engineering Internship | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002) |
+| Blue Origin ⭐ | Spring 2027 GNC Internship (Undergraduate) | Kent, WA | 🇺🇸 | Unknown | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Guidance--Navigation---Controls-Internship---Undergraduate_R66295) |
+| Blue Origin ⭐ | Spring 2027 Aerospace Systems Engineering Internship (Undergraduate) | Kent, WA | 🇺🇸 | Unknown | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027-Aerospace-Systems-Engineering-Internship----Undergraduate_R66207) |
+| Blue Origin ⭐ | Spring 2027 Fluid Systems Engineering Internship (Undergraduate) | Kent, WA | 🇺🇸 | Unknown | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Fluid-Systems-Engineering-Internship---Undergraduate_R66292) |
+| Blue Origin ⭐ | Spring 2027 Manufacturing Engineering Internship (Undergraduate) | Cape Canaveral, FL | 🇺🇸 | Unknown | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Space-Coast-FL/Spring-2027-Manufacturing-Engineering-Internship---Undergraduate_R66348) |
+| Blue Origin ⭐ 🔥 | Spring 2027 Engineering Intern (Undergraduate) | Greater Seattle Area | 🇺🇸 | Unknown | [Apply](https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin/job/Greater-Seattle-Area/Spring-2027--Engineering-Intern---Undergraduate_R69064) |
+| SpaceX ⭐ | Spring 2027 Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002) |
+| SpaceX ⭐ | Spring 2027 Software Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002) |
+| SpaceX ⭐ | Spring 2027 Silicon Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002) |
+| SpaceX ⭐ | Spring 2027 Civil/Structural Engineering Internship | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002) |
 
 **Removed 2026-08-04 (Graduate-track postings, out of scope per user request — undergraduate only):**
 - ~~Blue Origin | Spring 2027 Software Developer Internship (Graduate)~~
@@ -122,8 +123,8 @@ NASA JPL application window: ~Oct 2026–Feb 2027.
 
 | Company | Role | Location | | Posted | Apply |
 |---------|------|----------|--|--------|-------|
-| BAE Systems | 2027 Co-Op – Electrical Engineer (Spring-Summer or Summer-Fall) | Cedar Rapids, IA | 🇺🇸 🔥 | Unknown | [Apply](https://jobs.baesystems.com/global/en/job/125922BR/2027-Co-Op-Spring-Summer-or-Summer-Fall-Electrical-Engineer-onsite) |
-| BAE Systems | 2027 Spring & Summer Mechanical Engineering Co-op | Cedar Rapids, IA | 🇺🇸 🔥 | Unknown | [Apply](https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop) |
+| BAE Systems | 2027 Co-Op – Electrical Engineer (Spring-Summer or Summer-Fall) | Cedar Rapids, IA | 🇺🇸 | Unknown | [Apply](https://jobs.baesystems.com/global/en/job/125922BR/2027-Co-Op-Spring-Summer-or-Summer-Fall-Electrical-Engineer-onsite) |
+| BAE Systems | 2027 Spring & Summer Mechanical Engineering Co-op | Cedar Rapids, IA | 🇺🇸 | Unknown | [Apply](https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop) |
 
 ---
 
@@ -280,26 +281,26 @@ No formal intern programs yet, but great for cold outreach to learn about the wo
 | Company | Role | Location | Term | Posted | Apply |
 |---------|------|----------|------|--------|-------|
 | Pyka | Electrical Engineering Intern | Alameda, CA | Fall 2026 | 2026-02-12 | [Apply](https://jobs.lever.co/pyka/8acefc96-2bdb-43ca-ad0e-9e4d85512a70) |
-| Pyka | Mechanical Engineering Intern – Dropship | Alameda, CA | Fall 2026 🔥 | 2025-10-21 | [Apply](https://jobs.lever.co/pyka/92d3f17a-8fc7-4105-862c-2429db8d4859) |
-| Skydio 🔥 | Electrical Engineer Intern | San Mateo, CA | term unspecified — check listing | 2026-07-28 | [Apply](https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee) |
-| Skydio 🔥 | Hardware Test & Reliability Intern | San Mateo, CA | term unspecified — check listing | 2026-08-04 | [Apply](https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924) |
+| Pyka | Mechanical Engineering Intern – Dropship | Alameda, CA | Fall 2026 | 2025-10-21 | [Apply](https://jobs.lever.co/pyka/92d3f17a-8fc7-4105-862c-2429db8d4859) |
+| Skydio | Electrical Engineer Intern | San Mateo, CA | term unspecified — check listing | 2026-07-28 | [Apply](https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee) |
+| Skydio | Hardware Test & Reliability Intern | San Mateo, CA | term unspecified — check listing | 2026-08-04 | [Apply](https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924) |
 | Machina Labs | Robotic Process Engineer, Intern | Chatsworth, CA | term TBD | Unknown | [Apply](https://jobs.lever.co/MachinaLabs/40bf906a-0078-444d-a4a6-95719c8634ed) |
 | Machina Labs | Robotic Process Engineer, Intern (2) | Chatsworth, CA | term TBD | Unknown | [Apply](https://jobs.lever.co/MachinaLabs/da8632d8-5a1d-4d1b-8270-b8e6209f0cc1) |
-| Joby Aviation 🔥 | Flight Test Intern | Marina, CA | Dec 2026–Feb 2027 | Unknown | [Apply](https://careers-jobyaviation.icims.com/jobs/search?searchKeyword=intern+2027) |
-| Joby Aviation 🔥 | Mechanical Engineer Intern – Electric Propulsion Unit | San Carlos, CA | Winter 2027 | Unknown | [Apply](https://careers-jobyaviation.icims.com/jobs/search?searchKeyword=intern+2027) |
+| Machina Labs 🔥 | Technical Project Manager, Intern | Chatsworth, CA | term TBD | 2025-11-19 | [Apply](https://jobs.lever.co/MachinaLabs/95d39682-8861-4b82-bb18-c985f280f415) |
+| Joby Aviation | Flight Test Intern | Marina, CA | Dec 2026–Feb 2027 | Unknown | [Apply](https://careers-jobyaviation.icims.com/jobs/search?searchKeyword=intern+2027) |
+| Joby Aviation | Mechanical Engineer Intern – Electric Propulsion Unit | San Carlos, CA | Winter 2027 | Unknown | [Apply](https://careers-jobyaviation.icims.com/jobs/search?searchKeyword=intern+2027) |
 | Draper Laboratory | Microsystems Integration Intern | Cambridge, MA | rolling/term TBD, 🇺🇸 only | Unknown | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Intern_JR002730) |
-| Figure (humanoid robots) 🔥 | Electrical Engineering Intern | San Jose, CA | Fall 2026 | 2026-04-25 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4676467006) |
-| Figure (humanoid robots) 🔥 | Firmware Intern | San Jose, CA | Fall 2026 | 2026-06-22 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4691070006) |
-| Figure (humanoid robots) 🔥 | Mechanical Engineer Intern | San Jose, CA | Fall 2026 | 2023-11-09 ⚠️ | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4303098006) |
-| Figure (humanoid robots) 🔥 | Hardware Test Intern | San Jose, CA | Fall 2026 | 2025-10-24 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4613067006) |
-| Figure (humanoid robots) 🔥 | Power Systems Integration Intern | San Jose, CA | Fall 2026 | 2026-08-03 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4702104006) |
-| Figure (humanoid robots) 🔥 | Validation Engineering Intern | San Jose, CA | Fall 2026 | 2025-10-01 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4606072006) |
-| Saronic 🔥 | Software Engineer Intern | Austin, TX | Fall 2026 | 2026-05-18 | [Apply](https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7) |
-| Saronic 🔥 | Naval Architect Intern | Austin, TX | Fall 2026 | 2026-08-03 | [Apply](https://jobs.ashbyhq.com/saronic/f587dda9-da33-43ed-b166-0e30f8d94192) |
-| Saronic 🔥 | Information Technology Intern | Austin, TX | Fall 2026 | 2026-06-24 | [Apply](https://jobs.ashbyhq.com/saronic/41012936-b4a2-4d4d-9252-00dc7cc9bbcc) |
-| Saronic 🔥 | Enterprise Technology Intern – AI and Automation | Austin, TX | Fall 2026 | 2026-07-02 | [Apply](https://jobs.ashbyhq.com/saronic/c95c2e3a-4c67-47b0-a03d-0e0317ac11a3) |
-| Saronic 🔥 | Enterprise Technology Intern – Technical Delivery | Austin, TX | Fall 2026 | 2026-07-02 | [Apply](https://jobs.ashbyhq.com/saronic/18055a6f-030f-41ef-9116-7ffffac15f68) |
-| Mach Industries 🔥 | Fall 2026 Engineering Internship | Huntington Beach, CA | Fall 2026 | 2026-07-13 | [Apply](https://jobs.ashbyhq.com/mach/021b2c1d-5257-4dea-b06d-0c445de44d28) |
+| Figure (humanoid robots) | Electrical Engineering Intern | San Jose, CA | Fall 2026 | 2026-04-25 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4676467006) |
+| Figure (humanoid robots) | Firmware Intern | San Jose, CA | Fall 2026 | 2026-06-22 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4691070006) |
+| Figure (humanoid robots) | Mechanical Engineer Intern | San Jose, CA | Fall 2026 | 2023-11-09 ⚠️ | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4303098006) |
+| Figure (humanoid robots) | Hardware Test Intern | San Jose, CA | Fall 2026 | 2025-10-24 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4613067006) |
+| Figure (humanoid robots) | Power Systems Integration Intern | San Jose, CA | Fall 2026 | 2026-08-03 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4702104006) |
+| Figure (humanoid robots) | Validation Engineering Intern | San Jose, CA | Fall 2026 | 2025-10-01 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4606072006) |
+| Saronic | Software Engineer Intern | Austin, TX | Fall 2026 | 2026-05-18 | [Apply](https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7) |
+| Saronic | Information Technology Intern | Austin, TX | Fall 2026 | 2026-06-24 | [Apply](https://jobs.ashbyhq.com/saronic/41012936-b4a2-4d4d-9252-00dc7cc9bbcc) |
+| Saronic | Enterprise Technology Intern – AI and Automation | Austin, TX | Fall 2026 | 2026-07-02 | [Apply](https://jobs.ashbyhq.com/saronic/c95c2e3a-4c67-47b0-a03d-0e0317ac11a3) |
+| Saronic | Enterprise Technology Intern – Technical Delivery | Austin, TX | Fall 2026 | 2026-07-02 | [Apply](https://jobs.ashbyhq.com/saronic/18055a6f-030f-41ef-9116-7ffffac15f68) |
+| Mach Industries | Fall 2026 Engineering Internship | Huntington Beach, CA | Fall 2026 | 2026-07-13 | [Apply](https://jobs.ashbyhq.com/mach/021b2c1d-5257-4dea-b06d-0c445de44d28) |
 
 > ⚠️ = reused/evergreen requisition; see the Palantir note above the Defense & Counter-UAS table.
 > Skydio's old "Software Engineer Intern" listing (Winter 2027) 404'd — replaced with the two current live technical internships. Non-technical Skydio interns (Product Design, Product Management, Ops Program Management) were skipped per this tracker's technical-roles-only filter.
@@ -326,6 +327,7 @@ No formal intern programs yet, but great for cold outreach to learn about the wo
 | Palantir | Forward Deployed Infrastructure Engineer, Internship – US Government (New York, NY) | 2026-08-04 |
 | Skydio | Software Engineer Intern (Winter 2027) | 2026-08-04 |
 | Luminary Cloud | Engineering Intern | 2026-08-04 |
+| Saronic | Naval Architect Intern | 2026-08-05 |
 
 </details>
 
