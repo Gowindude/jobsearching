@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-08-04
-Open verified 2027 roles: 77
+Open verified 2027 roles: 71
 
 ---
 
@@ -34,49 +34,53 @@ NASA JPL application window: ~Oct 2026–Feb 2027.
 ## ☀️ Summer 2027
 
 ### Space & Launch
-| Company | Role | Location | | Apply |
-|---------|------|----------|--|-------|
-| SpaceX ⭐ 🔥 | Summer 2027 Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | [Apply](https://boards.greenhouse.io/spacex/jobs/8621740002?gh_jid=8621740002) |
-| SpaceX ⭐ 🔥 | Summer 2027 Software Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | [Apply](https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002) |
-| SpaceX ⭐ 🔥 | Summer 2027 Silicon Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | [Apply](https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002) |
-| SpaceX ⭐ 🔥 | Summer 2027 Civil/Structural Engineering Internship | Flexible - Any SpaceX Site | 🇺🇸 | [Apply](https://boards.greenhouse.io/spacex/jobs/8636144002?gh_jid=8636144002) |
+| Company | Role | Location | | Posted | Apply |
+|---------|------|----------|--|--------|-------|
+| SpaceX ⭐ 🔥 | Summer 2027 Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8621740002?gh_jid=8621740002) |
+| SpaceX ⭐ 🔥 | Summer 2027 Software Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002) |
+| SpaceX ⭐ 🔥 | Summer 2027 Silicon Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002) |
+| SpaceX ⭐ 🔥 | Summer 2027 Civil/Structural Engineering Internship | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8636144002?gh_jid=8636144002) |
 
 ### Defense & Counter-UAS
-| Company | Role | Location | | Apply |
-|---------|------|----------|--|-------|
-| Anduril ⭐ | 2027 Software Engineer Intern | Atlanta / Boston / Costa Mesa / Irvine / Reston / Seattle | 🇺🇸 | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007) |
-| Anduril ⭐ | 2027 Electrical Engineer Intern | Atlanta / Boston / Costa Mesa / Irvine / Reston / Seattle | 🇺🇸 | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5148101007) |
-| Anduril ⭐ | 2027 Mechanical Engineer Intern | Atlanta / Boston / Costa Mesa / Irvine / Reston / Seattle | 🇺🇸 | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5153187007) |
-| Anduril ⭐ | 2027 Manufacturing Engineer Intern | Atlanta / Boston / Costa Mesa / Irvine / Reston / Seattle | 🇺🇸 | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5153218007) |
-| Palantir ⭐ | Forward Deployed Software Engineer, Internship – Defense Tech | Washington, D.C. | 🇺🇸 | [Apply](https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b) |
-| Palantir ⭐ | Forward Deployed Software Engineer, Internship – Intel | Washington, D.C. | 🇺🇸 | [Apply](https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89) |
-| Palantir ⭐ | Forward Deployed Software Engineer, Internship – US Government | Honolulu, HI | 🇺🇸 | [Apply](https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e) |
-| Palantir ⭐ | Forward Deployed Software Engineer, Internship – US Government | New York, NY | 🇺🇸 | [Apply](https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f) |
-| Palantir ⭐ | Forward Deployed Software Engineer, Internship – US Government | Washington, D.C. | 🇺🇸 | [Apply](https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2) |
-| Palantir ⭐ | Forward Deployed Software Engineer, Internship – Commercial | New York, NY | | [Apply](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6) |
-| Palantir ⭐ | Forward Deployed Software Engineer, Internship – Commercial | Chicago, IL | | [Apply](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2) |
-| Palantir ⭐ | Forward Deployed Infrastructure Engineer, Internship – US Government | Washington, D.C. | 🇺🇸 | [Apply](https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9) |
-| Palantir ⭐ | Forward Deployed Infrastructure Engineer, Internship – US Government | Palo Alto, CA | 🇺🇸 | [Apply](https://jobs.lever.co/palantir/8f362a1f-1eff-4327-94c1-ff46e2101c69) |
-| Palantir ⭐ | Forward Deployed Infrastructure Engineer, Internship – US Government | New York, NY | 🇺🇸 | [Apply](https://jobs.lever.co/palantir/cf5f44ff-1b0b-4752-bcd4-2dc88798f25b) |
-| Palantir ⭐ | Deployment Strategist, Internship – US Government | Honolulu, HI | 🇺🇸 | [Apply](https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e) |
-| Palantir ⭐ | Software Engineer, Internship | Denver, CO | | [Apply](https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249) |
-| Palantir ⭐ | Software Engineer, Internship | New York, NY | | [Apply](https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d) |
-| Palantir ⭐ | Software Engineer, Internship | Washington, D.C. | | [Apply](https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0) |
-| Palantir ⭐ | Software Engineer, Internship | Palo Alto, CA | | [Apply](https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c) |
-| Palantir ⭐ | Software Engineer, Internship – Defense Tech | New York, NY | 🇺🇸 | [Apply](https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e) |
-| Palantir ⭐ | Software Engineer, Internship – Defense Tech | Palo Alto, CA | 🇺🇸 | [Apply](https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d) |
-| Palantir ⭐ | Software Engineer, Internship – Defense Tech | Washington, D.C. | 🇺🇸 | [Apply](https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7) |
-| Palantir ⭐ | Software Engineer, Internship – Infrastructure | New York, NY | | [Apply](https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3) |
-| Palantir ⭐ | Software Engineer, Internship – Infrastructure | Palo Alto, CA | | [Apply](https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4) |
-| Palantir ⭐ | Software Engineer, Internship – Production Infrastructure | Seattle, WA | | [Apply](https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1) |
-| Palantir ⭐ | Software Engineer, Internship – Production Infrastructure | New York, NY | | [Apply](https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116) |
-| Palantir ⭐ | Software Engineer, Internship – Production Infrastructure | Washington, D.C. | | [Apply](https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86) |
-| Palantir ⭐ | Privacy & Civil Liberties Software Engineer, Internship | New York, NY | | [Apply](https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b) |
-| Palantir ⭐ | Year at Palantir – FDSE, Internship – Commercial | Chicago, IL | | [Apply](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3) |
-| Palantir ⭐ | Year at Palantir – FDSE, Internship – Commercial | New York, NY | | [Apply](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d) |
-| Palantir ⭐ | Year at Palantir – FDSE, Internship – USG | Washington, D.C. | 🇺🇸 | [Apply](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019) |
-| Palantir ⭐ | Year at Palantir – FDSE, Internship – USG | New York, NY | 🇺🇸 | [Apply](https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333) |
-| Palantir ⭐ | Year at Palantir – Software Engineer, Internship | New York, NY | | [Apply](https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329) |
+| Company | Role | Location | | Posted | Apply |
+|---------|------|----------|--|--------|-------|
+| Anduril ⭐ | 2027 Software Engineer Intern | Atlanta / Boston / Costa Mesa / Irvine / Reston / Seattle | 🇺🇸 | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007) |
+| Anduril ⭐ | 2027 Electrical Engineer Intern | Atlanta / Boston / Costa Mesa / Irvine / Reston / Seattle | 🇺🇸 | 2026-06-11 | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5148101007) |
+| Anduril ⭐ | 2027 Mechanical Engineer Intern | Atlanta / Boston / Costa Mesa / Irvine / Reston / Seattle | 🇺🇸 | 2026-06-11 | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5153187007) |
+| Anduril ⭐ | 2027 Manufacturing Engineer Intern | Atlanta / Boston / Costa Mesa / Irvine / Reston / Seattle | 🇺🇸 | 2026-06-11 | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5153218007) |
+| Palantir ⭐ | Forward Deployed Software Engineer, Internship – Defense Tech | Washington, D.C. | 🇺🇸 | 2024-08-05 ⚠️ | [Apply](https://jobs.lever.co/palantir/cccfe1bd-f15b-4fe5-b044-c793e7961c1b) |
+| Palantir ⭐ | Forward Deployed Software Engineer, Internship – Intel | Washington, D.C. | 🇺🇸 | 2026-07-01 | [Apply](https://jobs.lever.co/palantir/9e40d77f-b07c-437b-98e7-def9b0184d89) |
+| Palantir ⭐ | Forward Deployed Software Engineer, Internship – US Government | Honolulu, HI | 🇺🇸 | 2025-12-11 | [Apply](https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e) |
+| Palantir ⭐ | Forward Deployed Software Engineer, Internship – US Government | New York, NY | 🇺🇸 | 2022-06-30 ⚠️ | [Apply](https://jobs.lever.co/palantir/e0010393-c300-446f-bf67-fa2ef067f16f) |
+| Palantir ⭐ | Forward Deployed Software Engineer, Internship – US Government | Washington, D.C. | 🇺🇸 | 2021-07-01 ⚠️ | [Apply](https://jobs.lever.co/palantir/e6ff8bf2-135e-474d-ad37-24f490ae1dd2) |
+| Palantir ⭐ | Forward Deployed Software Engineer, Internship – Commercial | New York, NY | | 2016-02-24 ⚠️ | [Apply](https://jobs.lever.co/palantir/4d29249a-d7e8-4c39-880d-3b35d7b2f6f6) |
+| Palantir ⭐ | Forward Deployed Software Engineer, Internship – Commercial | Chicago, IL | | 2026-06-30 | [Apply](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2) |
+| Palantir ⭐ | Deployment Strategist, Internship – US Government | Honolulu, HI | 🇺🇸 | 2025-12-11 | [Apply](https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e) |
+| Palantir ⭐ | Software Engineer, Internship | Denver, CO | | 2024-08-29 ⚠️ | [Apply](https://jobs.lever.co/palantir/373eb939-6f57-4836-8479-be79a5e07249) |
+| Palantir ⭐ | Software Engineer, Internship | New York, NY | | 2022-06-30 ⚠️ | [Apply](https://jobs.lever.co/palantir/7d69cf8a-06fd-4f05-bd84-27149db29c4d) |
+| Palantir ⭐ | Software Engineer, Internship | Washington, D.C. | | 2021-07-01 ⚠️ | [Apply](https://jobs.lever.co/palantir/bdcfb29f-4f27-42de-933f-7f83a359b9f0) |
+| Palantir ⭐ | Software Engineer, Internship | Palo Alto, CA | | 2021-07-01 ⚠️ | [Apply](https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c) |
+| Palantir ⭐ | Software Engineer, Internship – Defense Tech | New York, NY | 🇺🇸 | 2024-08-05 ⚠️ | [Apply](https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e) |
+| Palantir ⭐ | Software Engineer, Internship – Defense Tech | Palo Alto, CA | 🇺🇸 | 2024-08-05 ⚠️ | [Apply](https://jobs.lever.co/palantir/a483f41b-0da9-42ea-8ed6-cbf6eb93cc6d) |
+| Palantir ⭐ | Software Engineer, Internship – Defense Tech | Washington, D.C. | 🇺🇸 | 2024-08-05 ⚠️ | [Apply](https://jobs.lever.co/palantir/f17e98d0-046a-4e6e-9d65-ed0b12dd0ff7) |
+| Palantir ⭐ | Software Engineer, Internship – Infrastructure | New York, NY | | 2025-06-26 | [Apply](https://jobs.lever.co/palantir/b229baac-494b-4a0d-9a13-2e38806e06f3) |
+| Palantir ⭐ | Software Engineer, Internship – Infrastructure | Palo Alto, CA | | 2025-08-19 | [Apply](https://jobs.lever.co/palantir/f221738b-e97c-4ce3-a12a-17ada2b855e4) |
+| Palantir ⭐ | Software Engineer, Internship – Production Infrastructure | Seattle, WA | | 2025-06-26 | [Apply](https://jobs.lever.co/palantir/373367a9-3160-49d8-b7af-2efec062fad1) |
+| Palantir ⭐ | Software Engineer, Internship – Production Infrastructure | New York, NY | | 2025-06-26 | [Apply](https://jobs.lever.co/palantir/37964982-9b4c-471e-a1d8-fb8f45d7f116) |
+| Palantir ⭐ | Software Engineer, Internship – Production Infrastructure | Washington, D.C. | | 2025-08-19 | [Apply](https://jobs.lever.co/palantir/3ab9e715-1ea9-4c6c-ad50-7340eac14e86) |
+| Palantir ⭐ | Privacy & Civil Liberties Software Engineer, Internship | New York, NY | | 2016-10-06 ⚠️ | [Apply](https://jobs.lever.co/palantir/09846827-b931-4a9f-bd64-c3bb8860187b) |
+| Palantir ⭐ | Year at Palantir – FDSE, Internship – Commercial | Chicago, IL | | 2026-06-24 | [Apply](https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3) |
+| Palantir ⭐ | Year at Palantir – FDSE, Internship – Commercial | New York, NY | | 2026-03-20 | [Apply](https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d) |
+| Palantir ⭐ | Year at Palantir – FDSE, Internship – USG | Washington, D.C. | 🇺🇸 | 2026-04-23 | [Apply](https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019) |
+| Palantir ⭐ | Year at Palantir – FDSE, Internship – USG | New York, NY | 🇺🇸 | 2026-03-20 | [Apply](https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333) |
+| Palantir ⭐ | Year at Palantir – Software Engineer, Internship | New York, NY | | 2026-03-20 | [Apply](https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329) |
+
+> ⚠️ = Lever's `createdAt` on this posting is old (2016–2024). Palantir reuses evergreen requisitions and keeps reposting under the same ID, so an old `createdAt` does **not** mean stale — the listing was confirmed live via a direct fetch on 2026-08-04. Treat "Posted" as unreliable for Palantir specifically; the live/dead check (200 vs 404 on the `/v0/postings/` API) is what actually matters.
+
+**Removed 2026-08-04 (dead link, confirmed 404 on Lever's JSON API despite the HTML shell still returning 200):**
+- ~~Palantir ⭐ | Forward Deployed Infrastructure Engineer, Internship – US Government | Washington, D.C.~~
+- ~~Palantir ⭐ | Forward Deployed Infrastructure Engineer, Internship – US Government | Palo Alto, CA~~
+- ~~Palantir ⭐ | Forward Deployed Infrastructure Engineer, Internship – US Government | New York, NY~~
 
 ---
 
@@ -86,38 +90,40 @@ NASA JPL application window: ~Oct 2026–Feb 2027.
 
 > 🚨 **URGENT — Blue Origin closes July 15, 2026 (TOMORROW). Apply now.**
 
-| Company | Role | Location | | Apply |
-|---------|------|----------|--|-------|
-| Blue Origin ⭐ | Spring 2027 Software Developer Internship (Undergraduate) | Kent, WA | 🇺🇸 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027--Software-Developer-Internship---Undergraduate_R66216) |
-| Blue Origin ⭐ | Spring 2027 Software Developer Internship (Graduate) | Kent, WA | 🇺🇸 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027--Software-Developer-Internship---Graduate_R66409) |
-| Blue Origin ⭐ | Spring 2027 Avionics Software Internship (Undergraduate) | Kent, WA | 🇺🇸 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027-Avionics-Software-Internship---Undergraduate_R66213) |
-| Blue Origin ⭐ | Spring 2027 Avionics Software Internship (Graduate) | Kent, WA | 🇺🇸 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027-Avionics-Software-Internship---Graduate_R66209) |
-| Blue Origin ⭐ | Spring 2027 Test Engineering Internship (Undergraduate) | Kent, WA | 🇺🇸 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027-Test-Engineering-Internship---Undergraduate_R66360) |
-| Blue Origin ⭐ | Spring 2027 Structural & Mechanical Engineering Internship (Undergraduate) | Kent, WA | 🇺🇸 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027-Structural---Mechanical-Engineering-Internship---Undergraduate_R66356) |
-| Blue Origin ⭐ | Spring 2027 GNC Internship (Undergraduate) | Kent, WA | 🇺🇸 🔥 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Guidance--Navigation---Controls-Internship---Undergraduate_R66295) |
-| Blue Origin ⭐ | Spring 2027 Aerospace Systems Engineering Internship (Undergraduate) | Kent, WA | 🇺🇸 🔥 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027-Aerospace-Systems-Engineering-Internship----Undergraduate_R66207) |
-| Blue Origin ⭐ | Spring 2027 Aerospace Systems Engineering Internship (Graduate) | Kent, WA | 🇺🇸 🔥 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Aerospace-Systems-Engineering-Intern---Graduate_R66202) |
-| Blue Origin ⭐ | Spring 2027 Fluid Systems Engineering Internship (Undergraduate) | Kent, WA | 🇺🇸 🔥 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Fluid-Systems-Engineering-Internship---Undergraduate_R66292) |
-| Blue Origin ⭐ | Spring 2027 Manufacturing Engineering Internship (Undergraduate) | Cape Canaveral, FL | 🇺🇸 🔥 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Space-Coast-FL/Spring-2027-Manufacturing-Engineering-Internship---Undergraduate_R66348) |
-| SpaceX ⭐ 🔥 | Spring 2027 Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | [Apply](https://boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002) |
-| SpaceX ⭐ 🔥 | Spring 2027 Software Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | [Apply](https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002) |
-| SpaceX ⭐ 🔥 | Spring 2027 Silicon Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | [Apply](https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002) |
-| SpaceX ⭐ 🔥 | Spring 2027 Civil/Structural Engineering Internship | Flexible - Any SpaceX Site | 🇺🇸 | [Apply](https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002) |
+| Company | Role | Location | | Posted | Apply |
+|---------|------|----------|--|--------|-------|
+| Blue Origin ⭐ | Spring 2027 Software Developer Internship (Undergraduate) | Kent, WA | 🇺🇸 | Unknown | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027--Software-Developer-Internship---Undergraduate_R66216) |
+| Blue Origin ⭐ | Spring 2027 Avionics Software Internship (Undergraduate) | Kent, WA | 🇺🇸 | Unknown | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027-Avionics-Software-Internship---Undergraduate_R66213) |
+| Blue Origin ⭐ | Spring 2027 Test Engineering Internship (Undergraduate) | Kent, WA | 🇺🇸 | Unknown | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027-Test-Engineering-Internship---Undergraduate_R66360) |
+| Blue Origin ⭐ | Spring 2027 Structural & Mechanical Engineering Internship (Undergraduate) | Kent, WA | 🇺🇸 | Unknown | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027-Structural---Mechanical-Engineering-Internship---Undergraduate_R66356) |
+| Blue Origin ⭐ | Spring 2027 GNC Internship (Undergraduate) | Kent, WA | 🇺🇸 🔥 | Unknown | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Guidance--Navigation---Controls-Internship---Undergraduate_R66295) |
+| Blue Origin ⭐ | Spring 2027 Aerospace Systems Engineering Internship (Undergraduate) | Kent, WA | 🇺🇸 🔥 | Unknown | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Spring-2027-Aerospace-Systems-Engineering-Internship----Undergraduate_R66207) |
+| Blue Origin ⭐ | Spring 2027 Fluid Systems Engineering Internship (Undergraduate) | Kent, WA | 🇺🇸 🔥 | Unknown | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Spring-2027-Fluid-Systems-Engineering-Internship---Undergraduate_R66292) |
+| Blue Origin ⭐ | Spring 2027 Manufacturing Engineering Internship (Undergraduate) | Cape Canaveral, FL | 🇺🇸 🔥 | Unknown | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Space-Coast-FL/Spring-2027-Manufacturing-Engineering-Internship---Undergraduate_R66348) |
+| SpaceX ⭐ 🔥 | Spring 2027 Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8616338002?gh_jid=8616338002) |
+| SpaceX ⭐ 🔥 | Spring 2027 Software Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002) |
+| SpaceX ⭐ 🔥 | Spring 2027 Silicon Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002) |
+| SpaceX ⭐ 🔥 | Spring 2027 Civil/Structural Engineering Internship | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002) |
+
+**Removed 2026-08-04 (Graduate-track postings, out of scope per user request — undergraduate only):**
+- ~~Blue Origin | Spring 2027 Software Developer Internship (Graduate)~~
+- ~~Blue Origin | Spring 2027 Avionics Software Internship (Graduate)~~
+- ~~Blue Origin | Spring 2027 Aerospace Systems Engineering Internship (Graduate)~~
 
 ### Defense & Counter-UAS
 
-| Company | Role | Location | | Apply |
-|---------|------|----------|--|-------|
-| Anduril ⭐ | Naval Architect Co-op – Winter 2027 | Costa Mesa, CA | 🇺🇸 | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5170844007) |
-| Shield AI | Electrical Engineering Spring Co-op (January 2027) | Dallas, TX / San Diego, CA / Boston, MA | 🇺🇸 | [Apply](https://jobs.lever.co/shieldai/87d982f2-8b2b-4c73-9a19-71e461c7b724) |
+| Company | Role | Location | | Posted | Apply |
+|---------|------|----------|--|--------|-------|
+| Anduril ⭐ | Naval Architect Co-op – Winter 2027 | Costa Mesa, CA | 🇺🇸 | 2026-06-23 | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5170844007) |
+| Shield AI | Electrical Engineering Spring Co-op (January 2027) | Dallas, TX / San Diego, CA / Boston, MA | 🇺🇸 | 2026-04-15 | [Apply](https://jobs.lever.co/shieldai/87d982f2-8b2b-4c73-9a19-71e461c7b724) |
 
 ### Primes & OEMs
-> BAE Systems blocks programmatic verification. Check directly if link fails.
+> BAE Systems blocks programmatic verification (SSL handshake fails for curl specifically — the links themselves are live, confirmed via `curl -k`). Check directly if a link fails for you.
 
-| Company | Role | Location | | Apply |
-|---------|------|----------|--|-------|
-| BAE Systems | 2027 Co-Op – Electrical Engineer (Spring-Summer or Summer-Fall) | Cedar Rapids, IA | 🇺🇸 🔥 | [Apply](https://jobs.baesystems.com/global/en/job/125922BR/2027-Co-Op-Spring-Summer-or-Summer-Fall-Electrical-Engineer-onsite) |
-| BAE Systems | 2027 Spring & Summer Mechanical Engineering Co-op | Cedar Rapids, IA | 🇺🇸 🔥 | [Apply](https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop) |
+| Company | Role | Location | | Posted | Apply |
+|---------|------|----------|--|--------|-------|
+| BAE Systems | 2027 Co-Op – Electrical Engineer (Spring-Summer or Summer-Fall) | Cedar Rapids, IA | 🇺🇸 🔥 | Unknown | [Apply](https://jobs.baesystems.com/global/en/job/125922BR/2027-Co-Op-Spring-Summer-or-Summer-Fall-Electrical-Engineer-onsite) |
+| BAE Systems | 2027 Spring & Summer Mechanical Engineering Co-op | Cedar Rapids, IA | 🇺🇸 🔥 | Unknown | [Apply](https://jobs.baesystems.com/global/en/job/125975BR/2027-Spring-and-Summer-Mechanical-Engineering-Coop) |
 
 ---
 
@@ -160,7 +166,22 @@ These are confirmed target companies with no verified open 2027 listings as of t
 | Teledyne FLIR | [teledyne.com/en-us/careers](https://www.teledyne.com/en-us/careers) | Unknown | — |
 | NASA (general) | [intern.nasa.gov](https://intern.nasa.gov) | OSSI — separate from JPL | — |
 | AFRL Scholars | [afrlscholars.usra.edu](https://afrlscholars.usra.edu) | Separate portal | — |
+| Luminary Cloud | [luminarycloud.com/careers](https://www.luminarycloud.com/careers) | Rippling (JS-rendered, `ats.rippling.com/luminarycloud/jobs` now 404s/"Not Found") | Engineering Intern posting died 2026-08-04. Careers page still links the same dead Rippling URL — needs a browser check (Rippling boards are client-rendered) rather than curl |
 | Sandia National Labs | [sandia.gov/careers](https://www.sandia.gov/careers) | Unknown | — |
+
+### Big Tech — Aerospace-Adjacent (silicon, autonomy, satellites, robotics)
+
+Not aerospace/defense companies by name, but each runs a program that's directly relevant: satellite constellations, autonomous vehicles, humanoid robotics, or the silicon/RF that goes into aerospace hardware.
+
+| Company | Portal | ATS | Notes |
+|---------|--------|-----|-------|
+| Amazon (Project Kuiper, rebranded "Amazon Leo") | [amazon.jobs/en/search?base_query=Amazon+Leo](https://www.amazon.jobs/en/search?base_query=Amazon+Leo) | Custom (`amazon.jobs`, JSON search API) | Satellite internet constellation — GNC/propulsion, embedded/flight software, RF, manufacturing test roles all real teams here. Checked 2026-08-04: 725 total "Kuiper"/"Leo" openings but zero titled "Intern" right now — Amazon's SDE/hardware internship cycle for next summer typically opens in fall |
+| Tesla (Optimus + Autopilot/AI) | [tesla.com/careers/search](https://www.tesla.com/careers/search) | Custom, Akamai-blocked to curl (403) | Optimus humanoid robotics and Autopilot/AI teams run technical internships. Could not verify current postings programmatically — needs a Claude in Chrome check |
+| Apple (Hardware/Silicon Engineering) | [jobs.apple.com](https://jobs.apple.com/en-us/search?search=engineering%20internship) | Custom (`jobs.apple.com`) | Broad hardware/silicon internship program (chips, sensors, systems) — relevant to aerospace-adjacent silicon/RF work. Portal resolves but returns no results via a bare curl (client-rendered search) — needs a browser check |
+| Waymo (Alphabet) | [waymo.com/careers](https://waymo.com/careers/) | Custom / Greenhouse-backed (unconfirmed) | Autonomous vehicle GNC/perception/sensor fusion — same discipline as aerospace autonomy. Live status unconfirmed, needs a browser check |
+| X, the Moonshot Factory (Alphabet) | [x.company/careers](https://x.company/careers/) | Custom | Runs deep-tech "moonshot" projects (past: Wing drones already tracked separately, Tapestry energy grid, Taara laser comms — aerospace-adjacent laser/RF links). Live postings unconfirmed, needs a browser check |
+| Qualcomm | [qualcomm.com/company/careers](https://www.qualcomm.com/company/careers) | Workday (tenant/site slug not yet confirmed — add once found) | RF/silicon for drones, satellites, avionics comms. Not yet added to the auto-scraper |
+| Microsoft (Azure Space) | [careers.microsoft.com](https://careers.microsoft.com) | Custom | Azure Space partners with SpaceX/ground-station providers — satellite ground infrastructure software. No internship-specific check done yet |
 
 ### eVTOL & Autonomy
 
@@ -256,29 +277,33 @@ No formal intern programs yet, but great for cold outreach to learn about the wo
 
 ## 🆕 Bucket B — Verified Open (Non-Priority)
 
-| Company | Role | Location | Term | Apply |
-|---------|------|----------|------|-------|
-| Pyka | Electrical Engineering Intern | Alameda, CA | Fall 2026 | [Apply](https://jobs.lever.co/pyka/8acefc96-2bdb-43ca-ad0e-9e4d85512a70) |
-| Pyka | Mechanical Engineering Intern – Dropship | Alameda, CA | Fall 2026 🔥 | [Apply](https://jobs.lever.co/pyka/92d3f17a-8fc7-4105-862c-2429db8d4859) |
-| Skydio | Software Engineer Intern | San Mateo, CA | Winter 2027 (Jan start) 🔥 | [Apply](https://www.skydio.com/jobs/f6320e9b-4eed-408d-8d37-d509fb0406ee) |
-| Machina Labs | Robotic Process Engineer, Intern | Chatsworth, CA | term TBD | [Apply](https://jobs.lever.co/MachinaLabs/40bf906a-0078-444d-a4a6-95719c8634ed) |
-| Machina Labs | Robotic Process Engineer, Intern (2) | Chatsworth, CA | term TBD | [Apply](https://jobs.lever.co/MachinaLabs/da8632d8-5a1d-4d1b-8270-b8e6209f0cc1) |
-| Luminary Cloud | Engineering Intern | San Mateo, CA | term TBD | [Apply](https://ats.rippling.com/luminarycloud/jobs) |
-| Joby Aviation 🔥 | Flight Test Intern | Marina, CA | Dec 2026–Feb 2027 | [Apply](https://careers-jobyaviation.icims.com/jobs/search?searchKeyword=intern+2027) |
-| Joby Aviation 🔥 | Mechanical Engineer Intern – Electric Propulsion Unit | San Carlos, CA | Winter 2027 | [Apply](https://careers-jobyaviation.icims.com/jobs/search?searchKeyword=intern+2027) |
-| Draper Laboratory | Microsystems Integration Intern | Cambridge, MA | rolling/term TBD, 🇺🇸 only | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Intern_JR002730) |
-| Figure (humanoid robots) 🔥 | Electrical Engineering Intern | San Jose, CA | Fall 2026 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4676467006) |
-| Figure (humanoid robots) 🔥 | Firmware Intern | San Jose, CA | Fall 2026 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4691070006) |
-| Figure (humanoid robots) 🔥 | Mechanical Engineer Intern | San Jose, CA | Fall 2026 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4303098006) |
-| Figure (humanoid robots) 🔥 | Hardware Test Intern | San Jose, CA | Fall 2026 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4613067006) |
-| Figure (humanoid robots) 🔥 | Power Systems Integration Intern | San Jose, CA | Fall 2026 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4702104006) |
-| Figure (humanoid robots) 🔥 | Validation Engineering Intern | San Jose, CA | Fall 2026 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4606072006) |
-| Saronic 🔥 | Software Engineer Intern | Austin, TX | Fall 2026 | [Apply](https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7) |
-| Saronic 🔥 | Naval Architect Intern | Austin, TX | Fall 2026 | [Apply](https://jobs.ashbyhq.com/saronic/f587dda9-da33-43ed-b166-0e30f8d94192) |
-| Saronic 🔥 | Information Technology Intern | Austin, TX | Fall 2026 | [Apply](https://jobs.ashbyhq.com/saronic/41012936-b4a2-4d4d-9252-00dc7cc9bbcc) |
-| Saronic 🔥 | Enterprise Technology Intern – AI and Automation | Austin, TX | Fall 2026 | [Apply](https://jobs.ashbyhq.com/saronic/c95c2e3a-4c67-47b0-a03d-0e0317ac11a3) |
-| Saronic 🔥 | Enterprise Technology Intern – Technical Delivery | Austin, TX | Fall 2026 | [Apply](https://jobs.ashbyhq.com/saronic/18055a6f-030f-41ef-9116-7ffffac15f68) |
-| Mach Industries 🔥 | Fall 2026 Engineering Internship | Huntington Beach, CA | Fall 2026 | [Apply](https://jobs.ashbyhq.com/mach/021b2c1d-5257-4dea-b06d-0c445de44d28) |
+| Company | Role | Location | Term | Posted | Apply |
+|---------|------|----------|------|--------|-------|
+| Pyka | Electrical Engineering Intern | Alameda, CA | Fall 2026 | 2026-02-12 | [Apply](https://jobs.lever.co/pyka/8acefc96-2bdb-43ca-ad0e-9e4d85512a70) |
+| Pyka | Mechanical Engineering Intern – Dropship | Alameda, CA | Fall 2026 🔥 | 2025-10-21 | [Apply](https://jobs.lever.co/pyka/92d3f17a-8fc7-4105-862c-2429db8d4859) |
+| Skydio 🔥 | Electrical Engineer Intern | San Mateo, CA | term unspecified — check listing | 2026-07-28 | [Apply](https://jobs.ashbyhq.com/skydio/9ac944bc-89da-44bb-bf9c-3b9922e7cbee) |
+| Skydio 🔥 | Hardware Test & Reliability Intern | San Mateo, CA | term unspecified — check listing | 2026-08-04 | [Apply](https://jobs.ashbyhq.com/skydio/d75d4adf-760c-46b6-bb98-3497650a8924) |
+| Machina Labs | Robotic Process Engineer, Intern | Chatsworth, CA | term TBD | Unknown | [Apply](https://jobs.lever.co/MachinaLabs/40bf906a-0078-444d-a4a6-95719c8634ed) |
+| Machina Labs | Robotic Process Engineer, Intern (2) | Chatsworth, CA | term TBD | Unknown | [Apply](https://jobs.lever.co/MachinaLabs/da8632d8-5a1d-4d1b-8270-b8e6209f0cc1) |
+| Joby Aviation 🔥 | Flight Test Intern | Marina, CA | Dec 2026–Feb 2027 | Unknown | [Apply](https://careers-jobyaviation.icims.com/jobs/search?searchKeyword=intern+2027) |
+| Joby Aviation 🔥 | Mechanical Engineer Intern – Electric Propulsion Unit | San Carlos, CA | Winter 2027 | Unknown | [Apply](https://careers-jobyaviation.icims.com/jobs/search?searchKeyword=intern+2027) |
+| Draper Laboratory | Microsystems Integration Intern | Cambridge, MA | rolling/term TBD, 🇺🇸 only | Unknown | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Intern_JR002730) |
+| Figure (humanoid robots) 🔥 | Electrical Engineering Intern | San Jose, CA | Fall 2026 | 2026-04-25 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4676467006) |
+| Figure (humanoid robots) 🔥 | Firmware Intern | San Jose, CA | Fall 2026 | 2026-06-22 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4691070006) |
+| Figure (humanoid robots) 🔥 | Mechanical Engineer Intern | San Jose, CA | Fall 2026 | 2023-11-09 ⚠️ | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4303098006) |
+| Figure (humanoid robots) 🔥 | Hardware Test Intern | San Jose, CA | Fall 2026 | 2025-10-24 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4613067006) |
+| Figure (humanoid robots) 🔥 | Power Systems Integration Intern | San Jose, CA | Fall 2026 | 2026-08-03 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4702104006) |
+| Figure (humanoid robots) 🔥 | Validation Engineering Intern | San Jose, CA | Fall 2026 | 2025-10-01 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4606072006) |
+| Saronic 🔥 | Software Engineer Intern | Austin, TX | Fall 2026 | 2026-05-18 | [Apply](https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7) |
+| Saronic 🔥 | Naval Architect Intern | Austin, TX | Fall 2026 | 2026-08-03 | [Apply](https://jobs.ashbyhq.com/saronic/f587dda9-da33-43ed-b166-0e30f8d94192) |
+| Saronic 🔥 | Information Technology Intern | Austin, TX | Fall 2026 | 2026-06-24 | [Apply](https://jobs.ashbyhq.com/saronic/41012936-b4a2-4d4d-9252-00dc7cc9bbcc) |
+| Saronic 🔥 | Enterprise Technology Intern – AI and Automation | Austin, TX | Fall 2026 | 2026-07-02 | [Apply](https://jobs.ashbyhq.com/saronic/c95c2e3a-4c67-47b0-a03d-0e0317ac11a3) |
+| Saronic 🔥 | Enterprise Technology Intern – Technical Delivery | Austin, TX | Fall 2026 | 2026-07-02 | [Apply](https://jobs.ashbyhq.com/saronic/18055a6f-030f-41ef-9116-7ffffac15f68) |
+| Mach Industries 🔥 | Fall 2026 Engineering Internship | Huntington Beach, CA | Fall 2026 | 2026-07-13 | [Apply](https://jobs.ashbyhq.com/mach/021b2c1d-5257-4dea-b06d-0c445de44d28) |
+
+> ⚠️ = reused/evergreen requisition; see the Palantir note above the Defense & Counter-UAS table.
+> Skydio's old "Software Engineer Intern" listing (Winter 2027) 404'd — replaced with the two current live technical internships. Non-technical Skydio interns (Product Design, Product Management, Ops Program Management) were skipped per this tracker's technical-roles-only filter.
+> Luminary Cloud's Rippling posting (`ats.rippling.com/luminarycloud/jobs`) now returns "Not Found" — dropped from this table. Moved to Manual Check pending a working link.
 
 ---
 
@@ -296,6 +321,11 @@ No formal intern programs yet, but great for cold outreach to learn about the wo
 | Hermeus | Mission Systems Platform Intern – Fall 2026 | 2026-06-29 |
 | GE Aerospace | Embedded Systems Engineer Co-op – Spring 2027 (Bohemia, NY) | 2026-07-13 |
 | GE Aerospace | Manufacturing Engineering Co-op – Spring 2027 (Evendale, OH) | 2026-07-13 |
+| Palantir | Forward Deployed Infrastructure Engineer, Internship – US Government (Washington, D.C.) | 2026-08-04 |
+| Palantir | Forward Deployed Infrastructure Engineer, Internship – US Government (Palo Alto, CA) | 2026-08-04 |
+| Palantir | Forward Deployed Infrastructure Engineer, Internship – US Government (New York, NY) | 2026-08-04 |
+| Skydio | Software Engineer Intern (Winter 2027) | 2026-08-04 |
+| Luminary Cloud | Engineering Intern | 2026-08-04 |
 
 </details>
 
@@ -433,10 +463,21 @@ Several portals in the "Manual Check" table return Cloudflare/bot-detection chal
 **Step 3 — Verify existing links:**
 
 Greenhouse: `curl -s -o /dev/null -w "%{http_code}" <url>` — 302 to `?error=true` = closed.
-Lever: `https://api.lever.co/v0/postings/<company>/<id>` — 404 = closed.
+Lever: `https://api.lever.co/v0/postings/<company>/<id>?mode=json` — 404 = closed. **Trust this over the HTML page** — `jobs.lever.co/<company>/<id>` is a client-rendered SPA shell that can return 200 with a correct `<title>` even after the underlying job is gone (the JS just never manages to fetch real content). The JSON API is the only reliable signal.
 Workday: `curl -s -o /dev/null -w "%{http_code}" -L <url>` — 200 = open.
+If piping URLs from a file built with Python's `print()` on Windows/Git Bash, strip carriage returns first (`tr -d '\r'`) — a stray `\r` silently breaks every `curl` call in the loop with no useful error (curl just times out / returns `000`).
 
-**Step 4 — Overwrite README.md with verified results. Summer + Spring 2027 only.**
+**Step 3.5 — Pull a "Posted" date for every role (required — every role row needs one):**
+
+Each ATS exposes the original post date differently. Fetch it per-role when adding or re-verifying a listing:
+
+- **Greenhouse**: `curl -s https://boards-api.greenhouse.io/v1/boards/<board>/jobs/<id>` → `first_published` field (ISO datetime, truncate to date). Caveat: some companies (Palantir, Figure have shown this) reuse an old requisition ID for a role they keep reposting — if `first_published`/`createdAt` is more than ~6 months stale relative to everything else on the same board, don't treat it as "this listing is old." Verify it's still live (200/non-404) and mark the date with a ⚠️ + one-line note instead of dropping it.
+- **Lever**: `curl -s https://api.lever.co/v0/postings/<company>/<id>?mode=json` → `createdAt` field (epoch milliseconds — convert with `datetime.utcfromtimestamp(ms/1000)`).
+- **Ashby**: `curl -s https://api.ashbyhq.com/posting-api/job-board/<board>` → find the job by `id` in the `jobs` array → `publishedAt` field.
+- **Workday**: no reliable per-job API date found — the list endpoint's `postedOn` field is relative text ("Posted 8 Days Ago") tied to search relevance and doesn't reliably surface the specific role you're looking for even with an exact-phrase `searchText`. Mark Workday-sourced roles (Blue Origin, Draper, Boeing, etc.) as `Unknown` in the Posted column unless you can confirm the date another way (e.g. reading the "Posted On" text directly off the rendered page via Claude in Chrome).
+- **iCIMS, Rippling, and other custom/JS-rendered boards** (Joby, Luminary Cloud): no API found — mark `Unknown`.
+
+**Step 4 — Overwrite README.md with verified results. Summer + Spring 2027 only. Undergraduate only — drop any listing explicitly labeled "(Graduate)".**
 
 Then: `git add README.md && git commit -m "chore: update tracker — $(date +%Y-%m-%d)" && git push`
 ```
