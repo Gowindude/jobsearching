@@ -19,6 +19,17 @@ Open verified 2027 roles: 46
 
 ---
 
+## 📌 Standing Preferences
+
+These apply to every future update of this tracker — read before scraping, adding, or removing anything.
+
+1. **Term: Spring 2027 or Summer 2027 only.** No Fall 2026, no Winter 2027, no "term unspecified"/"term TBD"/"rolling" postings in the open tables. Fall postings especially have been open a long time already, so the odds of landing one are low — don't add them, even if they're a great role-interest fit. If a company only has an out-of-term posting, either skip it or log it in a clearly separate "excluded/out of scope" list (see Bucket B) rather than the primary tables — don't delete the research, since the same team may open a Spring/Summer 2027 track later.
+2. **No Palantir SWE/FDSE roles.** Don't add or keep Palantir Software Engineer / Forward Deployed Software Engineer (FDSE) internships, including "Year at Palantir" SWE/FDSE tracks — dropped 2026-08-07 per explicit request. Other Palantir roles (e.g. Deployment Strategist) are still fine to track; Palantir otherwise remains a priority defense target.
+3. **Location preference: SF Bay Area or LA-area (incl. El Segundo/Hawthorne/Torrance/Long Beach).** When sourcing new small/startup companies to add (Cold Email or Manual Check), weight toward these two hubs — e.g. Astranis, Apex Space, Antaris, Capella Space. This doesn't rule out strong role-interest fits elsewhere (Firefly in TX, dSPACE in MI are tracked for their GNC/sim relevance), but SF/LA should be the first place to look when adding companies just because they're "similar to X."
+4. **Push to `origin main` by default after committing.** No need to ask before pushing routine tracker updates (adding/removing roles, fixing dead links, etc.) — this README is meant to stay live on GitHub. Still use judgment for anything unusual (force-push, branch changes, history rewrites).
+
+---
+
 ## ⭐ Priority Targets
 
 Focus first on these. Everything else is secondary.
