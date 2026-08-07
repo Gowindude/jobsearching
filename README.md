@@ -239,6 +239,7 @@ No formal intern programs yet, but great for cold outreach to learn about the wo
 
 | Company | Focus | Careers / Contact |
 |---------|-------|-------------------|
+| General Astronautics (SF) 🔥 | Autonomous robotics for microgravity R&D/manufacturing — YC W26, founded 2025 | No careers page/ATS, no official roles yet — email founders@generalastro.com (Bram Schork, CEO, ex-SpaceX Starlink Lasers; Shibo Zhou, CMU CS/Robotics) directly |
 | Gravitics | Space station modules + defense spacecraft | [gravitics.com/careers](https://www.gravitics.com/careers) (Lever) |
 | Impulse Space | Orbital transfer vehicles (Tom Mueller) | [impulsespace.com/careers](https://www.impulsespace.com/careers) — 2 live Fall 2026 internships (Manufacturing Data Analytics Intern, Precision Cleaning Intern), both Manufacturing dept — not 🎯, skipped |
 | Xona Space | LEO PNT / GPS alternative — GNC/orbital mechanics | [xonaspace.com/careers](https://www.xonaspace.com/careers) |
