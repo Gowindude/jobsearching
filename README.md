@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-08-07
-Open verified 2027 roles: 46
+Last updated: 2026-08-08
+Open verified 2027 roles: 28
 
 ---
 
@@ -93,6 +93,19 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | SpaceX ⭐ 🎯 | Spring 2027 Software Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002) |
 | SpaceX ⭐ | Spring 2027 Silicon Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002) |
 | SpaceX ⭐ | Spring 2027 Civil/Structural Engineering Internship | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002) |
+| Varda Space Industries 🔥 🎯 | Guidance, Navigation & Controls (GNC) Internship - Spring 2027 | El Segundo, CA | | 2026-08-07 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824781003) |
+| Varda Space Industries 🔥 🎯 | Flight Software Internship - Spring 2027 | El Segundo, CA | | 2026-08-07 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824815003) |
+| Varda Space Industries 🔥 | Applications Engineering Internship - Spring 2027 | El Segundo, CA | | 2026-08-07 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824822003) |
+| Varda Space Industries 🔥 | Avionics Engineering Internship - Spring 2027 | El Segundo, CA | | 2026-08-07 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824780003) |
+| Varda Space Industries 🔥 | Cybersecurity Internship - Spring 2027 | El Segundo, CA | | 2026-08-07 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824766003) |
+| Varda Space Industries 🔥 | Manufacturing Engineering Internship - Spring 2027 | El Segundo, CA | | 2026-08-07 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824767003) |
+| Varda Space Industries 🔥 | Mechanisms & Payload Internship - Spring 2027 | El Segundo, CA | | 2026-08-07 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824821003) |
+| Varda Space Industries 🔥 | Propulsion Engineering Internship - Spring 2027 | El Segundo, CA | | 2026-08-07 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824765003) |
+| Varda Space Industries 🔥 | Site Reliability Internship - Spring 2027 | El Segundo, CA | | 2026-08-07 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824814003) |
+| Varda Space Industries 🔥 | Structures Engineering Internship - Spring 2027 | El Segundo, CA | | 2026-08-07 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824817003) |
+| Varda Space Industries 🔥 | Vehicle Integration & Test Internship - Spring 2027 | El Segundo, CA | | 2026-08-07 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824772003) |
+
+> Varda Space Industries (El Segundo, LA — reentry capsules / in-space manufacturing) posted a full Spring 2027 internship class on 2026-08-07 (11 technical roles found via Greenhouse `vardaspace` board), including a direct GNC internship — this was previously only a Cold Email lead with no resolvable ATS; now confirmed live. Skipped: Biologics Formulation Research Internship (not an engineering track) and EHS/Supply Chain (excluded per the technical-roles-only filter). Moved out of Cold Email — see below.
 
 **Removed 2026-08-07 (confirmed closed — no longer returned by Blue Origin's Workday postings API, only R69064 is still live):**
 - ~~Blue Origin | Spring 2027 Software Developer Internship (Undergraduate) — R66216~~
@@ -113,8 +126,9 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 
 | Company | Role | Location | | Posted | Apply |
 |---------|------|----------|--|--------|-------|
-| Anduril ⭐ | Naval Architect Co-op – Winter 2027 | Costa Mesa, CA | 🇺🇸 | 2026-06-23 | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5170844007) |
 | Shield AI | Electrical Engineering Spring Co-op (January 2027) | Dallas, TX / San Diego, CA / Boston, MA | 🇺🇸 | 2026-04-15 | [Apply](https://jobs.lever.co/shieldai/87d982f2-8b2b-4c73-9a19-71e461c7b724) |
+
+> Anduril's Naval Architect Co-op – Winter 2027 was removed 2026-08-08 to enforce the Spring/Summer-2027-only standing preference (it predated that rule and had slipped through). Still live on their board if a Winter term becomes acceptable later.
 
 ### Primes & OEMs
 > BAE Systems blocks programmatic verification (SSL handshake fails for curl specifically — the links themselves are live, confirmed via `curl -k`). Check directly if a link fails for you.
@@ -210,9 +224,8 @@ Companies not previously tracked, sourced specifically for the GNC/simulation ro
 
 | Company | Portal | ATS | Notes |
 |---------|--------|-----|-------|
-| Varda Space Industries | [varda.com/careers](https://www.varda.com/careers) | Unknown ATS (JS-embedded board, slug not found) | Reentry capsules / in-space manufacturing. Runs a GNC internship (reentry-vehicle analysis/algorithms/simulation, GNC sensor/actuator integration) per third-party listings — strong 🎯 fit. Careers page embeds an "Open Positions" widget that doesn't render in raw page text; couldn't resolve the ATS board directly — check via browser with JS fully loaded |
-| True Anomaly | careers page not yet found | Unknown ATS | Space domain awareness / autonomous orbital spacecraft — GNC-heavy team (their "GNC Engineer III" FTE role is live per Menlo Ventures' job board). A GNC Intern posting existed but is no longer accepting applications as of ~March 2026 — worth a repeat check for a refreshed 2027 posting |
-| Shield AI | careers page not yet found | Unknown ATS | Autonomous aircraft (Hivemind AI pilot) — GNC/embedded/autonomy teams. Ran a 2026 Summer Software Engineering Intern program (10 weeks, rising 2027 grads) whose test team works directly with GNC/embedded — check for a 2027 refresh |
+| True Anomaly | Lever/Ashby/Greenhouse slugs all 404 — ATS still not found | Unknown ATS | Space domain awareness / autonomous orbital spacecraft — GNC-heavy team (their "GNC Engineer III" FTE role is live per Menlo Ventures' job board). A GNC Intern posting existed but is no longer accepting applications as of ~March 2026 — worth a repeat check for a refreshed 2027 posting |
+| Shield AI | [jobs.lever.co/shieldai](https://jobs.lever.co/shieldai) | Lever (auto-scraped) | ATS resolved 2026-08-08 — their EE Spring Co-op (January 2027) is now tracked in the main Defense & Counter-UAS table above. Re-checked full Lever board 2026-08-08: that's their only current student role, no GNC/SWE internship live right now |
 
 ### Robotics & Hardware Startups (no confirmed internship — from networking calls)
 
