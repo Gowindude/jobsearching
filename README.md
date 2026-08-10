@@ -360,6 +360,11 @@ Per user preference (2026-08-07): only Spring 2027 or Summer 2027 terms are want
 | Castelion | Electrical Engineer Intern – Fall 2026 (Avionics) | Torrance, CA | Fall 2026 | [Apply](https://www.careers-page.com/castelion-corporation/job/4R643WWV) |
 | Firefly Aerospace 🎯 | Internship - Software Test - Fall 2026 | Cedar Park, TX | Fall 2026 | [Apply](https://firefly.hrmdirect.com/employment/job-opening.php?req=3719143&req_loc=1369045) |
 | Firefly Aerospace | Internship - Electrical Engineering - Fall 2026 | Cedar Park, TX | Fall 2026 | [Apply](https://firefly.hrmdirect.com/employment/job-opening.php?req=3710202&req_loc=1335841) |
+| Firefly Aerospace 🔥 | Internship - Mechanical Engineering - Fall 2026 | Cedar Park, TX | Fall 2026 | [Apply](https://firefly.hrmdirect.com/employment/job-opening.php?req=3709960&req_loc=1335844) |
+| Firefly Aerospace 🔥 | Internship - Quality Engineering - Fall 2026 | Cedar Park, TX | Fall 2026 | [Apply](https://firefly.hrmdirect.com/employment/job-opening.php?req=3710242&req_loc=1323827) |
+| Firefly Aerospace 🔥 | Internship - Assembly, Integration, and Test (Spacecraft) - Fall 2026 | Cedar Park, TX | Fall 2026 | [Apply](https://firefly.hrmdirect.com/employment/job-opening.php?req=3710277&req_loc=1323824) |
+| Firefly Aerospace 🔥 | Internship - Ground Support Equipment - Fall 2026 | Cedar Park, TX | Fall 2026 | [Apply](https://firefly.hrmdirect.com/employment/job-opening.php?req=3709893&req_loc=1319697) |
+| Firefly Aerospace 🔥 | Internship - Launch Site - Fall 2026 | Cedar Park, TX | Fall 2026 | [Apply](https://firefly.hrmdirect.com/employment/job-opening.php?req=3783331&req_loc=1424387) |
 | dSPACE 🎯 | Engineering Intern (HIL/SIL simulation, controls/robotics) | Wixom, MI | rolling/year-round, term unconfirmed | [Apply](https://www.dspace.com/en/inc/home/career/jobfinder/stellen.cfm?fuseaction=einzel&jid=36190&t=Engineering+Intern) |
 
 </details>
@@ -369,7 +374,11 @@ Per user preference (2026-08-07): only Spring 2027 or Summer 2027 terms are want
 > Hermeus (hypersonic aircraft, Atlanta/LA) has 7 live Fall 2026 internships including Flight Software and Software Engineering (Command & Control) — direct 🎯 fits but all Fall term. Newly sourced 2026-08-10, added to Secondary — defense & primes manual-check table below for future Spring/Summer re-checks.
 > Draper Laboratory's 3 live intern reqs (posted Aug 2026, Cambridge MA) don't state "2027" anywhere in the JD — likely Summer 2027 given the posting date, but not confirmed, so logged here rather than the open tables per the strict term rule.
 > Castelion (hypersonic strike missiles, Torrance CA) also runs FTE GNC/simulation roles (Senior GNC Engineer, Senior Simulation Software Engineer GNC) — worth a cold-email follow-up regardless of the Fall-only internships, given the direct GNC/sim overlap. Re-check their board for a Spring/Summer 2027 posting.
-> Firefly Aerospace runs a large standing GNC engineering org (Trajectory, Controls, Navigation, ADCS, Flight Dynamics) for FTE roles and 5 Fall 2026 internships (see [firefly.hrmdirect.com](https://firefly.hrmdirect.com/employment/job-openings.php?search=true&job_type%5B%5D=Intern)) — worth a cold-email, and worth re-checking for a Spring/Summer 2027 internship refresh.
+> Firefly Aerospace runs a large standing GNC engineering org (Trajectory, Controls, Navigation, ADCS, Flight Dynamics) for FTE roles. Re-checked 2026-08-10: 8 Fall 2026 internships total (see [firefly.hrmdirect.com](https://firefly.hrmdirect.com/employment/job-openings.php?search=true&job_type%5B%5D=Intern)), all Cedar Park TX; the 7 technical ones are now all logged here (skipped Health, Safety & Environment — not an engineering track). Worth a cold-email, and worth re-checking for a Spring/Summer 2027 internship refresh.
+> Rocket Lab re-checked 2026-08-10: Greenhouse board is almost entirely Auckland, NZ roles; the only two US intern postings (Manufacturing Engineering Intern, Talent Acquisition Intern) are Fall 2026 in Long Beach, CA — not added, Spring/Summer 2027 expected ~Nov 2026 per existing manual-check note.
+> Apex Space re-checked 2026-08-10 (Ashby `apex-technology-inc`): still 80 open roles, zero internships — see Cold Email list.
+> Impulse Space re-checked 2026-08-10: still only the 2 Fall 2026 Manufacturing internships noted in Cold Email — no direct ATS API found (custom career site), verify manually at [impulsespace.com/careers](https://www.impulsespace.com/careers).
+> Starcloud (YC S24, data centers in space) checked 2026-08-10 via Greenhouse `starcloud` board: 12 open roles, zero internships.
 > dSPACE's Wixom, MI HIL/SIL simulation internship is rolling/year-round — worth asking directly whether a Spring/Summer 2027 start is possible, since the role itself is a strong GNC/simulation fit.
 
 ---
