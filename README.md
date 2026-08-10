@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-08-08
-Open verified 2027 roles: 28
+Last updated: 2026-08-10
+Open verified 2027 roles: 33
 
 ---
 
@@ -72,13 +72,23 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Anduril ⭐ | 2027 Mechanical Engineer Intern | Atlanta / Boston / Costa Mesa / Irvine / Reston / Seattle | 🇺🇸 | 2026-06-11 | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5153187007) |
 | Anduril ⭐ | 2027 Manufacturing Engineer Intern | Atlanta / Boston / Costa Mesa / Irvine / Reston / Seattle | 🇺🇸 | 2026-06-11 | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5153218007) |
 | Palantir ⭐ | Deployment Strategist, Internship – US Government | Honolulu, HI | 🇺🇸 | 2025-12-11 | [Apply](https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e) |
+| Zipline 🔥 | Quality & Manufacturing Intern (Summer 2027) | South San Francisco, CA | | 2026-08-03 | [Apply](https://www.zipline.com/open-roles?gh_jid=7824316003) |
 
 > Not interested in Palantir SWE/FDSE roles — all Software Engineer, Forward Deployed Software Engineer, and "Year at Palantir" SWE/FDSE listings dropped 2026-08-07 per user request. Only non-SWE Palantir roles (e.g. Deployment Strategist) are still tracked.
+> Zipline (autonomous drone delivery, South SF) isn't defense/counter-UAS by mission but is UAS-adjacent autonomy — added here for lack of a better-fitting section. Not tagged 🎯 (manufacturing, not GNC/sim/SWE).
 
 **Removed 2026-08-04 (dead link, confirmed 404 on Lever's JSON API despite the HTML shell still returning 200):**
 - ~~Palantir ⭐ | Forward Deployed Infrastructure Engineer, Internship – US Government | Washington, D.C.~~
 - ~~Palantir ⭐ | Forward Deployed Infrastructure Engineer, Internship – US Government | Palo Alto, CA~~
 - ~~Palantir ⭐ | Forward Deployed Infrastructure Engineer, Internship – US Government | New York, NY~~
+
+### Primes & OEMs
+> RTX/Raytheon's careers site (Phenom ATS, careers.rtx.com) is behind bot-detection that also fools plain `WebFetch` — one req above was reported "no longer available" by WebFetch but rendered live with an active apply flow via Claude in Chrome. Trust an in-browser check over WebFetch/curl here. RTX reqs appear to cycle roughly every ~40 days — re-check this board often.
+
+| Company | Role | Location | | Posted | Apply |
+|---------|------|----------|--|--------|-------|
+| Collins Aerospace (RTX) 🔥 🎯 | Software Engineering Intern (Summer 2027) | Cedar Rapids, IA | | 2026-08-05 | [Apply](https://careers.rtx.com/global/en/job/01864033/Software-Engineering-Intern-Summer-2027) |
+| Raytheon (RTX) 🔥 | Electrical Engineering Intern (Summer 2027)(Onsite) | Plano, TX | | Unknown | [Apply](https://careers.rtx.com/global/en/job/01864023/Raytheon-Electrical-Engineering-Intern-Summer-2027-Onsite) |
 
 ---
 
@@ -104,8 +114,10 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Varda Space Industries 🔥 | Site Reliability Internship - Spring 2027 | El Segundo, CA | | 2026-08-07 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824814003) |
 | Varda Space Industries 🔥 | Structures Engineering Internship - Spring 2027 | El Segundo, CA | | 2026-08-07 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824817003) |
 | Varda Space Industries 🔥 | Vehicle Integration & Test Internship - Spring 2027 | El Segundo, CA | | 2026-08-07 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824772003) |
+| Xona Space Systems 🔥 | Mechanical Engineering Co-op (Spring 2027) | Burlingame, CA | | 2026-07-17 | [Apply](https://jobs.ashbyhq.com/xona-space/f418fdfc-f439-444a-bb0a-15ec09b39b8e) |
 
 > Varda Space Industries (El Segundo, LA — reentry capsules / in-space manufacturing) posted a full Spring 2027 internship class on 2026-08-07 (11 technical roles found via Greenhouse `vardaspace` board), including a direct GNC internship — this was previously only a Cold Email lead with no resolvable ATS; now confirmed live. Skipped: Biologics Formulation Research Internship (not an engineering track) and EHS/Supply Chain (excluded per the technical-roles-only filter). Moved out of Cold Email — see below.
+> Xona Space Systems (Burlingame, CA — LEO PNT/GPS alternative) resolved to an Ashby board (`xona-space`, 61 open roles) on 2026-08-10 with a Spring 2027 Mechanical Engineering Co-op live — previously only a Cold Email lead with no known ATS. Moved out of Cold Email — see below.
 
 **Removed 2026-08-07 (confirmed closed — no longer returned by Blue Origin's Workday postings API, only R69064 is still live):**
 - ~~Blue Origin | Spring 2027 Software Developer Internship (Undergraduate) — R66216~~
@@ -127,6 +139,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Company | Role | Location | | Posted | Apply |
 |---------|------|----------|--|--------|-------|
 | Shield AI | Electrical Engineering Spring Co-op (January 2027) | Dallas, TX / San Diego, CA / Boston, MA | 🇺🇸 | 2026-04-15 | [Apply](https://jobs.lever.co/shieldai/87d982f2-8b2b-4c73-9a19-71e461c7b724) |
+| Zipline 🔥 | Quality & Manufacturing Intern (Spring 2027) | South San Francisco, CA | | 2026-08-03 | [Apply](https://www.zipline.com/open-roles?gh_jid=7824311003) |
 
 > Anduril's Naval Architect Co-op – Winter 2027 was removed 2026-08-08 to enforce the Spring/Summer-2027-only standing preference (it predated that rule and had slipped through). Still live on their board if a Winter term becomes acceptable later.
 
@@ -148,9 +161,9 @@ These are confirmed target companies with no verified open 2027 listings as of t
 
 | Company | Portal | ATS | Notes |
 |---------|--------|-----|-------|
-| Stoke Space ⭐ | [stokespace.com/careers/current-openings](https://www.stokespace.com/careers/current-openings/) | Greenhouse slug is `stokespacetechnologies`, NOT `stokespace` (auto-scraped) | Re-verified 2026-08-04 against the correct board: 48 open roles, but zero internships/co-ops — all are FTE Engineer/Technician postings. Summer 2027 intern window: Sept–Nov 2026 |
-| NASA JPL ⭐ | [jpl.nasa.gov/edu/internships](https://www.jpl.nasa.gov/edu/internships/) | Custom JPL portal | Checked via browser 2026-08-04: site confirms "applications for summer due in March" — window opens Oct 2026–Feb 2027 for Summer 2027, not yet open |
-| Nvidia ⭐ | [nvidia.wd5.myworkdayjobs.com](https://nvidia.wd5.myworkdayjobs.com) | Workday | Checked via browser 2026-08-04: only Taiwan/China 2027 new-grad reqs live; no US 2027 postings yet |
+| Stoke Space ⭐ | [stokespace.com/careers/current-openings](https://www.stokespace.com/careers/current-openings/) | Greenhouse slug is `stokespacetechnologies`, NOT `stokespace` (auto-scraped) | Re-verified via API 2026-08-10: 49 open roles, still zero internship/co-op/2027 titles. Summer 2027 intern window: Sept–Nov 2026 |
+| NASA JPL ⭐ | [jpl.nasa.gov/edu/internships](https://www.jpl.nasa.gov/edu/internships/) | Custom JPL portal | Re-confirmed via browser 2026-08-10: the summer-internship page still shows the Summer 2026 cycle's "Application Deadline: Friday, March 13, 2026" — not yet refreshed for 2027. (A third-party aggregator claims a Feb 2027 deadline; not trusted over JPL's own page.) Window opens Oct 2026–Feb 2027 for Summer 2027 |
+| Nvidia ⭐ | [nvidia.wd5.myworkdayjobs.com](https://nvidia.wd5.myworkdayjobs.com) | Workday | Re-checked via API 2026-08-10: no US Spring/Summer 2027 postings — only Taiwan/China 2027 reqs and US Fall 2026/PhD research roles |
 | Relativity Space ⭐ | [job-boards.greenhouse.io/relativity](https://job-boards.greenhouse.io/relativity) | Greenhouse (auto-scraped) | Off-season gap; intern board at `rsinternboard` also |
 | Vast ⭐ | [job-boards.greenhouse.io/vast](https://job-boards.greenhouse.io/vast) | Greenhouse (auto-scraped) | Fall 2026 open; 2027 expected |
 | K2 Space ⭐ | [job-boards.greenhouse.io/k2spacecorporation](https://job-boards.greenhouse.io/k2spacecorporation) | Greenhouse (auto-scraped) | No interns yet — small team, cold email worth trying |
@@ -165,14 +178,14 @@ These are confirmed target companies with no verified open 2027 listings as of t
 |---------|--------|-----|-------|
 | Lockheed Martin | [lockheedmartinjobs.com](https://www.lockheedmartinjobs.com) | Workday `lmco.wd1` (auto-scraped) | Spring 2027 not yet posted |
 | Northrop Grumman | [jobs.northropgrumman.com](https://jobs.northropgrumman.com) | Workday `northropgrumman.wd1` (auto-scraped) | Spring 2027 not yet posted |
-| RTX / Raytheon | [careers.rtx.com](https://careers.rtx.com) | Phenom — manual only | No Spring 2027 yet |
+| RTX / Raytheon | [careers.rtx.com](https://careers.rtx.com) | Phenom — manual only, blocks curl/WebFetch (use Claude in Chrome) | Summer 2027 wave started — see two new Collins/Raytheon roles added above 2026-08-10. Reqs cycle ~40 days; re-check often |
 | Boeing | [boeing.wd1.myworkdayjobs.com](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS) | Workday `boeing.wd1` (auto-scraped) | Summer 2027 Internship Program is open (~17 tracks) but all are business/ops/HR/quality/facilities — no SWE/EE/ME/GNC track posted yet. Re-check in case a technical track opens |
 | Honeywell Aerospace | [careers.honeywell.com](https://careers.honeywell.com) | Workday `honeywell.wd5` (auto-scraped) | No 2027 yet; recruits heavily at fall career fairs |
 | L3Harris | [careers.l3harris.com](https://careers.l3harris.com) | Workday `l3harris.wd5` (auto-scraped) | No 2027 yet |
 | Leidos | [leidos.wd5.myworkdayjobs.com](https://leidos.wd5.myworkdayjobs.com) | Workday (auto-scraped) | [Engineering Intern (Huntsville, AL)](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Engineering-Intern_R-00187036) open — term unconfirmed, check before applying |
 | General Dynamics | [gd.com/careers](https://www.gd.com/careers) | Workday `generaldynamics.wd5` (auto-scraped) | No 2027 yet |
 | GE Aerospace | [geaerospace.wd5.myworkdayjobs.com](https://geaerospace.wd5.myworkdayjobs.com) | Workday (auto-scraped) | Spring 2027 co-ops closed; check for new postings |
-| Draper Laboratory | [draper.wd5.myworkdayjobs.com](https://draper.wd5.myworkdayjobs.com/Draper_Careers) | Workday (auto-scraped) | GNC/embedded co-op program; check term for current listing |
+| Draper Laboratory | [draper.wd5.myworkdayjobs.com](https://draper.wd5.myworkdayjobs.com/Draper_Careers) | Workday (auto-scraped — note: the standard `searchText:"internship"` query misses titles like "...Intern" that don't contain the word "internship"; query `"intern"` instead) | Checked 2026-08-10: 3 live intern reqs (Mechanical Engineering & System Packaging Intern ×2, Embedded Quality & Fielded Systems Intern), Cambridge MA, posted Aug 2026. None mention "2027" explicitly in the JD — likely Summer 2027 given posting date but unconfirmed, so not added to main tables. Logged in Bucket B excluded list below |
 | AeroVironment | [avav.wd1.myworkdayjobs.com/AVAV](https://avav.wd1.myworkdayjobs.com/AVAV) | Workday (auto-scraped) | Defense UAS — check for 2027 |
 | SAIC | [saic.wd5.myworkdayjobs.com](https://saic.wd5.myworkdayjobs.com) | Workday (auto-scraped) | — |
 | Booz Allen Hamilton | [boozallen.wd1.myworkdayjobs.com](https://boozallen.wd1.myworkdayjobs.com) | Workday (auto-scraped) | — |
@@ -181,6 +194,7 @@ These are confirmed target companies with no verified open 2027 listings as of t
 | AFRL Scholars | [afrlscholars.usra.edu](https://afrlscholars.usra.edu) | Separate portal | — |
 | Luminary Cloud (rebranded "Luminary") | [luminary.ai/careers](https://luminary.ai/careers/) | Rippling `ats.rippling.com/luminarycloud/jobs` | Re-checked via browser 2026-08-07: the Rippling board is back up (previous 404 was transient/JS-render related) — 13 open roles, all senior/FTE (Forward Deployed Engineer, Delivery Lead, Industry Practice Lead), zero internships |
 | Sandia National Labs | [sandia.gov/careers](https://www.sandia.gov/careers) | Unknown | — |
+| Hermeus 🔥 | [jobs.lever.co/hermeus](https://jobs.lever.co/hermeus) | Lever (auto-scraped) | Hypersonic aircraft (Atlanta/LA/Jacksonville). Sourced 2026-08-10: 7 live Fall 2026 internships incl. Flight Software and SWE (Command & Control) — direct 🎯 fits, see Bucket B excluded list. Re-check for Spring/Summer 2027 |
 
 ### Big Tech — Aerospace-Adjacent (silicon, autonomy, satellites, robotics)
 
@@ -235,7 +249,7 @@ Companies not previously tracked, sourced specifically for the GNC/simulation ro
 | Epirus | [job-boards.greenhouse.io/epirus](https://job-boards.greenhouse.io/epirus) | Greenhouse (auto-scraped) | Directed-energy/counter-drone systems. Confirmed 33 total jobs 2026-08-04, zero internships |
 | Hadrian | [hadrian.co/careers](https://www.hadrian.co/careers) | Ashby `hadrian-automation` (auto-scraped) | Autonomous CNC factories for aerospace/defense parts. Confirmed 131 total jobs 2026-08-04, zero internships |
 | Vannevar Labs | [job-boards.greenhouse.io/vannevarlabs](https://job-boards.greenhouse.io/vannevarlabs) | Greenhouse (auto-scraped) | Defense intelligence software. Only a non-technical Public Policy & Community Affairs Intern open — no SWE/ML internship |
-| Pivotal | [jobs.lever.co/pivotal](https://jobs.lever.co/pivotal) | Lever (auto-scraped) | eVTOL personal aircraft (formerly Opener). Confirmed 24 total postings 2026-08-04, zero internships |
+| Pivotal | [jobs.lever.co/pivotal](https://jobs.lever.co/pivotal) | Lever (auto-scraped) | eVTOL personal aircraft (formerly Opener). Re-checked 2026-08-10: now has 2 Fall 2026 internships incl. a direct GNC fit (see Bucket B excluded list) — re-check for a Spring/Summer 2027 refresh |
 | Zone 5 Technologies | [job-boards.greenhouse.io/zone5technologies](https://job-boards.greenhouse.io/zone5technologies) | Greenhouse (auto-scraped) | UAS/counter-drone manufacturer, San Luis Obispo CA (acquired by Kongsberg Defence & Aerospace Dec 2025). Confirmed 106 total jobs 2026-08-04, zero engineering internships |
 | 1X Technologies | [1x.tech/careers](https://www.1x.tech/careers) | Unknown ATS | Humanoid robots. No current internship confirmed; a CNC Machine Park Internship (Hayward, CA) has existed historically |
 | Amentum | [amentumcareers.com/early-careers](https://www.amentumcareers.com/early-careers) | Custom portal | Large govt/defense technical services contractor. Early Career/internship program exists broadly, disciplines vary yearly |
@@ -253,19 +267,18 @@ No formal intern programs yet, but great for cold outreach to learn about the wo
 | Company | Focus | Careers / Contact |
 |---------|-------|-------------------|
 | General Astronautics (SF) 🔥 | Autonomous robotics for microgravity R&D/manufacturing — YC W26, founded 2025 | No careers page/ATS, no official roles yet — email founders@generalastro.com (Bram Schork, CEO, ex-SpaceX Starlink Lasers; Shibo Zhou, CMU CS/Robotics) directly |
-| Gravitics | Space station modules + defense spacecraft | [gravitics.com/careers](https://www.gravitics.com/careers) (Lever) |
+| Gravitics | Space station modules + defense spacecraft | [gravitics.com/careers](https://www.gravitics.com/careers) — Greenhouse slug `graviticsinc` resolved 2026-08-10: 15 open roles, zero internships |
 | Impulse Space | Orbital transfer vehicles (Tom Mueller) | [impulsespace.com/careers](https://www.impulsespace.com/careers) — 2 live Fall 2026 internships (Manufacturing Data Analytics Intern, Precision Cleaning Intern), both Manufacturing dept — not 🎯, skipped |
-| Xona Space | LEO PNT / GPS alternative — GNC/orbital mechanics | [xonaspace.com/careers](https://www.xonaspace.com/careers) |
-| Umbra | Highest-res commercial SAR — software heavy | [umbra.space/careers](https://umbra.space/careers) |
+| Umbra | Highest-res commercial SAR — software heavy | [umbra.space/careers](https://umbra.space/careers) — ATS slug still unresolved as of 2026-08-10 (no Greenhouse/Lever/Ashby link found in page HTML) — check site directly |
 | Albedo | VLEO 10 cm optical imaging | [albedo.com](https://albedo.com) (Lever slug removed — cold email) |
-| Slingshot Aerospace | AI / sim for space traffic mgmt | [slingshot.space/careers](https://www.slingshot.space/careers) |
-| Loft Orbital | Satellite-as-a-service, full-stack + embedded | [loftorbital.com/careers](https://www.loftorbital.com/careers) (Lever) |
+| Slingshot Aerospace | AI / sim for space traffic mgmt | [slingshot.space/careers](https://www.slingshot.space/careers) — checked 2026-08-10: Greenhouse (3 roles) + Ashby (18 roles), zero US internships |
+| Loft Orbital | Satellite-as-a-service, full-stack + embedded | [loftorbital.com/careers](https://www.loftorbital.com/careers) — Lever board confirmed 2026-08-10: 59 open roles, zero internships |
 | Firehawk Aerospace | Hybrid propulsion | [fireflyspace.com/careers](https://fireflyspace.com/careers) |
-| Turion Space | Space domain awareness + servicing | [turionspace.com/careers](https://www.turionspace.com/careers) |
-| Apex Space (LA — El Segundo) 🎯 | Productized satellite bus platforms — flight software, embedded, sim | [apexspace.com/careers](https://www.apexspace.com/careers) — a Software Engineering Intern (Embedded Systems) role has existed (Summer 2026 per third-party boards); no confirmed 2027 posting this pass, board is JS-embedded and didn't resolve via API |
+| Turion Space | Space domain awareness + servicing | [turionspace.com/careers](https://www.turionspace.com/careers) — Ashby slug `turion-space` resolved 2026-08-10: 16 open roles, zero internships |
+| Apex Space (LA — El Segundo) 🎯 | Productized satellite bus platforms — flight software, embedded, sim | [apexspace.com/careers](https://www.apexspace.com/careers) — Ashby slug `apex-technology-inc` resolved 2026-08-10: 80 open roles, zero internships |
 | Antaris (SF) 🎯 | "Space Mission Virtualization" — satellite design/simulation/ops software platform | [antaris.space/careers](https://www.antaris.space/careers) — no listings found, small team; email careers@antaris.space directly. Strong thematic fit for the GNC/simulation role interest given the product is literally spacecraft simulation software |
 | Capella Space (SF) | Highest-res commercial SAR (competitor to Umbra, above) | [capellaspace.com/company](https://www.capellaspace.com/company) (Greenhouse) — confirmed 11 total open jobs 2026-08-07, zero internships |
-| Venus Aerospace | Hypersonic propulsion | [venusaero.com/careers](https://www.venusaero.com/careers) |
+| Venus Aerospace | Hypersonic propulsion | [venusaero.com/careers](https://www.venusaero.com/careers) — Lever slug `venusaero` resolved 2026-08-10: 23 open roles, zero internships |
 | nTop | Topology optimization + meshless CFD/FEA — aerospace & defense clients; NVIDIA-backed | [ntop.com/careers](https://www.ntop.com/careers) — email: marcja@ntop.com (Marc Jacobs, CTO) |
 | PhysicsX | ML-accelerated physics simulation for aerospace/auto — $602M raised, Lever ATS | [physicsx.ai/careers](https://www.physicsx.ai/careers) — email: arran.ferguson@physicsx.ai (Arran Ferguson, Head of Talent) |
 | Pasteur Labs | Differentiable physics / simulation intelligence — NASA advisor background | [simulation.science/careers](https://simulation.science/careers) — email: lavin@simulation.science (Alexander Lavin, CEO); careers@simulation.science |
@@ -316,8 +329,19 @@ Per user preference (2026-08-07): only Spring 2027 or Summer 2027 terms are want
 | Machina Labs | Robotic Process Engineer, Intern (2) | Chatsworth, CA | term TBD | [Apply](https://jobs.lever.co/MachinaLabs/da8632d8-5a1d-4d1b-8270-b8e6209f0cc1) |
 | Machina Labs | Technical Project Manager, Intern | Chatsworth, CA | term TBD | [Apply](https://jobs.lever.co/MachinaLabs/95d39682-8861-4b82-bb18-c985f280f415) |
 | Joby Aviation | Flight Test Intern | Marina, CA | Dec 2026–Feb 2027 (Winter) | [Apply](https://careers-jobyaviation.icims.com/jobs/search?searchKeyword=intern+2027) |
-| Joby Aviation | Mechanical Engineer Intern – Electric Propulsion Unit | San Carlos, CA | Winter 2027 | [Apply](https://careers-jobyaviation.icims.com/jobs/search?searchKeyword=intern+2027) |
+| Joby Aviation 🔥 | Quality Engineering Intern | Marina, CA | term unstated | [Apply](https://careers-jobyaviation.icims.com/jobs/search?searchKeyword=intern+2027) |
 | Draper Laboratory | Microsystems Integration Intern | Cambridge, MA | rolling/term TBD | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Intern_JR002730) |
+| Draper Laboratory 🔥 🎯 | Mechanical Engineering & System Packaging Intern (×2 reqs) | Cambridge, MA | Summer, year unstated (likely 2027) | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers) |
+| Draper Laboratory 🔥 | Embedded Quality & Fielded Systems Intern | Cambridge, MA | Summer, year unstated (likely 2027) | [Apply](https://draper.wd5.myworkdayjobs.com/Draper_Careers) |
+| Pivotal 🔥 🎯 | Internship, GNC Engineering | Palo Alto, CA | Fall 2026 | [Apply](https://jobs.lever.co/pivotal/b05be1f0-20ff-4264-8839-4f18f97cbfb7) |
+| Pivotal 🔥 | Internship, Maintenance, Repair & Overhaul Engineering | Palo Alto, CA | Fall 2026 | [Apply](https://jobs.lever.co/pivotal/370cafec-79df-4875-b6ea-317b5b0ed97a) |
+| Hermeus 🔥 🎯 | Software Engineering Intern (Command & Control) | Atlanta, GA | Fall 2026 | [Apply](https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67) |
+| Hermeus 🔥 🎯 | Flight Software Engineering Intern | Atlanta, GA | Fall 2026 | [Apply](https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440) |
+| Hermeus 🔥 | Manufacturing Engineering Intern | Atlanta, GA | Fall 2026 | [Apply](https://jobs.lever.co/hermeus/922ee234-94aa-473b-8464-03f28a709872) |
+| Hermeus 🔥 | Mechanical Engineering Intern | Los Angeles, CA | Fall 2026 | [Apply](https://jobs.lever.co/hermeus/6b6afa4a-b37d-4033-ac3b-e6501a951b98) |
+| Hermeus 🔥 | Propulsion Engineer Intern | Los Angeles, CA | Fall 2026 | [Apply](https://jobs.lever.co/hermeus/a949f158-6900-42e1-890d-fb3ec339c3d0) |
+| Hermeus 🔥 | Propulsion Test Engineering Intern | Jacksonville, FL | Fall 2026 | [Apply](https://jobs.lever.co/hermeus/31513d2a-8e08-424b-b125-4f972fcfc805) |
+| Hermeus 🔥 | Test and Operations Engineering Intern | Los Angeles, CA | Fall 2026 | [Apply](https://jobs.lever.co/hermeus/6afd9372-2a91-4935-b7a5-7a1cf4eb960b) |
 | Figure (humanoid robots) | Electrical Engineering Intern | San Jose, CA | Fall 2026 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4676467006) |
 | Figure (humanoid robots) | Firmware Intern | San Jose, CA | Fall 2026 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4691070006) |
 | Figure (humanoid robots) | Mechanical Engineer Intern | San Jose, CA | Fall 2026 | [Apply](https://job-boards.greenhouse.io/figureai/jobs/4303098006) |
@@ -340,6 +364,10 @@ Per user preference (2026-08-07): only Spring 2027 or Summer 2027 terms are want
 
 </details>
 
+> Joby Aviation's Mechanical Engineer Intern – Electric Propulsion Unit (Winter 2027, San Carlos, CA) no longer appears in their iCIMS intern search as of 2026-08-10 — likely closed, moved to Closed/Expired below rather than left here stale.
+> Pivotal (eVTOL, formerly Opener) now has 2 Fall 2026 internships incl. a direct GNC fit — previously tracked in Cold Email as "zero internships" (last checked 2026-08-04); that note is now stale, updated below.
+> Hermeus (hypersonic aircraft, Atlanta/LA) has 7 live Fall 2026 internships including Flight Software and Software Engineering (Command & Control) — direct 🎯 fits but all Fall term. Newly sourced 2026-08-10, added to Secondary — defense & primes manual-check table below for future Spring/Summer re-checks.
+> Draper Laboratory's 3 live intern reqs (posted Aug 2026, Cambridge MA) don't state "2027" anywhere in the JD — likely Summer 2027 given the posting date, but not confirmed, so logged here rather than the open tables per the strict term rule.
 > Castelion (hypersonic strike missiles, Torrance CA) also runs FTE GNC/simulation roles (Senior GNC Engineer, Senior Simulation Software Engineer GNC) — worth a cold-email follow-up regardless of the Fall-only internships, given the direct GNC/sim overlap. Re-check their board for a Spring/Summer 2027 posting.
 > Firefly Aerospace runs a large standing GNC engineering org (Trajectory, Controls, Navigation, ADCS, Flight Dynamics) for FTE roles and 5 Fall 2026 internships (see [firefly.hrmdirect.com](https://firefly.hrmdirect.com/employment/job-openings.php?search=true&job_type%5B%5D=Intern)) — worth a cold-email, and worth re-checking for a Spring/Summer 2027 internship refresh.
 > dSPACE's Wixom, MI HIL/SIL simulation internship is rolling/year-round — worth asking directly whether a Spring/Summer 2027 start is possible, since the role itself is a strong GNC/simulation fit.
@@ -366,6 +394,7 @@ Per user preference (2026-08-07): only Spring 2027 or Summer 2027 terms are want
 | Skydio | Software Engineer Intern (Winter 2027) | 2026-08-04 |
 | Luminary Cloud | Engineering Intern | 2026-08-04 |
 | Saronic | Naval Architect Intern | 2026-08-05 |
+| Joby Aviation | Mechanical Engineer Intern – Electric Propulsion Unit (Winter 2027) | 2026-08-10 |
 
 </details>
 
@@ -472,7 +501,7 @@ for entry in "${WD_ENTRIES[@]}"; do
   base="https://${tenant}.${wdn}.myworkdayjobs.com/${site}"
   r=$(curl -s --max-time 10 -X POST "$api" \
     -H "Content-Type: application/json" \
-    -d '{"appliedFacets":{},"limit":20,"offset":0,"searchText":"internship"}')
+    -d '{"appliedFacets":{},"limit":20,"offset":0,"searchText":"intern"}')
   echo "$r" | python3 -c "
 import sys,json,re
 tenant='$tenant'; base='$base'
@@ -490,6 +519,13 @@ done
 cat "$SCRATCHPAD/results.txt"
 ```
 
+**Note (added 2026-08-10):** the Workday query above uses `searchText:"intern"`, not `"internship"` — Workday keyword-matches literally, so `"internship"` silently misses titles that only contain "Intern" (e.g. Draper's "Mechanical Engineering & System Packaging Intern"). Every Workday tenant was under-reporting before this fix.
+
+**Resolving unknown ATS slugs (added 2026-08-10):** instead of guessing Greenhouse/Lever/Ashby slugs from the company name, grep the careers page HTML directly — this resolved 4 previously-"Unknown ATS" Cold Email companies in one pass after ~20 blind guesses 404'd:
+```bash
+curl -sL <company-careers-url> | grep -oiE '(job-boards|boards|jobs|api)\.(greenhouse|lever|ashbyhq)\.[a-z]+/[A-Za-z0-9_-]+'
+```
+
 **Step 2 — Single web search agent:**
 
 Paste the contents of $SCRATCHPAD/results.txt, then ask one agent to:
@@ -505,6 +541,7 @@ Several portals in the "Manual Check" table return Cloudflare/bot-detection chal
 2. `tabs_context_mcp{createIfEmpty:true}` once, then `navigate` to each portal and `get_page_text` (wait a few seconds first — many of these render job lists client-side, and RTX shows a ~5s Cloudflare "Just a moment..." interstitial before the real page loads).
 3. The first visit to a brand-new domain in a session can return "Permission denied for reading page content on this domain" from `get_page_text` — this is the Chrome extension's per-site permission gate, and it must be granted in the extension UI itself; it can't be pre-approved from the agent side. If you hit this, tell the user which domain needs approval rather than retrying blindly.
 4. This approach reliably reads Stoke Space, NASA JPL, Nvidia Workday, Draper Workday, RTX, and Joby's iCIMS search results — all of which 403/blank on a bare `curl`.
+5. **RTX/Phenom caveat (added 2026-08-10):** plain `WebFetch` on a `careers.rtx.com` job URL is unreliable — it reported a live req as "no longer available" when the same URL rendered a fully live apply flow in Claude in Chrome. Trust the in-browser read over WebFetch/curl for RTX specifically, similar to the existing Lever-SPA caveat below. Also: `javascript_tool` returns `[BLOCKED: Cookie/query string data]` on URLs with query strings, and `get_page_text` returns nothing on iCIMS (Joby) — use a screenshot instead.
 
 **Step 3 — Verify existing links:**
 
