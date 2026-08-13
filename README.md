@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-08-10
-Open verified 2027 roles: 39
+Last updated: 2026-08-13
+Open verified 2027 roles: 38
 
 ---
 
@@ -83,12 +83,11 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 - ~~Palantir ⭐ | Forward Deployed Infrastructure Engineer, Internship – US Government | New York, NY~~
 
 ### Primes & OEMs
-> RTX/Raytheon's careers site (Phenom ATS, careers.rtx.com) is behind bot-detection that also fools plain `WebFetch` — one req above was reported "no longer available" by WebFetch but rendered live with an active apply flow via Claude in Chrome. Trust an in-browser check over WebFetch/curl here. RTX reqs appear to cycle roughly every ~40 days — re-check this board often.
+> RTX/Raytheon's careers site (Phenom ATS, careers.rtx.com) is behind bot-detection that also fools plain `WebFetch`/`curl` (403/404 even on the search page) — always use Claude in Chrome here. Reqs cycle much faster than first estimated: both roles added 2026-08-10 were HTTP 410 (Gone) by 2026-08-13 — under a week, not ~40 days. The Software Engineering Intern (Cedar Rapids) was immediately reposted under a new req ID same day; the Raytheon EE Intern (Plano, TX) has no live replacement as of 2026-08-13. Re-check this board every few days, not every few weeks.
 
 | Company | Role | Location | | Posted | Apply |
 |---------|------|----------|--|--------|-------|
-| Collins Aerospace (RTX) 🔥 🎯 | Software Engineering Intern (Summer 2027) | Cedar Rapids, IA | | 2026-08-05 | [Apply](https://careers.rtx.com/global/en/job/01864033/Software-Engineering-Intern-Summer-2027) |
-| Raytheon (RTX) 🔥 | Electrical Engineering Intern (Summer 2027)(Onsite) | Plano, TX | | Unknown | [Apply](https://careers.rtx.com/global/en/job/01864023/Raytheon-Electrical-Engineering-Intern-Summer-2027-Onsite) |
+| Collins Aerospace (RTX) 🎯 | Software Engineering Intern (Summer 2027) | Cedar Rapids, IA | | 2026-08-12 | [Apply](https://careers.rtx.com/global/en/job/01865875/Software-Engineering-Intern-Summer-2027) |
 | Northrop Grumman 🔥 | 2027 Intern Software Engineer | Melbourne, FL | | Unknown | [Apply](https://jobs.northropgrumman.com/careers?domain=ngc.com&pid=1340073325729) |
 | GDIT (General Dynamics) 🔥 🎯 | GDIT 2027 Summer AI/ML Internship | Falls Church, VA | | Unknown | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/GDIT-2027-Summer-AI---ML-Internship_RQ225401) |
 | GDIT (General Dynamics) 🔥 🎯 | Summer 2027 AI/ML Internship - DC Metro | Falls Church, VA | | Unknown | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912) |
@@ -200,7 +199,7 @@ These are confirmed target companies with no verified open 2027 listings as of t
 | SAIC | [jobs.saic.com](https://jobs.saic.com) | **Changed ATS vendor 2026-08-10: Jobvite, NOT Workday** — `saic.wd5` is dead. Note: the general `/search/jobs?q=` ignores the query param, but the student-specific board `jobs.saic.com/search/student/jobs?q=intern` honors it | Checked 2026-08-10: student board renders "0 INTERN JOBS FOUND" — zero. Some search-indexed SAIC intern reqs (Mechanical Engineer Intern Middletown RI, Technical Intern Santa Ana CA, Drafter/CAD Crane IN) are stale — not live on the current board |
 | Booz Allen Hamilton | [boozallen.wd1.myworkdayjobs.com](https://boozallen.wd1.myworkdayjobs.com) | Workday `boozallen.wd1/BAH_Jobs` (corrected site name) | Checked 2026-08-10: one intern req (AI RAN Telecommunications Engineer Intern, McLean VA), no term stated in JD — logged in Bucket B below |
 | Teledyne FLIR | [teledyne.com/en-us/careers](https://www.teledyne.com/en-us/careers) | Workday `flir.wd1/flircareers` (found 2026-08-10 — this is the Teledyne-wide board, not FLIR-specific, ~1,981 total reqs) | Checked 2026-08-10: 2 intern reqs (EE and ME, Miamisburg OH), no term stated in JD — logged in Bucket B below. Note: Workday `searchText` is silently ignored on this tenant and returns `total=0` while still paginating the full corpus — must paginate fully and filter titles client-side |
-| NASA (general) | [nasa.gov/learning-resources/internship-programs](https://www.nasa.gov/learning-resources/internship-programs/) | STEM Gateway (Salesforce Experience Cloud SPA) — `intern.nasa.gov` now redirects here; separate from JPL and from USAJOBS Pathways | **Could not resolve 2026-08-10** — the site is a client-rendered SPA with no reachable API; WebFetch only returns the loading shell, and Claude in Chrome was refused by the extension's per-domain permission gate on `stemgateway.nasa.gov`. **This needs a manual check by the user, or Chrome permission granted for that domain.** Time-sensitive: **NASA OSTEM Spring 2027 application deadline is 2026-09-14, 11:59pm ET** (Summer 2027 deadline is 2027-02-26) |
+| NASA (general) 🔥 | [stemgateway.nasa.gov/public/s/explore-opportunities](https://stemgateway.nasa.gov/public/s/explore-opportunities) | STEM Gateway (Salesforce Experience Cloud SPA) — `intern.nasa.gov` redirects here; separate from JPL and from USAJOBS Pathways | **Now accessible via Claude in Chrome as of 2026-08-13** (the prior domain-permission block is gone). Live technical internships with "Registration Ends 2026-09-14" (= the Spring 2027 OSTEM cycle) confirmed on page 1 alone, incl. two direct 🎯 GNC/trajectory fits: **Flight Mechanics and Trajectory Design** (Artemis/HyperSTEP/HiMOM, undergrad senior+) and **Mission and Trajectory Design** (Orion Artemis III-V trajectory design using NASA's Copernicus tool, undergrad junior+) — plus Composite Structures Fabrication, Lunar Composite Radiator, and LandIR Test Engineer (technical, not 🎯). This is a large NASA-wide portal (multiple pages beyond what was checked, spanning centers) and the SPA doesn't expose stable per-listing deep links via simple automation — browse [the portal directly](https://stemgateway.nasa.gov/public/s/explore-opportunities), filter to "Internships," and apply before the **2026-09-14, 11:59pm ET deadline**. Worth a fuller sweep given the direct GNC hits on just page 1 |
 | AFRL Scholars | [afrlscholars.usra.edu](https://afrlscholars.usra.edu) | Separate portal (USRA) | Checked 2026-08-10: Summer 2027 cycle opens 2026-10-10 and closes 2027-01-10 — summer-only program, no Spring session exists |
 | Luminary Cloud (rebranded "Luminary") | [luminary.ai/careers](https://luminary.ai/careers/) | Rippling `ats.rippling.com/luminarycloud/jobs` | Re-checked via browser 2026-08-07: the Rippling board is back up (previous 404 was transient/JS-render related) — 13 open roles, all senior/FTE (Forward Deployed Engineer, Delivery Lead, Industry Practice Lead), zero internships |
 | Sandia National Labs | [sandia.gov/careers](https://www.sandia.gov/careers) | Oracle PeopleSoft `cg.sandia.gov/psp/applicant/` — machine-readable index at `sandia.jobs/sitemaps/jobs_1.xml` (found 2026-08-10) | Checked 2026-08-10: ~11 year-round technical intern reqs (Experimental Aerosciences, Counter-Autonomy & Intrusion Detection, Metallurgy/Welding, III-V Photonics, MSTIC, CINT, Albuquerque NM) that can cover a Spring 2027 term but don't state one explicitly — not added to main tables per the strict term rule, logged in Bucket B. Zero reqs mention "summer" specifically. Note: some search-indexed "Summer" Sandia intern URLs (Advanced Materials Lab, SIGMA/microelectronics, Mission Tech) are stale/expired Summer 2026 postings absent from the live sitemap — don't trust search-engine results here over the sitemap |
@@ -442,6 +441,8 @@ Per user preference (2026-08-07): only Spring 2027 or Summer 2027 terms are want
 | Luminary Cloud | Engineering Intern | 2026-08-04 |
 | Saronic | Naval Architect Intern | 2026-08-05 |
 | Joby Aviation | Mechanical Engineer Intern – Electric Propulsion Unit (Winter 2027) | 2026-08-10 |
+| Raytheon (RTX) | Electrical Engineering Intern (Summer 2027)(Onsite), Plano TX | 2026-08-13 |
+| Collins Aerospace (RTX) | Software Engineering Intern (Summer 2027) req 01864033, Cedar Rapids IA — reposted same day under new req 01865875, see open tables | 2026-08-13 |
 
 </details>
 
