@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-08-14
-Open verified 2027 roles: 43
+Last updated: 2026-08-16
+Open verified 2027 roles: 48
 
 ---
 
@@ -27,6 +27,8 @@ These apply to every future update of this tracker — read before scraping, add
 2. **No Palantir SWE/FDSE roles.** Don't add or keep Palantir Software Engineer / Forward Deployed Software Engineer (FDSE) internships, including "Year at Palantir" SWE/FDSE tracks — dropped 2026-08-07 per explicit request. Other Palantir roles (e.g. Deployment Strategist) are still fine to track; Palantir otherwise remains a priority defense target.
 3. **Location preference: SF Bay Area or LA-area (incl. El Segundo/Hawthorne/Torrance/Long Beach).** When sourcing new small/startup companies to add (Cold Email or Manual Check), weight toward these two hubs — e.g. Astranis, Apex Space, Antaris, Capella Space. This doesn't rule out strong role-interest fits elsewhere (Firefly in TX, dSPACE in MI are tracked for their GNC/sim relevance), but SF/LA should be the first place to look when adding companies just because they're "similar to X."
 4. **Push to `origin main` by default after committing.** No need to ask before pushing routine tracker updates (adding/removing roles, fixing dead links, etc.) — this README is meant to stay live on GitHub. Still use judgment for anything unusual (force-push, branch changes, history rewrites).
+5. **Target-company preference relaxed (2026-08-16).** No longer limiting scraping/sourcing effort to the Priority Targets list below — any company is worth tracking as long as the role itself is GNC, systems engineering, simulation/modeling, or otherwise 🎯-adjacent (see Role Interest Filter). The Priority Targets list still governs sort order (target-company rows and earlier-posted rows are kept near the top of each table) but no longer limits which companies get sourced.
+6. **Within each table, sort target-company rows and earlier-posted-date rows toward the top.** Priority Target companies (see below) go first regardless of posting date; among the rest, older postings (closer to any deadline, more likely to close soon) rank above newer ones. "Posted: Unknown" rows are left in their existing relative position rather than guessed at.
 
 ---
 
@@ -63,6 +65,10 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | SpaceX ⭐ 🎯 | Summer 2027 Software Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002) |
 | SpaceX ⭐ | Summer 2027 Silicon Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8621763002?gh_jid=8621763002) |
 | SpaceX ⭐ | Summer 2027 Civil/Structural Engineering Internship | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8636144002?gh_jid=8636144002) |
+| Astranis ⭐ 🔥 | Mechanical Engineer Intern (Summer 2027) | San Francisco, CA | | 2026-08-14 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704601006) |
+| Astranis ⭐ 🔥 | CAD Engineer/Librarian Intern (Summer 2027) | San Francisco, CA | | 2026-08-14 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704742006) |
+
+> Astranis (SF, priority target) posted a full Spring/Summer/Winter 2027 intern wave 2026-08-14 for Mechanical and CAD Engineer/Librarian tracks — sourced 2026-08-16 via jobs.spacecrew.com and jobs.spacecapital.com. Not 🎯 (mechanical/CAD, not GNC/sim/SWE) but added per the "verified-open target company" rule. Checked the full Greenhouse board directly: every other Astranis intern req (Flight Software, Avionics, Embedded Software, PCB Layout, Radiation Effects, etc.) is Fall 2026 only — no Spring/Summer 2027 counterpart yet, so those are skipped per the term filter.
 
 ### Defense & Counter-UAS
 | Company | Role | Location | | Posted | Apply |
@@ -95,6 +101,15 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 
 > Northrop Grumman, GDIT, and Gulfstream were sourced 2026-08-10 after discovering their careers boards had migrated ATS vendors (Northrop moved from Workday to Eightfold; GD units resolved to their own separate boards — see the Manual Check table's General Dynamics entry below for the full breakdown). None of these are re-scraped by the existing auto-scraper yet.
 
+### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
+> Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
+
+| Company | Role | Location | | Posted | Apply |
+|---------|------|----------|--|--------|-------|
+| Freeform 🔥 🎯 | Software Engineering Intern (Summer 2027) | Hawthorne, CA | | 2026-08-15 | [Apply](https://boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) |
+
+> Freeform (Hawthorne, CA — LA area) builds software-defined autonomous metal 3D-printing factories; the internship is real-time controls, high-speed data acquisition, and embedded/C++ software for production systems — a direct GNC-adjacent controls/SWE fit. $34-38/hr depending on degree level. Found 2026-08-16 via jobs.spacecapital.com.
+
 ---
 
 ## 🌿 Spring 2027 / Co-op
@@ -108,6 +123,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | SpaceX ⭐ 🎯 | Spring 2027 Software Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002) |
 | SpaceX ⭐ | Spring 2027 Silicon Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002) |
 | SpaceX ⭐ | Spring 2027 Civil/Structural Engineering Internship | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002) |
+| Astranis ⭐ 🔥 | Mechanical Engineer Intern (Spring 2027) | San Francisco, CA | | 2026-08-14 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704602006) |
+| Astranis ⭐ 🔥 | CAD Engineer/Librarian Intern (Spring 2027) | San Francisco, CA | | 2026-08-14 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704740006) |
 | Varda Space Industries 🔥 🎯 | Guidance, Navigation & Controls (GNC) Internship - Spring 2027 | El Segundo, CA | | 2026-08-07 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824781003) |
 | Varda Space Industries 🔥 🎯 | Flight Software Internship - Spring 2027 | El Segundo, CA | | 2026-08-07 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824815003) |
 | Varda Space Industries 🔥 | Applications Engineering Internship - Spring 2027 | El Segundo, CA | | 2026-08-07 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824822003) |
@@ -128,6 +145,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 
 > All 5 NASA roles confirmed via their individual STEM Gateway detail pages: "Session: Intern Spring 2027", registration open 2026-06-12–2026-09-14. No explicit "posted" date field on any of these listings (unlike some other STEM Gateway postings, which do show one) — apply before the **2026-09-14, 11:59pm ET deadline**. No named mentor/PI on any public listing, just the generic nasa-internships@mail.nasa.gov contact — mentors are typically only revealed after selection. Found 2026-08-14 by paging through the "Internships" filter on [stemgateway.nasa.gov](https://stemgateway.nasa.gov/public/s/explore-opportunities) — only the first 2 pages (30 of what's likely hundreds of listings across all NASA centers) were checked; worth a deeper sweep for more GNC/sim/autonomy fits.
 > Varda Space Industries (El Segundo, LA — reentry capsules / in-space manufacturing) posted a full Spring 2027 internship class on 2026-08-07 (11 technical roles found via Greenhouse `vardaspace` board), including a direct GNC internship — this was previously only a Cold Email lead with no resolvable ATS; now confirmed live. Skipped: Biologics Formulation Research Internship (not an engineering track) and EHS/Supply Chain (excluded per the technical-roles-only filter). Moved out of Cold Email — see below.
+> Astranis (SF, priority target) — see the matching note under Summer 2027 above; same Spring 2027 Mechanical/CAD pair, posted 2026-08-14.
 > Xona Space Systems (Burlingame, CA — LEO PNT/GPS alternative) resolved to an Ashby board (`xona-space`, 61 open roles) on 2026-08-10 with a Spring 2027 Mechanical Engineering Co-op live — previously only a Cold Email lead with no known ATS. Moved out of Cold Email — see below.
 
 **Removed 2026-08-07 (confirmed closed — no longer returned by Blue Origin's Workday postings API, only R69064 is still live):**
@@ -253,8 +271,9 @@ Companies not previously tracked, sourced specifically for the GNC/simulation ro
 
 | Company | Portal | ATS | Notes |
 |---------|--------|-----|-------|
-| True Anomaly | Greenhouse `trueanomalyinc` (resolved 2026-08-10 — the previous "all 404" guesses were the wrong slug) | Greenhouse (auto-scraped) | Space domain awareness / autonomous orbital spacecraft — GNC-heavy team. Checked 2026-08-10: 165 open roles, zero internships — no fresh GNC Intern posting since the one that stopped accepting applications ~March 2026 |
+| True Anomaly | [trueanomaly.space/careers](https://www.trueanomaly.space/careers) | Custom portal (embedded widget, not directly scrapable) | Space domain awareness / autonomous orbital spacecraft — GNC-heavy team. Re-checked directly via browser 2026-08-16: only 5 live roles (Denver/Long Beach), all senior/full-time except one **Avionics and Electrical Engineering Fall Co-op** — no Spring/Summer 2027 intern live. Note: a "GSE Engineering Intern" (Laguna Beach, CA) posting appeared on jobs.spacecapital.com's aggregator feed 2026-08-16 but is not present on True Anomaly's own live board — likely stale/expired, don't trust the aggregator over the source |
 | Shield AI | [jobs.lever.co/shieldai](https://jobs.lever.co/shieldai) | Lever (auto-scraped) | ATS resolved 2026-08-08 — their EE Spring Co-op (January 2027) is now tracked in the main Defense & Counter-UAS table above. Re-checked full Lever board 2026-08-08: that's their only current student role, no GNC/SWE internship live right now |
+| Starpath Robotics 🔥 | [jobs.ashbyhq.com/starpath.space](https://jobs.ashbyhq.com/starpath.space) | Ashby `starpath.space` (found 2026-08-16 — note the slug is NOT `starpath`, that 404s) | Space solar power (Starlight Solar team) + lunar rover/flight software (Starmine team, incl. a Senior Robotics SWE - Lunar Rover Localization role) — Hawthorne, CA (LA area), strong GNC/robotics-adjacent fit. Checked 2026-08-16: 22 open roles incl. one **Intern/Associate Engineer - All Roles** ($70-90K, Operations dept) — but it's hired on a rolling basis with no stated Spring/Summer 2027 term, so not added to the main tables per the term rule. [Apply](https://jobs.ashbyhq.com/starpath.space/a67d20c0-c331-4874-9588-ae5762a6a078) if willing to apply outside the strict term filter — worth asking directly about a 2027 cohort. |
 
 ### Robotics & Hardware Startups (no confirmed internship — from networking calls)
 
