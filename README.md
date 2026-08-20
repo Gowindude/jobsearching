@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-08-16
-Open verified 2027 roles: 52
+Open verified 2027 roles: 53
 
 ---
 
@@ -96,12 +96,14 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 |---------|------|----------|--|--------|-------|
 | Collins Aerospace (RTX) 🎯 | Software Engineering Intern (Summer 2027) | Cedar Rapids, IA | | 2026-08-12 | [Apply](https://careers.rtx.com/global/en/job/01865875/Software-Engineering-Intern-Summer-2027) |
 | Teledyne FLIR 🔥 🎯 | NHRC Software Engineering Internship (Summer 2027) | Huntsville, AL | | 2026-08-14 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/us---huntsville-al/nhrc-software-engineering-internship--summer-2027-_req36193) |
+| Northrop Grumman 🔥 🎯 | 2027 Guidance Navigation and Control Intern | Dulles, VA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340073702822) |
 | Northrop Grumman 🔥 | 2027 Intern Software Engineer | Melbourne, FL | | Unknown | [Apply](https://jobs.northropgrumman.com/careers?domain=ngc.com&pid=1340073325729) |
 | GDIT (General Dynamics) 🔥 🎯 | GDIT 2027 Summer AI/ML Internship | Falls Church, VA | | Unknown | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/GDIT-2027-Summer-AI---ML-Internship_RQ225401) |
 | GDIT (General Dynamics) 🔥 🎯 | Summer 2027 AI/ML Internship - DC Metro | Falls Church, VA | | Unknown | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912) |
 | Gulfstream (General Dynamics) 🔥 | Summer 2027 IEF - Advanced Structures & Materials (ASMI) College Associate Intern | Savannah, GA | | Unknown | [Apply](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Advanced-Structures-and-Materials-%28ASMI%29-College-Associate-Intern-GA-31401/1417869000/) |
 
 > Northrop Grumman, GDIT, and Gulfstream were sourced 2026-08-10 after discovering their careers boards had migrated ATS vendors (Northrop moved from Workday to Eightfold; GD units resolved to their own separate boards — see the Manual Check table's General Dynamics entry below for the full breakdown). None of these are re-scraped by the existing auto-scraper yet.
+> **Northrop Grumman GNC Intern (Dulles, VA) found 2026-08-20** — missed on the 2026-08-16 sweep, which only checked their Eightfold search API with generic "intern" queries. This one only surfaced by directly opening a job detail page. Confirms Northrop's board needs frequent, keyword-varied re-checks (GNC/systems-eng/simulation, not just "intern") — their reqs appear to post and get buried fast. Re-check every few days, similar to the RTX note above.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
