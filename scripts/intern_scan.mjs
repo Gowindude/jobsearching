@@ -19,6 +19,8 @@ const FALSE_POSITIVE_RE = /international|internal/i;
 // ---- Board config -------------------------------------------------------
 
 const GREENHOUSE_BOARDS = {
+  'SpaceX': 'spacex',
+  'Planet Labs': 'planetlabs',
   'Stoke Space': 'stokespacetechnologies',
   'Relativity Space': 'relativity',
   'Vast': 'vast',
@@ -58,6 +60,7 @@ const ASHBY_BOARDS = {
 
 // Workday CXS tenants: { tenant, site }
 const WORKDAY_BOARDS = {
+  'Blue Origin': { host: 'blueorigin.wd5', tenant: 'blueorigin', site: 'BlueOrigin' },
   'Nvidia': { host: 'nvidia.wd5', tenant: 'nvidia', site: 'NVIDIAExternalCareerSite' },
   'Sierra Space': { host: 'sierraspace.wd1', tenant: 'sierraspace', site: 'Sierra_Space_External_Career_Site' },
   'Boeing': { host: 'boeing.wd1', tenant: 'boeing', site: 'EXTERNAL_CAREERS' },
@@ -110,26 +113,41 @@ async function fetchAshby(slug) {
   return { ok: true, jobs };
 }
 
-async function fetchWorkday({ host, tenant, site }, searchText = 'intern') {
+// Workday's relevance ranking is unreliable for a single bare "intern" query
+// (e.g. Blue Origin buries real postings behind noise). Query several
+// variants and merge unique results by externalPath instead.
+const WORKDAY_QUERIES = ['intern', 'co-op', '2027 intern', 'engineering intern', 'internship'];
+
+async function fetchWorkday({ host, tenant, site }) {
   const url = `https://${host}.myworkdayjobs.com/wday/cxs/${tenant}/${site}/jobs`;
-  const r = await fetch(url, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ appliedFacets: {}, limit: 20, offset: 0, searchText }),
-  });
-  if (!r.ok) return { ok: false, status: r.status };
-  const d = await r.json();
-  const postings = d.jobPostings || [];
-  const jobs = postings
-    .filter(j => INTERN_RE.test(j.title) && !FALSE_POSITIVE_RE.test(j.title))
-    .map(j => ({
-      id: `wd:${host}:${j.externalPath}`,
-      title: j.title,
-      location: j.locationsText || '',
-      posted: j.postedOn || '',
-      url: `https://${host}.myworkdayjobs.com/en-US/${site}${j.externalPath}`,
-    }));
-  return { ok: true, jobs, total: d.total };
+  const seen = new Map();
+  let total = null;
+  let anyOk = false;
+  for (const searchText of WORKDAY_QUERIES) {
+    const r = await fetch(url, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ appliedFacets: {}, limit: 20, offset: 0, searchText }),
+    });
+    if (!r.ok) continue;
+    anyOk = true;
+    const d = await r.json();
+    if (total === null) total = d.total;
+    for (const j of d.jobPostings || []) {
+      if (INTERN_RE.test(j.title) && !FALSE_POSITIVE_RE.test(j.title) && !seen.has(j.externalPath)) {
+        seen.set(j.externalPath, j);
+      }
+    }
+  }
+  if (!anyOk) return { ok: false, status: 'all queries failed' };
+  const jobs = [...seen.values()].map(j => ({
+    id: `wd:${host}:${j.externalPath}`,
+    title: j.title,
+    location: j.locationsText || '',
+    posted: j.postedOn || '',
+    url: `https://${host}.myworkdayjobs.com/en-US/${site}${j.externalPath}`,
+  }));
+  return { ok: true, jobs, total };
 }
 
 async function fetchEightfold(url) {
