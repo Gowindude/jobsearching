@@ -118,24 +118,30 @@ async function fetchAshby(slug) {
 // variants and merge unique results by externalPath instead.
 const WORKDAY_QUERIES = ['intern', 'co-op', '2027 intern', 'engineering intern', 'internship'];
 
+// Workday's CXS API hard-caps `limit` at 20 (anything higher 400s) — so we
+// page with offset 0 and 20 per query instead of asking for more per page.
+const WORKDAY_OFFSETS = [0, 20];
+
 async function fetchWorkday({ host, tenant, site }) {
   const url = `https://${host}.myworkdayjobs.com/wday/cxs/${tenant}/${site}/jobs`;
   const seen = new Map();
   let total = null;
   let anyOk = false;
   for (const searchText of WORKDAY_QUERIES) {
-    const r = await fetch(url, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ appliedFacets: {}, limit: 20, offset: 0, searchText }),
-    });
-    if (!r.ok) continue;
-    anyOk = true;
-    const d = await r.json();
-    if (total === null) total = d.total;
-    for (const j of d.jobPostings || []) {
-      if (INTERN_RE.test(j.title) && !FALSE_POSITIVE_RE.test(j.title) && !seen.has(j.externalPath)) {
-        seen.set(j.externalPath, j);
+    for (const offset of WORKDAY_OFFSETS) {
+      const r = await fetch(url, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ appliedFacets: {}, limit: 20, offset, searchText }),
+      });
+      if (!r.ok) continue;
+      anyOk = true;
+      const d = await r.json();
+      if (total === null) total = d.total;
+      for (const j of d.jobPostings || []) {
+        if (INTERN_RE.test(j.title) && !FALSE_POSITIVE_RE.test(j.title) && !seen.has(j.externalPath)) {
+          seen.set(j.externalPath, j);
+        }
       }
     }
   }
