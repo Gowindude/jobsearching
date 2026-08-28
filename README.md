@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-08-27
-Open verified 2027 roles: 141
+Last updated: 2026-08-28
+Open verified 2027 roles: 142
 
 ---
 
@@ -141,6 +141,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Leidos 🔥 🎯 | Software Developer Co-op | Bethesda, MD | 🇺🇸 | 2026-08-27 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Bethesda-MD/Software-Developer-Co-op_R-00190766) |
 | Leidos 🔥 🎯 | Computer Engineering Co-op | Bethesda, MD | 🇺🇸 | 2026-08-27 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Bethesda-MD/Computer-Engineering-Co-op_R-00190756) |
 | Leidos 🔥 | Cybersecurity Engineer Co-op | Bethesda, MD | 🇺🇸 | 2026-08-27 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Bethesda-MD/Cybersecurity-Engineer-Co-op_R-00190764) |
+| Leidos 🔥 🎯 | Data Science Intern | San Diego, CA | 🇺🇸 | 2026-08-28 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-CA/Data-Science-Intern_R-00190740) |
 | Amentum 🔥 🎯 | Summer 2027 Intern - Structural Dynamics Engineer | Houston, TX | 🇺🇸 | 2026-08-24 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-TX-Houston/Summer-2027-Intern---Structural-Dynamics-Engineer_R0168655) |
 | Nvidia 🔥 🎯 | NVIDIA 2027 Internships: Software Engineering | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) |
 | Nvidia 🔥 🎯 | NVIDIA 2027 Internships: Systems Software Engineering | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) |
