@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-08-28
-Open verified 2027 roles: 142
+Open verified 2027 roles: 145
 
 ---
 
@@ -85,6 +85,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Zipline 🔥 🎯 | Controls Engineer Intern (Summer 2027) | South San Francisco, CA | | 2026-08-19 | [Apply](https://www.zipline.com/open-roles?gh_jid=7903889003) |
 | Zipline 🔥 🎯 | Enterprise Systems Software Engineer Intern (Summer 2027) | South San Francisco, CA | | 2026-08-18 | [Apply](https://www.zipline.com/open-roles?gh_jid=7886501003) |
 | Zipline 🔥 🎯 | Perception Intern (Summer 2027) | South San Francisco, CA | | 2026-08-20 | [Apply](https://www.zipline.com/open-roles?gh_jid=7909570003) |
+| Zipline 🔥 🎯 | Maps Intern (Summer 2027) | South San Francisco, CA | | 2026-08-28 | [Apply](https://www.zipline.com/open-roles?gh_jid=7980866003) |
 | Zipline 🔥 🎯 | Software Engineer Intern (Summer 2027) | South San Francisco, CA | | 2026-08-21 | [Apply](https://www.zipline.com/open-roles?gh_jid=7929236003) |
 | Zipline 🔥 | Aerodynamics Intern (Summer 2027) | South San Francisco, CA | | 2026-08-21 | [Apply](https://www.zipline.com/open-roles?gh_jid=7904518003) |
 | Zipline 🔥 | Applications Engineer Intern (Summer 2027) | South San Francisco, CA | | 2026-08-20 | [Apply](https://www.zipline.com/open-roles?gh_jid=7909946003) |
@@ -262,6 +263,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Zipline 🔥 | Supplier Industrialization Engineering Intern (Spring 2027) | South San Francisco, CA | | 2026-08-18 | [Apply](https://www.zipline.com/open-roles?gh_jid=7891019003) |
 | Zipline 🔥 | System Test Automation Intern (Spring 2027) | South San Francisco, CA | | 2026-08-18 | [Apply](https://www.zipline.com/open-roles?gh_jid=7893946003) |
 | Zipline 🔥 | Technical Program Manager Intern (Spring 2027) | South San Francisco, CA | | 2026-08-19 | [Apply](https://www.zipline.com/open-roles?gh_jid=7904446003) |
+| Zipline 🔥 🎯 | Maps Intern (Spring 2027) | South San Francisco, CA | | 2026-08-28 | [Apply](https://www.zipline.com/open-roles?gh_jid=7929354003) |
+| Zipline 🔥 | Electrical Project Engineer Intern (Spring 2027) | South San Francisco, CA | | 2026-08-28 | [Apply](https://www.zipline.com/open-roles?gh_jid=7980874003) |
 
 > Anduril's Naval Architect Co-op – Winter 2027 was removed 2026-08-08 to enforce the Spring/Summer-2027-only standing preference (it predated that rule and had slipped through). Still live on their board if a Winter term becomes acceptable later.
 > Shield AI's Electrical Engineering Spring Co-op (January 2027) — **closed as of 2026-08-16** (full re-sweep found their Lever board down to 7 postings, none intern/co-op). Moved to Closed/Expired below.
