@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-08-31
-Open verified 2027 roles: 149
+Open verified 2027 roles: 150
 
 ---
 
@@ -142,6 +142,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Leidos 🔥 🎯 | Software Developer Co-op | Bethesda, MD | 🇺🇸 | 2026-08-27 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Bethesda-MD/Software-Developer-Co-op_R-00190766) |
 | Leidos 🔥 🎯 | Computer Engineering Co-op | Bethesda, MD | 🇺🇸 | 2026-08-27 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Bethesda-MD/Computer-Engineering-Co-op_R-00190756) |
 | Leidos 🔥 | Cybersecurity Engineer Co-op | Bethesda, MD | 🇺🇸 | 2026-08-27 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Bethesda-MD/Cybersecurity-Engineer-Co-op_R-00190764) |
+| Leidos 🔥 | SharePoint & Systems Engineering Intern (Summer 2027) | Remote (US Eastern/Central) | 🇺🇸 | 2026-08-31 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/SharePoint---Systems-Engineering-Intern_R-00190982) |
 | Leidos 🔥 🎯 | Data Science Intern | San Diego, CA | 🇺🇸 | 2026-08-28 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-CA/Data-Science-Intern_R-00190740) |
 | GE Aerospace 🔥 🎯 | Applied AI Engineer Intern – Summer 2027 (May/June Start) | Evendale, OH (53 locations) | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) |
 | GE Aerospace 🔥 | Product Definition Engineering Intern - Lynn, MA - Summer 2027 | Lynn, MA | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Lynn/Product-Definition-Engineering-Intern---Lynn--MA---Summer-2027_R5039185-1) |
