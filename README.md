@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-08-31
-Open verified 2027 roles: 150
+Open verified 2027 roles: 152
 
 ---
 
@@ -100,6 +100,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Zipline 🔥 | Supplier Industrialization Engineering Intern (Summer 2027) | South San Francisco, CA | | 2026-08-18 | [Apply](https://www.zipline.com/open-roles?gh_jid=7891110003) |
 | Zipline 🔥 | System Test Automation Intern (Summer 2027) | South San Francisco, CA | | 2026-08-18 | [Apply](https://www.zipline.com/open-roles?gh_jid=7886320003) |
 | Zipline 🔥 | Technical Program Manager Intern (Summer 2027) | South San Francisco, CA | | 2026-08-21 | [Apply](https://www.zipline.com/open-roles?gh_jid=7904471003) |
+| Shield AI 🔥 | Summer 2027 - Advanced Manufacturing Engineering Intern | Dallas, TX | 🇺🇸 | 2026-08-27 | [Apply](https://jobs.lever.co/shieldai/c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a) |
 
 > Not interested in Palantir SWE/FDSE roles — all Software Engineer, Forward Deployed Software Engineer, and "Year at Palantir" SWE/FDSE listings dropped 2026-08-07 per user request. Only non-SWE Palantir roles (e.g. Deployment Strategist) are still tracked.
 > Zipline (autonomous drone delivery, South SF) isn't defense/counter-UAS by mission but is UAS-adjacent autonomy — added here for lack of a better-fitting section. **Update 2026-08-24**: Zipline posted a huge Spring/Summer 2027 internship wave (58 intern postings total, resolved via Greenhouse board slug `flyzipline` — sourced from jobs.spacecapital.com's "Internship" seniority filter). Added all technical/engineering titles here and in the Spring 2027 table below; skipped non-technical ones (Accounting, Community Engagement, Construction Management, Global Supply Management, Material Planning, Operations Experience, Partner Success, Sales Operations Analyst, Strategic Engagements & Events, Supply Chain Business Operations, Talent and Recruiting, Video Production) per the technical-roles-only filter, plus the 2 Fall 2026 postings (out of term). 🎯-tagged: Computational Physics, Controls Engineer, Enterprise Systems Software Engineer, Perception, Software Engineer.
@@ -125,6 +126,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 | 2027 Systems Safety Engineering Intern - Huntsville AL | Huntsville, AL | | 2026-08-24 | [Apply](https://jobs.northropgrumman.com/careers/job/1340073904738) |
 | Northrop Grumman 🔥 | 2027 Software Test Engineering Intern - Huntsville AL | Huntsville, AL | | 2026-08-25 | [Apply](https://jobs.northropgrumman.com/careers/job/1340073914854) |
 | Northrop Grumman 🔥 🎯 | 2027 Intern Vehicle Engineering - CA OK ND | Palmdale, CA (+6 other CA/OK sites) | 🇺🇸 | 2026-08-27 | [Apply](https://jobs.northropgrumman.com/careers/job/1340073999705) |
+| Northrop Grumman 🔥 🎯 | 2027 Systems Engineering Intern - Roy UT | Roy, UT | 🇺🇸 | 2026-08-31 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074078725) |
 | GE Aerospace 🔥 | Unison Engineering Intern (Summer 2027) | Jacksonville, FL / Norwich, NY / Dayton, OH / St. George, UT | | 2026-08-18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) |
 | GE Aerospace 🔥 🎯 | Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 | Evendale, OH | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) |
 | GE Aerospace 🔥 | Digital Technology Intern – US – Atlanta, GA – Summer 2027 | Atlanta, GA | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Atlanta/Digital-Technology-Intern---US---Atlanta--GA----Summer-2027_R5038078) |
