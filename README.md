@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-08-28
-Open verified 2027 roles: 145
+Last updated: 2026-08-31
+Open verified 2027 roles: 147
 
 ---
 
@@ -143,6 +143,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Leidos 🔥 🎯 | Computer Engineering Co-op | Bethesda, MD | 🇺🇸 | 2026-08-27 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Bethesda-MD/Computer-Engineering-Co-op_R-00190756) |
 | Leidos 🔥 | Cybersecurity Engineer Co-op | Bethesda, MD | 🇺🇸 | 2026-08-27 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Bethesda-MD/Cybersecurity-Engineer-Co-op_R-00190764) |
 | Leidos 🔥 🎯 | Data Science Intern | San Diego, CA | 🇺🇸 | 2026-08-28 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-CA/Data-Science-Intern_R-00190740) |
+| GE Aerospace 🔥 🎯 | Applied AI Engineer Intern – Summer 2027 (May/June Start) | Evendale, OH (53 locations) | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) |
 | Amentum 🔥 🎯 | Summer 2027 Intern - Structural Dynamics Engineer | Houston, TX | 🇺🇸 | 2026-08-24 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-TX-Houston/Summer-2027-Intern---Structural-Dynamics-Engineer_R0168655) |
 | Nvidia 🔥 🎯 | NVIDIA 2027 Internships: Software Engineering | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) |
 | Nvidia 🔥 🎯 | NVIDIA 2027 Internships: Systems Software Engineering | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) |
@@ -279,6 +280,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | GE Aerospace 🔥 | Embedded Systems Engineer Co-op | Bohemia, NY | | Unknown | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Bohemia/Embedded-Systems-Engineer-Co-op--Bohemia--NY----Spring-2027_R5035583-1) |
 | GE Aerospace 🔥 | Unison Engineering Intern (Spring 2027) | Jacksonville, FL / Norwich, NY / Dayton, OH / St. George, UT | | 2026-08-18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Spring-2027_R5037093-1) |
 | GE Aerospace 🔥 | Manufacturing Engineering Co-op – US – Spring 2027 | Evendale, OH (23 locations) | | 2026-08-18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Manufacturing-Engineering-Co-op---US---Spring-2027_R5029663) |
+| GE Aerospace 🔥 🎯 | Applied AI Engineer Co-op – Spring 2027 (January Start) | Evendale, OH (53 locations) | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Co-op---Spring-2027--January-Start-_R5039041-1) |
 | GDMS (General Dynamics Mission Systems) 🔥 | Infrastructure Engineer Co-op | Pittsfield, MA | 🇺🇸 | Unknown | [Apply](https://careers-gdms.icims.com/jobs/72403/job) |
 | Leidos 🔥 🎯 | Software Engineer Intern (Spring / Fall 2027) | Reston, VA | 🇺🇸 | Unknown | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Software-Engineer-Intern--Spring---Fall-2027-_R-00167584) |
 | Nvidia 🔥 🎯 | NVIDIA Spring 2027 Internships: Developer and Performance Technology | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499) |
