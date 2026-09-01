@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-09-01
-Open verified 2027 roles: 160
+Open verified 2027 roles: 168
 
 ---
 
@@ -69,8 +69,17 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | SpaceX ⭐ | Summer 2027 Civil/Structural Engineering Internship | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8636144002?gh_jid=8636144002) |
 | Astranis ⭐ 🔥 | Mechanical Engineer Intern (Summer 2027) | San Francisco, CA | | 2026-08-14 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704601006) |
 | Astranis ⭐ 🔥 | CAD Engineer/Librarian Intern (Summer 2027) | San Francisco, CA | | 2026-08-14 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704742006) |
+| K2 Space ⭐ 🔥 🎯 | GNC Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411917008) |
+| K2 Space ⭐ 🔥 🎯 | Dynamics Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411916008) |
+| K2 Space ⭐ 🔥 🎯 | Software Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008) |
+| K2 Space ⭐ 🔥 | Avionics Systems/Test Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411921008) |
+| K2 Space ⭐ 🔥 | Electrical Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411918008) |
+| K2 Space ⭐ 🔥 | Mechanical Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411915008) |
+| K2 Space ⭐ 🔥 | RF Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411919008) |
+| K2 Space ⭐ 🔥 | Vehicle Operations Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411914008) |
 
 > Astranis (SF, priority target) posted a full Spring/Summer/Winter 2027 intern wave 2026-08-14 for Mechanical and CAD Engineer/Librarian tracks — sourced 2026-08-16 via jobs.spacecrew.com and jobs.spacecapital.com. Not 🎯 (mechanical/CAD, not GNC/sim/SWE) but added per the "verified-open target company" rule. Checked the full Greenhouse board directly: every other Astranis intern req (Flight Software, Avionics, Embedded Software, PCB Layout, Radiation Effects, etc.) is Fall 2026 only — no Spring/Summer 2027 counterpart yet, so those are skipped per the term filter.
+> **K2 Space (priority target) — 2026-09-01: first-ever Summer 2027 intern wave**, 8 roles, all Los Angeles, all posted same day. Previously confirmed zero internships on 2026-08-16 and 2026-08-24 — this is a brand new posting wave, not something missed earlier. Direct GNC Engineering Intern is the strongest 🎯 hit; also tagged Dynamics Engineering (simulation/dynamics-adjacent) and Software Engineering.
 
 ### Defense & Counter-UAS
 | Company | Role | Location | | Posted | Apply |
@@ -331,7 +340,7 @@ These are confirmed target companies with no verified open 2027 listings as of t
 | Nvidia ⭐ | [nvidia.wd5.myworkdayjobs.com](https://nvidia.wd5.myworkdayjobs.com) | Workday | Re-checked 2026-08-16: 920 "intern" matches (fuzzy, includes "Internal"); sampled results show only Fall 2026 US PhD research roles + 2027 Taiwan roles — no US Spring/Summer 2027 confirmed. **Update 2026-08-20**: found "NVIDIA 2027 Internships: Autonomous Vehicles and Robotics" (Santa Clara, JR2023496, added to main table 2026-08-24) and "NVIDIA 2027 Internships: Ph.D. Research Robotics" (JR2023847, now closed/replaced) — strong 🎯 GNC/robotics/simulation fit. **2026-08-24**: found 2 more explicit-term postings — "NVIDIA Spring 2027 Internships: Developer and Performance Technology" (JR2023499) and "NVIDIA 2027 Summer Internships: Ph.D. Engineering" (JR2023856, PhD-only), both posted 2026-08-19 — both added to the main tables |
 | Relativity Space ⭐ | [job-boards.greenhouse.io/relativity](https://job-boards.greenhouse.io/relativity) | Greenhouse (auto-scraped) | Re-checked 2026-08-16: still zero intern/co-op titled roles |
 | Vast ⭐ | [job-boards.greenhouse.io/vast](https://job-boards.greenhouse.io/vast) | Greenhouse (auto-scraped) | Re-checked 2026-08-16: 1 intern found — Supplier Quality Engineering Intern (Long Beach, CA), but **Fall 2026**, excluded by term |
-| K2 Space ⭐ | [job-boards.greenhouse.io/k2spacecorporation](https://job-boards.greenhouse.io/k2spacecorporation) | Greenhouse (auto-scraped) | Re-checked 2026-08-16: still zero — small team, cold email worth trying |
+| K2 Space ⭐ 🔥 | [job-boards.greenhouse.io/k2spacecorporation](https://job-boards.greenhouse.io/k2spacecorporation) | Greenhouse (auto-scraped) | Re-checked 2026-08-16: still zero — small team, cold email worth trying. **2026-09-01: posted a full 8-role Summer 2027 intern wave** (GNC, Dynamics, Software, Avionics/Test, Electrical, Mechanical, RF, Vehicle Operations Engineering) — all added to the Summer 2027 Space & Launch table above |
 | Astranis ⭐ (SF) 🎯 | [job-boards.greenhouse.io/astranis](https://job-boards.greenhouse.io/astranis) | Greenhouse (auto-scraped) | **Update 2026-08-14/16**: Astranis now has a live Spring/Summer/Winter 2027 Mechanical Engineer + CAD Engineer/Librarian intern wave — added to the main Spring/Summer 2027 Space & Launch tables above. Every other intern req (Flight Software, Avionics, Embedded Software, PCB Layout, Radiation Effects, etc., incl. the 🎯 GNC-adjacent Flight Software Intern) remains Fall 2026 only |
 | Sierra Space | [sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site](https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site) | Workday `sierraspace.wd1/Sierra_Space_External_Career_Site` | Re-checked 2026-08-16: 1 intern found on page 1 — Fall 2026 Mechanical Engineering Intern (Centennial, CO), excluded by term. Didn't page through the full ~9 pages of the search (query appears unfiltered) — worth a deeper pass |
 | Rocket Lab | [job-boards.greenhouse.io/rocketlab](https://job-boards.greenhouse.io/rocketlab) | Greenhouse (auto-scraped) | Re-checked 2026-08-16: 17 intern titles found, all Auckland NZ — zero US. Spring/Summer 2027 US expected ~Nov 2026 |
