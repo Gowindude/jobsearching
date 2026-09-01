@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-09-01
-Open verified 2027 roles: 207
+Open verified 2027 roles: 209
 
 ---
 
@@ -138,6 +138,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Shield AI 🔥 | Summer 2027 - Electrical Engineering Intern | Dallas, TX | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/shieldai/200a293f-71ce-4982-a100-ac4b500c4cf7) |
 | Katalyst Space Technologies 🔥 🎯 | Engineering Intern (Electrical / Mechanical / GNC / Software) | Broomfield, CO | 🇺🇸 | 2026-08-31 | [Apply](https://job-boards.greenhouse.io/katalyst/jobs/6176711004) |
 | AeroVironment 🔥 | Electrical Engineering Intern | Simi Valley, CA | 🇺🇸 | 2026-09-01 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Electrical-Engineering-Intern_8588) |
+| AeroVironment 🔥 🎯 | Software Engineering Intern | Sunrise, FL | 🇺🇸 | 2026-09-01 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Sunrise-FL/Software-Engineering-Intern_8589) |
 | AeroVironment 🔥 🎯 | Summer 2027 GNC / Autonomy Intern | Simi Valley, CA (14 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Summer-2027-GNC---Autonomy-Intern_8610) |
 | AeroVironment 🔥 🎯 | Summer 2027 Software Engineering Intern | Simi Valley, CA (14 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Summer-2027-Software-Engineering-Intern_8611) |
 | AeroVironment 🔥 🎯 | Summer 2027 Embedded Software Engineering Intern | Simi Valley, CA (16 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8388) |
@@ -148,6 +149,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | AeroVironment 🔥 | Summer 2027 Aeromechanical Engineering Intern | Simi Valley, CA (18 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Summer-2027-Aeromechanical-Engineering-Intern_8387) |
 | Hermeus 🔥 | Subsystem Test Engineering Intern - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/643fd7b7-9015-43a1-aa2b-a54f117b403c) |
 | Hermeus 🔥 🎯 | Software Engineering Intern (Modeling & Simulation) - Spring/Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936) |
+| Hermeus 🔥 🎯 | Software Engineering Intern (HIL) - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b) |
 
 > Not interested in Palantir SWE/FDSE roles — all Software Engineer, Forward Deployed Software Engineer, and "Year at Palantir" SWE/FDSE listings dropped 2026-08-07 per user request. Only non-SWE Palantir roles (e.g. Deployment Strategist) are still tracked.
 > Zipline (autonomous drone delivery, South SF) isn't defense/counter-UAS by mission but is UAS-adjacent autonomy — added here for lack of a better-fitting section. **Update 2026-08-24**: Zipline posted a huge Spring/Summer 2027 internship wave (58 intern postings total, resolved via Greenhouse board slug `flyzipline` — sourced from jobs.spacecapital.com's "Internship" seniority filter). Added all technical/engineering titles here and in the Spring 2027 table below; skipped non-technical ones (Accounting, Community Engagement, Construction Management, Global Supply Management, Material Planning, Operations Experience, Partner Success, Sales Operations Analyst, Strategic Engagements & Events, Supply Chain Business Operations, Talent and Recruiting, Video Production) per the technical-roles-only filter, plus the 2 Fall 2026 postings (out of term). 🎯-tagged: Computational Physics, Controls Engineer, Enterprise Systems Software Engineer, Perception, Software Engineer.
