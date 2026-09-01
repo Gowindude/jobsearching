@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-09-01
-Open verified 2027 roles: 172
+Open verified 2027 roles: 186
 
 ---
 
@@ -77,6 +77,9 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | K2 Space ⭐ 🔥 | Mechanical Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411915008) |
 | K2 Space ⭐ 🔥 | RF Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411919008) |
 | K2 Space ⭐ 🔥 | Vehicle Operations Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411914008) |
+| Stoke Space ⭐ 🔥 🎯 | Summer 2027 Internship - Engineering | Cape Canaveral, FL / Kent, WA / Moses Lake, WA | 🇺🇸 | 2026-09-01 | [Apply](https://stokespace.com/careers/current-openings?gh_jid=6175828004) |
+| Stoke Space ⭐ 🔥 🎯 | Summer 2027 Internship - Software | Kent, WA | 🇺🇸 | 2026-09-01 | [Apply](https://stokespace.com/careers/current-openings?gh_jid=6176786004) |
+| Stoke Space ⭐ 🔥 | Summer 2027 Internship - Operations | Kent, WA | 🇺🇸 | 2026-09-01 | [Apply](https://stokespace.com/careers/current-openings?gh_jid=6176785004) |
 
 > Astranis (SF, priority target) posted a full Spring/Summer/Winter 2027 intern wave 2026-08-14 for Mechanical and CAD Engineer/Librarian tracks — sourced 2026-08-16 via jobs.spacecrew.com and jobs.spacecapital.com. Not 🎯 (mechanical/CAD, not GNC/sim/SWE) but added per the "verified-open target company" rule. Checked the full Greenhouse board directly: every other Astranis intern req (Flight Software, Avionics, Embedded Software, PCB Layout, Radiation Effects, etc.) is Fall 2026 only — no Spring/Summer 2027 counterpart yet, so those are skipped per the term filter.
 > **K2 Space (priority target) — 2026-09-01: first-ever Summer 2027 intern wave**, 8 roles, all Los Angeles, all posted same day. Previously confirmed zero internships on 2026-08-16 and 2026-08-24 — this is a brand new posting wave, not something missed earlier. Direct GNC Engineering Intern is the strongest 🎯 hit; also tagged Dynamics Engineering (simulation/dynamics-adjacent) and Software Engineering.
@@ -114,6 +117,15 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Shield AI 🔥 | Summer 2027 - Electrical Engineering Intern | Dallas, TX | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/shieldai/200a293f-71ce-4982-a100-ac4b500c4cf7) |
 | Katalyst Space Technologies 🔥 🎯 | Engineering Intern (Electrical / Mechanical / GNC / Software) | Broomfield, CO | 🇺🇸 | 2026-08-31 | [Apply](https://job-boards.greenhouse.io/katalyst/jobs/6176711004) |
 | AeroVironment 🔥 | Electrical Engineering Intern | Simi Valley, CA | 🇺🇸 | 2026-09-01 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Electrical-Engineering-Intern_8588) |
+| AeroVironment 🔥 🎯 | Summer 2027 GNC / Autonomy Intern | Simi Valley, CA (14 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Summer-2027-GNC---Autonomy-Intern_8610) |
+| AeroVironment 🔥 🎯 | Summer 2027 Software Engineering Intern | Simi Valley, CA (14 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Summer-2027-Software-Engineering-Intern_8611) |
+| AeroVironment 🔥 🎯 | Summer 2027 Embedded Software Engineering Intern | Simi Valley, CA (16 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8388) |
+| AeroVironment 🔥 🎯 | Summer 2027 Machine Learning Intern | Minneapolis, MN (2 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Minneapolis-MN/Summer-2027-Machine-Learning-Intern_8389) |
+| AeroVironment 🔥 | Summer 2027 Manufacturing Engineering Intern | Simi Valley, CA (14 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Summer-2027-Manufacturing-Engineering-Intern_8608) |
+| AeroVironment 🔥 | Summer 2027 Mechanical Engineering Intern | Simi Valley, CA (16 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Summer-2027-Mechanical-Engineering-Intern_8558) |
+| AeroVironment 🔥 | Summer 2027 Electrical Engineering Intern | Simi Valley, CA | 🇺🇸 | 2026-09-01 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Summer-2027-Electrical-Engineering-Intern_8557) |
+| AeroVironment 🔥 | Summer 2027 Aeromechanical Engineering Intern | Simi Valley, CA (18 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Summer-2027-Aeromechanical-Engineering-Intern_8387) |
+| Hermeus 🔥 | Subsystem Test Engineering Intern - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/643fd7b7-9015-43a1-aa2b-a54f117b403c) |
 
 > Not interested in Palantir SWE/FDSE roles — all Software Engineer, Forward Deployed Software Engineer, and "Year at Palantir" SWE/FDSE listings dropped 2026-08-07 per user request. Only non-SWE Palantir roles (e.g. Deployment Strategist) are still tracked.
 > Zipline (autonomous drone delivery, South SF) isn't defense/counter-UAS by mission but is UAS-adjacent autonomy — added here for lack of a better-fitting section. **Update 2026-08-24**: Zipline posted a huge Spring/Summer 2027 internship wave (58 intern postings total, resolved via Greenhouse board slug `flyzipline` — sourced from jobs.spacecapital.com's "Internship" seniority filter). Added all technical/engineering titles here and in the Spring 2027 table below; skipped non-technical ones (Accounting, Community Engagement, Construction Management, Global Supply Management, Material Planning, Operations Experience, Partner Success, Sales Operations Analyst, Strategic Engagements & Events, Supply Chain Business Operations, Talent and Recruiting, Video Production) per the technical-roles-only filter, plus the 2 Fall 2026 postings (out of term). 🎯-tagged: Computational Physics, Controls Engineer, Enterprise Systems Software Engineer, Perception, Software Engineer.
@@ -129,6 +141,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Company | Role | Location | | Posted | Apply |
 |---------|------|----------|--|--------|-------|
 | Teledyne FLIR 🔥 🎯 | NHRC Software Engineering Internship (Summer 2027) | Huntsville, AL | | 2026-08-14 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/us---huntsville-al/nhrc-software-engineering-internship--summer-2027-_req36193) |
+| Teledyne FLIR 🔥 🎯 | EADSIM Software Engineering Intern (Summer 2027) | Huntsville, AL | | 2026-09-01 | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667) |
 | RTX/Raytheon 🔥 🎯 | Systems Engineering Test Equipment Intern (Summer 2027) | El Segundo, CA | | Unknown | [Apply](https://careers.rtx.com/global/en/job/01867450/Systems-Engineering-Test-Equipment-Intern-Summer-2027) |
 | GD-OTS (General Dynamics) 🔥 | Intern, Technical Support | Springboro, OH | 🇺🇸 | 2026-07-28 | [Apply](https://careers-gd-ots.icims.com/jobs/36724/intern%2c-technical-support/job) |
 | Northrop Grumman 🔥 🎯 | 2027 Guidance Navigation and Control Intern | Dulles, VA | 🇺🇸 | 2026-08-18 | [Apply](https://jobs.northropgrumman.com/careers/job/1340073702822) |
@@ -288,6 +301,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Zipline 🔥 | Technical Program Manager Intern (Spring 2027) | South San Francisco, CA | | 2026-08-19 | [Apply](https://www.zipline.com/open-roles?gh_jid=7904446003) |
 | Zipline 🔥 🎯 | Maps Intern (Spring 2027) | South San Francisco, CA | | 2026-08-28 | [Apply](https://www.zipline.com/open-roles?gh_jid=7929354003) |
 | Zipline 🔥 | Electrical Project Engineer Intern (Spring 2027) | South San Francisco, CA | | 2026-08-28 | [Apply](https://www.zipline.com/open-roles?gh_jid=7980874003) |
+| Hermeus 🔥 | Propulsion Component Engineering Intern (Spring 2027) | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/2cbb75f7-a040-47b2-a442-d9cc1faedb11) |
 
 > Anduril's Naval Architect Co-op – Winter 2027 was removed 2026-08-08 to enforce the Spring/Summer-2027-only standing preference (it predated that rule and had slipped through). Still live on their board if a Winter term becomes acceptable later.
 > Shield AI's Electrical Engineering Spring Co-op (January 2027) — **closed as of 2026-08-16** (full re-sweep found their Lever board down to 7 postings, none intern/co-op). Moved to Closed/Expired below.
@@ -339,7 +353,7 @@ These are confirmed target companies with no verified open 2027 listings as of t
 
 | Company | Portal | ATS | Notes |
 |---------|--------|-----|-------|
-| Stoke Space ⭐ | [stokespace.com/careers/current-openings](https://www.stokespace.com/careers/current-openings/) | Greenhouse slug is `stokespacetechnologies`, NOT `stokespace` (auto-scraped) | Re-verified 2026-08-16: 50 open roles, still zero internship/co-op/2027 titles. Summer 2027 intern window: Sept–Nov 2026 |
+| Stoke Space ⭐ 🔥 | [stokespace.com/careers/current-openings](https://www.stokespace.com/careers/current-openings/) | Greenhouse slug is `stokespacetechnologies`, NOT `stokespace` (auto-scraped) | Re-verified 2026-08-16: 50 open roles, still zero internship/co-op/2027 titles. Summer 2027 intern window: Sept–Nov 2026. **2026-09-01: first Summer 2027 intern wave posted** — Engineering (🎯), Software (🎯), Operations — right on schedule for the Sept–Nov window, added to main table |
 | NASA JPL ⭐ | [jpl.nasa.gov/edu/internships](https://www.jpl.nasa.gov/edu/internships/) | Custom JPL portal | **Confirmed via direct browser check 2026-08-24**: Summer Internship Program page still shows "Application Deadline: Friday, March 13, 2026" — that's the Summer 2026 cycle, already closed, not yet refreshed for Summer 2027. Window opens Oct 2026–Feb 2027 for Summer 2027 |
 | Nvidia ⭐ | [nvidia.wd5.myworkdayjobs.com](https://nvidia.wd5.myworkdayjobs.com) | Workday | Re-checked 2026-08-16: 920 "intern" matches (fuzzy, includes "Internal"); sampled results show only Fall 2026 US PhD research roles + 2027 Taiwan roles — no US Spring/Summer 2027 confirmed. **Update 2026-08-20**: found "NVIDIA 2027 Internships: Autonomous Vehicles and Robotics" (Santa Clara, JR2023496, added to main table 2026-08-24) and "NVIDIA 2027 Internships: Ph.D. Research Robotics" (JR2023847, now closed/replaced) — strong 🎯 GNC/robotics/simulation fit. **2026-08-24**: found 2 more explicit-term postings — "NVIDIA Spring 2027 Internships: Developer and Performance Technology" (JR2023499) and "NVIDIA 2027 Summer Internships: Ph.D. Engineering" (JR2023856, PhD-only), both posted 2026-08-19 — both added to the main tables |
 | Relativity Space ⭐ | [job-boards.greenhouse.io/relativity](https://job-boards.greenhouse.io/relativity) | Greenhouse (auto-scraped) | Re-checked 2026-08-16: still zero intern/co-op titled roles |
