@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-09-01
-Open verified 2027 roles: 169
+Open verified 2027 roles: 172
 
 ---
 
@@ -140,6 +140,9 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 | 2027 Software Test Engineering Intern - Huntsville AL | Huntsville, AL | | 2026-08-25 | [Apply](https://jobs.northropgrumman.com/careers/job/1340073914854) |
 | Northrop Grumman 🔥 🎯 | 2027 Intern Vehicle Engineering - CA OK ND | Palmdale, CA (+6 other CA/OK sites) | 🇺🇸 | 2026-08-27 | [Apply](https://jobs.northropgrumman.com/careers/job/1340073999705) |
 | Northrop Grumman 🔥 🎯 | 2027 Systems Engineering Intern - Roy UT | Roy, UT | 🇺🇸 | 2026-08-31 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074078725) |
+| Northrop Grumman 🔥 🎯 | 2027 Intern - Systems Engineering | Oklahoma City, OK | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074113809) |
+| Northrop Grumman 🔥 🎯 | 2027 Intern - Electronics (Avionics) Engineering | Oklahoma City, OK | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074114564) |
+| Northrop Grumman 🔥 | 2027 Cybersecurity Analyst Intern - Boulder CO | Boulder, CO | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074117774) |
 | GE Aerospace 🔥 | Unison Engineering Intern (Summer 2027) | Jacksonville, FL / Norwich, NY / Dayton, OH / St. George, UT | | 2026-08-18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) |
 | GE Aerospace 🔥 🎯 | Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 | Evendale, OH | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) |
 | GE Aerospace 🔥 | Digital Technology Intern – US – Atlanta, GA – Summer 2027 | Atlanta, GA | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Atlanta/Digital-Technology-Intern---US---Atlanta--GA----Summer-2027_R5038078) |
