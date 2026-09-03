@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-09-02
-Open verified 2027 roles: 213
+Last updated: 2026-09-03
+Open verified 2027 roles: 218
 
 ---
 
@@ -153,6 +153,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Hermeus 🔥 | Manufacturing Engineering Intern - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-02 | [Apply](https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f) |
 | Hermeus 🔥 | Structures Engineering Intern - Spring/Summer/Fall 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-02 | [Apply](https://jobs.lever.co/hermeus/6b65768c-a8b2-4c77-8d5f-f407e32bb878) |
 | Hermeus 🔥 | Structures/Mechanical Engineering Intern - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-02 | [Apply](https://jobs.lever.co/hermeus/60b5d40a-1065-4bd2-8c72-6b2fb69d4761) |
+| Hermeus 🔥 🎯 | Software Engineering Intern (Command & Control) - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-03 | [Apply](https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796) |
 
 > Not interested in Palantir SWE/FDSE roles — all Software Engineer, Forward Deployed Software Engineer, and "Year at Palantir" SWE/FDSE listings dropped 2026-08-07 per user request. Only non-SWE Palantir roles (e.g. Deployment Strategist) are still tracked.
 > Zipline (autonomous drone delivery, South SF) isn't defense/counter-UAS by mission but is UAS-adjacent autonomy — added here for lack of a better-fitting section. **Update 2026-08-24**: Zipline posted a huge Spring/Summer 2027 internship wave (58 intern postings total, resolved via Greenhouse board slug `flyzipline` — sourced from jobs.spacecapital.com's "Internship" seniority filter). Added all technical/engineering titles here and in the Spring 2027 table below; skipped non-technical ones (Accounting, Community Engagement, Construction Management, Global Supply Management, Material Planning, Operations Experience, Partner Success, Sales Operations Analyst, Strategic Engagements & Events, Supply Chain Business Operations, Talent and Recruiting, Video Production) per the technical-roles-only filter, plus the 2 Fall 2026 postings (out of term). 🎯-tagged: Computational Physics, Controls Engineer, Enterprise Systems Software Engineer, Perception, Software Engineer.
@@ -184,6 +185,10 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 🎯 | 2027 Intern - Electronics (Avionics) Engineering | Oklahoma City, OK | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074114564) |
 | Northrop Grumman 🔥 | 2027 Cybersecurity Analyst Intern - Boulder CO | Boulder, CO | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074117774) |
 | Northrop Grumman 🔥 | 2027 Industrial Engineering Intern | Iuka, MS | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074126350) |
+| Northrop Grumman 🔥 🎯 | 2027 Software Engineer Intern - Linthicum Maryland | Linthicum Heights, MD | 🇺🇸 | 2026-09-02 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074136253) |
+| Northrop Grumman 🔥 🎯 | 2027 Systems Engineer Intern - Gilbert AZ | Gilbert, AZ | 🇺🇸 | 2026-09-02 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074147212) |
+| Northrop Grumman 🔥 🎯 | 2027 Systems Engineer Intern - Redondo Beach CA | Redondo Beach, CA | 🇺🇸 | 2026-09-02 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074147198) |
+| Northrop Grumman 🔥 🎯 | 2027 Systems Engineer Intern - Azusa CA | Azusa, CA | 🇺🇸 | 2026-09-02 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074147472) |
 | GE Aerospace 🔥 | Unison Engineering Intern (Summer 2027) | Jacksonville, FL / Norwich, NY / Dayton, OH / St. George, UT | | 2026-08-18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) |
 | GE Aerospace 🔥 🎯 | Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 | Evendale, OH | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) |
 | GE Aerospace 🔥 | Digital Technology Intern – US – Atlanta, GA – Summer 2027 | Atlanta, GA | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Atlanta/Digital-Technology-Intern---US---Atlanta--GA----Summer-2027_R5038078) |
