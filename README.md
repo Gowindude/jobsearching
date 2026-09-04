@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-09-04
-Open verified 2027 roles: 255
+Open verified 2027 roles: 258
 
 ---
 
@@ -100,6 +100,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Stoke Space ⭐ 🔥 🎯 | Summer 2027 Internship - Engineering | Cape Canaveral, FL / Kent, WA / Moses Lake, WA | 🇺🇸 | 2026-09-01 | [Apply](https://stokespace.com/careers/current-openings?gh_jid=6175828004) |
 | Stoke Space ⭐ 🔥 🎯 | Summer 2027 Internship - Software | Kent, WA | 🇺🇸 | 2026-09-01 | [Apply](https://stokespace.com/careers/current-openings?gh_jid=6176786004) |
 | Stoke Space ⭐ 🔥 | Summer 2027 Internship - Operations | Kent, WA | 🇺🇸 | 2026-09-01 | [Apply](https://stokespace.com/careers/current-openings?gh_jid=6176785004) |
+| Gravitics 🔥 | Mechanical Engineering Intern (2027) | Greater Seattle Area | 🇺🇸 | 2026-09-04 | [Apply](https://job-boards.greenhouse.io/graviticsinc/jobs/4396521009) |
 
 > Astranis (SF, priority target) posted a full Spring/Summer/Winter 2027 intern wave 2026-08-14 for Mechanical and CAD Engineer/Librarian tracks — sourced 2026-08-16 via jobs.spacecrew.com and jobs.spacecapital.com. Not 🎯 (mechanical/CAD, not GNC/sim/SWE) but added per the "verified-open target company" rule. Checked the full Greenhouse board directly: every other Astranis intern req (Flight Software, Avionics, Embedded Software, PCB Layout, Radiation Effects, etc.) is Fall 2026 only — no Spring/Summer 2027 counterpart yet, so those are skipped per the term filter.
 > **Blue Origin (priority target) — 2026-09-01: full Summer 2027 intern wave**, 20 technical roles across Undergraduate and Graduate tracks, all posted same day (the exact "September 1" drop the user was watching for). Direct **Guidance, Navigation & Controls Internship** (both levels) is the strongest 🎯 hit; also tagged Aerospace Systems Engineering, Software Developer, and Avionics Software (both levels each). The prior Spring 2027 wave with matching titles closed back on 2026-08-07 — these are new Summer 2027 req IDs, not reopenings. Skipped as non-technical: Corporate Development Intern, Corporate Strategy Intern, Education Programs and Outreach Intern, Finance Intern (x2 levels). Skipped Return Internship (Undergraduate/Graduate) — restricted to students who already completed a prior Blue Origin internship, not open to new applicants.
@@ -133,6 +134,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Zipline 🔥 | Supplier Industrialization Engineering Intern (Summer 2027) | South San Francisco, CA | | 2026-08-18 | [Apply](https://www.zipline.com/open-roles?gh_jid=7891110003) |
 | Zipline 🔥 | System Test Automation Intern (Summer 2027) | South San Francisco, CA | | 2026-08-18 | [Apply](https://www.zipline.com/open-roles?gh_jid=7886320003) |
 | Zipline 🔥 | Technical Program Manager Intern (Summer 2027) | South San Francisco, CA | | 2026-08-21 | [Apply](https://www.zipline.com/open-roles?gh_jid=7904471003) |
+| Zipline 🔥 🎯 | Aircraft Software Integration Intern (Summer 2027) | South San Francisco, CA | 🇺🇸 | 2026-09-04 | [Apply](https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003) |
 | Shield AI 🔥 | Summer 2027 - Advanced Manufacturing Engineering Intern | Dallas, TX | 🇺🇸 | 2026-08-27 | [Apply](https://jobs.lever.co/shieldai/c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a) |
 | Shield AI 🔥 | Summer 2027 - Electrical Engineering Co-op (June 2027) | Dallas, TX | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/shieldai/8c6cfcee-c6da-4a73-9bdf-3ef098ff59e6) |
 | Shield AI 🔥 | Summer 2027 - Electrical Engineering Intern | Dallas, TX | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/shieldai/200a293f-71ce-4982-a100-ac4b500c4cf7) |
@@ -371,6 +373,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Zipline 🔥 | Supplier Industrialization Engineering Intern (Spring 2027) | South San Francisco, CA | | 2026-08-18 | [Apply](https://www.zipline.com/open-roles?gh_jid=7891019003) |
 | Zipline 🔥 | System Test Automation Intern (Spring 2027) | South San Francisco, CA | | 2026-08-18 | [Apply](https://www.zipline.com/open-roles?gh_jid=7893946003) |
 | Zipline 🔥 | Technical Program Manager Intern (Spring 2027) | South San Francisco, CA | | 2026-08-19 | [Apply](https://www.zipline.com/open-roles?gh_jid=7904446003) |
+| Zipline 🔥 🎯 | Aircraft Software Integration Intern (Spring 2027) | South San Francisco, CA | 🇺🇸 | 2026-09-04 | [Apply](https://www.zipline.com/open-roles/7986810003?gh_jid=7986810003) |
 | Zipline 🔥 🎯 | Maps Intern (Spring 2027) | South San Francisco, CA | | 2026-08-28 | [Apply](https://www.zipline.com/open-roles?gh_jid=7929354003) |
 | Zipline 🔥 | Electrical Project Engineer Intern (Spring 2027) | South San Francisco, CA | | 2026-08-28 | [Apply](https://www.zipline.com/open-roles?gh_jid=7980874003) |
 | Hermeus 🔥 | Propulsion Component Engineering Intern (Spring 2027) | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/2cbb75f7-a040-47b2-a442-d9cc1faedb11) |
@@ -538,7 +541,7 @@ No formal intern programs yet, but great for cold outreach to learn about the wo
 | General Astronautics (SF) 🔥 | Autonomous robotics for microgravity R&D/manufacturing — YC W26, founded 2025 | No careers page/ATS, no official roles yet — email founders@generalastro.com (Bram Schork, CEO, ex-SpaceX Starlink Lasers; Shibo Zhou, CMU CS/Robotics) directly |
 | Elodin (remote/SF-area) 🔥 🎯 | Flight software + physics simulation platform for drones, satellites & defense (open-source core) — YC W24 | [elodin.systems](https://elodin.systems) — no formal internship program found; hires FTE Flight Software Engineers via Work at a Startup (workatastartup.com/companies/elodin) — direct GNC/simulation fit, cold-email candidate |
 | Scout Space (Reston, VA) 🔥 | Space domain awareness sensors/software — raised $18M Series A May 2026 | [job-boards.greenhouse.io/scoutspace](https://job-boards.greenhouse.io/scoutspace) — has run Mechanical/Electrical/Computer Vision intern programs before ($30/hr) but currently zero internships (11 FTE roles). Not SF/LA but strong SDA/sensor fit |
-| Gravitics | Space station modules + defense spacecraft | [gravitics.com/careers](https://www.gravitics.com/careers) — Greenhouse slug `graviticsinc` resolved 2026-08-10: 15 open roles, zero internships |
+| Gravitics 🔥 | Space station modules + defense spacecraft | [gravitics.com/careers](https://www.gravitics.com/careers) — Greenhouse (auto-scraped, slug `graviticsinc`) | **2026-09-04: first-ever intern posting** — Mechanical Engineering Intern (2027), added to the Summer 2027 Space & Launch table above |
 | Impulse Space | Orbital transfer vehicles (Tom Mueller) | [impulsespace.com/careers](https://www.impulsespace.com/careers) — ATS resolved 2026-08-16: Pinpoint (`impulsespace.pinpointhq.com`, 151-156 roles). Re-checked 2026-08-24: even the Fall 2026 Precision Cleaning Intern is now gone — zero internships of any kind. Strong 🎯 GNC fit as FTE roles though: GNC Engineer, Principal GNC Engineer ×2, Senior GNC Engineer ×2, Senior Simulation Engineer ×2 — worth a cold-email regardless |
 | Umbra | Highest-res commercial SAR — software heavy | [umbra.space/careers](https://umbra.space/careers) — resolved 2026-08-16 via `/careers-old/job-openings/`: 24 roles (Santa Barbara/Arlington/Reston), zero internships. 🎯 fits as FTE: Flight Software Engineer (Rust), Embedded Systems Engineer |
 | Albedo | VLEO 10 cm optical imaging | [albedo.com](https://albedo.com) — re-checked 2026-08-16: still no ATS/listings found, careers link is a dead in-page anchor — cold email only |
