@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-09-04
-Open verified 2027 roles: 258
+Open verified 2027 roles: 260
 
 ---
 
@@ -194,6 +194,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 🎯 | 2027 Systems Engineer Intern - Redondo Beach CA | Redondo Beach, CA | 🇺🇸 | 2026-09-02 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074147198) |
 | Northrop Grumman 🔥 🎯 | 2027 Systems Engineer Intern - Azusa CA | Azusa, CA | 🇺🇸 | 2026-09-02 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074147472) |
 | Northrop Grumman 🔥 🎯 | 2027 Intern Systems Engineer - CA & ND | San Diego, CA (+6 other CA/UT/ND sites) | 🇺🇸 | 2026-09-03 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074156609) |
+| Northrop Grumman 🔥 🎯 | 2027 Intern - Electronics (Avionics) Engineering | Melbourne, FL | 🇺🇸 | 2026-09-04 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074175426) |
 | GE Aerospace 🔥 | Unison Engineering Intern (Summer 2027) | Jacksonville, FL / Norwich, NY / Dayton, OH / St. George, UT | | 2026-08-18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) |
 | GE Aerospace 🔥 🎯 | Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 | Evendale, OH | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) |
 | GE Aerospace 🔥 | Digital Technology Intern – US – Atlanta, GA – Summer 2027 | Atlanta, GA | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Atlanta/Digital-Technology-Intern---US---Atlanta--GA----Summer-2027_R5038078) |
@@ -253,6 +254,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Sierra Nevada Corporation 🔥 | Test Engineering Intern (Summer 2027) | Dayton, OH | 🇺🇸 | 2026-09-04 | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Dayton-OH/Test-Engineering-Intern--Summer-2027-_R0030766) |
 | Sierra Nevada Corporation 🔥 | Test Engineering Intern (Summer 2027) | Lone Tree, CO | 🇺🇸 | 2026-09-04 | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Test-Engineering-Intern--Summer-2027-_R0030771) |
 | Sierra Nevada Corporation 🔥 | Quality Engineering Intern (Summer 2027) | Hagerstown, MD | 🇺🇸 | 2026-09-04 | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Hagerstown-MD/Quality-Engineering-Intern--Summer-2027-_R0030785) |
+| Sierra Nevada Corporation 🔥 | Integrated Product Support Intern (Summer 2027) | Hagerstown, MD | 🇺🇸 | 2026-09-04 | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Hagerstown-MD/Integrated-Product-Support-Intern--Summer-2027-_R0030786) |
 | Sierra Nevada Corporation 🔥 | Manufacturing Engineering Intern (Summer 2027) | Hagerstown, MD | 🇺🇸 | 2026-09-04 | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Hagerstown-MD/Manufacturing-Engineering-Intern--Summer-2027-_R0030784) |
 | Sierra Nevada Corporation 🔥 | Systems Security Engineering Intern (Summer 2027) | Hagerstown, MD | 🇺🇸 | 2026-09-04 | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Hagerstown-MD/Systems-Security-Engineering-Intern--Summer-2027-_R0030783) |
 | Sierra Nevada Corporation 🔥 | Mechanical Engineering Intern (Summer 2027) | Hagerstown, MD | 🇺🇸 | 2026-09-04 | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Hagerstown-MD/Mechanical-Engineering-Intern--Summer-2027-_R0030748) |
