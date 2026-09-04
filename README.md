@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-09-04
-Open verified 2027 roles: 254
+Open verified 2027 roles: 255
 
 ---
 
@@ -218,6 +218,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Amentum 🔥 🎯 | Controls & Instrumentation Engineer Intern | Detroit, MI | 🇺🇸 | 2026-09-04 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-MI-Detroit/Controls---Instrumentation-Engineer-Intern_R0169793) |
 | Amentum 🔥 🎯 | Controls & Instrumentation Engineer Intern | Tullahoma, TN | 🇺🇸 | 2026-09-04 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-TN-Tullahoma/Controls---Instrumentation-Engineer-Intern_R0169792) |
 | Amentum 🔥 | Structural Engineering Summer Intern | Tullahoma, TN | 🇺🇸 | 2026-09-04 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-TN-Tullahoma/Structural-Engineering-Summer-Intern_R0169874) |
+| Amentum 🔥 | Mechanical Engineering Summer Intern | Tullahoma, TN | 🇺🇸 | 2026-09-04 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-TN-Tullahoma/Mechanical-Engineering-Summer-Intern_R0169828) |
 | Nvidia 🔥 🎯 | NVIDIA 2027 Internships: Software Engineering | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) |
 | Nvidia 🔥 🎯 | NVIDIA 2027 Internships: Systems Software Engineering | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) |
 | Nvidia 🔥 🎯 | NVIDIA 2027 Internships: Deep Learning | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) |

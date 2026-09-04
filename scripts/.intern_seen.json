@@ -2342,5 +2342,21 @@
   "wd:leidos.wd5:/job/Huntsville-AL/Electronics-Technician-Co-Op_R-00191451": {
     "title": "Electronics Technician Co-Op",
     "seenAt": "2026-09-04"
+  },
+  "gh:andurilindustries:5211095007": {
+    "title": "2026 Robotics Engineer Intern",
+    "seenAt": "2026-09-04"
+  },
+  "wd:pae.wd1:/job/US-TN-Tullahoma/Mechanical-Engineering-Summer-Intern_R0169828": {
+    "title": "Mechanical Engineering Summer Intern",
+    "seenAt": "2026-09-04"
+  },
+  "wd:nvidia.wd5:/job/China-Beijing/AI-Developer-Technology-Engineering-Intern---2027_JR2024818": {
+    "title": "AI Developer Technology Engineering Intern - 2027",
+    "seenAt": "2026-09-04"
+  },
+  "wd:nvidia.wd5:/job/China-Shanghai/ASIC-Design-and-Verification-Intern--SOC---2027_JR2024860": {
+    "title": "ASIC Design and Verification Intern, SOC - 2027",
+    "seenAt": "2026-09-04"
   }
 }
