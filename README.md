@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-09-04
-Open verified 2027 roles: 260
+Last updated: 2026-09-05
+Open verified 2027 roles: 261
 
 ---
 
@@ -195,6 +195,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 🎯 | 2027 Systems Engineer Intern - Azusa CA | Azusa, CA | 🇺🇸 | 2026-09-02 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074147472) |
 | Northrop Grumman 🔥 🎯 | 2027 Intern Systems Engineer - CA & ND | San Diego, CA (+6 other CA/UT/ND sites) | 🇺🇸 | 2026-09-03 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074156609) |
 | Northrop Grumman 🔥 🎯 | 2027 Intern - Electronics (Avionics) Engineering | Melbourne, FL | 🇺🇸 | 2026-09-04 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074175426) |
+| Northrop Grumman 🔥 | 2027 Intern – Product Support Engineer | Palmdale, CA (+3 other CA sites) | 🇺🇸 | 2026-09-05 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074177727) |
 | GE Aerospace 🔥 | Unison Engineering Intern (Summer 2027) | Jacksonville, FL / Norwich, NY / Dayton, OH / St. George, UT | | 2026-08-18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) |
 | GE Aerospace 🔥 🎯 | Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 | Evendale, OH | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) |
 | GE Aerospace 🔥 | Digital Technology Intern – US – Atlanta, GA – Summer 2027 | Atlanta, GA | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Atlanta/Digital-Technology-Intern---US---Atlanta--GA----Summer-2027_R5038078) |
