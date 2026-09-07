@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-09-05
-Open verified 2027 roles: 261
+Last updated: 2026-09-07
+Open verified 2027 roles: 269
 
 ---
 
@@ -232,6 +232,14 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Draper Laboratory 🔥 🎯 | Embedded Quality & Fielded Systems Intern | Cambridge, MA | | 2026-08-05 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718) |
 | Leidos 🔥 | Manufacturing/Quality Intern | Huntsville, AL | 🇺🇸 | 2026-08-31 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Manufacturing-Quality-Intern_R-00190547) |
 | Leidos 🔥 | Electronics Technician Co-Op | Huntsville, AL | 🇺🇸 | 2026-09-04 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Electronics-Technician-Co-Op_R-00191451) |
+| The Aerospace Corporation 🔥 🎯 | 2027 Rendezvous and Proximity Operations Grad Intern | El Segundo, CA (+2 other sites) | 🇺🇸 | 2026-09-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Rendezvous-and-Proximity-Operations-Grad-Intern_R016435) |
+| The Aerospace Corporation 🔥 🎯 | 2027 Digital Systems Engineering Graduate Intern | El Segundo, CA (+1 other site) | 🇺🇸 | 2026-09-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Digital-Systems-Engineering-Graduate-Intern_R016466) |
+| The Aerospace Corporation 🔥 🎯 | 2027 Space Control and Awareness Grad Intern | Colorado Springs, CO (+1 other site) | 🇺🇸 | 2026-09-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Colorado-Springs-CO/XMLNAME-2027-Space-Control-and-Awareness-Grad-Intern_R016441) |
+| The Aerospace Corporation 🔥 🎯 | 2027 Remote Sensing Architecture Performance Graduate Intern | El Segundo, CA (+2 other sites) | 🇺🇸 | 2026-09-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Remote-Sensing-Architecture-Performance-Graduate-Intern_R016443) |
+| The Aerospace Corporation 🔥 🎯 | 2027 Vehicle and Ground Concepts Grad Intern | El Segundo, CA (+1 other site) | 🇺🇸 | 2026-09-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Vehicle-and-Ground-Concepts-Grad-Intern_R016300) |
+| The Aerospace Corporation 🔥 🎯 | 2027 Vehicle and Ground Concepts Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-09-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Vehicle-and-Ground-Concepts-Undergraduate-Intern_R016433) |
+| The Aerospace Corporation 🔥 | 2027 Space Object Risk Graduate Intern | Chantilly, VA (+2 other sites) | 🇺🇸 | 2026-09-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Chantilly-VA/XMLNAME-2027-Space-Object-Risk-Graduate-Intern_R016458) |
+| The Aerospace Corporation 🔥 | 2027 Systems of Systems/Portfolio Analysis Undergraduate Intern | Colorado Springs, CO (+2 other sites) | 🇺🇸 | 2026-09-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Colorado-Springs-CO/XMLNAME-2027-Systems-of-Systems-Portfolio-Analysis-Undergraduate-Intern_R016462) |
 | L3Harris 🔥 🎯 | Intern, Systems Engineer | Waco, TX | | Unknown | [Apply](https://careers.l3harris.com/en/job/waco/intern-systems-engineer/4832/99403546960) |
 | L3Harris 🔥 🎯 | Intern, Systems Engineer | Greenville, TX | | Unknown | [Apply](https://careers.l3harris.com/en/search-jobs/intern) |
 | L3Harris 🔥 🎯 | Intern, Software Engineer | Palm Bay, FL | | Unknown | [Apply](https://careers.l3harris.com/en/search-jobs/intern) |
@@ -531,7 +539,7 @@ Companies not previously tracked, sourced specifically for the GNC/simulation ro
 | Astroscale U.S. | [careers.smartrecruiters.com/AstroscaleUS](https://careers.smartrecruiters.com/AstroscaleUS) | SmartRecruiters (confirmed correct 2026-08-10) | On-orbit servicing (satellite life extension, debris removal). Re-checked 2026-08-16: board shrank to 1 open FT req (RPO Team Lead, Denver) — zero internships, unchanged in substance |
 | Terran Orbital (a Lockheed Martin company) | [terranorbital.com/careers](https://terranorbital.com/careers) | Greenhouse: `boards-api.greenhouse.io/v1/boards/terranorbitalcorporation/jobs` | Re-checked 2026-08-16: 34 open roles, zero internships |
 | Sierra Nevada Corporation (SNC) 🔥 | [sncorp.com/careers/students](https://www.sncorp.com/careers/students) | Workday (auto-scraped, `snc.wd1/SNC_External_Career_Site`) | Spacecraft/satellite systems & defense electronics — distinct company from Sierra Space. **2026-09-04: full Summer 2027 intern wave posted** (35 postings, 29 technical ones added to the Primes & OEMs table above) — now covered by the automated scanner |
-| The Aerospace Corporation | [aerospace.org/careers/students-and-recent-graduates](https://aerospace.org/careers/students-and-recent-graduates) | **ATS resolved 2026-08-16: Workday `aero.wd5/External`** | FFRDC — national security/civil space technical support, requires US citizenship + clearance eligibility. Re-checked 2026-08-16: the intern job-family-group filter shows **0 openings right now** ("Check back later") — off-season, contradicts the 2026-08-07 note that the program was "still active"; trust this more recent, more specific check |
+| The Aerospace Corporation 🔥 | [aerospace.org/careers/students-and-recent-graduates](https://aerospace.org/careers/students-and-recent-graduates) | Workday (auto-scraped, `aero.wd5/External`) | FFRDC — national security/civil space technical support, requires US citizenship + clearance eligibility. **2026-09-07: first-ever open intern wave** — 8 postings (El Segundo CA, Colorado Springs CO, Chantilly VA), added to the Primes & OEMs table above. Also has a restricted "2027 Aerospace Returning Interns" req (El Segundo, posted 2026-08-29) — not open to new applicants, skipped |
 
 ---
 
