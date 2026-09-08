@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-09-08
-Open verified 2027 roles: 284
+Open verified 2027 roles: 285
 
 ---
 
@@ -247,6 +247,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Boeing 🔥 | Engineering & Technology Innovation Graduate Researcher Program - Applied Mathematician Intern | North Charleston, SC | 🇺🇸 | 2026-09-08 | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Applied-Mathematician-Intern_JR2026523704) |
 | Boeing 🔥 | Engineering & Technology Innovation Graduate Researcher Program - Advanced Materials & Structures Intern | Berkeley, MO | 🇺🇸 | 2026-09-08 | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Engineering---Technology-Innovation--Graduate-Researcher-Program---Advanced-Materials---Structures-Intern_JR2026523659) |
 | Boeing 🔥 | Engineering & Technology Innovation Graduate Researcher Program - Microelectronics R&D Intern | Huntington Beach, CA (2 locations) | 🇺🇸 | 2026-09-08 | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Microelectronics-R-D-Intern_JR2026523675) |
+| The Aerospace Corporation 🔥 🎯 | 2027 Trajectory Optimization Graduate Intern | El Segundo, CA (+2 other sites) | 🇺🇸 | 2026-09-08 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Trajectory-Optimization-Graduate-Intern_R016478) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Rendezvous and Proximity Operations Grad Intern | El Segundo, CA (+2 other sites) | 🇺🇸 | 2026-09-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Rendezvous-and-Proximity-Operations-Grad-Intern_R016435) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Digital Systems Engineering Graduate Intern | El Segundo, CA (+1 other site) | 🇺🇸 | 2026-09-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Digital-Systems-Engineering-Graduate-Intern_R016466) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Space Control and Awareness Grad Intern | Colorado Springs, CO (+1 other site) | 🇺🇸 | 2026-09-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Colorado-Springs-CO/XMLNAME-2027-Space-Control-and-Awareness-Grad-Intern_R016441) |
