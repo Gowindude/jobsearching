@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-09-08
-Open verified 2027 roles: 275
+Open verified 2027 roles: 277
 
 ---
 
@@ -77,6 +77,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Blue Origin ⭐ 🔥 🎯 | Summer 2027 Avionics Software Internship - Graduate | Greater Seattle Area (3 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Avionics-Software-Internship---Graduate_R71423) |
 | Blue Origin ⭐ 🔥 | Summer 2027 Structural & Mechanical Engineering Internship - Undergraduate | Greater Seattle Area (6 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Structural---Mechanical-Engineering-Internship---Undergraduate_R71444) |
 | Blue Origin ⭐ 🔥 | Summer 2027 Structural & Mechanical Systems Engineering Internship - Graduate | Greater Seattle Area (6 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Structural---Mechanical-Systems-Engineering-Internship---Graduate_R71445) |
+| Blue Origin ⭐ 🔥 🎯 | Electronics/Electrical Systems Engineer Co-Op | Los Angeles, CA | 🇺🇸 | 2026-09-08 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Los-Angeles-CA/Electronics-Electrical-Systems-Engineer-Co-Op_R71548) |
 | Blue Origin ⭐ 🔥 | Summer 2027 Fluid Systems & Propulsion Engineering Internship - Undergraduate | Greater Seattle Area (4 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Fluid-Systems---Propulsion-Engineering-Internship---Undergraduate_R71441) |
 | Blue Origin ⭐ 🔥 | Summer 2027 Fluid Systems & Propulsion Engineering Internship - Graduate | Greater Seattle Area (3 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Fluid-Systems---Propulsion-Engineering-Internship---Graduate_R71439) |
 | Blue Origin ⭐ 🔥 | Summer 2027 Electrical Systems Engineering Internship - Undergraduate | Greater Seattle Area (4 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Electrical-Systems-Engineering-Internship---Undergraduate_R71438) |
@@ -200,6 +201,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 🎯 | 2027 Systems Engineer Intern - Colorado Springs CO | Colorado Springs, CO | 🇺🇸 | 2026-09-08 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074210540) |
 | Northrop Grumman 🔥 🎯 | 2027 Systems Engineering Intern - Huntsville AL | Huntsville, AL | 🇺🇸 | 2026-09-08 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074210255) |
 | Northrop Grumman 🔥 | 2027 Systems Safety Engineering Intern - Roy UT | Roy, UT | 🇺🇸 | 2026-09-08 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074210819) |
+| Northrop Grumman 🔥 | 2027 Engineering Intern - Huntsville AL | Huntsville, AL | 🇺🇸 | 2026-09-08 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074213696) |
 | Northrop Grumman 🔥 | 2027 Intern – Product Support Engineer | Palmdale, CA (+3 other CA sites) | 🇺🇸 | 2026-09-05 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074177727) |
 | GE Aerospace 🔥 | Unison Engineering Intern (Summer 2027) | Jacksonville, FL / Norwich, NY / Dayton, OH / St. George, UT | | 2026-08-18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) |
 | GE Aerospace 🔥 🎯 | Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 | Evendale, OH | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) |
