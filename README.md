@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-09-08
-Open verified 2027 roles: 270
+Open verified 2027 roles: 274
 
 ---
 
@@ -196,6 +196,9 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 🎯 | 2027 Intern Systems Engineer - CA & ND | San Diego, CA (+6 other CA/UT/ND sites) | 🇺🇸 | 2026-09-03 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074156609) |
 | Northrop Grumman 🔥 🎯 | 2027 Intern - Electronics (Avionics) Engineering | Melbourne, FL | 🇺🇸 | 2026-09-04 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074175426) |
 | Northrop Grumman 🔥 | 2027 Electrical Engineering Internship - Dulles VA | Dulles, VA | 🇺🇸 | 2026-09-08 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074156812) |
+| Northrop Grumman 🔥 🎯 | 2027 Systems Engineer Intern - Colorado Springs CO | Colorado Springs, CO | 🇺🇸 | 2026-09-08 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074210540) |
+| Northrop Grumman 🔥 🎯 | 2027 Systems Engineering Intern - Huntsville AL | Huntsville, AL | 🇺🇸 | 2026-09-08 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074210255) |
+| Northrop Grumman 🔥 | 2027 Systems Safety Engineering Intern - Roy UT | Roy, UT | 🇺🇸 | 2026-09-08 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074210819) |
 | Northrop Grumman 🔥 | 2027 Intern – Product Support Engineer | Palmdale, CA (+3 other CA sites) | 🇺🇸 | 2026-09-05 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074177727) |
 | GE Aerospace 🔥 | Unison Engineering Intern (Summer 2027) | Jacksonville, FL / Norwich, NY / Dayton, OH / St. George, UT | | 2026-08-18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) |
 | GE Aerospace 🔥 🎯 | Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 | Evendale, OH | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) |
@@ -233,6 +236,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Draper Laboratory 🔥 🎯 | Embedded Quality & Fielded Systems Intern | Cambridge, MA | | 2026-08-05 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718) |
 | Leidos 🔥 | Manufacturing/Quality Intern | Huntsville, AL | 🇺🇸 | 2026-08-31 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Manufacturing-Quality-Intern_R-00190547) |
 | Leidos 🔥 | Electronics Technician Co-Op | Huntsville, AL | 🇺🇸 | 2026-09-04 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Electronics-Technician-Co-Op_R-00191451) |
+| Leidos 🔥 | Civil Engineer Intern | Chicago, IL | 🇺🇸 | 2026-09-08 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Chicago-IL/Civil-Engineer-Intern_R-00191578) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Rendezvous and Proximity Operations Grad Intern | El Segundo, CA (+2 other sites) | 🇺🇸 | 2026-09-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Rendezvous-and-Proximity-Operations-Grad-Intern_R016435) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Digital Systems Engineering Graduate Intern | El Segundo, CA (+1 other site) | 🇺🇸 | 2026-09-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Digital-Systems-Engineering-Graduate-Intern_R016466) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Space Control and Awareness Grad Intern | Colorado Springs, CO (+1 other site) | 🇺🇸 | 2026-09-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Colorado-Springs-CO/XMLNAME-2027-Space-Control-and-Awareness-Grad-Intern_R016441) |
