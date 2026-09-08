@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-09-08
-Open verified 2027 roles: 274
+Open verified 2027 roles: 275
 
 ---
 
@@ -158,6 +158,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Hermeus 🔥 🎯 | Software Engineering Intern (Command & Control) - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-03 | [Apply](https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796) |
 | Hermeus 🔥 🎯 | Mission Systems Engineering Intern | Atlanta, GA (+ Los Angeles, CA) | 🇺🇸 | 2026-09-03 | [Apply](https://jobs.lever.co/hermeus/9229aa88-f54d-4ecd-85ee-b31f53b4207d) |
 | Hermeus 🔥 🎯 | GNC & Flight Software Intern - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-03 | [Apply](https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7) |
+| Hermeus 🔥 | Flight Operations & Airworthiness Engineering Intern - Spring/Summer/Fall 2027 | Atlanta, GA | 🇺🇸 | 2026-09-08 | [Apply](https://jobs.lever.co/hermeus/944918b0-17ca-46ec-9413-5acd7086addf) |
 
 > Not interested in Palantir SWE/FDSE roles — all Software Engineer, Forward Deployed Software Engineer, and "Year at Palantir" SWE/FDSE listings dropped 2026-08-07 per user request. Only non-SWE Palantir roles (e.g. Deployment Strategist) are still tracked.
 > Zipline (autonomous drone delivery, South SF) isn't defense/counter-UAS by mission but is UAS-adjacent autonomy — added here for lack of a better-fitting section. **Update 2026-08-24**: Zipline posted a huge Spring/Summer 2027 internship wave (58 intern postings total, resolved via Greenhouse board slug `flyzipline` — sourced from jobs.spacecapital.com's "Internship" seniority filter). Added all technical/engineering titles here and in the Spring 2027 table below; skipped non-technical ones (Accounting, Community Engagement, Construction Management, Global Supply Management, Material Planning, Operations Experience, Partner Success, Sales Operations Analyst, Strategic Engagements & Events, Supply Chain Business Operations, Talent and Recruiting, Video Production) per the technical-roles-only filter, plus the 2 Fall 2026 postings (out of term). 🎯-tagged: Computational Physics, Controls Engineer, Enterprise Systems Software Engineer, Perception, Software Engineer.
