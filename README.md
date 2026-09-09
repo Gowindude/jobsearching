@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-09-08
-Open verified 2027 roles: 285
+Last updated: 2026-09-09
+Open verified 2027 roles: 286
 
 ---
 
@@ -93,6 +93,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | K2 Space ⭐ 🔥 🎯 | GNC Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411917008) |
 | K2 Space ⭐ 🔥 🎯 | Dynamics Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411916008) |
 | K2 Space ⭐ 🔥 🎯 | Software Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008) |
+| K2 Space ⭐ 🔥 🎯 | Simulation Software Engineering Intern - Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-08 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008) |
 | K2 Space ⭐ 🔥 | Avionics Systems/Test Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411921008) |
 | K2 Space ⭐ 🔥 | Electrical Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411918008) |
 | K2 Space ⭐ 🔥 | Mechanical Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411915008) |
