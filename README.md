@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-09-10
-Open verified 2027 roles: 342
+Open verified 2027 roles: 344
 
 ---
 
@@ -180,6 +180,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | AeroVironment 🔥 🎯 | Software Engineering Intern | Melbourne, FL | 🇺🇸 | 2026-09-10 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Melbourne-FL/Software-Engineering-Intern_8613) |
 | AeroVironment 🔥 | Quality Engineering Intern | Simi Valley, CA | 🇺🇸 | 2026-09-10 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Quality-Engineering-Intern_8586) |
 | AeroVironment 🔥 | Mechanical Engineering Intern | Pottstown, PA | 🇺🇸 | 2026-09-10 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Pottstown-PA/Mechanical-Engineering-Intern_8627) |
+| AeroVironment 🔥 | Mechanical Engineering Intern | Simi Valley, CA | 🇺🇸 | 2026-09-10 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Mechanical-Engineering-Intern_8591) |
+| AeroVironment 🔥 | Engineering Intern | Moorpark, CA | 🇺🇸 | 2026-09-10 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Moorpark-CA/Engineering-Intern_8597) |
 | Hermeus 🔥 | Subsystem Test Engineering Intern - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/643fd7b7-9015-43a1-aa2b-a54f117b403c) |
 | Hermeus 🔥 🎯 | Software Engineering Intern (Modeling & Simulation) - Spring/Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936) |
 | Hermeus 🔥 🎯 | Software Engineering Intern (HIL) - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b) |
