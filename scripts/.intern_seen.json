@@ -2538,5 +2538,213 @@
   "wd:nvidia.wd5:/job/China-Beijing/Physical-Design-Intern--VLSI---2027_JR2025022-1": {
     "title": "Physical Design Intern, VLSI - 2027",
     "seenAt": "2026-09-09"
+  },
+  "gh:flyzipline:7990677003": {
+    "title": "Change Management Intern (Spring 2027)",
+    "seenAt": "2026-09-10"
+  },
+  "gh:flyzipline:7990420003": {
+    "title": "Data Analytics Intern (Spring 2027)",
+    "seenAt": "2026-09-10"
+  },
+  "gh:flyzipline:7990632003": {
+    "title": "Data Analytics Intern (Summer 2027)",
+    "seenAt": "2026-09-10"
+  },
+  "gh:rocketlab:7983576003": {
+    "title": "Additive Manufacturing Intern Spring 2027",
+    "seenAt": "2026-09-10"
+  },
+  "gh:rocketlab:7984600003": {
+    "title": "Additive Manufacturing Intern Summer 2027",
+    "seenAt": "2026-09-10"
+  },
+  "gh:rocketlab:7989733003": {
+    "title": "Avionics Engineering Intern Summer 2027",
+    "seenAt": "2026-09-10"
+  },
+  "gh:rocketlab:7986744003": {
+    "title": "Combustion Devices Intern Spring 2027",
+    "seenAt": "2026-09-10"
+  },
+  "gh:rocketlab:7986748003": {
+    "title": "Combustion Devices Intern Summer 2027",
+    "seenAt": "2026-09-10"
+  },
+  "gh:rocketlab:7990045003": {
+    "title": "Electrical Engineering Intern Spring 2027",
+    "seenAt": "2026-09-10"
+  },
+  "gh:rocketlab:7990043003": {
+    "title": "Electrical Engineering Intern Summer 2027",
+    "seenAt": "2026-09-10"
+  },
+  "gh:rocketlab:7989724003": {
+    "title": "Flight Software Intern Spring 2027",
+    "seenAt": "2026-09-10"
+  },
+  "gh:rocketlab:7989722003": {
+    "title": "Flight Software Intern Summer 2027",
+    "seenAt": "2026-09-10"
+  },
+  "gh:rocketlab:7990365003": {
+    "title": "Fluid Component Intern Summer 2027",
+    "seenAt": "2026-09-10"
+  },
+  "gh:rocketlab:7986788003": {
+    "title": "Fluid Systems Intern Spring 2027",
+    "seenAt": "2026-09-10"
+  },
+  "gh:rocketlab:7986794003": {
+    "title": "Fluid Systems Intern Summer 2027",
+    "seenAt": "2026-09-10"
+  },
+  "gh:rocketlab:7989993003": {
+    "title": "GNC Intern Summer 2027",
+    "seenAt": "2026-09-10"
+  },
+  "gh:rocketlab:7990268003": {
+    "title": "HITL Engineering Intern Summer 2027",
+    "seenAt": "2026-09-10"
+  },
+  "gh:rocketlab:7987252003": {
+    "title": "Integration & Test Intern Spring 2027",
+    "seenAt": "2026-09-10"
+  },
+  "gh:rocketlab:7987250003": {
+    "title": "Integration & Test Intern Summer 2027",
+    "seenAt": "2026-09-10"
+  },
+  "gh:rocketlab:7986368003": {
+    "title": "Mechanical Engineering Intern Spring 2027",
+    "seenAt": "2026-09-10"
+  },
+  "gh:rocketlab:7987044003": {
+    "title": "Systems Engineering Intern Spring 2027",
+    "seenAt": "2026-09-10"
+  },
+  "gh:rocketlab:7987046003": {
+    "title": "Systems Engineering Intern Summer 2027",
+    "seenAt": "2026-09-10"
+  },
+  "gh:rocketlab:7987210003": {
+    "title": "Turbomachinery Intern Spring 2027",
+    "seenAt": "2026-09-10"
+  },
+  "gh:rocketlab:7987208003": {
+    "title": "Turbomachinery Intern Summer 2027",
+    "seenAt": "2026-09-10"
+  },
+  "gh:andurilindustries:5231555007": {
+    "title": "2027 Hardware Engineer Intern",
+    "seenAt": "2026-09-10"
+  },
+  "gh:andurilindustries:5232027007": {
+    "title": "2027 Mechanical Engineer Intern",
+    "seenAt": "2026-09-10"
+  },
+  "gh:andurilindustries:5231653007": {
+    "title": "2027 Quality & Test Engineer Intern",
+    "seenAt": "2026-09-10"
+  },
+  "gh:andurilindustries:5231488007": {
+    "title": "2027 Software Engineer Intern",
+    "seenAt": "2026-09-10"
+  },
+  "gh:andurilindustries:5232025007": {
+    "title": "2027 Software Quality Assurance Intern",
+    "seenAt": "2026-09-10"
+  },
+  "lever:hermeus:b7babdb5-64ee-49ad-a193-918d6a31c462": {
+    "title": "Avionics Electrical Engineering Intern - Spring/Summer 2027",
+    "seenAt": "2026-09-10"
+  },
+  "lever:hermeus:5f6a6e79-9836-4c33-b40b-a2bb6c27bd06": {
+    "title": "Manufacturing Engineering Intern - Spring/Summer/Fall 2027",
+    "seenAt": "2026-09-10"
+  },
+  "lever:hermeus:1bc5c858-1b04-4093-80a0-2ba3491afc60": {
+    "title": "Mechanical Engineering Intern  - Spring/Summer 2027",
+    "seenAt": "2026-09-10"
+  },
+  "lever:hermeus:943f51e4-5b26-432c-ae85-de5f43cadb86": {
+    "title": "Propulsion Engineering Intern - Spring/Summer/Fall 2027",
+    "seenAt": "2026-09-10"
+  },
+  "lever:shieldai:8c850c75-081d-4d09-bebf-096379a93010": {
+    "title": "Summer 2027 - Software Engineer Intern",
+    "seenAt": "2026-09-10"
+  },
+  "wd:geaerospace.wd5:/job/Queretaro/Engineering-Student-Intern_R5039913-1": {
+    "title": "Engineering Student Intern",
+    "seenAt": "2026-09-10"
+  },
+  "wd:geaerospace.wd5:/job/Brindisi/Internship----Service-Operation_R5039925-1": {
+    "title": "Internship -  Service Operation",
+    "seenAt": "2026-09-10"
+  },
+  "wd:geaerospace.wd5:/job/Bengaluru/PhD-Intern---Chemistry_R5039817-1": {
+    "title": "PhD Intern - Chemistry",
+    "seenAt": "2026-09-10"
+  },
+  "wd:geaerospace.wd5:/job/Singapore/FLIGHT-DECK-Intern_R5036663-2": {
+    "title": "FLIGHT DECK Intern",
+    "seenAt": "2026-09-10"
+  },
+  "wd:pae.wd1:/job/US-CO-Colorado-Springs/Data-Operations-Internship-IRES---SSFB_R0169786": {
+    "title": "Data Operations Internship IRES - SSFB",
+    "seenAt": "2026-09-10"
+  },
+  "wd:pae.wd1:/job/US-TN-Tullahoma/Software-Programmer-Intern_R0169775": {
+    "title": "Software Programmer Intern",
+    "seenAt": "2026-09-10"
+  },
+  "wd:pae.wd1:/job/US-MI-Detroit/Software-Programmer-Intern_R0169773": {
+    "title": "Software Programmer Intern",
+    "seenAt": "2026-09-10"
+  },
+  "wd:draper.wd5:/job/Cambridge-MA/Integrated-Circuits-Intern_JR002902-1": {
+    "title": "Integrated Circuits Intern",
+    "seenAt": "2026-09-10"
+  },
+  "wd:aero.wd5:/job/El-Segundo-CA/XMLNAME-2027-Guidance--Navigation--and-Control--GNC--Graduate-Intern_R016512": {
+    "title": "2027 Guidance, Navigation, and Control (GNC) Graduate Intern",
+    "seenAt": "2026-09-10"
+  },
+  "wd:aero.wd5:/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineering-Graduate-Intern_R016432": {
+    "title": "2027 Machine Learning Engineering Graduate Intern",
+    "seenAt": "2026-09-10"
+  },
+  "wd:blueorigin.wd5:/job/Los-Angeles-CA/Mechanical-Engineering-Co-Op--Fixed-Term-_R71542": {
+    "title": "Mechanical Engineering Co-Op (Fixed Term)",
+    "seenAt": "2026-09-10"
+  },
+  "wd:nvidia.wd5:/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086": {
+    "title": "Software Engineering Intern — Replay Tooling & Test Automation, Autonomous Driving",
+    "seenAt": "2026-09-10"
+  },
+  "wd:leidos.wd5:/job/Huntsville-AL/Aerospace-M-S-Engineer-Intern_R-00191760": {
+    "title": "Aerospace M&S Engineer Intern",
+    "seenAt": "2026-09-10"
+  },
+  "wd:leidos.wd5:/job/Huntsville-AL/Mechanical-Design-Engineer-Summer-Intern_R-00191782": {
+    "title": "Mechanical Design Engineer Summer Intern",
+    "seenAt": "2026-09-10"
+  },
+  "ef:1340074229261": {
+    "title": "2027 Intern Software Engineer",
+    "seenAt": "2026-09-10"
+  },
+  "ef:1340074226586": {
+    "title": "2027 Intern Engineer - Product Support",
+    "seenAt": "2026-09-10"
+  },
+  "ef:1340074238820": {
+    "title": "2027 Intern Engineer - Product Support",
+    "seenAt": "2026-09-10"
+  },
+  "ef:1340074227786": {
+    "title": "2027 Data Analytics Intern - Clearfield UT",
+    "seenAt": "2026-09-10"
   }
 }
