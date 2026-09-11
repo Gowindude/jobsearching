@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-09-10
-Open verified 2027 roles: 344
+Open verified 2027 roles: 364
 
 ---
 
@@ -70,6 +70,26 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Vast ⭐ 🔥 | Emerging Talent - Electrical Internship | Long Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://boards.greenhouse.io/vast/jobs/4711401006?gh_jid=4711401006) |
 | Vast ⭐ 🔥 | Emerging Talent - Mechanical/Aerospace Internship | Long Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://boards.greenhouse.io/vast/jobs/4711400006?gh_jid=4711400006) |
 | Vast ⭐ 🔥 | Emerging Talent - Manufacturing Internship | Long Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://boards.greenhouse.io/vast/jobs/4711403006?gh_jid=4711403006) |
+| Impulse Space 🔥 🎯 | Guidance, Navigation, and Control Intern (Summer 2027) | Boulder, CO | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/0a9ee03a-d4d9-4ac1-a882-63b358f6b49c) |
+| Impulse Space 🔥 🎯 | Ground Software Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/56c98c48-25a5-4af7-ab9d-388c28bdbd50) |
+| Impulse Space 🔥 🎯 | Flight/Embedded Software Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/d4fdab1d-254b-44a4-96bf-875ebd5b8cd7) |
+| Impulse Space 🔥 🎯 | Software Infrastructure and Release Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/85016fb6-5baf-4195-8ec6-450eb60727da) |
+| Impulse Space 🔥 🎯 | Avionics Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/9423b923-9a7e-41c1-8fab-54cc865e2f2c) |
+| Impulse Space 🔥 🎯 | Avionics Test Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/5d2a522e-a476-4245-b22a-23064642000e) |
+| Impulse Space 🔥 | Manufacturing Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/db2664bb-d8ef-41fb-80d6-c19ac0215a34) |
+| Impulse Space 🔥 | Vehicle Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/b7c7e735-fe14-4421-a6ab-ca7cd3fbcf06) |
+| Impulse Space 🔥 | Propulsion Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/b6a1ebef-960b-490d-baf0-db078cfcaa0c) |
+| Impulse Space 🔥 | Electric Propulsion Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/799415b1-cc28-47df-b47c-9fea065e5ef8) |
+| Impulse Space 🔥 | RF Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/1a3a2b42-1bec-421e-b178-759d8f5a6a99) |
+| Impulse Space 🔥 | Antenna Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/3194c8bf-0ccf-4882-aefd-06bb343b11c5) |
+| Impulse Space 🔥 | Battery Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/1c0352a6-fda1-491d-b744-31baa76de9a2) |
+| Impulse Space 🔥 | RF Test Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/2b03cd5d-4a58-48a0-81f4-ea8c8c7bcd2a) |
+| Impulse Space 🔥 | Space Operations Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/65b48a6e-c427-4362-afad-7b9010d331ea) |
+| Impulse Space 🔥 | Propulsion Test Engineering Intern (Mojave, Summer 2027) | Mojave, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/a5d84171-843a-49fd-ad87-bee014c03608) |
+| Impulse Space 🔥 | Assembly, Integration, and Test (AI&T) Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/59b09673-de5e-4ffc-a976-8ebdb3bb8d56) |
+| Impulse Space 🔥 | Information Security Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/8115d644-70a5-46be-a431-a548a1ff42b8) |
+| Impulse Space 🔥 | Opto-Mechanical Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/8a25dcf4-595e-4094-a819-8f5252d85726) |
+| Impulse Space 🔥 | Weld Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/b1003b70-e80b-4e3a-a5cb-d466e0e65cd3) |
 | Blue Origin ⭐ 🔥 🎯 | Summer 2027 Guidance, Navigation & Controls Internship - Undergraduate | Greater Seattle Area | 🇺🇸 | 2026-09-01 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Guidance--Navigation---Controls-Internship---Undergraduate_R71443) |
 | Blue Origin ⭐ 🔥 🎯 | Summer 2027 Guidance, Navigation & Controls Internship - Graduate | Greater Seattle Area (3 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Guidance--Navigation---Controls-Internship---Graduate_R71442) |
 | Blue Origin ⭐ 🔥 🎯 | Summer 2027 Aerospace Systems Engineering Internship - Undergraduate | Greater Seattle Area (3 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Aerospace-Systems-Engineering-Internship----Undergraduate_R71436) |
@@ -629,7 +649,7 @@ No formal intern programs yet, but great for cold outreach to learn about the wo
 | Elodin (remote/SF-area) 🔥 🎯 | Flight software + physics simulation platform for drones, satellites & defense (open-source core) — YC W24 | [elodin.systems](https://elodin.systems) — no formal internship program found; hires FTE Flight Software Engineers via Work at a Startup (workatastartup.com/companies/elodin) — direct GNC/simulation fit, cold-email candidate |
 | Scout Space (Reston, VA) 🔥 | Space domain awareness sensors/software — raised $18M Series A May 2026 | [job-boards.greenhouse.io/scoutspace](https://job-boards.greenhouse.io/scoutspace) — has run Mechanical/Electrical/Computer Vision intern programs before ($30/hr) but currently zero internships (11 FTE roles). Not SF/LA but strong SDA/sensor fit |
 | Gravitics 🔥 | Space station modules + defense spacecraft | [gravitics.com/careers](https://www.gravitics.com/careers) — Greenhouse (auto-scraped, slug `graviticsinc`) | **2026-09-04: first-ever intern posting** — Mechanical Engineering Intern (2027), added to the Summer 2027 Space & Launch table above |
-| Impulse Space | Orbital transfer vehicles (Tom Mueller) | [impulsespace.com/careers](https://www.impulsespace.com/careers) — ATS resolved 2026-08-16: Pinpoint (`impulsespace.pinpointhq.com`, 151-156 roles). Re-checked 2026-08-24: even the Fall 2026 Precision Cleaning Intern is now gone — zero internships of any kind. Strong 🎯 GNC fit as FTE roles though: GNC Engineer, Principal GNC Engineer ×2, Senior GNC Engineer ×2, Senior Simulation Engineer ×2 — worth a cold-email regardless |
+| Impulse Space 🔥 🎯 | Orbital transfer vehicles (Tom Mueller) | **2026-09-10: full Summer 2027 intern wave found** (20 technical roles, added to the Space & Launch table above) — direct GNC Intern (Boulder, CO) is the strongest 🎯 hit. Moved out of Cold Email; now auto-scraped via a new Pinpoint ATS fetcher added to `intern_scan.mjs` (`impulsespace.pinpointhq.com/postings.json`) |
 | Umbra | Highest-res commercial SAR — software heavy | [umbra.space/careers](https://umbra.space/careers) — resolved 2026-08-16 via `/careers-old/job-openings/`: 24 roles (Santa Barbara/Arlington/Reston), zero internships. 🎯 fits as FTE: Flight Software Engineer (Rust), Embedded Systems Engineer |
 | Albedo | VLEO 10 cm optical imaging | [albedo.com](https://albedo.com) — re-checked 2026-08-16: still no ATS/listings found, careers link is a dead in-page anchor — cold email only |
 | Slingshot Aerospace | AI / sim for space traffic mgmt | [slingshot.space/careers](https://www.slingshot.space/careers) — re-checked 2026-08-16: careers page now shows placeholder/sample titles only, Ashby slug `slingshotaerospace` 404s — ATS unresolved again, was resolvable 2026-08-10 |

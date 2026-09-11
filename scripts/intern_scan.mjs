@@ -81,6 +81,11 @@ const EIGHTFOLD_BOARDS = {
   'Northrop Grumman': 'https://jobs.northropgrumman.com/api/pcsx/search?domain=ngc.com&query=2027%20intern&limit=100',
 };
 
+// Pinpoint ATS: GET postings.json on the tenant subdomain
+const PINPOINT_BOARDS = {
+  'Impulse Space': 'impulsespace',
+};
+
 // ---- Fetchers -------------------------------------------------------------
 
 async function fetchGreenhouse(slug) {
@@ -167,6 +172,23 @@ async function fetchEightfold(url) {
   return { ok: true, jobs };
 }
 
+async function fetchPinpoint(tenant) {
+  const r = await fetch(`https://${tenant}.pinpointhq.com/postings.json`);
+  if (!r.ok) return { ok: false, status: r.status };
+  const d = await r.json();
+  const postings = Array.isArray(d) ? d : (d.data || d.postings || []);
+  const jobs = postings
+    .filter(p => INTERN_RE.test(p.title || '') && !FALSE_POSITIVE_RE.test(p.title || ''))
+    .map(p => ({
+      id: `pinpoint:${tenant}:${p.id || p.url}`,
+      title: (p.title || '').trim(),
+      location: p.location?.city ? `${p.location.city}, ${p.location.province || ''}`.trim() : '',
+      posted: '',
+      url: p.url,
+    }));
+  return { ok: true, jobs };
+}
+
 // ---- Main -----------------------------------------------------------------
 
 function loadState() {
@@ -218,6 +240,11 @@ async function main() {
 
   await Promise.all(Object.entries(EIGHTFOLD_BOARDS).map(async ([company, url]) => {
     try { await process(company, await fetchEightfold(url)); }
+    catch (e) { errors.push(`${company}: ${e.message}`); }
+  }));
+
+  await Promise.all(Object.entries(PINPOINT_BOARDS).map(async ([company, tenant]) => {
+    try { await process(company, await fetchPinpoint(tenant)); }
     catch (e) { errors.push(`${company}: ${e.message}`); }
   }));
 
