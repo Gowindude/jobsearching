@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-09-10
-Open verified 2027 roles: 364
+Last updated: 2026-09-11
+Open verified 2027 roles: 365
 
 ---
 
@@ -499,6 +499,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | GE Aerospace 🔥 | Unison Engineering Intern (Spring 2027) | Jacksonville, FL / Norwich, NY / Dayton, OH / St. George, UT | | 2026-08-18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Spring-2027_R5037093-1) |
 | GE Aerospace 🔥 | Manufacturing Engineering Co-op – US – Spring 2027 | Evendale, OH (23 locations) | | 2026-08-18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Manufacturing-Engineering-Co-op---US---Spring-2027_R5029663) |
 | GE Aerospace 🔥 🎯 | Applied AI Engineer Co-op – Spring 2027 (January Start) | Evendale, OH (53 locations) | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Co-op---Spring-2027--January-Start-_R5039041-1) |
+| GE Aerospace 🔥 | Structures Intern/Co-op – ACSC – Cincinnati, OH – Spring 2027 | Springdale, OH | 🇺🇸 | 2026-09-11 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Springdale/Structures-Intern-Co-op---ACSC---Cincinnati--OH---Spring-2027_R5039588-1) |
 | GDMS (General Dynamics Mission Systems) 🔥 | Infrastructure Engineer Co-op | Pittsfield, MA | 🇺🇸 | Unknown | [Apply](https://careers-gdms.icims.com/jobs/72403/job) |
 | Leidos 🔥 🎯 | Software Engineer Intern (Spring / Fall 2027) | Reston, VA | 🇺🇸 | Unknown | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Software-Engineer-Intern--Spring---Fall-2027-_R-00167584) |
 | Nvidia 🔥 🎯 | NVIDIA Spring 2027 Internships: Developer and Performance Technology | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-Spring-2027-Internships--Developer-and-Performance-Technology_JR2023499) |
