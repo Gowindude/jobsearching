@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-09-11
-Open verified 2027 roles: 365
+Open verified 2027 roles: 374
 
 ---
 
@@ -76,6 +76,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Impulse Space 🔥 🎯 | Software Infrastructure and Release Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/85016fb6-5baf-4195-8ec6-450eb60727da) |
 | Impulse Space 🔥 🎯 | Avionics Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/9423b923-9a7e-41c1-8fab-54cc865e2f2c) |
 | Impulse Space 🔥 🎯 | Avionics Test Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/5d2a522e-a476-4245-b22a-23064642000e) |
+| Impulse Space 🔥 🎯 | Avionics Electrical Propulsion Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-11 | [Apply](https://impulsespace.pinpointhq.com/en/postings/e3b63a8a-129f-4ffa-abe9-fde35e6e6974) |
 | Impulse Space 🔥 | Manufacturing Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/db2664bb-d8ef-41fb-80d6-c19ac0215a34) |
 | Impulse Space 🔥 | Vehicle Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/b7c7e735-fe14-4421-a6ab-ca7cd3fbcf06) |
 | Impulse Space 🔥 | Propulsion Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/b6a1ebef-960b-490d-baf0-db078cfcaa0c) |
@@ -102,6 +103,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Blue Origin ⭐ 🔥 | Summer 2027 Structural & Mechanical Systems Engineering Internship - Graduate | Greater Seattle Area (6 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Structural---Mechanical-Systems-Engineering-Internship---Graduate_R71445) |
 | Blue Origin ⭐ 🔥 🎯 | Electronics/Electrical Systems Engineer Co-Op | Los Angeles, CA | 🇺🇸 | 2026-09-08 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Los-Angeles-CA/Electronics-Electrical-Systems-Engineer-Co-Op_R71548) |
 | Blue Origin ⭐ 🔥 | Mechanical Engineering Co-Op (Fixed Term) | Los Angeles, CA | 🇺🇸 | 2026-09-09 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Los-Angeles-CA/Mechanical-Engineering-Co-Op--Fixed-Term-_R71542) |
+| Blue Origin ⭐ 🔥 | Summer 2027 Marine Mechanical & Test Engineering Internship - Undergraduate | Greater Seattle Area (6 locations) | 🇺🇸 | 2026-09-11 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Marine-Mechanical---Test-Engineering-Internship---Undergraduate_R72238) |
 | Blue Origin ⭐ 🔥 | Summer 2027 Fluid Systems & Propulsion Engineering Internship - Undergraduate | Greater Seattle Area (4 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Fluid-Systems---Propulsion-Engineering-Internship---Undergraduate_R71441) |
 | Blue Origin ⭐ 🔥 | Summer 2027 Fluid Systems & Propulsion Engineering Internship - Graduate | Greater Seattle Area (3 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Fluid-Systems---Propulsion-Engineering-Internship---Graduate_R71439) |
 | Blue Origin ⭐ 🔥 | Summer 2027 Electrical Systems Engineering Internship - Undergraduate | Greater Seattle Area (4 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Electrical-Systems-Engineering-Internship---Undergraduate_R71438) |
@@ -142,6 +144,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Rocket Lab 🔥 | Fluid Systems Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986794003) |
 | Rocket Lab 🔥 | Integration & Test Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987250003) |
 | Rocket Lab 🔥 | Turbomachinery Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987208003) |
+| Rocket Lab 🔥 | Structural Analysis Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-11 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986690003) |
 
 > Astranis (SF, priority target) posted a full Spring/Summer/Winter 2027 intern wave 2026-08-14 for Mechanical and CAD Engineer/Librarian tracks — sourced 2026-08-16 via jobs.spacecrew.com and jobs.spacecapital.com. Not 🎯 (mechanical/CAD, not GNC/sim/SWE) but added per the "verified-open target company" rule. Checked the full Greenhouse board directly: every other Astranis intern req (Flight Software, Avionics, Embedded Software, PCB Layout, Radiation Effects, etc.) is Fall 2026 only — no Spring/Summer 2027 counterpart yet, so those are skipped per the term filter.
 > **Blue Origin (priority target) — 2026-09-01: full Summer 2027 intern wave**, 20 technical roles across Undergraduate and Graduate tracks, all posted same day (the exact "September 1" drop the user was watching for). Direct **Guidance, Navigation & Controls Internship** (both levels) is the strongest 🎯 hit; also tagged Aerospace Systems Engineering, Software Developer, and Avionics Software (both levels each). The prior Spring 2027 wave with matching titles closed back on 2026-08-07 — these are new Summer 2027 req IDs, not reopenings. Skipped as non-technical: Corporate Development Intern, Corporate Strategy Intern, Education Programs and Outreach Intern, Finance Intern (x2 levels). Skipped Return Internship (Undergraduate/Graduate) — restricted to students who already completed a prior Blue Origin internship, not open to new applicants.
@@ -211,6 +214,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Hermeus 🔥 🎯 | Software Engineering Intern (Command & Control) - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-03 | [Apply](https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796) |
 | Hermeus 🔥 🎯 | Mission Systems Engineering Intern | Atlanta, GA (+ Los Angeles, CA) | 🇺🇸 | 2026-09-03 | [Apply](https://jobs.lever.co/hermeus/9229aa88-f54d-4ecd-85ee-b31f53b4207d) |
 | Hermeus 🔥 🎯 | GNC & Flight Software Intern - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-03 | [Apply](https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7) |
+| Hermeus 🔥 | Test and Operations Engineering Intern - Spring/Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-11 | [Apply](https://jobs.lever.co/hermeus/d40446ee-40a9-4bb0-a3a8-a4a189b74630) |
 | Hermeus 🔥 | Flight Operations & Airworthiness Engineering Intern - Spring/Summer/Fall 2027 | Atlanta, GA | 🇺🇸 | 2026-09-08 | [Apply](https://jobs.lever.co/hermeus/944918b0-17ca-46ec-9413-5acd7086addf) |
 | Hermeus 🔥 🎯 | Avionics Electrical Engineering Intern - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-10 | [Apply](https://jobs.lever.co/hermeus/b7babdb5-64ee-49ad-a193-918d6a31c462) |
 | Hermeus 🔥 | Manufacturing Engineering Intern - Spring/Summer/Fall 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-10 | [Apply](https://jobs.lever.co/hermeus/5f6a6e79-9836-4c33-b40b-a2bb6c27bd06) |
@@ -428,6 +432,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Rocket Lab 🔥 | Turbomachinery Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987210003) |
 | Rocket Lab 🔥 | Fluid Component Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990367003) |
 | Rocket Lab 🔥 | Propulsion Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986790003) |
+| Rocket Lab 🔥 | Propulsion Design Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-11 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987110003) |
+| Rocket Lab 🔥 | Structural Analysis Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-11 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986685003) |
 | NASA (JSC) 🔥 🎯 | Mission and Trajectory Design (Orion Artemis III-V trajectory design, Copernicus tool) | Houston, TX | 🇺🇸 | Unknown | [Apply](https://stemgateway.nasa.gov/s/course-offering/a0BSJ000007OPFl2AO/mission-and-trajectory-design) |
 | NASA (JSC) 🔥 🎯 | Flight Mechanics and Trajectory Design (Artemis/HyperSTEP/HiMOM) | Houston, TX | 🇺🇸 | Unknown | [Apply](https://stemgateway.nasa.gov/s/course-offering/a0BSJ000007OObS2AW/flight-mechanics-and-trajectory-design) |
 | NASA (JSC) 🔥 🎯 | Lunar Surface GN&C Robotic Testbed Development (closed-loop GN&C on a Clearpath Husky UGV, Artemis 4/MoonBase) | Houston, TX | 🇺🇸 | Unknown | [Apply](https://stemgateway.nasa.gov/s/course-offering/a0BSJ000007sPzt2AE/lunar-surface-gnc-robotic-testbed-development) |
@@ -507,6 +513,9 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Draper Laboratory 🔥 🎯 | Optics-Physics Sensor Engineering Co-op (Spring 2027) | Cambridge, MA | | 2026-08-31 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Co-op--Spring-2027-_JR002884) |
 | Draper Laboratory 🔥 🎯 | Sensor Electrical Engineering Co-op (Spring 2027) | Cambridge, MA | | 2026-08-31 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Sensor-Electrical-Engineering-Co-op--Spring-2027-_JR002885) |
 | Draper Laboratory 🔥 | Electro-Mechanical Instrument Co-op (Spring 2027) | Cambridge, MA | | 2026-08-31 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Electro-Mechanical-Instrument-Co-op--Spring-2027-_JR002883-1) |
+| Draper Laboratory 🔥 🎯 | Systems Engineering Co-Op (Spring 2027) | Cambridge, MA | 🇺🇸 | 2026-09-11 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Systems-Engineering-Co-Op--Spring-2027-_JR002882) |
+| Amentum 🔥 🎯 | Intern - GN&C Spring Intern | Huntsville, AL | 🇺🇸 | 2026-09-11 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-AL-Huntsville/Intern---GN-C-Spring-Intern_R0170497) |
+| GE Aerospace 🔥 | Technical Coop – 2 Year Technical Associates Degree programs – Spring 2027 | Evendale, OH (+1 other site) | 🇺🇸 | 2026-09-11 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Technical-Coop---2-Year-Technical-Associates-Degree-programs---Spring-2027_R5036325-2) |
 
 > GDMS's Infrastructure Engineer Co-op requires an active Secret clearance and leans sysadmin (Linux/Windows server administration, virtualization, lab test support) rather than pure engineering — included per the technical-roles-only filter (systems engineering) but flagged as a weaker 🎯 fit. JD states "Fall 2026 or Spring 2027," Spring 2027 confirmed explicit.
 > Leidos SWE Intern (Reston, VA) found 2026-08-24 — title explicitly states "Spring / Fall 2027," touches AI/ML, 3D modeling, and simulation/visualization work — 🎯 SWE fit. Previously the Leidos Manual Check note found only senior/FTE roles via the AND-combined keyword search; this one uses "Software Engineer Intern" as its exact title so it was missed by the GNC/simulation-focused query.
