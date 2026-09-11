@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-09-11
-Open verified 2027 roles: 374
+Open verified 2027 roles: 376
 
 ---
 
@@ -91,6 +91,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Impulse Space 🔥 | Information Security Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/8115d644-70a5-46be-a431-a548a1ff42b8) |
 | Impulse Space 🔥 | Opto-Mechanical Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/8a25dcf4-595e-4094-a819-8f5252d85726) |
 | Impulse Space 🔥 | Weld Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/b1003b70-e80b-4e3a-a5cb-d466e0e65cd3) |
+| Impulse Space 🔥 | EMC Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-11 | [Apply](https://impulsespace.pinpointhq.com/en/postings/33e7fd60-0859-4f90-9c7b-f456431893ef) |
 | Blue Origin ⭐ 🔥 🎯 | Summer 2027 Guidance, Navigation & Controls Internship - Undergraduate | Greater Seattle Area | 🇺🇸 | 2026-09-01 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Guidance--Navigation---Controls-Internship---Undergraduate_R71443) |
 | Blue Origin ⭐ 🔥 🎯 | Summer 2027 Guidance, Navigation & Controls Internship - Graduate | Greater Seattle Area (3 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Guidance--Navigation---Controls-Internship---Graduate_R71442) |
 | Blue Origin ⭐ 🔥 🎯 | Summer 2027 Aerospace Systems Engineering Internship - Undergraduate | Greater Seattle Area (3 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Aerospace-Systems-Engineering-Internship----Undergraduate_R71436) |
@@ -287,6 +288,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Leidos 🔥 | Cybersecurity Engineer Co-op | Bethesda, MD | 🇺🇸 | 2026-08-27 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Bethesda-MD/Cybersecurity-Engineer-Co-op_R-00190764) |
 | Leidos 🔥 | SharePoint & Systems Engineering Intern (Summer 2027) | Remote (US Eastern/Central) | 🇺🇸 | 2026-08-31 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/SharePoint---Systems-Engineering-Intern_R-00190982) |
 | Leidos 🔥 🎯 | Data Science Intern | San Diego, CA | 🇺🇸 | 2026-08-28 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-CA/Data-Science-Intern_R-00190740) |
+| Leidos 🔥 🎯 | AI/ML Intern | Huntsville, AL | 🇺🇸 | 2026-09-11 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/AI-ML-Intern_R-00192042) |
 | GE Aerospace 🔥 🎯 | Applied AI Engineer Intern – Summer 2027 (May/June Start) | Evendale, OH (53 locations) | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) |
 | GE Aerospace 🔥 | Product Definition Engineering Intern - Lynn, MA - Summer 2027 | Lynn, MA | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Lynn/Product-Definition-Engineering-Intern---Lynn--MA---Summer-2027_R5039185-1) |
 | Amentum 🔥 🎯 | Software Engineering Intern (Space Force Range Contract) | Cocoa Beach, FL | 🇺🇸 | 2026-08-31 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-FL-Cocoa-Beach/Software-Engineering-Intern_R0169322) |
