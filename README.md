@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-09-11
-Open verified 2027 roles: 376
+Last updated: 2026-09-12
+Open verified 2027 roles: 377
 
 ---
 
@@ -338,6 +338,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | L3Harris 🔥 | Intern, Info Security Systems Engineer | Greenville, TX | | Unknown | [Apply](https://careers.l3harris.com/en/search-jobs/intern) |
 | Nvidia 🔥 🎯 | NVIDIA 2027 Internships: Autonomous Vehicles and Robotics | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Autonomous-Vehicles-and-Robotics_JR2023496) |
 | Nvidia 🔥 | NVIDIA 2027 Summer Internships: Ph.D. Engineering | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856) |
+| Nvidia 🔥 | Solutions Architecture Intern - Summer 2027 | Santa Clara, CA | 🇺🇸 | 2026-09-12 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Solutions-Architecture-Intern---Summer-2027_JR2025245) |
 | Sandia National Labs 🔥 🎯 | Intern R&D Undergraduate Year-Round Counter-Autonomy Intrusion Detection | Albuquerque, NM | 🇺🇸 | Unknown | [Apply](https://sandia.jobs/albuquerque-nm/intern-rd-undergraduate-year-round-counter-autonomy-intrusion-detection-hybrid/C32851070865452E900FDF9C3545A647/job/) |
 | Sandia National Labs 🔥 🎯 | Intern R&D Graduate Summer Nonlinear Mechanics and Dynamics (NOMAD) | Albuquerque, NM | 🇺🇸 | Unknown | [Apply](https://sandia.jobs/albuquerque-nm/intern-rd-graduate-summer-nonlinear-mechanics-and-dynamics-nomad-onsite/1ECC0F517E734242A606192356D2768D/job/) |
 | Sandia National Labs 🔥 🎯 | Intern R&D Undergraduate Summer Nonlinear Mechanics and Dynamics (NOMAD) | Albuquerque, NM | 🇺🇸 | Unknown | [Apply](https://sandia.jobs/albuquerque-nm/intern-rd-undergraduate-summer-nonlinear-mechanics-and-dynamics-nomad-onsite/CB1386FD1B4748C491878A05AB3C0560/job/) |
