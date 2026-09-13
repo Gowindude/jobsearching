@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-09-13
-Open verified 2027 roles: 378
+Open verified 2027 roles: 380
 
 ---
 
@@ -305,6 +305,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Nvidia 🔥 🎯 | NVIDIA 2027 Internships: Systems Software Engineering | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) |
 | Nvidia 🔥 🎯 | NVIDIA 2027 Internships: Deep Learning | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) |
 | Nvidia 🔥 | NVIDIA 2027 Internships: Computer Architecture | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489) |
+| Nvidia 🔥 | PhD Research Intern, Circuits - 2027 | Santa Clara, CA | 🇺🇸 | 2026-09-13 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Circuits---2027_JR2024174) |
 | Gulfstream (General Dynamics) 🔥 | Summer 2027 IEF - Advanced Structures & Materials (ASMI) College Associate Intern | Savannah, GA | | Unknown | [Apply](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Advanced-Structures-and-Materials-%28ASMI%29-College-Associate-Intern-GA-31401/1417869000/) |
 | Draper Laboratory 🔥 | Mechanical Engineering & System Packaging Intern | Cambridge, MA | | 2026-08-12 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002797) |
 | Draper Laboratory 🔥 🎯 | Embedded Quality & Fielded Systems Intern | Cambridge, MA | | 2026-08-05 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718) |
@@ -519,6 +520,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Draper Laboratory 🔥 | Electro-Mechanical Instrument Co-op (Spring 2027) | Cambridge, MA | | 2026-08-31 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Electro-Mechanical-Instrument-Co-op--Spring-2027-_JR002883-1) |
 | Draper Laboratory 🔥 🎯 | Systems Engineering Co-Op (Spring 2027) | Cambridge, MA | 🇺🇸 | 2026-09-11 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Systems-Engineering-Co-Op--Spring-2027-_JR002882) |
 | Amentum 🔥 🎯 | Intern - GN&C Spring Intern | Huntsville, AL | 🇺🇸 | 2026-09-11 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-AL-Huntsville/Intern---GN-C-Spring-Intern_R0170497) |
+| Northrop Grumman 🔥 🎯 | 2027 Spring Co-op Cyber Software Engineer Intern - Cincinnati OH | Cincinnati, OH | 🇺🇸 | 2026-09-13 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074236827) |
 | GE Aerospace 🔥 | Technical Coop – 2 Year Technical Associates Degree programs – Spring 2027 | Evendale, OH (+1 other site) | 🇺🇸 | 2026-09-11 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Technical-Coop---2-Year-Technical-Associates-Degree-programs---Spring-2027_R5036325-2) |
 
 > GDMS's Infrastructure Engineer Co-op requires an active Secret clearance and leans sysadmin (Linux/Windows server administration, virtualization, lab test support) rather than pure engineering — included per the technical-roles-only filter (systems engineering) but flagged as a weaker 🎯 fit. JD states "Fall 2026 or Spring 2027," Spring 2027 confirmed explicit.
