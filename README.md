@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-09-14
-Open verified 2027 roles: 385
+Open verified 2027 roles: 386
 
 ---
 
@@ -92,6 +92,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Impulse Space 🔥 | Opto-Mechanical Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/8a25dcf4-595e-4094-a819-8f5252d85726) |
 | Impulse Space 🔥 | Weld Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/b1003b70-e80b-4e3a-a5cb-d466e0e65cd3) |
 | Impulse Space 🔥 | EMC Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-11 | [Apply](https://impulsespace.pinpointhq.com/en/postings/33e7fd60-0859-4f90-9c7b-f456431893ef) |
+| Impulse Space 🔥 🎯 | Avionics Mechanical Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-14 | [Apply](https://impulsespace.pinpointhq.com/en/postings/fd2eb19d-dcbf-4153-a2d3-c6c107dc0560) |
 | Blue Origin ⭐ 🔥 🎯 | Summer 2027 Guidance, Navigation & Controls Internship - Undergraduate | Greater Seattle Area | 🇺🇸 | 2026-09-01 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Guidance--Navigation---Controls-Internship---Undergraduate_R71443) |
 | Blue Origin ⭐ 🔥 🎯 | Summer 2027 Guidance, Navigation & Controls Internship - Graduate | Greater Seattle Area (3 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Guidance--Navigation---Controls-Internship---Graduate_R71442) |
 | Blue Origin ⭐ 🔥 🎯 | Summer 2027 Aerospace Systems Engineering Internship - Undergraduate | Greater Seattle Area (3 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Aerospace-Systems-Engineering-Internship----Undergraduate_R71436) |
