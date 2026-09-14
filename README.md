@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-09-13
-Open verified 2027 roles: 380
+Last updated: 2026-09-14
+Open verified 2027 roles: 385
 
 ---
 
@@ -146,6 +146,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Rocket Lab 🔥 | Integration & Test Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987250003) |
 | Rocket Lab 🔥 | Turbomachinery Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987208003) |
 | Rocket Lab 🔥 | Structural Analysis Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-11 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986690003) |
+| Rocket Lab 🔥 | Mechanical Engineering Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-13 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7991448003) |
 
 > Astranis (SF, priority target) posted a full Spring/Summer/Winter 2027 intern wave 2026-08-14 for Mechanical and CAD Engineer/Librarian tracks — sourced 2026-08-16 via jobs.spacecrew.com and jobs.spacecapital.com. Not 🎯 (mechanical/CAD, not GNC/sim/SWE) but added per the "verified-open target company" rule. Checked the full Greenhouse board directly: every other Astranis intern req (Flight Software, Avionics, Embedded Software, PCB Layout, Radiation Effects, etc.) is Fall 2026 only — no Spring/Summer 2027 counterpart yet, so those are skipped per the term filter.
 > **Blue Origin (priority target) — 2026-09-01: full Summer 2027 intern wave**, 20 technical roles across Undergraduate and Graduate tracks, all posted same day (the exact "September 1" drop the user was watching for). Direct **Guidance, Navigation & Controls Internship** (both levels) is the strongest 🎯 hit; also tagged Aerospace Systems Engineering, Software Developer, and Avionics Software (both levels each). The prior Spring 2027 wave with matching titles closed back on 2026-08-07 — these are new Summer 2027 req IDs, not reopenings. Skipped as non-technical: Corporate Development Intern, Corporate Strategy Intern, Education Programs and Outreach Intern, Finance Intern (x2 levels). Skipped Return Internship (Undergraduate/Graduate) — restricted to students who already completed a prior Blue Origin internship, not open to new applicants.
@@ -325,6 +326,9 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Boeing 🔥 | Engineering & Technology Innovation Graduate Researcher Program - Microelectronics R&D Intern | Huntington Beach, CA (2 locations) | 🇺🇸 | 2026-09-08 | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Microelectronics-R-D-Intern_JR2026523675) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Guidance, Navigation, and Control (GNC) Graduate Intern | El Segundo, CA | 🇺🇸 | 2026-09-09 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Guidance--Navigation--and-Control--GNC--Graduate-Intern_R016512) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Machine Learning Engineering Graduate Intern | El Segundo, CA (+1 other site) | 🇺🇸 | 2026-09-09 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineering-Graduate-Intern_R016432) |
+| The Aerospace Corporation 🔥 🎯 | 2027 Navigation & Positioning Architecture Systems Graduate Intern | El Segundo, CA (+2 other sites) | 🇺🇸 | 2026-09-14 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Navigation---Positioning-Architecture-Systems-Graduate-Intern_R016445) |
+| The Aerospace Corporation 🔥 🎯 | 2027 Tracking Architecture and Performance Graduate Intern | El Segundo, CA (+1 other site) | 🇺🇸 | 2026-09-14 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Tracking-Architecture-and-Performance-Graduate-Intern_R016510) |
+| The Aerospace Corporation 🔥 🎯 | 2027 Space Enterprise Design and Optimization Graduate Intern | El Segundo, CA (+2 other sites) | 🇺🇸 | 2026-09-14 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Space-Enterprise-Design-and-Optimization-Graduate-Intern_R016561) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Trajectory Optimization Graduate Intern | El Segundo, CA (+2 other sites) | 🇺🇸 | 2026-09-08 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Trajectory-Optimization-Graduate-Intern_R016478) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Rendezvous and Proximity Operations Grad Intern | El Segundo, CA (+2 other sites) | 🇺🇸 | 2026-09-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Rendezvous-and-Proximity-Operations-Grad-Intern_R016435) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Digital Systems Engineering Graduate Intern | El Segundo, CA (+1 other site) | 🇺🇸 | 2026-09-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Digital-Systems-Engineering-Graduate-Intern_R016466) |
@@ -439,6 +443,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Rocket Lab 🔥 | Propulsion Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986790003) |
 | Rocket Lab 🔥 | Propulsion Design Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-11 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987110003) |
 | Rocket Lab 🔥 | Structural Analysis Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-11 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986685003) |
+| Rocket Lab 🔥 | Mechanical Engineering Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-13 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7985634003) |
 | NASA (JSC) 🔥 🎯 | Mission and Trajectory Design (Orion Artemis III-V trajectory design, Copernicus tool) | Houston, TX | 🇺🇸 | Unknown | [Apply](https://stemgateway.nasa.gov/s/course-offering/a0BSJ000007OPFl2AO/mission-and-trajectory-design) |
 | NASA (JSC) 🔥 🎯 | Flight Mechanics and Trajectory Design (Artemis/HyperSTEP/HiMOM) | Houston, TX | 🇺🇸 | Unknown | [Apply](https://stemgateway.nasa.gov/s/course-offering/a0BSJ000007OObS2AW/flight-mechanics-and-trajectory-design) |
 | NASA (JSC) 🔥 🎯 | Lunar Surface GN&C Robotic Testbed Development (closed-loop GN&C on a Clearpath Husky UGV, Artemis 4/MoonBase) | Houston, TX | 🇺🇸 | Unknown | [Apply](https://stemgateway.nasa.gov/s/course-offering/a0BSJ000007sPzt2AE/lunar-surface-gnc-robotic-testbed-development) |
