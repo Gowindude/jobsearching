@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-09-14
-Open verified 2027 roles: 392
+Open verified 2027 roles: 393
 
 ---
 
@@ -272,6 +272,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 | 2027 Data Analytics Intern - Clearfield UT | Roy, UT | 🇺🇸 | 2026-09-10 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074227786) |
 | Northrop Grumman 🔥 | 2027 Intern Engineer - Product Support | Whiteman AFB, MO | 🇺🇸 | 2026-09-10 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074226586) |
 | Northrop Grumman 🔥 | 2027 Intern Engineer - Product Support | Melbourne, FL | 🇺🇸 | 2026-09-10 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074238820) |
+| Northrop Grumman 🔥 | 2027 Intern Engineer - Product Support | Oklahoma City, OK | 🇺🇸 | 2026-09-14 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074239213) |
 | Northrop Grumman 🔥 | 2027 Engineering Intern - Huntsville AL | Huntsville, AL | 🇺🇸 | 2026-09-10 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074242619) |
 | Northrop Grumman 🔥 | 2027 Systems Security Engineering Intern - Roy UT | Roy, UT | 🇺🇸 | 2026-09-13 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074212960) |
 | Northrop Grumman 🔥 🎯 | 2027 Intern Software Engineer | San Diego, CA (+3 other CA sites) | 🇺🇸 | 2026-09-14 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074283170) |
