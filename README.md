@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-09-14
-Open verified 2027 roles: 393
+Last updated: 2026-09-15
+Open verified 2027 roles: 400
 
 ---
 
@@ -336,6 +336,13 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | The Aerospace Corporation 🔥 🎯 | 2027 Navigation & Positioning Architecture Systems Graduate Intern | El Segundo, CA (+2 other sites) | 🇺🇸 | 2026-09-14 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Navigation---Positioning-Architecture-Systems-Graduate-Intern_R016445) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Tracking Architecture and Performance Graduate Intern | El Segundo, CA (+1 other site) | 🇺🇸 | 2026-09-14 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Tracking-Architecture-and-Performance-Graduate-Intern_R016510) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Space Enterprise Design and Optimization Graduate Intern | El Segundo, CA (+2 other sites) | 🇺🇸 | 2026-09-14 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Space-Enterprise-Design-and-Optimization-Graduate-Intern_R016561) |
+| The Aerospace Corporation 🔥 🎯 | 2027 Communication Systems and Signal Processing Graduate Intern | El Segundo, CA | 🇺🇸 | 2026-09-15 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Communication-Systems-and-Signal-Processing-Graduate-Intern_R016555) |
+| The Aerospace Corporation 🔥 🎯 | 2027 SDR/Digital Signal Processing Undergraduate Intern | Chantilly, VA | 🇺🇸 | 2026-09-15 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Chantilly-VA/XMLNAME-2027-SDR-Digital-Signal-Processing-Undergraduate-Intern_R016558) |
+| The Aerospace Corporation 🔥 🎯 | 2027 Formal Methods Researcher Graduate Intern | El Segundo, CA (+6 other sites) | 🇺🇸 | 2026-09-15 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Formal-Methods-Researcher-Graduate-Intern_R016552) |
+| The Aerospace Corporation 🔥 | 2027 Power Systems Engineering Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-09-15 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Undergraduate-Intern_R016530) |
+| The Aerospace Corporation 🔥 | 2027 Power Systems Engineering Graduate Intern | El Segundo, CA | 🇺🇸 | 2026-09-15 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Graduate-Intern_R016527) |
+| The Aerospace Corporation 🔥 | 2027 Power and Analog Circuit Engineering Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-09-15 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Power-and-Analog-Circuit-Engineering-Undergraduate-Intern_R016533) |
+| The Aerospace Corporation 🔥 | 2027 Power and Analog Circuit Engineering Graduate Intern | El Segundo, CA | 🇺🇸 | 2026-09-15 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Power-and-Analog-Circuit-Engineering-Graduate-Intern_R016531) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Trajectory Optimization Graduate Intern | El Segundo, CA (+2 other sites) | 🇺🇸 | 2026-09-08 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Trajectory-Optimization-Graduate-Intern_R016478) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Rendezvous and Proximity Operations Grad Intern | El Segundo, CA (+2 other sites) | 🇺🇸 | 2026-09-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Rendezvous-and-Proximity-Operations-Grad-Intern_R016435) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Digital Systems Engineering Graduate Intern | El Segundo, CA (+1 other site) | 🇺🇸 | 2026-09-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Digital-Systems-Engineering-Graduate-Intern_R016466) |
