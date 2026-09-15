@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-09-15
-Open verified 2027 roles: 406
+Open verified 2027 roles: 409
 
 ---
 
@@ -275,6 +275,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 | 2027 Intern Engineer - Product Support | Oklahoma City, OK | 🇺🇸 | 2026-09-14 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074239213) |
 | GDIT 🔥 🎯 | Summer 2027 Software Development Internship | Falls Church, VA | 🇺🇸 | 2026-09-15 | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228404) |
 | Northrop Grumman 🔥 | 2027 Industrial Engineering Intern - Roy UT | Roy, UT | 🇺🇸 | 2026-09-15 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074304420) |
+| Northrop Grumman 🔥 | 2027 Electrical Engineering Intern - Chandler AZ | Chandler, AZ | 🇺🇸 | 2026-09-15 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074302382) |
 | Northrop Grumman 🔥 | 2027 Engineering Intern - Huntsville AL | Huntsville, AL | 🇺🇸 | 2026-09-10 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074242619) |
 | Northrop Grumman 🔥 | 2027 Systems Security Engineering Intern - Roy UT | Roy, UT | 🇺🇸 | 2026-09-13 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074212960) |
 | Northrop Grumman 🔥 🎯 | 2027 Intern Software Engineer | San Diego, CA (+3 other CA sites) | 🇺🇸 | 2026-09-14 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074283170) |
@@ -311,6 +312,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Amentum 🔥 | Mechanical Engineering Summer Intern | Tullahoma, TN | 🇺🇸 | 2026-09-04 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-TN-Tullahoma/Mechanical-Engineering-Summer-Intern_R0169828) |
 | Amentum 🔥 🎯 | Software Programmer Intern | Tullahoma, TN | 🇺🇸 | 2026-09-09 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-TN-Tullahoma/Software-Programmer-Intern_R0169775) |
 | Amentum 🔥 🎯 | Software Programmer Intern | Detroit, MI | 🇺🇸 | 2026-09-09 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-MI-Detroit/Software-Programmer-Intern_R0169773) |
+| Amentum 🔥 | Engineering Technician Intern | Tullahoma, TN | 🇺🇸 | 2026-09-15 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-TN-Tullahoma/Engineering-Technician-Intern_R0170715) |
 | Amentum 🔥 | Data Operations Internship IRES - SSFB | Colorado Springs, CO | 🇺🇸 | 2026-09-09 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-CO-Colorado-Springs/Data-Operations-Internship-IRES---SSFB_R0169786) |
 | Nvidia 🔥 🎯 | NVIDIA 2027 Internships: Software Engineering | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) |
 | Nvidia 🔥 🎯 | NVIDIA 2027 Internships: Systems Software Engineering | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) |
@@ -319,6 +321,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Nvidia 🔥 | PhD Research Intern, Circuits - 2027 | Santa Clara, CA | 🇺🇸 | 2026-09-13 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Circuits---2027_JR2024174) |
 | Nvidia 🔥 | Physical Design and Timing Engineer Intern - Summer 2027 | Santa Clara, CA | 🇺🇸 | 2026-09-15 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511) |
 | Nvidia 🔥 🎯 | PhD Research Intern, Autonomous Systems and Physical AI Research - 2027 | Santa Clara, CA | 🇺🇸 | 2026-09-13 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171) |
+| Nvidia 🔥 🎯 | Research Intern, Fundamental Generative AI - 2027 | Santa Clara, CA | 🇺🇸 | 2026-09-15 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406) |
 | Gulfstream (General Dynamics) 🔥 | Summer 2027 IEF - Advanced Structures & Materials (ASMI) College Associate Intern | Savannah, GA | | Unknown | [Apply](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Advanced-Structures-and-Materials-%28ASMI%29-College-Associate-Intern-GA-31401/1417869000/) |
 | Draper Laboratory 🔥 | Mechanical Engineering & System Packaging Intern | Cambridge, MA | | 2026-08-12 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002797) |
 | Draper Laboratory 🔥 🎯 | Embedded Quality & Fielded Systems Intern | Cambridge, MA | | 2026-08-05 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718) |
