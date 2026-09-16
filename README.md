@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-09-16
-Open verified 2027 roles: 413
+Open verified 2027 roles: 434
 
 ---
 
@@ -133,6 +133,10 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Stoke Space ⭐ 🔥 🎯 | Summer 2027 Internship - Software | Kent, WA | 🇺🇸 | 2026-09-01 | [Apply](https://stokespace.com/careers/current-openings?gh_jid=6176786004) |
 | Stoke Space ⭐ 🔥 | Summer 2027 Internship - Operations | Kent, WA | 🇺🇸 | 2026-09-01 | [Apply](https://stokespace.com/careers/current-openings?gh_jid=6176785004) |
 | Gravitics 🔥 | Mechanical Engineering Intern (2027) | Greater Seattle Area | 🇺🇸 | 2026-09-04 | [Apply](https://job-boards.greenhouse.io/graviticsinc/jobs/4396521009) |
+| Rendezvous Robotics 🔥 🎯 | GNC Intern (Summer 2027) | Golden, CO | 🇺🇸 | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408587009) |
+| Rendezvous Robotics 🔥 🎯 | Avionics Engineering Intern (Summer 2027) | Golden, CO | 🇺🇸 | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408578009) |
+| Rendezvous Robotics 🔥 🎯 | Software Engineering Intern (Summer 2027) | Golden, CO | 🇺🇸 | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408590009) |
+| Rendezvous Robotics 🔥 | Mechanical Engineering Intern (Summer 2027) | Golden, CO | 🇺🇸 | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408601009) |
 | Rocket Lab 🔥 🎯 | GNC Intern Summer 2027 | Littleton, CO | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989993003) |
 | Rocket Lab 🔥 🎯 | Flight Software Intern Summer 2027 | Littleton, CO | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989722003) |
 | Rocket Lab 🔥 🎯 | Systems Engineering Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987046003) |
@@ -148,6 +152,11 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Rocket Lab 🔥 | Fluid Systems Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986794003) |
 | Rocket Lab 🔥 | Integration & Test Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987250003) |
 | Rocket Lab 🔥 | Turbomachinery Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987208003) |
+| Rocket Lab 🔥 | RF Engineering Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7991657003) |
+| Rocket Lab 🔥 | Propulsion Analyst Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986820003) |
+| Rocket Lab 🔥 | Manufacturing Engineering Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984564003) |
+| Rocket Lab 🔥 | Manufacturing Engineering Intern Summer 2027 | Middle River, MD | 🇺🇸 | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7988835003) |
+| Rocket Lab 🔥 | Mechanical Engineering Intern Summer 2027 | Silver Spring, MD | 🇺🇸 | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989904003) |
 | Rocket Lab 🔥 | Structural Analysis Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-11 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986690003) |
 | Rocket Lab 🔥 | Mechanical Engineering Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-13 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7991448003) |
 
@@ -213,6 +222,9 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | AeroVironment 🔥 | Mechanical Engineering Intern | Pottstown, PA | 🇺🇸 | 2026-09-10 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Pottstown-PA/Mechanical-Engineering-Intern_8627) |
 | AeroVironment 🔥 | Mechanical Engineering Intern | Simi Valley, CA | 🇺🇸 | 2026-09-10 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Mechanical-Engineering-Intern_8591) |
 | AeroVironment 🔥 | Engineering Intern | Moorpark, CA | 🇺🇸 | 2026-09-10 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Moorpark-CA/Engineering-Intern_8597) |
+| AeroVironment 🔥 🎯 | Summer 2027 Software Engineering Intern | Melbourne, FL | 🇺🇸 | 2026-09-16 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Melbourne-FL/Summer-2027-Software-Engineering-Intern_8550) |
+| AeroVironment 🔥 | Quality Engineering Intern | Simi Valley, CA (13 locations) | 🇺🇸 | 2026-09-16 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Quality-Engineering-Intern_8618) |
+| AeroVironment 🔥 | Test Product Engineering Intern | Simi Valley, CA | 🇺🇸 | 2026-09-16 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Test-Product-Engineering-Intern_8537) |
 | Hermeus 🔥 | Subsystem Test Engineering Intern - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/643fd7b7-9015-43a1-aa2b-a54f117b403c) |
 | Hermeus 🔥 🎯 | Software Engineering Intern (Modeling & Simulation) - Spring/Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936) |
 | Hermeus 🔥 🎯 | Software Engineering Intern (HIL) - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b) |
@@ -244,6 +256,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 |---------|------|----------|--|--------|-------|
 | Teledyne FLIR 🔥 🎯 | NHRC Software Engineering Internship (Summer 2027) | Huntsville, AL | | 2026-08-14 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/us---huntsville-al/nhrc-software-engineering-internship--summer-2027-_req36193) |
 | Teledyne FLIR 🔥 🎯 | EADSIM Software Engineering Intern (Summer 2027) | Huntsville, AL | | 2026-09-01 | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667) |
+| Teledyne FLIR 🔥 🎯 | EADSIM MBSE Intern (Summer 2027) | Huntsville, AL | 🇺🇸 | 2026-09-16 | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/EADSIM-MBSE-Intern--Summer-2027-_REQ36670-1) |
 | RTX/Raytheon 🔥 🎯 | Systems Engineering Test Equipment Intern (Summer 2027) | El Segundo, CA | | Unknown | [Apply](https://careers.rtx.com/global/en/job/01867450/Systems-Engineering-Test-Equipment-Intern-Summer-2027) |
 | GD-OTS (General Dynamics) 🔥 | Intern, Technical Support | Springboro, OH | 🇺🇸 | 2026-07-28 | [Apply](https://careers-gd-ots.icims.com/jobs/36724/intern%2c-technical-support/job) |
 | Northrop Grumman 🔥 🎯 | 2027 Guidance Navigation and Control Intern | Dulles, VA | 🇺🇸 | 2026-08-18 | [Apply](https://jobs.northropgrumman.com/careers/job/1340073702822) |
@@ -304,7 +317,9 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Leidos 🔥 🎯 | Data Science Intern | San Diego, CA | 🇺🇸 | 2026-08-28 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-CA/Data-Science-Intern_R-00190740) |
 | Leidos 🔥 🎯 | AI/ML Intern | Huntsville, AL | 🇺🇸 | 2026-09-11 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/AI-ML-Intern_R-00192042) |
 | Leidos 🔥 | Power Delivery Engineering Intern | Greensboro, NC | 🇺🇸 | 2026-09-15 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Greensboro-NC/Power-Delivery-Engineering-Intern_R-00192019) |
+| Leidos 🔥 🎯 | Technical Intern (AI/Automation, Navy SMIT) | Remote (US) | 🇺🇸 | 2026-09-16 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00192448) |
 | GE Aerospace 🔥 🎯 | Applied AI Engineer Intern – Summer 2027 (May/June Start) | Evendale, OH (53 locations) | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) |
+| GE Aerospace 🔥 | Unison Engineering Part-time Intern - US - Summer 2027 | Saint George, UT | 🇺🇸 | 2026-09-16 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Saint-George-UT-US-1/Unison-Engineering-Part-time-Intern---US---Summer-2027_R5040163-1) |
 | GE Aerospace 🔥 | Product Definition Engineering Intern - Lynn, MA - Summer 2027 | Lynn, MA | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Lynn/Product-Definition-Engineering-Intern---Lynn--MA---Summer-2027_R5039185-1) |
 | Amentum 🔥 🎯 | Software Engineering Intern (Space Force Range Contract) | Cocoa Beach, FL | 🇺🇸 | 2026-08-31 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-FL-Cocoa-Beach/Software-Engineering-Intern_R0169322) |
 | Amentum 🔥 🎯 | Summer 2027 Intern - Structural Dynamics Engineer | Houston, TX | 🇺🇸 | 2026-08-24 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-TX-Houston/Summer-2027-Intern---Structural-Dynamics-Engineer_R0168655) |
@@ -362,6 +377,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | The Aerospace Corporation 🔥 🎯 | 2027 Vehicle and Ground Concepts Grad Intern | El Segundo, CA (+1 other site) | 🇺🇸 | 2026-09-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Vehicle-and-Ground-Concepts-Grad-Intern_R016300) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Vehicle and Ground Concepts Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-09-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Vehicle-and-Ground-Concepts-Undergraduate-Intern_R016433) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Aerospace Software Engineer Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-09-16 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605) |
+| The Aerospace Corporation 🔥 🎯 | 2027 RF Characterization Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-09-16 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-RF-Characterization-Undergraduate-Intern_R016612) |
 | The Aerospace Corporation 🔥 | 2027 Space Object Risk Graduate Intern | Chantilly, VA (+2 other sites) | 🇺🇸 | 2026-09-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Chantilly-VA/XMLNAME-2027-Space-Object-Risk-Graduate-Intern_R016458) |
 | The Aerospace Corporation 🔥 | 2027 Systems of Systems/Portfolio Analysis Undergraduate Intern | Colorado Springs, CO (+2 other sites) | 🇺🇸 | 2026-09-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Colorado-Springs-CO/XMLNAME-2027-Systems-of-Systems-Portfolio-Analysis-Undergraduate-Intern_R016462) |
 | L3Harris 🔥 🎯 | Intern, Systems Engineer | Waco, TX | | Unknown | [Apply](https://careers.l3harris.com/en/job/waco/intern-systems-engineer/4832/99403546960) |
@@ -471,6 +487,10 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Rocket Lab 🔥 | Propulsion Design Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-11 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987110003) |
 | Rocket Lab 🔥 | Structural Analysis Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-11 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986685003) |
 | Rocket Lab 🔥 | Mechanical Engineering Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-13 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7985634003) |
+| Rocket Lab 🔥 | Manufacturing Engineering Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984943003) |
+| Rocket Lab 🔥 | Manufacturing Engineering Intern Spring 2027 | Middle River, MD | 🇺🇸 | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987020003) |
+| Rocket Lab 🔥 | Mechanical Engineering Intern Spring 2027 | Silver Spring, MD | 🇺🇸 | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989995003) |
+| Rocket Lab 🔥 | Propulsion Analyst Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986824003) |
 | NASA (JSC) 🔥 🎯 | Mission and Trajectory Design (Orion Artemis III-V trajectory design, Copernicus tool) | Houston, TX | 🇺🇸 | Unknown | [Apply](https://stemgateway.nasa.gov/s/course-offering/a0BSJ000007OPFl2AO/mission-and-trajectory-design) |
 | NASA (JSC) 🔥 🎯 | Flight Mechanics and Trajectory Design (Artemis/HyperSTEP/HiMOM) | Houston, TX | 🇺🇸 | Unknown | [Apply](https://stemgateway.nasa.gov/s/course-offering/a0BSJ000007OObS2AW/flight-mechanics-and-trajectory-design) |
 | NASA (JSC) 🔥 🎯 | Lunar Surface GN&C Robotic Testbed Development (closed-loop GN&C on a Clearpath Husky UGV, Artemis 4/MoonBase) | Houston, TX | 🇺🇸 | Unknown | [Apply](https://stemgateway.nasa.gov/s/course-offering/a0BSJ000007sPzt2AE/lunar-surface-gnc-robotic-testbed-development) |
@@ -485,6 +505,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > Astranis (SF, priority target) — see the matching note under Summer 2027 above; same Spring 2027 Mechanical/CAD pair, posted 2026-08-14.
 > Xona Space Systems (Burlingame, CA — LEO PNT/GPS alternative) resolved to an Ashby board (`xona-space`, 61 open roles) on 2026-08-10 with a Spring 2027 Mechanical Engineering Co-op live — previously only a Cold Email lead with no known ATS. Moved out of Cold Email — see below.
 > Rendezvous Robotics (Golden, CO — reconfigurable/electromagnetically-docked-tile spacecraft) new company, found 2026-08-24: live Spring 2027 GNC Intern (Python/C++/MATLAB-Simulink dynamics-and-controls simulation work) — direct 🎯 fit. Same board also shows Avionics Engineering Intern (Spring 2027) and Manufacturing/Test Engineering Intern (Spring 2027) but neither had a confirmed direct URL this pass — not added, worth a follow-up check.
+> **2026-09-16: Rendezvous Robotics posted a full Summer 2027 wave** (4 roles, GNC/Avionics/Software/Mechanical) — added to the Summer 2027 Space & Launch table above. GNC Intern is the direct 🎯 hit; Avionics and Software Engineering also tagged 🎯.
 
 **Removed 2026-08-07 (confirmed closed — no longer returned by Blue Origin's Workday postings API, only R69064 is still live):**
 - ~~Blue Origin | Spring 2027 Software Developer Internship (Undergraduate) — R66216~~
@@ -543,6 +564,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | GE Aerospace 🔥 | Manufacturing Engineering Co-op – US – Spring 2027 | Evendale, OH (23 locations) | | 2026-08-18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Manufacturing-Engineering-Co-op---US---Spring-2027_R5029663) |
 | GE Aerospace 🔥 🎯 | Applied AI Engineer Co-op – Spring 2027 (January Start) | Evendale, OH (53 locations) | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Co-op---Spring-2027--January-Start-_R5039041-1) |
 | GE Aerospace 🔥 | US Communications Co-op - Spring 2027 | Evendale, OH | 🇺🇸 | 2026-09-15 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/US-Communications-Co-op---Spring-2027_R5039320) |
+| GE Aerospace 🔥 | Unison Engineering Part-time Co-op - US - Spring 2027 | Saint George, UT | 🇺🇸 | 2026-09-16 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Saint-George-UT-US-1/Unison-Engineering-Part-time-Co-op---US---Spring-2027_R5040016) |
 | GE Aerospace 🔥 | Structures Intern/Co-op – ACSC – Cincinnati, OH – Spring 2027 | Springdale, OH | 🇺🇸 | 2026-09-11 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Springdale/Structures-Intern-Co-op---ACSC---Cincinnati--OH---Spring-2027_R5039588-1) |
 | GDMS (General Dynamics Mission Systems) 🔥 | Infrastructure Engineer Co-op | Pittsfield, MA | 🇺🇸 | Unknown | [Apply](https://careers-gdms.icims.com/jobs/72403/job) |
 | Leidos 🔥 🎯 | Software Engineer Intern (Spring / Fall 2027) | Reston, VA | 🇺🇸 | Unknown | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Software-Engineer-Intern--Spring---Fall-2027-_R-00167584) |
