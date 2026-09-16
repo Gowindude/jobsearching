@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-09-15
-Open verified 2027 roles: 411
+Last updated: 2026-09-16
+Open verified 2027 roles: 412
 
 ---
 
@@ -188,6 +188,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Zipline 🔥 | Technical Program Manager Intern (Summer 2027) | South San Francisco, CA | | 2026-08-21 | [Apply](https://www.zipline.com/open-roles?gh_jid=7904471003) |
 | Zipline 🔥 🎯 | Aircraft Software Integration Intern (Summer 2027) | South San Francisco, CA | 🇺🇸 | 2026-09-04 | [Apply](https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003) |
 | Zipline 🔥 | Data Analytics Intern (Summer 2027) | South San Francisco, CA | 🇺🇸 | 2026-09-10 | [Apply](https://www.zipline.com/open-roles/7990632003?gh_jid=7990632003) |
+| Zipline 🔥 | Electrical Project Engineer Intern (Summer 2027) | South San Francisco, CA | 🇺🇸 | 2026-09-15 | [Apply](https://www.zipline.com/open-roles/7980932003?gh_jid=7980932003) |
 | Shield AI 🔥 🎯 | Summer 2027 - Software Engineer Intern | San Diego, CA | 🇺🇸 | 2026-09-10 | [Apply](https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010) |
 | Shield AI 🔥 | Summer 2027 - Advanced Manufacturing Engineering Intern | Dallas, TX | 🇺🇸 | 2026-08-27 | [Apply](https://jobs.lever.co/shieldai/c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a) |
 | Shield AI 🔥 | Summer 2027 - Electrical Engineering Co-op (June 2027) | Dallas, TX | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/shieldai/8c6cfcee-c6da-4a73-9bdf-3ef098ff59e6) |
