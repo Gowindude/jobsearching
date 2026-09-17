@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-09-17
-Open verified 2027 roles: 437
+Open verified 2027 roles: 443
 
 ---
 
@@ -140,6 +140,9 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Rocket Lab 🔥 🎯 | GNC Intern Summer 2027 | Littleton, CO | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989993003) |
 | Rocket Lab 🔥 🎯 | Flight Software Intern Summer 2027 | Littleton, CO | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989722003) |
 | Rocket Lab 🔥 🎯 | Systems Engineering Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987046003) |
+| Rocket Lab 🔥 🎯 | Systems Engineering Intern Summer 2027 | Pasadena, CA | 🇺🇸 | 2026-09-17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990138003) |
+| Rocket Lab 🔥 | Test Engineering Intern - Manufacturing Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987042003) |
+| Rocket Lab 🔥 | Test Engineering Intern Summer 2027 | Stennis Space Center, MS | 🇺🇸 | 2026-09-17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990350003) |
 | Rocket Lab 🔥 🎯 | Avionics Engineering Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989733003) |
 | Rocket Lab 🔥 🎯 | HITL Engineering Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990268003) |
 | Rocket Lab 🔥 🎯 | Test Engineering Intern - Avionics Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987159003) |
@@ -318,6 +321,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Leidos 🔥 🎯 | Data Science Intern | San Diego, CA | 🇺🇸 | 2026-08-28 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/San-Diego-CA/Data-Science-Intern_R-00190740) |
 | Leidos 🔥 🎯 | AI/ML Intern | Huntsville, AL | 🇺🇸 | 2026-09-11 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/AI-ML-Intern_R-00192042) |
 | Leidos 🔥 | Power Delivery Engineering Intern | Greensboro, NC | 🇺🇸 | 2026-09-15 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Greensboro-NC/Power-Delivery-Engineering-Intern_R-00192019) |
+| Leidos 🔥 | Research Engineer Intern | Pittsburgh, PA | 🇺🇸 | 2026-09-17 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Pittsburgh-PA/Research-Engineer-Intern_R-00192500) |
 | Leidos 🔥 🎯 | Technical Intern (AI/Automation, Navy SMIT) | Remote (US) | 🇺🇸 | 2026-09-16 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00192448) |
 | GE Aerospace 🔥 🎯 | Applied AI Engineer Intern – Summer 2027 (May/June Start) | Evendale, OH (53 locations) | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) |
 | GE Aerospace 🔥 | Unison Engineering Part-time Intern - US - Summer 2027 | Saint George, UT | 🇺🇸 | 2026-09-16 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Saint-George-UT-US-1/Unison-Engineering-Part-time-Intern---US---Summer-2027_R5040163-1) |
@@ -337,6 +341,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Nvidia 🔥 🎯 | NVIDIA 2027 Internships: Deep Learning | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) |
 | Nvidia 🔥 | NVIDIA 2027 Internships: Computer Architecture | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489) |
 | Nvidia 🔥 | PhD Research Intern, Circuits - 2027 | Santa Clara, CA | 🇺🇸 | 2026-09-13 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Circuits---2027_JR2024174) |
+| Nvidia 🔥 | PhD Research Intern, Architecture – 2027 | Santa Clara, CA | 🇺🇸 | 2026-09-17 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Architecture---2027_JR2025395) |
 | Nvidia 🔥 | Physical Design and Timing Engineer Intern - Summer 2027 | Santa Clara, CA | 🇺🇸 | 2026-09-15 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511) |
 | Nvidia 🔥 🎯 | PhD Research Intern, Autonomous Systems and Physical AI Research - 2027 | Santa Clara, CA | 🇺🇸 | 2026-09-13 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171) |
 | Nvidia 🔥 🎯 | Research Intern, Fundamental Generative AI - 2027 | Santa Clara, CA | 🇺🇸 | 2026-09-15 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406) |
@@ -483,6 +488,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Rocket Lab 🔥 | Additive Manufacturing Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7983576003) |
 | Rocket Lab 🔥 | Combustion Devices Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986744003) |
 | Rocket Lab 🔥 | Fluid Systems Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986788003) |
+| Rocket Lab 🔥 | Test Engineering Intern Spring 2027 | Stennis Space Center, MS | 🇺🇸 | 2026-09-17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990352003) |
 | Rocket Lab 🔥 | Integration & Test Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987252003) |
 | Rocket Lab 🔥 | Turbomachinery Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987210003) |
 | Rocket Lab 🔥 | Fluid Component Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990367003) |
