@@ -3518,5 +3518,21 @@
   "wd:leidos.wd5:/job/Washington-DC/Project-Management-Intern_R-00190049": {
     "title": "Project Management Intern",
     "seenAt": "2026-09-16"
+  },
+  "gh:rocketlab:7986965003": {
+    "title": "Security Analyst Intern Spring 2027",
+    "seenAt": "2026-09-17"
+  },
+  "gh:rocketlab:7986963003": {
+    "title": "Security Analyst Intern Summer 2027",
+    "seenAt": "2026-09-17"
+  },
+  "pinpoint:impulsespace:580924": {
+    "title": "Antenna Engineering Intern (Spring 2027)",
+    "seenAt": "2026-09-17"
+  },
+  "pinpoint:impulsespace:580926": {
+    "title": "RF Engineering Intern (Spring 2027)",
+    "seenAt": "2026-09-17"
   }
 }

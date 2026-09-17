@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-09-16
-Open verified 2027 roles: 434
+Last updated: 2026-09-17
+Open verified 2027 roles: 436
 
 ---
 
@@ -461,6 +461,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | SpaceX ⭐ | Spring 2027 Silicon Engineering Internship/Co-op | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8636134002?gh_jid=8636134002) |
 | SpaceX ⭐ | Spring 2027 Civil/Structural Engineering Internship | Flexible - Any SpaceX Site | 🇺🇸 | 2026-08-03 | [Apply](https://boards.greenhouse.io/spacex/jobs/8636143002?gh_jid=8636143002) |
 | Astranis ⭐ 🔥 | Mechanical Engineer Intern (Spring 2027) | San Francisco, CA | | 2026-08-14 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704602006) |
+| Impulse Space 🔥 | Antenna Engineering Intern (Spring 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-16 | [Apply](https://impulsespace.pinpointhq.com/en/postings/6835e408-25f1-472f-8f47-1dab06ecdd51) |
+| Impulse Space 🔥 | RF Engineering Intern (Spring 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-16 | [Apply](https://impulsespace.pinpointhq.com/en/postings/a8ff912f-2281-4221-a0f9-d8b0c5cf70ef) |
 | Astranis ⭐ 🔥 | CAD Engineer/Librarian Intern (Spring 2027) | San Francisco, CA | | 2026-08-14 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704740006) |
 | Varda Space Industries 🔥 🎯 | Guidance, Navigation & Controls (GNC) Internship - Spring 2027 | El Segundo, CA | | 2026-08-07 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824781003) |
 | Varda Space Industries 🔥 🎯 | Flight Software Internship - Spring 2027 | El Segundo, CA | | 2026-08-07 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824815003) |
