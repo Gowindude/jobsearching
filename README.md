@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-09-17
-Open verified 2027 roles: 436
+Open verified 2027 roles: 437
 
 ---
 
@@ -291,6 +291,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | GDIT 🔥 🎯 | Summer 2027 Software Development Internship | Falls Church, VA | 🇺🇸 | 2026-09-15 | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228404) |
 | Northrop Grumman 🔥 | 2027 Industrial Engineering Intern - Roy UT | Roy, UT | 🇺🇸 | 2026-09-15 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074304420) |
 | Northrop Grumman 🔥 | 2027 Electrical Engineering Intern - Chandler AZ | Chandler, AZ | 🇺🇸 | 2026-09-15 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074302382) |
+| Northrop Grumman 🔥 | 2027 Electrical Engineering Intern - Roy UT | Roy, UT | 🇺🇸 | 2026-09-17 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074213868) |
 | Northrop Grumman 🔥 | 2027 Engineering Intern - Huntsville AL | Huntsville, AL | 🇺🇸 | 2026-09-10 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074242619) |
 | Northrop Grumman 🔥 | 2027 Systems Security Engineering Intern - Roy UT | Roy, UT | 🇺🇸 | 2026-09-13 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074212960) |
 | Northrop Grumman 🔥 🎯 | 2027 Intern Software Engineer | San Diego, CA (+3 other CA sites) | 🇺🇸 | 2026-09-14 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074283170) |
