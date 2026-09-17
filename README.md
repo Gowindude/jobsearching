@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-09-17
-Open verified 2027 roles: 444
+Open verified 2027 roles: 450
 
 ---
 
@@ -147,6 +147,10 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Rocket Lab 🔥 🎯 | HITL Engineering Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990268003) |
 | Rocket Lab 🔥 🎯 | Test Engineering Intern - Avionics Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987159003) |
 | Rocket Lab 🔥 | Electrical Engineering Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990683003) |
+| Rocket Lab 🔥 | Electrical Engineering Intern Summer 2027 | Pasadena, CA | 🇺🇸 | 2026-09-17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7998598003) |
+| Rocket Lab 🔥 🎯 | Systems Engineering Intern Summer 2027 | Chantilly, VA | 🇺🇸 | 2026-09-17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990272003) |
+| Rocket Lab 🔥 🎯 | Systems Engineering Intern Summer 2027 | Tucson, AZ | 🇺🇸 | 2026-09-17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990270003) |
+| Rocket Lab 🔥 | Manufacturing Engineering Intern Summer 2027 | Wallops Island, VA | 🇺🇸 | 2026-09-17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7996623003) |
 | Rocket Lab 🔥 | Propulsion Design Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986816003) |
 | Rocket Lab 🔥 | Propulsion Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986792003) |
 | Rocket Lab 🔥 | Additive Manufacturing Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984600003) |
@@ -370,6 +374,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | The Aerospace Corporation 🔥 🎯 | 2027 Tracking Architecture and Performance Graduate Intern | El Segundo, CA (+1 other site) | 🇺🇸 | 2026-09-14 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Tracking-Architecture-and-Performance-Graduate-Intern_R016510) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Space Enterprise Design and Optimization Graduate Intern | El Segundo, CA (+2 other sites) | 🇺🇸 | 2026-09-14 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Space-Enterprise-Design-and-Optimization-Graduate-Intern_R016561) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Communication Systems and Signal Processing Graduate Intern | El Segundo, CA | 🇺🇸 | 2026-09-15 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Communication-Systems-and-Signal-Processing-Graduate-Intern_R016555) |
+| The Aerospace Corporation 🔥 🎯 | 2027 Communication Systems and Signal Processing Undergrad Intern | El Segundo, CA | 🇺🇸 | 2026-09-17 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Communication-Systems-and-Signal-Processing-Undergrad-Intern_R016600) |
 | The Aerospace Corporation 🔥 🎯 | 2027 SDR/Digital Signal Processing Undergraduate Intern | Chantilly, VA | 🇺🇸 | 2026-09-15 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Chantilly-VA/XMLNAME-2027-SDR-Digital-Signal-Processing-Undergraduate-Intern_R016558) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Formal Methods Researcher Graduate Intern | El Segundo, CA (+6 other sites) | 🇺🇸 | 2026-09-15 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Formal-Methods-Researcher-Graduate-Intern_R016552) |
 | The Aerospace Corporation 🔥 | 2027 Power Systems Engineering Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-09-15 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Undergraduate-Intern_R016530) |
@@ -499,6 +504,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Rocket Lab 🔥 | Mechanical Engineering Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-13 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7985634003) |
 | Rocket Lab 🔥 | Manufacturing Engineering Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984943003) |
 | Rocket Lab 🔥 | Manufacturing Engineering Intern Spring 2027 | Middle River, MD | 🇺🇸 | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987020003) |
+| Rocket Lab 🔥 | Manufacturing Engineering Intern Spring 2027 | Wallops Island, VA | 🇺🇸 | 2026-09-17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7996617003) |
 | Rocket Lab 🔥 | Mechanical Engineering Intern Spring 2027 | Silver Spring, MD | 🇺🇸 | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989995003) |
 | Rocket Lab 🔥 | Propulsion Analyst Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986824003) |
 | NASA (JSC) 🔥 🎯 | Mission and Trajectory Design (Orion Artemis III-V trajectory design, Copernicus tool) | Houston, TX | 🇺🇸 | Unknown | [Apply](https://stemgateway.nasa.gov/s/course-offering/a0BSJ000007OPFl2AO/mission-and-trajectory-design) |
