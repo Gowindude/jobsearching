@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-09-17
-Open verified 2027 roles: 450
+Last updated: 2026-09-18
+Open verified 2027 roles: 456
 
 ---
 
@@ -94,7 +94,10 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Impulse Space 🔥 | EMC Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-11 | [Apply](https://impulsespace.pinpointhq.com/en/postings/33e7fd60-0859-4f90-9c7b-f456431893ef) |
 | Impulse Space 🔥 🎯 | Avionics Mechanical Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-14 | [Apply](https://impulsespace.pinpointhq.com/en/postings/fd2eb19d-dcbf-4153-a2d3-c6c107dc0560) |
 | Impulse Space 🔥 🎯 | Test Automation Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-14 | [Apply](https://impulsespace.pinpointhq.com/en/postings/f43f718d-d6ef-4586-a1e5-f6de230bf7d2) |
+| Impulse Space 🔥 🎯 | Dynamics Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-17 | [Apply](https://impulsespace.pinpointhq.com/en/postings/9b3bbeb8-ba9e-488d-a18d-03fe1cd824d6) |
 | Impulse Space 🔥 | Development Test Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-14 | [Apply](https://impulsespace.pinpointhq.com/en/postings/8b8a0693-fcf2-4cc4-8e2d-130d68fd6566) |
+| Impulse Space 🔥 | Tooling/Ground Support Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-17 | [Apply](https://impulsespace.pinpointhq.com/en/postings/3ca4f02c-eede-41ce-8132-da5db3ff2bd2) |
+| Impulse Space 🔥 | Thermal Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-17 | [Apply](https://impulsespace.pinpointhq.com/en/postings/79cd1c7d-c918-4656-9b75-9e6ffe81c08e) |
 | Blue Origin ⭐ 🔥 🎯 | Summer 2027 Guidance, Navigation & Controls Internship - Undergraduate | Greater Seattle Area | 🇺🇸 | 2026-09-01 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Guidance--Navigation---Controls-Internship---Undergraduate_R71443) |
 | Blue Origin ⭐ 🔥 🎯 | Summer 2027 Guidance, Navigation & Controls Internship - Graduate | Greater Seattle Area (3 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Guidance--Navigation---Controls-Internship---Graduate_R71442) |
 | Blue Origin ⭐ 🔥 🎯 | Summer 2027 Aerospace Systems Engineering Internship - Undergraduate | Greater Seattle Area (3 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Aerospace-Systems-Engineering-Internship----Undergraduate_R71436) |
@@ -160,6 +163,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Rocket Lab 🔥 | Integration & Test Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987250003) |
 | Rocket Lab 🔥 | Turbomachinery Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987208003) |
 | Rocket Lab 🔥 | RF Engineering Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7991657003) |
+| Rocket Lab 🔥 | Optical Engineering Intern Summer 2027 | Tucson, AZ | 🇺🇸 | 2026-09-17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7992102003) |
+| Rocket Lab 🔥 | R&D Engineering Intern Summer 2027 | Albuquerque, NM | 🇺🇸 | 2026-09-17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7996576003) |
 | Rocket Lab 🔥 | Propulsion Analyst Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986820003) |
 | Rocket Lab 🔥 | Manufacturing Engineering Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984564003) |
 | Rocket Lab 🔥 | Manufacturing Engineering Intern Summer 2027 | Middle River, MD | 🇺🇸 | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7988835003) |
@@ -498,6 +503,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Rocket Lab 🔥 | Integration & Test Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987252003) |
 | Rocket Lab 🔥 | Turbomachinery Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987210003) |
 | Rocket Lab 🔥 | Fluid Component Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990367003) |
+| Rocket Lab 🔥 | R&D Engineering Intern Spring 2027 | Albuquerque, NM | 🇺🇸 | 2026-09-17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7996578003) |
 | Rocket Lab 🔥 | Propulsion Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986790003) |
 | Rocket Lab 🔥 | Propulsion Design Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-11 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987110003) |
 | Rocket Lab 🔥 | Structural Analysis Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-11 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986685003) |
