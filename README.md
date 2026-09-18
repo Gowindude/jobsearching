@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-09-18
-Open verified 2027 roles: 456
+Open verified 2027 roles: 459
 
 ---
 
@@ -304,6 +304,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 | 2027 Industrial Engineering Intern - Roy UT | Roy, UT | 🇺🇸 | 2026-09-15 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074304420) |
 | Northrop Grumman 🔥 | 2027 Electrical Engineering Intern - Chandler AZ | Chandler, AZ | 🇺🇸 | 2026-09-15 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074302382) |
 | Northrop Grumman 🔥 | 2027 Electrical Engineering Intern - Roy UT | Roy, UT | 🇺🇸 | 2026-09-17 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074213868) |
+| Northrop Grumman 🔥 | 2027 Intern Tooling Engineer | Clearfield, UT | 🇺🇸 | 2026-09-18 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074352191) |
 | Northrop Grumman 🔥 | 2027 Engineering Intern - Huntsville AL | Huntsville, AL | 🇺🇸 | 2026-09-10 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074242619) |
 | Northrop Grumman 🔥 | 2027 Systems Security Engineering Intern - Roy UT | Roy, UT | 🇺🇸 | 2026-09-13 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074212960) |
 | Northrop Grumman 🔥 🎯 | 2027 Intern Software Engineer | San Diego, CA (+3 other CA sites) | 🇺🇸 | 2026-09-14 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074283170) |
@@ -332,6 +333,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Leidos 🔥 | Power Delivery Engineering Intern | Greensboro, NC | 🇺🇸 | 2026-09-15 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Greensboro-NC/Power-Delivery-Engineering-Intern_R-00192019) |
 | Leidos 🔥 | Research Engineer Intern | Pittsburgh, PA | 🇺🇸 | 2026-09-17 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Pittsburgh-PA/Research-Engineer-Intern_R-00192500) |
 | Leidos 🔥 | Naval Architecture Intern | New York, NY | 🇺🇸 | 2026-09-17 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/New-York-NY/Naval-Architecture-Intern_R-00192491) |
+| Leidos 🔥 | Relay Settings Intern | Remote (US) | 🇺🇸 | 2026-09-18 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Relay-Settings-Intern_R-00192628) |
 | Leidos 🔥 🎯 | Technical Intern (AI/Automation, Navy SMIT) | Remote (US) | 🇺🇸 | 2026-09-16 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00192448) |
 | GE Aerospace 🔥 🎯 | Applied AI Engineer Intern – Summer 2027 (May/June Start) | Evendale, OH (53 locations) | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) |
 | GE Aerospace 🔥 | Unison Engineering Part-time Intern - US - Summer 2027 | Saint George, UT | 🇺🇸 | 2026-09-16 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Saint-George-UT-US-1/Unison-Engineering-Part-time-Intern---US---Summer-2027_R5040163-1) |
@@ -616,6 +618,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Freeform 🔥 | Mechanical Engineering Intern (Spring 2027) | Los Angeles, CA | | 2026-08-24 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7921114003) |
 | Freeform 🔥 | Electrical Engineering Intern (Spring 2027) | Los Angeles, CA | | 2026-08-31 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7982398003) |
 | 1X Technologies 🔥 | Internship - Manufacturing Engineering (starting January 2027) | San Carlos, CA | 🇺🇸 | 2026-09-14 | [Apply](https://jobs.ashbyhq.com/1x/d687b375-8136-4e6f-baa6-369b89366050) |
+| 1X Technologies 🔥 | Internship - CNC Machine Park | Hayward, CA | 🇺🇸 | 2026-09-18 | [Apply](https://jobs.ashbyhq.com/1x/ebc45d87-58d7-40d8-9e3d-5f3c8aa5eb48) |
 
 > Tesla postings title their term "Winter/Spring 2027" rather than a clean "Spring 2027" — treated as in-scope since Spring 2027 is an explicit option within that combined term, but flag this if a stricter reading is wanted later. Found 2026-08-16/20 via Google site-search + Claude in Chrome (direct site browse is Cloudflare-protected, needs `region=5` param or it redirects to Italy). The Optimus and Systems Architecture roles are 🎯 GNC/robotics-adjacent. Note the Powertrain role has a near-identical **Fall 2026** posting at the same Sparks, NV location under a different req — don't confuse the two. A "Vehicle Manufacturing Engineering" and a "Technical Program Manager, Vehicle" internship were reported by an earlier sweep but still couldn't be re-located with a confirmed URL — not added. Also spotted but unverified: Internship, Hardware Validation Engineer, Optimus (Winter/Spring 2027, Palo Alto).
 
