@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-09-18
-Open verified 2027 roles: 459
+Last updated: 2026-09-19
+Open verified 2027 roles: 464
 
 ---
 
@@ -123,6 +123,9 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Blue Origin ⭐ 🔥 | Summer 2027 Manufacturing Engineering Internship - Graduate | Huntsville, AL (4 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Huntsville-AL/Summer-2027-Manufacturing-Engineering-Internship---Graduate_R71427) |
 | Astranis ⭐ 🔥 | Mechanical Engineer Intern (Summer 2027) | San Francisco, CA | | 2026-08-14 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704601006) |
 | Astranis ⭐ 🔥 | CAD Engineer/Librarian Intern (Summer 2027) | San Francisco, CA | | 2026-08-14 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704742006) |
+| Astranis ⭐ 🔥 | Harness Manufacturing Intern (Summer 2027) | San Francisco, CA | 🇺🇸 | 2026-09-18 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705255006) |
+| Astranis ⭐ 🔥 | Production Quality Intern (Summer 2027) | San Francisco, CA | 🇺🇸 | 2026-09-18 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705675006) |
+| Astranis ⭐ 🔥 | Propulsion Manufacturing Intern (Summer 2027) | San Francisco, CA | 🇺🇸 | 2026-09-18 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705648006) |
 | K2 Space ⭐ 🔥 🎯 | GNC Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411917008) |
 | K2 Space ⭐ 🔥 🎯 | Dynamics Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411916008) |
 | K2 Space ⭐ 🔥 🎯 | Software Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008) |
@@ -305,6 +308,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 | 2027 Electrical Engineering Intern - Chandler AZ | Chandler, AZ | 🇺🇸 | 2026-09-15 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074302382) |
 | Northrop Grumman 🔥 | 2027 Electrical Engineering Intern - Roy UT | Roy, UT | 🇺🇸 | 2026-09-17 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074213868) |
 | Northrop Grumman 🔥 | 2027 Intern Tooling Engineer | Clearfield, UT | 🇺🇸 | 2026-09-18 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074352191) |
+| Northrop Grumman 🔥 | 2027 Facilities Engineering Intern | Clearfield, UT | 🇺🇸 | 2026-09-19 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074348455) |
+| Northrop Grumman 🔥 | 2027 Manufacturing Engineer Intern | Iuka, MS | 🇺🇸 | 2026-09-19 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074352752) |
 | Northrop Grumman 🔥 | 2027 Engineering Intern - Huntsville AL | Huntsville, AL | 🇺🇸 | 2026-09-10 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074242619) |
 | Northrop Grumman 🔥 | 2027 Systems Security Engineering Intern - Roy UT | Roy, UT | 🇺🇸 | 2026-09-13 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074212960) |
 | Northrop Grumman 🔥 🎯 | 2027 Intern Software Engineer | San Diego, CA (+3 other CA sites) | 🇺🇸 | 2026-09-14 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074283170) |
