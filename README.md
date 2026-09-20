@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-09-19
-Open verified 2027 roles: 464
+Last updated: 2026-09-20
+Open verified 2027 roles: 466
 
 ---
 
@@ -310,6 +310,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 | 2027 Intern Tooling Engineer | Clearfield, UT | 🇺🇸 | 2026-09-18 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074352191) |
 | Northrop Grumman 🔥 | 2027 Facilities Engineering Intern | Clearfield, UT | 🇺🇸 | 2026-09-19 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074348455) |
 | Northrop Grumman 🔥 | 2027 Manufacturing Engineer Intern | Iuka, MS | 🇺🇸 | 2026-09-19 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074352752) |
+| Northrop Grumman 🔥 | 2027 Structural Engineer Intern | Clearfield, UT | 🇺🇸 | 2026-09-20 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074355009) |
 | Northrop Grumman 🔥 | 2027 Engineering Intern - Huntsville AL | Huntsville, AL | 🇺🇸 | 2026-09-10 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074242619) |
 | Northrop Grumman 🔥 | 2027 Systems Security Engineering Intern - Roy UT | Roy, UT | 🇺🇸 | 2026-09-13 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074212960) |
 | Northrop Grumman 🔥 🎯 | 2027 Intern Software Engineer | San Diego, CA (+3 other CA sites) | 🇺🇸 | 2026-09-14 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074283170) |
@@ -401,6 +402,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | The Aerospace Corporation 🔥 🎯 | 2027 Vehicle and Ground Concepts Grad Intern | El Segundo, CA (+1 other site) | 🇺🇸 | 2026-09-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Vehicle-and-Ground-Concepts-Grad-Intern_R016300) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Vehicle and Ground Concepts Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-09-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Vehicle-and-Ground-Concepts-Undergraduate-Intern_R016433) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Aerospace Software Engineer Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-09-16 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605) |
+| The Aerospace Corporation 🔥 | 2027 Reliability and Statistics Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-09-20 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Reliability-and-Statistics-Undergraduate-Intern_R016594) |
 | The Aerospace Corporation 🔥 🎯 | 2027 RF Characterization Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-09-16 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-RF-Characterization-Undergraduate-Intern_R016612) |
 | The Aerospace Corporation 🔥 | 2027 Space Object Risk Graduate Intern | Chantilly, VA (+2 other sites) | 🇺🇸 | 2026-09-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Chantilly-VA/XMLNAME-2027-Space-Object-Risk-Graduate-Intern_R016458) |
 | The Aerospace Corporation 🔥 | 2027 Systems of Systems/Portfolio Analysis Undergraduate Intern | Colorado Springs, CO (+2 other sites) | 🇺🇸 | 2026-09-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Colorado-Springs-CO/XMLNAME-2027-Systems-of-Systems-Portfolio-Analysis-Undergraduate-Intern_R016462) |
