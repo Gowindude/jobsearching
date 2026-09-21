@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-09-20
-Open verified 2027 roles: 466
+Last updated: 2026-09-21
+Open verified 2027 roles: 469
 
 ---
 
@@ -286,6 +286,9 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 🎯 | 2027 Intern - Systems Engineering | Oklahoma City, OK | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074113809) |
 | Northrop Grumman 🔥 🎯 | 2027 Intern - Electronics (Avionics) Engineering | Oklahoma City, OK | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074114564) |
 | Northrop Grumman 🔥 | 2027 Cybersecurity Analyst Intern - Boulder CO | Boulder, CO | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074117774) |
+| Northrop Grumman 🔥 🎯 | 2027 Systems Engineer Intern - Baltimore MD | Baltimore, MD | 🇺🇸 | 2026-09-21 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074321683) |
+| Northrop Grumman 🔥 🎯 | 2027 Digital Engineer Intern - Baltimore MD | Baltimore, MD | 🇺🇸 | 2026-09-21 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074324186) |
+| Northrop Grumman 🔥 | 2027 Mechanical Engineer Intern - Baltimore MD | Baltimore, MD | 🇺🇸 | 2026-09-21 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074320803) |
 | Northrop Grumman 🔥 | 2027 Industrial Engineering Intern | Iuka, MS | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074126350) |
 | Northrop Grumman 🔥 🎯 | 2027 Software Engineer Intern - Linthicum Maryland | Linthicum Heights, MD | 🇺🇸 | 2026-09-02 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074136253) |
 | Northrop Grumman 🔥 🎯 | 2027 Systems Engineer Intern - Gilbert AZ | Gilbert, AZ | 🇺🇸 | 2026-09-02 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074147212) |
