@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-09-21
-Open verified 2027 roles: 476
+Open verified 2027 roles: 483
 
 ---
 
@@ -239,6 +239,10 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | AeroVironment 🔥 | Mechanical Engineering Intern | Pottstown, PA | 🇺🇸 | 2026-09-10 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Pottstown-PA/Mechanical-Engineering-Intern_8627) |
 | AeroVironment 🔥 | Mechanical Engineering Intern | Simi Valley, CA | 🇺🇸 | 2026-09-10 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Mechanical-Engineering-Intern_8591) |
 | AeroVironment 🔥 | Engineering Intern | Moorpark, CA | 🇺🇸 | 2026-09-10 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Moorpark-CA/Engineering-Intern_8597) |
+| AeroVironment 🔥 🎯 | Guidance, Navigation, and Controls Engineering Intern | Moorpark, CA | 🇺🇸 | 2026-09-21 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Moorpark-CA/Guidance--Navigation--and-Controls-Engineering-Intern_8625) |
+| AeroVironment 🔥 🎯 | Summer 2027 Autonomy & Robotics Engineering Intern | Moorpark, CA | 🇺🇸 | 2026-09-21 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Moorpark-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8551) |
+| AeroVironment 🔥 🎯 | Software Engineering Intern | Simi Valley, CA | 🇺🇸 | 2026-09-21 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Software-Engineering-Intern_8813) |
+| AeroVironment 🔥 | Aeromechanical Engineering Intern | Moorpark, CA | 🇺🇸 | 2026-09-21 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Moorpark-CA/Aeromechanical-Engineering-Intern_8787) |
 | AeroVironment 🔥 🎯 | Summer 2027 Software Engineering Intern | Melbourne, FL | 🇺🇸 | 2026-09-16 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Melbourne-FL/Summer-2027-Software-Engineering-Intern_8550) |
 | AeroVironment 🔥 | Quality Engineering Intern | Simi Valley, CA (13 locations) | 🇺🇸 | 2026-09-16 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Quality-Engineering-Intern_8618) |
 | AeroVironment 🔥 | Test Product Engineering Intern | Simi Valley, CA | 🇺🇸 | 2026-09-16 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Test-Product-Engineering-Intern_8537) |
@@ -371,6 +375,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Nvidia 🔥 🎯 | PhD Research Intern, Autonomous Systems and Physical AI Research - 2027 | Santa Clara, CA | 🇺🇸 | 2026-09-13 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171) |
 | Nvidia 🔥 🎯 | Research Intern, Fundamental Generative AI - 2027 | Santa Clara, CA | 🇺🇸 | 2026-09-15 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406) |
 | Nvidia 🔥 🎯 | PhD Research Intern, Generative AI for Physical AI - 2027 | Santa Clara, CA | 🇺🇸 | 2026-09-15 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025) |
+| Nvidia 🔥 🎯 | Research Intern, Robotics - Summer 2027 | Seattle, WA (+ Santa Clara, CA) | 🇺🇸 | 2026-09-21 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647) |
+| Nvidia 🔥 | PhD Research Intern, Networking - 2027 | Santa Clara, CA | 🇺🇸 | 2026-09-21 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098) |
 | Gulfstream (General Dynamics) 🔥 | Summer 2027 IEF - Advanced Structures & Materials (ASMI) College Associate Intern | Savannah, GA | | Unknown | [Apply](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Advanced-Structures-and-Materials-%28ASMI%29-College-Associate-Intern-GA-31401/1417869000/) |
 | Draper Laboratory 🔥 | Mechanical Engineering & System Packaging Intern | Cambridge, MA | | 2026-08-12 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002797) |
 | Draper Laboratory 🔥 🎯 | Embedded Quality & Fielded Systems Intern | Cambridge, MA | | 2026-08-05 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718) |
@@ -394,6 +400,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | The Aerospace Corporation 🔥 🎯 | 2027 Tracking Architecture and Performance Graduate Intern | El Segundo, CA (+1 other site) | 🇺🇸 | 2026-09-14 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Tracking-Architecture-and-Performance-Graduate-Intern_R016510) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Space Enterprise Design and Optimization Graduate Intern | El Segundo, CA (+2 other sites) | 🇺🇸 | 2026-09-14 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Space-Enterprise-Design-and-Optimization-Graduate-Intern_R016561) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Communication Systems and Signal Processing Graduate Intern | El Segundo, CA | 🇺🇸 | 2026-09-15 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Communication-Systems-and-Signal-Processing-Graduate-Intern_R016555) |
+| The Aerospace Corporation 🔥 🎯 | 2027 Machine Learning Engineer Undergrad Intern | El Segundo, CA (+1 other site) | 🇺🇸 | 2026-09-21 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineer-Undergrad-Intern_R016667) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Communication Systems and Signal Processing Undergrad Intern | El Segundo, CA | 🇺🇸 | 2026-09-17 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Communication-Systems-and-Signal-Processing-Undergrad-Intern_R016600) |
 | The Aerospace Corporation 🔥 🎯 | 2027 SDR/Digital Signal Processing Undergraduate Intern | Chantilly, VA | 🇺🇸 | 2026-09-15 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Chantilly-VA/XMLNAME-2027-SDR-Digital-Signal-Processing-Undergraduate-Intern_R016558) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Formal Methods Researcher Graduate Intern | El Segundo, CA (+6 other sites) | 🇺🇸 | 2026-09-15 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Formal-Methods-Researcher-Graduate-Intern_R016552) |
