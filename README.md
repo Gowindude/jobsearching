@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-09-21
-Open verified 2027 roles: 472
+Open verified 2027 roles: 476
 
 ---
 
@@ -168,6 +168,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Rocket Lab 🔥 | RF Engineering Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7991657003) |
 | Rocket Lab 🔥 | Optical Engineering Intern Summer 2027 | Tucson, AZ | 🇺🇸 | 2026-09-17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7992102003) |
 | Rocket Lab 🔥 | R&D Engineering Intern Summer 2027 | Albuquerque, NM | 🇺🇸 | 2026-09-17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7996576003) |
+| Rocket Lab 🔥 | Thermal Engineering Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-21 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8000958003) |
 | Rocket Lab 🔥 | Propulsion Analyst Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986820003) |
 | Rocket Lab 🔥 | Manufacturing Engineering Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7984564003) |
 | Rocket Lab 🔥 | Manufacturing Engineering Intern Summer 2027 | Middle River, MD | 🇺🇸 | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7988835003) |
@@ -213,6 +214,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Zipline 🔥 🎯 | Aircraft Software Integration Intern (Summer 2027) | South San Francisco, CA | 🇺🇸 | 2026-09-04 | [Apply](https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003) |
 | Zipline 🔥 | Data Analytics Intern (Summer 2027) | South San Francisco, CA | 🇺🇸 | 2026-09-10 | [Apply](https://www.zipline.com/open-roles/7990632003?gh_jid=7990632003) |
 | Zipline 🔥 | Electrical Project Engineer Intern (Summer 2027) | South San Francisco, CA | 🇺🇸 | 2026-09-15 | [Apply](https://www.zipline.com/open-roles/7980932003?gh_jid=7980932003) |
+| Zipline 🔥 🎯 | Flight Test Engineer Intern (Summer 2027) | South San Francisco, CA | 🇺🇸 | 2026-09-21 | [Apply](https://www.zipline.com/open-roles/7999924003?gh_jid=7999924003) |
 | Shield AI 🔥 🎯 | Summer 2027 - Software Engineer Intern | San Diego, CA | 🇺🇸 | 2026-09-10 | [Apply](https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010) |
 | Shield AI 🔥 | Summer 2027 - Advanced Manufacturing Engineering Intern | Dallas, TX | 🇺🇸 | 2026-08-27 | [Apply](https://jobs.lever.co/shieldai/c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a) |
 | Shield AI 🔥 | Summer 2027 - Electrical Engineering Co-op (June 2027) | Dallas, TX | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/shieldai/8c6cfcee-c6da-4a73-9bdf-3ef098ff59e6) |
@@ -518,6 +520,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Rocket Lab 🔥 | Turbomachinery Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987210003) |
 | Rocket Lab 🔥 | Fluid Component Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990367003) |
 | Rocket Lab 🔥 | R&D Engineering Intern Spring 2027 | Albuquerque, NM | 🇺🇸 | 2026-09-17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7996578003) |
+| Rocket Lab 🔥 | Thermal Engineering Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-21 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8000951003) |
 | Rocket Lab 🔥 | Propulsion Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986790003) |
 | Rocket Lab 🔥 | Propulsion Design Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-11 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987110003) |
 | Rocket Lab 🔥 | Structural Analysis Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-11 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986685003) |
@@ -580,6 +583,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Zipline 🔥 | System Test Automation Intern (Spring 2027) | South San Francisco, CA | | 2026-08-18 | [Apply](https://www.zipline.com/open-roles?gh_jid=7893946003) |
 | Zipline 🔥 | Technical Program Manager Intern (Spring 2027) | South San Francisco, CA | | 2026-08-19 | [Apply](https://www.zipline.com/open-roles?gh_jid=7904446003) |
 | Zipline 🔥 🎯 | Aircraft Software Integration Intern (Spring 2027) | South San Francisco, CA | 🇺🇸 | 2026-09-04 | [Apply](https://www.zipline.com/open-roles/7986810003?gh_jid=7986810003) |
+| Zipline 🔥 🎯 | Flight Test Engineer Intern (Spring 2027) | South San Francisco, CA | 🇺🇸 | 2026-09-21 | [Apply](https://www.zipline.com/open-roles/7999929003?gh_jid=7999929003) |
 | Zipline 🔥 | Data Analytics Intern (Spring 2027) | South San Francisco, CA | 🇺🇸 | 2026-09-10 | [Apply](https://www.zipline.com/open-roles/7990420003?gh_jid=7990420003) |
 | Zipline 🔥 🎯 | Maps Intern (Spring 2027) | South San Francisco, CA | | 2026-08-28 | [Apply](https://www.zipline.com/open-roles?gh_jid=7929354003) |
 | Zipline 🔥 | Electrical Project Engineer Intern (Spring 2027) | South San Francisco, CA | | 2026-08-28 | [Apply](https://www.zipline.com/open-roles?gh_jid=7980874003) |

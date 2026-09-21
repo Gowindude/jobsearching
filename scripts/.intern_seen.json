@@ -3790,5 +3790,21 @@
   "wd:leidos.wd5:/job/Tucson-AZ/Jr-Software-Engineer-Intern_R-00192184": {
     "title": "Jr. Software Engineer Intern",
     "seenAt": "2026-09-21"
+  },
+  "gh:flyzipline:7999929003": {
+    "title": "Flight Test Engineer Intern (Spring 2027)",
+    "seenAt": "2026-09-21"
+  },
+  "gh:flyzipline:7999924003": {
+    "title": "Flight Test Engineer Intern (Summer 2027)",
+    "seenAt": "2026-09-21"
+  },
+  "gh:rocketlab:8000951003": {
+    "title": "Thermal Engineering Intern Spring 2027",
+    "seenAt": "2026-09-21"
+  },
+  "gh:rocketlab:8000958003": {
+    "title": "Thermal Engineering Intern Summer 2027",
+    "seenAt": "2026-09-21"
   }
 }
