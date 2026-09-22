@@ -68,7 +68,7 @@ const WORKDAY_BOARDS = {
   'GE Aerospace': { host: 'geaerospace.wd5', tenant: 'geaerospace', site: 'GE_ExternalSite' },
   'Draper Laboratory': { host: 'draper.wd5', tenant: 'draper', site: 'Draper_Careers' },
   'AeroVironment': { host: 'avav.wd1', tenant: 'avav', site: 'AVAV' },
-  'Booz Allen Hamilton': { host: 'boozallen.wd1', tenant: 'boozallen', site: 'BAH_Jobs' },
+  'Booz Allen Hamilton': { host: 'bah.wd1', tenant: 'bah', site: 'BAH_Jobs' },
   'Teledyne FLIR': { host: 'flir.wd1', tenant: 'flir', site: 'flircareers' },
   'GDIT': { host: 'gdit.wd5', tenant: 'gdit', site: 'External_Career_Site' },
   'Sierra Nevada Corporation': { host: 'snc.wd1', tenant: 'snc', site: 'SNC_External_Career_Site' },
