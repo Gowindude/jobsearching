@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-09-21
-Open verified 2027 roles: 483
+Last updated: 2026-09-22
+Open verified 2027 roles: 486
 
 ---
 
@@ -126,6 +126,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Astranis ⭐ 🔥 | Harness Manufacturing Intern (Summer 2027) | San Francisco, CA | 🇺🇸 | 2026-09-18 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705255006) |
 | Astranis ⭐ 🔥 | Production Quality Intern (Summer 2027) | San Francisco, CA | 🇺🇸 | 2026-09-18 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705675006) |
 | Astranis ⭐ 🔥 | Propulsion Manufacturing Intern (Summer 2027) | San Francisco, CA | 🇺🇸 | 2026-09-18 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705648006) |
+| Astranis ⭐ 🔥 | Assembly, Integration, and Test Intern (Summer 2027) | San Francisco, CA | 🇺🇸 | 2026-09-21 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704761006) |
 | K2 Space ⭐ 🔥 🎯 | GNC Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411917008) |
 | K2 Space ⭐ 🔥 🎯 | Dynamics Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411916008) |
 | K2 Space ⭐ 🔥 🎯 | Software Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008) |
@@ -216,6 +217,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Zipline 🔥 | Electrical Project Engineer Intern (Summer 2027) | South San Francisco, CA | 🇺🇸 | 2026-09-15 | [Apply](https://www.zipline.com/open-roles/7980932003?gh_jid=7980932003) |
 | Zipline 🔥 🎯 | Flight Test Engineer Intern (Summer 2027) | South San Francisco, CA | 🇺🇸 | 2026-09-21 | [Apply](https://www.zipline.com/open-roles/7999924003?gh_jid=7999924003) |
 | Shield AI 🔥 🎯 | Summer 2027 - Software Engineer Intern | San Diego, CA | 🇺🇸 | 2026-09-10 | [Apply](https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010) |
+| Shield AI 🔥 | Summer 2027 - Mechanical Engineering Intern | Seattle, WA | 🇺🇸 | 2026-09-21 | [Apply](https://jobs.lever.co/shieldai/da54c482-fe62-4f60-98b1-55ac0b82b3bc) |
 | Shield AI 🔥 | Summer 2027 - Advanced Manufacturing Engineering Intern | Dallas, TX | 🇺🇸 | 2026-08-27 | [Apply](https://jobs.lever.co/shieldai/c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a) |
 | Shield AI 🔥 | Summer 2027 - Electrical Engineering Co-op (June 2027) | Dallas, TX | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/shieldai/8c6cfcee-c6da-4a73-9bdf-3ef098ff59e6) |
 | Shield AI 🔥 | Summer 2027 - Electrical Engineering Intern | Dallas, TX | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/shieldai/200a293f-71ce-4982-a100-ac4b500c4cf7) |
@@ -611,6 +613,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | GE Aerospace 🔥 | Manufacturing Engineering Co-op – US – Spring 2027 | Evendale, OH (23 locations) | | 2026-08-18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Manufacturing-Engineering-Co-op---US---Spring-2027_R5029663) |
 | GE Aerospace 🔥 🎯 | Applied AI Engineer Co-op – Spring 2027 (January Start) | Evendale, OH (53 locations) | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Co-op---Spring-2027--January-Start-_R5039041-1) |
 | GE Aerospace 🔥 | US Communications Co-op - Spring 2027 | Evendale, OH | 🇺🇸 | 2026-09-15 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/US-Communications-Co-op---Spring-2027_R5039320) |
+| GE Aerospace 🔥 🎯 | SaaS - Flight Analytics Platform - Data Science Co-op - Spring 2027 | Austin, TX | 🇺🇸 | 2026-09-21 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Austin/SaaS---Flight-Analytics-Platform---Data-Science-Co-op---Spring-2027_R5040450-2) |
 | GE Aerospace 🔥 | Unison Engineering Part-time Co-op - US - Spring 2027 | Saint George, UT | 🇺🇸 | 2026-09-16 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Saint-George-UT-US-1/Unison-Engineering-Part-time-Co-op---US---Spring-2027_R5040016) |
 | GE Aerospace 🔥 | Structures Intern/Co-op – ACSC – Cincinnati, OH – Spring 2027 | Springdale, OH | 🇺🇸 | 2026-09-11 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Springdale/Structures-Intern-Co-op---ACSC---Cincinnati--OH---Spring-2027_R5039588-1) |
 | GDMS (General Dynamics Mission Systems) 🔥 | Infrastructure Engineer Co-op | Pittsfield, MA | 🇺🇸 | Unknown | [Apply](https://careers-gdms.icims.com/jobs/72403/job) |
