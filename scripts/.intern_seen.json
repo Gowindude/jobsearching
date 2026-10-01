@@ -4794,5 +4794,141 @@
   "ef:1340074520996": {
     "title": "2027 Test Engineering Intern - VSFB CA",
     "seenAt": "2026-09-30"
+  },
+  "gh:muonspace:5247725007": {
+    "title": "Flight Software Engineering Intern (Summer 2027)",
+    "seenAt": "2026-10-01"
+  },
+  "gh:muonspace:5253395007": {
+    "title": "Legal Intern (Summer 2027)",
+    "seenAt": "2026-10-01"
+  },
+  "gh:muonspace:5253432007": {
+    "title": "Quality Engineering Intern (Summer 2027)",
+    "seenAt": "2026-10-01"
+  },
+  "gh:muonspace:5253474007": {
+    "title": "Thermal Engineering Intern (Summer 2027)",
+    "seenAt": "2026-10-01"
+  },
+  "gh:astranis:4718206006": {
+    "title": "Automation & Controls Engineering Intern (Summer 2027)",
+    "seenAt": "2026-10-01"
+  },
+  "gh:astranis:4718203006": {
+    "title": "Automation & Controls Engineering Intern (Winter 2027)",
+    "seenAt": "2026-10-01"
+  },
+  "gh:astranis:4704335006": {
+    "title": "Radiation Effects Engineer Intern (Winter 2027)",
+    "seenAt": "2026-10-01"
+  },
+  "gh:astranis:4708436006": {
+    "title": "RF Hardware Intern (Summer 2027)",
+    "seenAt": "2026-10-01"
+  },
+  "gh:astranis:4708417006": {
+    "title": "RF Hardware Intern (Winter 2027)",
+    "seenAt": "2026-10-01"
+  },
+  "gh:flyzipline:7992001003": {
+    "title": "Zip Motion Planning Intern (Summer 2027)",
+    "seenAt": "2026-10-01"
+  },
+  "lever:hermeus:29c10a11-aa02-4d64-83d0-00001cbd3ac0": {
+    "title": "Loads & Dynamics Engineering Intern - Summer 2027",
+    "seenAt": "2026-10-01"
+  },
+  "wd:geaerospace.wd5:/job/Pittsburgh/Military-DoD-SkillBridge-Internship---Test-Technician-Level-2---On-Wing-Support_R5040996-1": {
+    "title": "Military DoD SkillBridge Internship - Test Technician Level 2 – On Wing Support",
+    "seenAt": "2026-10-01"
+  },
+  "wd:geaerospace.wd5:/job/Pittsburgh/Military-DoD-SkillBridge-Internship---Maintenance-Technician_R5040995-1": {
+    "title": "Military DoD SkillBridge Internship - Maintenance Technician",
+    "seenAt": "2026-10-01"
+  },
+  "wd:geaerospace.wd5:/job/Evendale/Product-Definition-Engineering-Intern--Commercial---Summer-2027_R5040755-2": {
+    "title": "Product Definition Engineering Intern, Commercial - Summer 2027",
+    "seenAt": "2026-10-01"
+  },
+  "wd:geaerospace.wd5:/job/Springdale/Military-DoD-SkillBridge-Internship---Structure-Parts-Operations-Supervisor--1st-Shift-_R5040965-1": {
+    "title": "Military DoD SkillBridge Internship - Structure Parts Operations Supervisor (1st Shift)",
+    "seenAt": "2026-10-01"
+  },
+  "wd:geaerospace.wd5:/job/Lynn/Lynn-CNC-Programmer-Co-Op_R5040944-1": {
+    "title": "Lynn CNC Programmer Co-Op",
+    "seenAt": "2026-10-01"
+  },
+  "wd:snc.wd1:/job/Plano-TX/Systems-Engineer-I--For-2026-Interns-Only-_R0030603": {
+    "title": "Systems Engineer I (For 2026 Interns Only)",
+    "seenAt": "2026-10-01"
+  },
+  "wd:snc.wd1:/job/Plano-TX/Systems-Engineer-I--For-2026-Interns-Only-_R0030611": {
+    "title": "Systems Engineer I (For 2026 Interns Only)",
+    "seenAt": "2026-10-01"
+  },
+  "wd:snc.wd1:/job/Dayton-OH/Systems-Engineer-I--For-2026-Interns-Only-_R0030589": {
+    "title": "Systems Engineer I (For 2026 Interns Only)",
+    "seenAt": "2026-10-01"
+  },
+  "wd:pae.wd1:/job/US-CO-Englewood/Structural-Engineer-Intern_R0171935": {
+    "title": "Structural Engineer Intern",
+    "seenAt": "2026-10-01"
+  },
+  "wd:draper.wd5:/job/Cambridge-MA/Integrated-Circuits-Intern_JR002973": {
+    "title": "Integrated Circuits Intern",
+    "seenAt": "2026-10-01"
+  },
+  "wd:draper.wd5:/job/Cambridge-MA/Cable-And-Harnessing-Intern--Summer-2027-_JR002963": {
+    "title": "Cable And Harnessing Intern (Summer 2027)",
+    "seenAt": "2026-10-01"
+  },
+  "wd:flir.wd1:/job/US---Chestnut-Ridge-NY/Manufacturing-Engineer-Co-Op_REQ36603": {
+    "title": "Manufacturing Engineer Co-Op",
+    "seenAt": "2026-10-01"
+  },
+  "wd:bah.wd1:/job/McLean-VA/Product-Engineering-Intern_R0250655": {
+    "title": "Product Engineering Intern",
+    "seenAt": "2026-10-01"
+  },
+  "wd:nvidia.wd5:/job/China-Shanghai/Deep-Learning-Compiler-Intern---2027_JR2026262": {
+    "title": "Deep Learning Compiler Intern - 2027",
+    "seenAt": "2026-10-01"
+  },
+  "wd:nvidia.wd5:/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775": {
+    "title": "Developer Technology Engineering Intern - Compute Performance",
+    "seenAt": "2026-10-01"
+  },
+  "wd:nvidia.wd5:/job/China-Shanghai/Software-Engineer-Intern--AI-and-DL-Kernel-Libraries---2027_JR2026307": {
+    "title": "Software Engineer Intern, AI and DL Kernel Libraries - 2027",
+    "seenAt": "2026-10-01"
+  },
+  "wd:leidos.wd5:/job/Huntsville-AL/Embedded-Design-Engineering-Intern---Firmware_R-00193574": {
+    "title": "Embedded Design Engineering Intern – Firmware",
+    "seenAt": "2026-10-01"
+  },
+  "ef:1340074521737": {
+    "title": "2027 Intern Business Management",
+    "seenAt": "2026-10-01"
+  },
+  "ef:1340074540253": {
+    "title": "2027 Engineering Intern - Manhattan Beach (CA) (Evergreen)",
+    "seenAt": "2026-10-01"
+  },
+  "ef:1340074540749": {
+    "title": "2027 Engineering Intern - Melbourne (FL) (Evergreen)",
+    "seenAt": "2026-10-01"
+  },
+  "ef:1340074540900": {
+    "title": "2027 Engineering Intern - Hollywood (MD) (Evergreen)",
+    "seenAt": "2026-10-01"
+  },
+  "ef:1340074522279": {
+    "title": "2027 Business Management Intern - Linthicum MD",
+    "seenAt": "2026-10-01"
+  },
+  "ef:1340074437940": {
+    "title": "2027 Software Digital Intern - Rolling Meadows IL",
+    "seenAt": "2026-10-01"
   }
 }
