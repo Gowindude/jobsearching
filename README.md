@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-02
-Open verified 2027 roles: 618
+Open verified 2027 roles: 620
 
 ---
 
@@ -206,6 +206,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Muon Space 🔥 | Thermal Engineering Intern (Summer 2027) | San Jose, CA | 🇺🇸 | 2026-09-30 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5253474007) |
 | Muon Space 🔥 | Electrical Engineering Intern (Summer 2027) | San Jose, CA | 🇺🇸 | 2026-10-01 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5255112007) |
 | Muon Space 🔥 | Harness Design Intern (Summer 2027) | San Jose, CA | 🇺🇸 | 2026-10-01 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5255108007) |
+| Muon Space 🔥 | Environmental Test Engineering Intern (Summer 2027) | San Jose, CA | 🇺🇸 | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5256286007) |
+| Muon Space 🔥 | Industrial Engineering Intern (Summer 2027) | San Jose, CA | 🇺🇸 | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5256284007) |
 | Varda Space Industries 🔥 🎯 | Guidance, Navigation & Controls (GNC) Internship - Summer 2027 | El Segundo, CA | 🇺🇸 | 2026-10-01 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7865601003) |
 | Varda Space Industries 🔥 🎯 | Flight Software Internship - Summer 2027 | El Segundo, CA | 🇺🇸 | 2026-10-01 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010159003) |
 | Varda Space Industries 🔥 | Aerodynamics & Analysis Engineering Internship - Summer 2027 | El Segundo, CA | 🇺🇸 | 2026-10-01 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010632003) |
@@ -608,6 +610,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-02: scanner cron, 23 roles added.** Varda Space Industries' Summer 2027 wave (El Segundo): 🎯 Guidance, Navigation & Controls (GNC) Internship, 🎯 Flight Software Internship, plus Aerodynamics & Analysis, Avionics, Cybersecurity, Manufacturing, Mechanisms & Payload, Mission Operations, Propulsion, Structures, Thermal, Vehicle Integration & Test; Muon Space Electrical Engineering + Harness Design Interns (San Jose); 🎯 Sierra Space 2027 Systems Engineer Intern; 🎯 Aerospace Corp Systems Integration and Test Grad Intern (Chantilly); Northrop Optical Engineer (Redondo) + 🎯 Systems Engineering Nuclear Survivability (Melbourne FL); Leidos Mechanical Design/Analysis + Flight Test and Integration Interns (Huntsville); Amentum Damage Tolerance Intern; Impulse Manufacturing Engineering Intern (Spring 2027). Excluded: non-US (GE Aerospace Queretaro ×2, Pomigliano Italy; Nvidia Shanghai), non-technical (BAH Business & Office Management Intern), not an engineering track (Varda Formulation Science Internship).
 
 > **2026-10-02 (later), scanner cron, 7 roles added.** 🎯 Leidos Software Developer Intern (Annapolis Junction MD), Leidos Technical Intern, Northrop 2x 2027 Engineering Intern (Northridge CA), Aerospace Corp Electro-Optical + Flight Loads Structural Dynamics Grad Interns, Anduril Industrial Engineer Intern. Excluded: Rocket Lab 4x Government Operations Interns and Muon People Operations Intern (non-technical), Anduril Supply Chain Intern, Leidos Business Systems AI Intern (business systems), Nvidia PhD Research Intern (PhD-only).
+> **2026-10-02 (night), scanner cron, 2 roles added.** Muon Space Environmental Test Engineering + Industrial Engineering Interns (San Jose, Summer 2027); neither 🎯.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
