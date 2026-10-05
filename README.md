@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-10-02
-Open verified 2027 roles: 620
+Last updated: 2026-10-05
+Open verified 2027 roles: 622
 
 ---
 
@@ -447,6 +447,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Nvidia 🔥 🎯 | NVIDIA 2027 Internships: Software Engineering | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) |
 | Nvidia 🔥 🎯 | NVIDIA 2027 Internships: Systems Software Engineering | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) |
 | Nvidia 🔥 🎯 | NVIDIA 2027 Internships: Deep Learning | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) |
+| Nvidia 🔥 🎯 | NVIDIA 2027 Ignite Internships: Software Engineering | Santa Clara, CA | 🇺🇸 | 2026-10-05 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958) |
+| Nvidia 🔥 | NVIDIA 2027 Ignite Internships: Hardware Engineering | Santa Clara, CA | 🇺🇸 | 2026-10-05 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Hardware-Engineering_JR2027047) |
 | Nvidia 🔥 | NVIDIA 2027 Internships: Computer Architecture | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Computer-Architecture_JR2023489) |
 | Nvidia 🔥 | PhD Research Intern, Circuits - 2027 | Santa Clara, CA | 🇺🇸 | 2026-09-13 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Circuits---2027_JR2024174) |
 | Nvidia 🔥 | PhD Research Intern, Architecture – 2027 | Santa Clara, CA | 🇺🇸 | 2026-09-17 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Architecture---2027_JR2025395) |
@@ -611,6 +613,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 
 > **2026-10-02 (later), scanner cron, 7 roles added.** 🎯 Leidos Software Developer Intern (Annapolis Junction MD), Leidos Technical Intern, Northrop 2x 2027 Engineering Intern (Northridge CA), Aerospace Corp Electro-Optical + Flight Loads Structural Dynamics Grad Interns, Anduril Industrial Engineer Intern. Excluded: Rocket Lab 4x Government Operations Interns and Muon People Operations Intern (non-technical), Anduril Supply Chain Intern, Leidos Business Systems AI Intern (business systems), Nvidia PhD Research Intern (PhD-only).
 > **2026-10-02 (night), scanner cron, 2 roles added.** Muon Space Environmental Test Engineering + Industrial Engineering Interns (San Jose, Summer 2027); neither 🎯.
+> **2026-10-05, scanner cron**: added Nvidia's 2027 Ignite Internships (Software Engineering 🎯, Hardware Engineering; Santa Clara, posted same day). Excluded: Nvidia Nsight Systems SWE Intern (Poland/remote non-US) and AI Agent Development RDSS Intern (Taiwan). Partial coverage: Northrop Grumman board fetch failed this run.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
