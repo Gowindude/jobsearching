@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-05
-Open verified 2027 roles: 622
+Open verified 2027 roles: 628
 
 ---
 
@@ -350,6 +350,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 🎯 | 2027 Intern - Electronics (Avionics) Engineering | Oklahoma City, OK | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074114564) |
 | Northrop Grumman 🔥 | 2027 Cybersecurity Analyst Intern - Boulder CO | Boulder, CO | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074117774) |
 | Northrop Grumman 🔥 🎯 | 2027 Systems Engineer Intern - Baltimore MD | Baltimore, MD | 🇺🇸 | 2026-09-21 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074321683) |
+| Northrop Grumman 🔥 | 2027 College Technical Intern - McLean VA | McLean, VA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074488862) |
 | Northrop Grumman 🔥 🎯 | 2027 Digital Engineer Intern - Baltimore MD | Baltimore, MD | 🇺🇸 | 2026-09-21 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074324186) |
 | Northrop Grumman 🔥 | 2027 Mechanical Engineer Intern - Baltimore MD | Baltimore, MD | 🇺🇸 | 2026-09-21 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074320803) |
 | Northrop Grumman 🔥 | 2027 Electrical Engineer Intern - Baltimore MD | Baltimore, MD | 🇺🇸 | 2026-09-21 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074306889) |
@@ -444,6 +445,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Amentum 🔥 | Data Operations Internship IRES - SSFB | Colorado Springs, CO | 🇺🇸 | 2026-09-09 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-CO-Colorado-Springs/Data-Operations-Internship-IRES---SSFB_R0169786) |
 | Amentum 🔥 | Structural Engineer Intern | Englewood, CO | 🇺🇸 | 2026-10-01 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-CO-Englewood/Structural-Engineer-Intern_R0171935) |
 | Amentum 🔥 | Intern - Damage Tolerance Intern | Huntsville, AL | 🇺🇸 | 2026-10-02 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-AL-Huntsville/Intern---Damage-Tolerance-Intern_R0172055) |
+| Amentum 🔥 | Performance Engineering Intern | Houston, TX | 🇺🇸 | 2026-10-05 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-TX-Houston/Performance-Engineering-Intern_R0172180-1) |
 | Nvidia 🔥 🎯 | NVIDIA 2027 Internships: Software Engineering | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) |
 | Nvidia 🔥 🎯 | NVIDIA 2027 Internships: Systems Software Engineering | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) |
 | Nvidia 🔥 🎯 | NVIDIA 2027 Internships: Deep Learning | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) |
@@ -536,6 +538,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Booz Allen Hamilton 🔥 | University - Summer 2027 Quantum Computing Research Intern | Washington, DC | 🇺🇸 | Unknown | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/University---Summer-2027-Quantum-Computing-Research-Intern_R0249046) |
 | Booz Allen Hamilton 🔥 | Systems Administrator Intern | Annapolis Junction, MD | 🇺🇸 | Unknown | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0249565) |
 | Booz Allen Hamilton 🔥 | Product Engineering Intern | McLean, VA | 🇺🇸 | 2026-10-01 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Product-Engineering-Intern_R0250655) |
+| Booz Allen Hamilton 🔥 | University - 2027 Summer Games Cyber Security Intern - Annapolis Junction, MD | Annapolis Junction, MD | 🇺🇸 | 2026-09-08 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Cyber-Security-Intern---Annapolis-Junction--MD_R0248414) |
 | Leidos 🔥 🎯 | Software Developer Intern | Annapolis Junction, MD | 🇺🇸 | Unknown | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00192858) |
 | Leidos 🔥 🎯 | Software Development Intern | Gaithersburg, MD | 🇺🇸 | Unknown | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Gaithersburg-MD/Software-Development-Intern_R-00193103) |
 | Leidos 🔥 🎯 | Lunar Terrain Vehicle – Engineering Intern | Huntsville, AL | 🇺🇸 | Unknown | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Lunar-Terrain-Vehicle---Engineering-Intern_R-00192848) |
@@ -614,6 +617,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-02 (later), scanner cron, 7 roles added.** 🎯 Leidos Software Developer Intern (Annapolis Junction MD), Leidos Technical Intern, Northrop 2x 2027 Engineering Intern (Northridge CA), Aerospace Corp Electro-Optical + Flight Loads Structural Dynamics Grad Interns, Anduril Industrial Engineer Intern. Excluded: Rocket Lab 4x Government Operations Interns and Muon People Operations Intern (non-technical), Anduril Supply Chain Intern, Leidos Business Systems AI Intern (business systems), Nvidia PhD Research Intern (PhD-only).
 > **2026-10-02 (night), scanner cron, 2 roles added.** Muon Space Environmental Test Engineering + Industrial Engineering Interns (San Jose, Summer 2027); neither 🎯.
 > **2026-10-05, scanner cron**: added Nvidia's 2027 Ignite Internships (Software Engineering 🎯, Hardware Engineering; Santa Clara, posted same day). Excluded: Nvidia Nsight Systems SWE Intern (Poland/remote non-US) and AI Agent Development RDSS Intern (Taiwan). Partial coverage: Northrop Grumman board fetch failed this run.
+> **2026-10-05 (later), scanner cron, 6 roles added.** Freeform Spring 2027 Additive, Manufacturing + Process Engineering Interns (Los Angeles), Amentum Performance Engineering Intern (Houston), BAH 2027 Summer Games Cyber Security Intern (Annapolis Junction), Northrop 2027 College Technical Intern (McLean); none 🎯. Excluded: Rocket Lab RF Engineering Intern Summer 2027 (Long Beach; near-duplicate of existing row), GE Aerospace HR Intern (Queretaro, non-US/non-technical), Northrop Project Management Intern (Huntsville; non-technical).
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
@@ -793,6 +797,9 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Tesla 🔥 | Internship, Powertrain, Manufacturing Automation Controls Engineering (Winter/Spring 2027) | Sparks, NV | | Unknown | [Apply](https://www.tesla.com/careers/search/job/internship-powertrain-manufacturing-automation-controls-engineering-winter-spring-2027--278960) |
 | Freeform 🔥 | Mechanical Engineering Intern (Spring 2027) | Los Angeles, CA | | 2026-08-24 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7921114003) |
 | Freeform 🔥 | Electrical Engineering Intern (Spring 2027) | Los Angeles, CA | | 2026-08-31 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7982398003) |
+| Freeform 🔥 | Additive Engineering Intern (Spring 2027) | Los Angeles, CA | | 2026-10-05 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/8013423003) |
+| Freeform 🔥 | Manufacturing Engineering Intern (Spring 2027) | Los Angeles, CA | | 2026-10-05 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/8013422003) |
+| Freeform 🔥 | Process Engineering Intern (Spring 2027) | Los Angeles, CA | | 2026-10-05 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/8013424003) |
 | 1X Technologies 🔥 | Internship - Manufacturing Engineering (starting January 2027) | San Carlos, CA | 🇺🇸 | 2026-09-14 | [Apply](https://jobs.ashbyhq.com/1x/d687b375-8136-4e6f-baa6-369b89366050) |
 | 1X Technologies 🔥 | Internship - CNC Machine Park | Hayward, CA | 🇺🇸 | 2026-09-18 | [Apply](https://jobs.ashbyhq.com/1x/ebc45d87-58d7-40d8-9e3d-5f3c8aa5eb48) |
 
