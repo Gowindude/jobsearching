@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-06
-Open verified 2027 roles: 639
+Open verified 2027 roles: 640
 
 ---
 
@@ -338,6 +338,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Teledyne FLIR 🔥 🎯 | NHRC Software Engineering Internship (Summer 2027) | Huntsville, AL | | 2026-08-14 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/us---huntsville-al/nhrc-software-engineering-internship--summer-2027-_req36193) |
 | Teledyne FLIR 🔥 🎯 | EADSIM Software Engineering Intern (Summer 2027) | Huntsville, AL | | 2026-09-01 | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667) |
 | Teledyne FLIR 🔥 🎯 | EADSIM MBSE Intern (Summer 2027) | Huntsville, AL | 🇺🇸 | 2026-09-16 | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/EADSIM-MBSE-Intern--Summer-2027-_REQ36670-1) |
+| Teledyne FLIR 🔥 🎯 | Systems Technologies Intern (year-round 2027; controls/embedded SW/imaging; CW variant REQ37278) | Orlando, FL (+Wilsonville, OR) | 🇺🇸 | 2026-10-06 | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Orlando-FL/Systems-Technologies-Intern_REQ37282) |
 | Teledyne FLIR 🔥 | Manufacturing Engineer Co-Op | Chestnut Ridge, NY | 🇺🇸 | 2026-10-01 | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Chestnut-Ridge-NY/Manufacturing-Engineer-Co-Op_REQ36603) |
 | RTX/Raytheon 🔥 🎯 | Systems Engineering Test Equipment Intern (Summer 2027) | El Segundo, CA | | Unknown | [Apply](https://careers.rtx.com/global/en/job/01867450/Systems-Engineering-Test-Equipment-Intern-Summer-2027) |
 | GD-OTS (General Dynamics) 🔥 | Intern, Technical Support | Springboro, OH | 🇺🇸 | 2026-07-28 | [Apply](https://careers-gd-ots.icims.com/jobs/36724/intern%2c-technical-support/job) |
@@ -634,6 +635,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-06, scanner cron, 3 roles added.** Northrop 🎯 2027 Software Engineer Intern (Morrisville NC; Rolling Meadows IL, both posted 09-30) and GE Aerospace Inspection Engineering Intern Summer 2027 (Springdale OH). Excluded: Sierra Nevada Software Engineer I (For 2026 Interns Only) — restricted to existing interns.
 > **2026-10-06 (later), scanner cron, 1 role added.** 🎯 AeroVironment Hypersonic RF Software Engineering Intern (Germantown MD, Summer internship, posted same day). Excluded: Boeing Hounslow UK Facilities Management Intern and Sustainability Intern (non-US, non-technical).
 > **2026-10-06 (afternoon), scanner cron, 3 roles added.** 🎯 Leidos Systems Engineer Intern (Arlington VA) and 🎯 Controls Engineer Intern (Walled Lake MI), both posted same day; Northrop 2027 Mechanical Engineering Intern (Chandler AZ). Excluded: Sierra Nevada Aerospace Engineer I (For 2026 Interns Only; restricted to existing interns), Northrop 2027 Supply Chain Intern (Elkton MD; non-technical).
+> **2026-10-06 (evening), scanner cron, 1 role added.** 🎯 Teledyne FLIR Systems Technologies Intern (Orlando FL / Wilsonville OR; year-round 2027 internship, controls/embedded SW/imaging, posted same day; CW req REQ37278 folded in as duplicate). Excluded: Leidos Business Systems AI Intern ×2 (business/IT systems, non-technical-fit).
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
