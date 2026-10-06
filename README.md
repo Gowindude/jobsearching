@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-06
-Open verified 2027 roles: 635
+Open verified 2027 roles: 636
 
 ---
 
@@ -301,6 +301,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | AeroVironment 🔥 | Test Product Engineering Intern | Simi Valley, CA | 🇺🇸 | 2026-09-16 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Test-Product-Engineering-Intern_8537) |
 | AeroVironment 🔥 | Aeromechanical Engineering Intern | Huntsville, AL | 🇺🇸 | Unknown | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Huntsville-AL/Aeromechanical-Engineering-Intern_8786) |
 | AeroVironment 🔥 🎯 | Software Engineering Intern | Sunrise, FL | 🇺🇸 | Unknown | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Sunrise-FL/Software-Engineering-Intern_8797) |
+| AeroVironment 🔥 🎯 | Hypersonic RF Software Engineering Intern | Germantown, MD | 🇺🇸 | 2026-10-06 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Germantown-MD/Hypersonic-RF-Software-Engineering-Intern_8993) |
 | AeroVironment 🔥 | Production Engineering Intern | Simi Valley, CA | 🇺🇸 | Unknown | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Production-Engineering-Intern_8887) |
 | AeroVironment 🔥 🎯 | Titan-SV Software Engineer Intern | Leesburg, VA | 🇺🇸 | Unknown | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Leesburg-VA/Titan-SV-Software-Engineer-Intern_8901) |
 | Hermeus 🔥 | Subsystem Test Engineering Intern - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/643fd7b7-9015-43a1-aa2b-a54f117b403c) |
@@ -628,6 +629,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-05 (night), scanner cron, 2 roles added.** Anduril 2027 Quality & Test Engineer Intern (Ashville OH / Costa Mesa / Irvine / Quonset / Santa Ana) and 2027 Reliability Engineer Intern (Costa Mesa). Excluded: Rocket Lab Supply Chain Intern (non-technical), Anduril Winter 2027 Quality & Test Engineer Co-op (Winter term).
 > **2026-10-05 (late night), scanner cron, 2 roles added.** 🎯 Anduril 2027 Systems Engineer Intern (Boston / Costa Mesa / Fort Collins / Reston / Seattle) and 🎯 Northrop Grumman 2027 Software Engineering Intern (Colorado Springs CO). Excluded: Nvidia APAC Ecommerce Backend Intern (Taiwan, non-US), Anduril Winter 2027 Reliability Engineer Co-op (Winter term).
 > **2026-10-06, scanner cron, 3 roles added.** Northrop 🎯 2027 Software Engineer Intern (Morrisville NC; Rolling Meadows IL, both posted 09-30) and GE Aerospace Inspection Engineering Intern Summer 2027 (Springdale OH). Excluded: Sierra Nevada Software Engineer I (For 2026 Interns Only) — restricted to existing interns.
+> **2026-10-06 (later), scanner cron, 1 role added.** 🎯 AeroVironment Hypersonic RF Software Engineering Intern (Germantown MD, Summer internship, posted same day). Excluded: Boeing Hounslow UK Facilities Management Intern and Sustainability Intern (non-US, non-technical).
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
