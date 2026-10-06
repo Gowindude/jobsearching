@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-10-05
-Open verified 2027 roles: 632
+Last updated: 2026-10-06
+Open verified 2027 roles: 635
 
 ---
 
@@ -391,6 +391,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 | 2027 Intern - Systems Security/Cybersecurity Engineer | Melbourne, FL | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074415630) |
 | Northrop Grumman 🔥 | 2027 Engineering Intern - Rocket Center WV | Rocket Center, WV | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074415419) |
 | Northrop Grumman 🔥 | 2027 Engineering Intern - Plymouth MN | Plymouth, MN | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074415434) |
+| Northrop Grumman 🔥 🎯 | 2027 Software Engineer Intern - Morrisville NC | Morrisville, NC | 🇺🇸 | 2026-09-30 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074542575) |
+| Northrop Grumman 🔥 🎯 | 2027 Software Engineer Intern - Rolling Meadows IL | Rolling Meadows, IL | 🇺🇸 | 2026-09-30 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074542678) |
 | Northrop Grumman 🔥 | 2027 Engineering Intern - Elkton MD or Palm Beach Gardens FL or Ronkonkoma NY | Elkton, MD (+2 other sites) | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074415362) |
 | Northrop Grumman 🔥 🎯 | 2027 Systems Engineering Intern - Chandler AZ | Chandler, AZ | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074499565) |
 | Northrop Grumman 🔥 | 2027 Mechanical Engineering Intern - Clearfield UT | Clearfield, UT | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074519776) |
@@ -437,6 +439,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | GE Aerospace 🔥 🎯 | Engines Engineering MBSE Intern - Summer 2027 | Evendale, OH (+1 other site) | 🇺🇸 | 2026-09-23 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-MBSE-Intern---Summer-2027_R5034811) |
 | GE Aerospace 🔥 | Product Definition Engineering Intern, Commercial - Summer 2027 | Evendale, OH |  | 2026-10-01 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Product-Definition-Engineering-Intern--Commercial---Summer-2027_R5040755-2) |
 | GE Aerospace 🔥 | Lynn CNC Programmer Co-Op | Lynn, MA |  | 2026-10-01 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Lynn/Lynn-CNC-Programmer-Co-Op_R5040944-1) |
+| GE Aerospace 🔥 | Inspection Engineering Intern - Summer 2027 | Springdale, OH (+West Chester, Evendale) | | 2026-10-06 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Springdale/Inspection-Engineering-Intern---Summer-2027_R5040956-1) |
 | Amentum 🔥 🎯 | Software Engineering Intern (Space Force Range Contract) | Cocoa Beach, FL | 🇺🇸 | 2026-08-31 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-FL-Cocoa-Beach/Software-Engineering-Intern_R0169322) |
 | Amentum 🔥 🎯 | Summer 2027 Intern - Structural Dynamics Engineer | Houston, TX | 🇺🇸 | 2026-08-24 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-TX-Houston/Summer-2027-Intern---Structural-Dynamics-Engineer_R0168655) |
 | Amentum 🔥 🎯 | Controls & Instrumentation Engineer Intern | Detroit, MI | 🇺🇸 | 2026-09-04 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-MI-Detroit/Controls---Instrumentation-Engineer-Intern_R0169793) |
@@ -624,6 +627,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-05 (later), scanner cron, 6 roles added.** Freeform Spring 2027 Additive, Manufacturing + Process Engineering Interns (Los Angeles), Amentum Performance Engineering Intern (Houston), BAH 2027 Summer Games Cyber Security Intern (Annapolis Junction), Northrop 2027 College Technical Intern (McLean); none 🎯. Excluded: Rocket Lab RF Engineering Intern Summer 2027 (Long Beach; near-duplicate of existing row), GE Aerospace HR Intern (Queretaro, non-US/non-technical), Northrop Project Management Intern (Huntsville; non-technical).
 > **2026-10-05 (night), scanner cron, 2 roles added.** Anduril 2027 Quality & Test Engineer Intern (Ashville OH / Costa Mesa / Irvine / Quonset / Santa Ana) and 2027 Reliability Engineer Intern (Costa Mesa). Excluded: Rocket Lab Supply Chain Intern (non-technical), Anduril Winter 2027 Quality & Test Engineer Co-op (Winter term).
 > **2026-10-05 (late night), scanner cron, 2 roles added.** 🎯 Anduril 2027 Systems Engineer Intern (Boston / Costa Mesa / Fort Collins / Reston / Seattle) and 🎯 Northrop Grumman 2027 Software Engineering Intern (Colorado Springs CO). Excluded: Nvidia APAC Ecommerce Backend Intern (Taiwan, non-US), Anduril Winter 2027 Reliability Engineer Co-op (Winter term).
+> **2026-10-06, scanner cron, 3 roles added.** Northrop 🎯 2027 Software Engineer Intern (Morrisville NC; Rolling Meadows IL, both posted 09-30) and GE Aerospace Inspection Engineering Intern Summer 2027 (Springdale OH). Excluded: Sierra Nevada Software Engineer I (For 2026 Interns Only) — restricted to existing interns.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
