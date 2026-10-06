@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-06
-Open verified 2027 roles: 636
+Open verified 2027 roles: 639
 
 ---
 
@@ -406,6 +406,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 🎯 | 2027 Intern - Systems Engineering - Nuclear Survivability/Ionizing Radiation | Melbourne, FL | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074326470) |
 | Northrop Grumman 🔥 | 2027 Engineering Intern - Northridge CA | Los Angeles (Northridge), CA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074568934) |
 | Northrop Grumman 🔥 | 2027 Engineering Intern - Northridge CA | Los Angeles (Northridge), CA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074568916) |
+| Northrop Grumman 🔥 | 2027 Mechanical Engineering Intern - Chandler AZ | Chandler, AZ | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074605654) |
 | GE Aerospace 🔥 | Unison Engineering Intern (Summer 2027) | Jacksonville, FL / Norwich, NY / Dayton, OH / St. George, UT | | 2026-08-18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) |
 | GE Aerospace 🔥 🎯 | Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 | Evendale, OH | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) |
 | GE Aerospace 🔥 | Digital Technology Intern – US – Atlanta, GA – Summer 2027 | Atlanta, GA | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Atlanta/Digital-Technology-Intern---US---Atlanta--GA----Summer-2027_R5038078) |
@@ -433,6 +434,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Leidos 🔥 | Relay Settings Intern | Remote (US) | 🇺🇸 | 2026-09-18 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Relay-Settings-Intern_R-00192628) |
 | Leidos 🔥 🎯 | Technical Intern (AI/Automation, Navy SMIT) | Remote (US) | 🇺🇸 | 2026-09-16 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00192448) |
 | Leidos 🔥 🎯 | Software Developer Intern | Annapolis Junction, MD | 🇺🇸 | 2026-10-02 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193804) |
+| Leidos 🔥 🎯 | Systems Engineer Intern | Arlington, VA | 🇺🇸 | 2026-10-06 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Arlington-VA/Systems-Engineer-Intern_R-00193940) |
+| Leidos 🔥 🎯 | Controls Engineer Intern | Walled Lake, MI | 🇺🇸 | 2026-10-06 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Walled-Lake-MI/Controls-Engineer-Intern_R-00193953) |
 | Leidos 🔥 | Technical Intern | Remote (US) | 🇺🇸 | 2026-10-02 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00193820) |
 | GE Aerospace 🔥 🎯 | Applied AI Engineer Intern – Summer 2027 (May/June Start) | Evendale, OH (53 locations) | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) |
 | GE Aerospace 🔥 | Unison Engineering Part-time Intern - US - Summer 2027 | Saint George, UT | 🇺🇸 | 2026-09-16 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Saint-George-UT-US-1/Unison-Engineering-Part-time-Intern---US---Summer-2027_R5040163-1) |
@@ -630,6 +633,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-05 (late night), scanner cron, 2 roles added.** 🎯 Anduril 2027 Systems Engineer Intern (Boston / Costa Mesa / Fort Collins / Reston / Seattle) and 🎯 Northrop Grumman 2027 Software Engineering Intern (Colorado Springs CO). Excluded: Nvidia APAC Ecommerce Backend Intern (Taiwan, non-US), Anduril Winter 2027 Reliability Engineer Co-op (Winter term).
 > **2026-10-06, scanner cron, 3 roles added.** Northrop 🎯 2027 Software Engineer Intern (Morrisville NC; Rolling Meadows IL, both posted 09-30) and GE Aerospace Inspection Engineering Intern Summer 2027 (Springdale OH). Excluded: Sierra Nevada Software Engineer I (For 2026 Interns Only) — restricted to existing interns.
 > **2026-10-06 (later), scanner cron, 1 role added.** 🎯 AeroVironment Hypersonic RF Software Engineering Intern (Germantown MD, Summer internship, posted same day). Excluded: Boeing Hounslow UK Facilities Management Intern and Sustainability Intern (non-US, non-technical).
+> **2026-10-06 (afternoon), scanner cron, 3 roles added.** 🎯 Leidos Systems Engineer Intern (Arlington VA) and 🎯 Controls Engineer Intern (Walled Lake MI), both posted same day; Northrop 2027 Mechanical Engineering Intern (Chandler AZ). Excluded: Sierra Nevada Aerospace Engineer I (For 2026 Interns Only; restricted to existing interns), Northrop 2027 Supply Chain Intern (Elkton MD; non-technical).
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
