@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-06
-Open verified 2027 roles: 640
+Open verified 2027 roles: 642
 
 ---
 
@@ -437,6 +437,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Leidos 🔥 🎯 | Software Developer Intern | Annapolis Junction, MD | 🇺🇸 | 2026-10-02 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193804) |
 | Leidos 🔥 🎯 | Systems Engineer Intern | Arlington, VA | 🇺🇸 | 2026-10-06 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Arlington-VA/Systems-Engineer-Intern_R-00193940) |
 | Leidos 🔥 🎯 | Controls Engineer Intern | Walled Lake, MI | 🇺🇸 | 2026-10-06 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Walled-Lake-MI/Controls-Engineer-Intern_R-00193953) |
+| Leidos 🔥 🎯 | Software Engineer Intern | Arlington, VA | 🇺🇸 | 2026-10-06 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Arlington-VA/Software-Engineer-Intern_R-00193933) |
+| Leidos 🔥 🎯 | Data Science Intern | Arlington, VA | 🇺🇸 | 2026-10-06 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Arlington-VA/Data-Science-Intern_R-00193937) |
 | Leidos 🔥 | Technical Intern | Remote (US) | 🇺🇸 | 2026-10-02 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00193820) |
 | GE Aerospace 🔥 🎯 | Applied AI Engineer Intern – Summer 2027 (May/June Start) | Evendale, OH (53 locations) | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) |
 | GE Aerospace 🔥 | Unison Engineering Part-time Intern - US - Summer 2027 | Saint George, UT | 🇺🇸 | 2026-09-16 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Saint-George-UT-US-1/Unison-Engineering-Part-time-Intern---US---Summer-2027_R5040163-1) |
@@ -636,6 +638,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-06 (later), scanner cron, 1 role added.** 🎯 AeroVironment Hypersonic RF Software Engineering Intern (Germantown MD, Summer internship, posted same day). Excluded: Boeing Hounslow UK Facilities Management Intern and Sustainability Intern (non-US, non-technical).
 > **2026-10-06 (afternoon), scanner cron, 3 roles added.** 🎯 Leidos Systems Engineer Intern (Arlington VA) and 🎯 Controls Engineer Intern (Walled Lake MI), both posted same day; Northrop 2027 Mechanical Engineering Intern (Chandler AZ). Excluded: Sierra Nevada Aerospace Engineer I (For 2026 Interns Only; restricted to existing interns), Northrop 2027 Supply Chain Intern (Elkton MD; non-technical).
 > **2026-10-06 (evening), scanner cron, 1 role added.** 🎯 Teledyne FLIR Systems Technologies Intern (Orlando FL / Wilsonville OR; year-round 2027 internship, controls/embedded SW/imaging, posted same day; CW req REQ37278 folded in as duplicate). Excluded: Leidos Business Systems AI Intern ×2 (business/IT systems, non-technical-fit).
+> **2026-10-06 (night), scanner cron, 2 roles added.** 🎯 Leidos Software Engineer Intern and 🎯 Data Science Intern (both Arlington VA, posted same day). No exclusions.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
