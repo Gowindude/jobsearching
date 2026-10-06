@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-05
-Open verified 2027 roles: 630
+Open verified 2027 roles: 632
 
 ---
 
@@ -232,6 +232,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 |---------|------|----------|--|--------|-------|
 | Anduril ⭐ 🎯 | 2027 Software Engineer Intern | Atlanta / Boston / Costa Mesa / Irvine / Reston / Seattle | 🇺🇸 | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007) |
 | Anduril ⭐ 🔥 🎯 | 2027 Flight Software Engineer Intern | Costa Mesa, CA | 🇺🇸 | 2026-09-15 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007) |
+| Anduril ⭐ 🔥 🎯 | 2027 Systems Engineer Intern | Boston, MA / Costa Mesa, CA / Fort Collins, CO / Reston, VA / Seattle, WA | 🇺🇸 | 2026-10-05 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007) |
 | Anduril ⭐ | 2027 Electrical Engineer Intern | Atlanta / Boston / Costa Mesa / Irvine / Reston / Seattle | 🇺🇸 | 2026-06-11 | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5148101007) |
 | Anduril ⭐ | 2027 Mechanical Engineer Intern | Atlanta / Boston / Costa Mesa / Irvine / Reston / Seattle | 🇺🇸 | 2026-06-11 | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5153187007) |
 | Anduril ⭐ | 2027 Manufacturing Engineer Intern | Atlanta / Boston / Costa Mesa / Irvine / Reston / Seattle | 🇺🇸 | 2026-06-11 | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5153218007) |
@@ -369,6 +370,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 | 2027 Systems Safety Engineering Intern - Roy UT | Roy, UT | 🇺🇸 | 2026-09-08 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074210819) |
 | Northrop Grumman 🔥 | 2027 Engineering Intern - Huntsville AL | Huntsville, AL | 🇺🇸 | 2026-09-08 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074213696) |
 | Northrop Grumman 🔥 🎯 | 2027 Intern Software Engineer | San Diego, CA (+5 other CA/OK/ND sites) | 🇺🇸 | 2026-09-10 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074229261) |
+| Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Colorado Springs CO | Colorado Springs, CO | 🇺🇸 | 2026-10-05 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074561718) |
 | Northrop Grumman 🔥 | 2027 Data Analytics Intern - Clearfield UT | Roy, UT | 🇺🇸 | 2026-09-10 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074227786) |
 | Northrop Grumman 🔥 | 2027 Intern Engineer - Product Support | Whiteman AFB, MO | 🇺🇸 | 2026-09-10 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074226586) |
 | Northrop Grumman 🔥 | 2027 Intern Engineer - Product Support | Melbourne, FL | 🇺🇸 | 2026-09-10 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074238820) |
@@ -621,6 +623,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-05, scanner cron**: added Nvidia's 2027 Ignite Internships (Software Engineering 🎯, Hardware Engineering; Santa Clara, posted same day). Excluded: Nvidia Nsight Systems SWE Intern (Poland/remote non-US) and AI Agent Development RDSS Intern (Taiwan). Partial coverage: Northrop Grumman board fetch failed this run.
 > **2026-10-05 (later), scanner cron, 6 roles added.** Freeform Spring 2027 Additive, Manufacturing + Process Engineering Interns (Los Angeles), Amentum Performance Engineering Intern (Houston), BAH 2027 Summer Games Cyber Security Intern (Annapolis Junction), Northrop 2027 College Technical Intern (McLean); none 🎯. Excluded: Rocket Lab RF Engineering Intern Summer 2027 (Long Beach; near-duplicate of existing row), GE Aerospace HR Intern (Queretaro, non-US/non-technical), Northrop Project Management Intern (Huntsville; non-technical).
 > **2026-10-05 (night), scanner cron, 2 roles added.** Anduril 2027 Quality & Test Engineer Intern (Ashville OH / Costa Mesa / Irvine / Quonset / Santa Ana) and 2027 Reliability Engineer Intern (Costa Mesa). Excluded: Rocket Lab Supply Chain Intern (non-technical), Anduril Winter 2027 Quality & Test Engineer Co-op (Winter term).
+> **2026-10-05 (late night), scanner cron, 2 roles added.** 🎯 Anduril 2027 Systems Engineer Intern (Boston / Costa Mesa / Fort Collins / Reston / Seattle) and 🎯 Northrop Grumman 2027 Software Engineering Intern (Colorado Springs CO). Excluded: Nvidia APAC Ecommerce Backend Intern (Taiwan, non-US), Anduril Winter 2027 Reliability Engineer Co-op (Winter term).
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
