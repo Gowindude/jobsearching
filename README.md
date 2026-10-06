@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-05
-Open verified 2027 roles: 628
+Open verified 2027 roles: 630
 
 ---
 
@@ -237,6 +237,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Anduril ⭐ | 2027 Manufacturing Engineer Intern | Atlanta / Boston / Costa Mesa / Irvine / Reston / Seattle | 🇺🇸 | 2026-06-11 | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5153218007) |
 | Anduril ⭐ 🔥 | 2027 Manufacturing Optimization Engineer Intern | Ashville, OH | 🇺🇸 | 2026-09-14 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5236893007?gh_jid=5236893007) |
 | Anduril ⭐ 🔥 | 2027 Industrial Engineer Intern | Ashville, OH / Costa Mesa, CA | 🇺🇸 | 2026-10-02 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5255593007?gh_jid=5255593007) |
+| Anduril ⭐ 🔥 | 2027 Quality & Test Engineer Intern | Ashville, OH / Costa Mesa, CA / Irvine, CA / Quonset, RI / Santa Ana, CA | 🇺🇸 | 2026-10-05 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5257674007?gh_jid=5257674007) |
+| Anduril ⭐ 🔥 | 2027 Reliability Engineer Intern | Costa Mesa, CA | 🇺🇸 | 2026-10-05 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5257682007?gh_jid=5257682007) |
 | Palantir ⭐ | Deployment Strategist, Internship – US Government | Honolulu, HI | 🇺🇸 | 2025-12-11 | [Apply](https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e) |
 | Zipline 🔥 | Quality & Manufacturing Intern (Summer 2027) | South San Francisco, CA | | 2026-08-03 | [Apply](https://www.zipline.com/open-roles?gh_jid=7824316003) |
 | Zipline 🔥 🎯 | Computational Physics Intern (Summer 2027) | South San Francisco, CA | | 2026-08-19 | [Apply](https://www.zipline.com/open-roles?gh_jid=7904720003) |
@@ -618,6 +620,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-02 (night), scanner cron, 2 roles added.** Muon Space Environmental Test Engineering + Industrial Engineering Interns (San Jose, Summer 2027); neither 🎯.
 > **2026-10-05, scanner cron**: added Nvidia's 2027 Ignite Internships (Software Engineering 🎯, Hardware Engineering; Santa Clara, posted same day). Excluded: Nvidia Nsight Systems SWE Intern (Poland/remote non-US) and AI Agent Development RDSS Intern (Taiwan). Partial coverage: Northrop Grumman board fetch failed this run.
 > **2026-10-05 (later), scanner cron, 6 roles added.** Freeform Spring 2027 Additive, Manufacturing + Process Engineering Interns (Los Angeles), Amentum Performance Engineering Intern (Houston), BAH 2027 Summer Games Cyber Security Intern (Annapolis Junction), Northrop 2027 College Technical Intern (McLean); none 🎯. Excluded: Rocket Lab RF Engineering Intern Summer 2027 (Long Beach; near-duplicate of existing row), GE Aerospace HR Intern (Queretaro, non-US/non-technical), Northrop Project Management Intern (Huntsville; non-technical).
+> **2026-10-05 (night), scanner cron, 2 roles added.** Anduril 2027 Quality & Test Engineer Intern (Ashville OH / Costa Mesa / Irvine / Quonset / Santa Ana) and 2027 Reliability Engineer Intern (Costa Mesa). Excluded: Rocket Lab Supply Chain Intern (non-technical), Anduril Winter 2027 Quality & Test Engineer Co-op (Winter term).
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
