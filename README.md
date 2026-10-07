@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-07
-Open verified 2027 roles: 650
+Open verified 2027 roles: 654
 
 ---
 
@@ -412,6 +412,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern Dulles VA | Dulles, VA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074541190) |
 | Northrop Grumman 🔥 | 2027 Structural Engineering Intern Dulles Va | Dulles, VA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074556462) |
 | Northrop Grumman 🔥 | 2027 Mechanical Engineer Intern - Sunnyvale CA | Sunnyvale, CA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074338545) |
+| Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Roy UT | Roy, UT | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074637147) |
+| Northrop Grumman 🔥 🎯 | 2027 Software Developer Intern- Chantilly VA | Chantilly, VA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074638250) |
 | GE Aerospace 🔥 | Unison Engineering Intern (Summer 2027) | Jacksonville, FL / Norwich, NY / Dayton, OH / St. George, UT | | 2026-08-18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) |
 | GE Aerospace 🔥 🎯 | Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 | Evendale, OH | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) |
 | GE Aerospace 🔥 | Digital Technology Intern – US – Atlanta, GA – Summer 2027 | Atlanta, GA | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Atlanta/Digital-Technology-Intern---US---Atlanta--GA----Summer-2027_R5038078) |
@@ -479,6 +481,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Nvidia 🔥 🎯 | PhD Research Intern, Generative AI for Physical AI - 2027 | Santa Clara, CA | 🇺🇸 | 2026-09-15 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI-for-Physical-AI---2027_JR2025025) |
 | Nvidia 🔥 🎯 | Research Intern, Robotics - Summer 2027 | Seattle, WA (+ Santa Clara, CA) | 🇺🇸 | 2026-09-21 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647) |
 | Nvidia 🔥 | PhD Research Intern, Networking - 2027 | Santa Clara, CA | 🇺🇸 | 2026-09-21 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098) |
+| Nvidia 🔥 | PhD Research Intern, AI-Aided Engineering – 2027 | Santa Clara, CA | 🇺🇸 | 2026-10-07 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Aided-Engineering---2027_JR2026940) |
 | Gulfstream (General Dynamics) 🔥 | Summer 2027 IEF - Advanced Structures & Materials (ASMI) College Associate Intern | Savannah, GA | | Unknown | [Apply](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Advanced-Structures-and-Materials-%28ASMI%29-College-Associate-Intern-GA-31401/1417869000/) |
 | Draper Laboratory 🔥 | Mechanical Engineering & System Packaging Intern | Cambridge, MA | | 2026-08-12 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002797) |
 | Draper Laboratory 🔥 🎯 | Embedded Quality & Fielded Systems Intern | Cambridge, MA | | 2026-08-05 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718) |
@@ -553,6 +556,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | The Aerospace Corporation 🔥 🎯 | 2027 Systems Integration and Test Engineer Graduate Intern | Chantilly, VA | 🇺🇸 | 2026-10-02 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Chantilly-VA/XMLNAME-2027-Systems-Integration-and-Test-Engineer-Graduate-Intern_R016696) |
 | The Aerospace Corporation 🔥 | 2027 Radiation Effects Graduate Intern | El Segundo, CA | 🇺🇸 | 2026-10-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Radiation-Effects-Graduate-Intern_R016793) |
 | The Aerospace Corporation 🔥 | 2027 Radiation Effects Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-10-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Radiation-Effects-Undergraduate-Intern_R016791) |
+| The Aerospace Corporation 🔥 🎯 | 2027 Embedded Systems / Software Engineering Undergrad Intern | Chantilly, VA (+1 other site) | 🇺🇸 | 2026-10-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Chantilly-VA/XMLNAME-2027-Embedded-Systems---Software-Engineering-Undergrad-Intern_R016804) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Systems Engineer Intern | McLean, VA (11 locations) | 🇺🇸 | 2026-09-04 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University---2027-Summer-Games-Systems-Engineer-Intern---McLean--VA_R0248361) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Software Developer Intern | McLean, VA (10 locations) | 🇺🇸 | 2026-09-15 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029) |
 | Booz Allen Hamilton 🔥 🎯 | AI Software Developer Intern | San Diego, CA | 🇺🇸 | Unknown | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/AI-Software-Developer-Intern_R0248115) |
@@ -649,6 +653,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-06 (night), scanner cron, 2 roles added.** 🎯 Leidos Software Engineer Intern and 🎯 Data Science Intern (both Arlington VA, posted same day). No exclusions.
 > **2026-10-07, scanner cron, 5 roles added.** 🎯 Northrop 2027 Software Engineering Intern (Dulles VA), Northrop 2027 Structural Engineering Intern (Dulles VA) and 2027 Mechanical Engineer Intern (Sunnyvale CA), Draper Microsystems Integration Intern (Cambridge MA, new req JR003002-1), Leidos Technical Intern (Remote US; 2 reqs R-00193990/R-00193992 folded into one row). Excluded: Anduril 2027 Software Engineer Intern + Deployment Logistics Intern (London UK; non-US), Leidos Business Systems AI Intern (non-technical).
 > **2026-10-07 (later), scanner cron, 3 roles added.** 🎯 Northrop 2027 Intern - Systems Engineering (Melbourne FL, new req 1340074645766), Aerospace Corp 2027 Radiation Effects Graduate + Undergraduate Interns (El Segundo, posted same day). No exclusions.
+> **2026-10-07 (evening), scanner cron, 4 roles added.** 🎯 Aerospace Corp 2027 Embedded Systems / Software Engineering Undergrad Intern (Chantilly VA +1, posted same day), 🎯 Northrop 2027 Software Engineering Intern (Roy UT) + Software Developer Intern (Chantilly VA), Nvidia PhD Research Intern AI-Aided Engineering 2027 (Santa Clara). No exclusions.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
