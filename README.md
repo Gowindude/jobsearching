@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-07
-Open verified 2027 roles: 647
+Open verified 2027 roles: 650
 
 ---
 
@@ -390,6 +390,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 🎯 | 2027 Intern Software Engineer | San Diego, CA (+3 other CA sites) | 🇺🇸 | 2026-09-14 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074283170) |
 | Northrop Grumman 🔥 | 2027 Intern - Survivability Engineer | San Diego, CA (+1 other site) | 🇺🇸 | 2026-09-14 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074284227) |
 | Northrop Grumman 🔥 | 2027 Intern – Product Support Engineer | Palmdale, CA (+3 other CA sites) | 🇺🇸 | 2026-09-05 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074177727) |
+| Northrop Grumman 🔥 🎯 | 2027 Intern - Systems Engineering | Melbourne, FL | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074645766) |
 | Northrop Grumman 🔥 | 2027 Intern - Systems Security/Cybersecurity Engineer | Melbourne, FL | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074415630) |
 | Northrop Grumman 🔥 | 2027 Engineering Intern - Rocket Center WV | Rocket Center, WV | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074415419) |
 | Northrop Grumman 🔥 | 2027 Engineering Intern - Plymouth MN | Plymouth, MN | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074415434) |
@@ -550,6 +551,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | The Aerospace Corporation 🔥 | 2027 Electro-Optical Engineering Undergrad Intern | El Segundo, CA | 🇺🇸 | 2026-09-28 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Electro-Optical-Engineering-Undergrad-Intern_R016683) |
 | The Aerospace Corporation 🔥 | 2027 Structural Mechanics Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-09-29 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Structural-Mechanics-Undergraduate-Intern_R016763) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Systems Integration and Test Engineer Graduate Intern | Chantilly, VA | 🇺🇸 | 2026-10-02 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Chantilly-VA/XMLNAME-2027-Systems-Integration-and-Test-Engineer-Graduate-Intern_R016696) |
+| The Aerospace Corporation 🔥 | 2027 Radiation Effects Graduate Intern | El Segundo, CA | 🇺🇸 | 2026-10-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Radiation-Effects-Graduate-Intern_R016793) |
+| The Aerospace Corporation 🔥 | 2027 Radiation Effects Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-10-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Radiation-Effects-Undergraduate-Intern_R016791) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Systems Engineer Intern | McLean, VA (11 locations) | 🇺🇸 | 2026-09-04 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University---2027-Summer-Games-Systems-Engineer-Intern---McLean--VA_R0248361) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Software Developer Intern | McLean, VA (10 locations) | 🇺🇸 | 2026-09-15 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029) |
 | Booz Allen Hamilton 🔥 🎯 | AI Software Developer Intern | San Diego, CA | 🇺🇸 | Unknown | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/AI-Software-Developer-Intern_R0248115) |
@@ -645,6 +648,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-06 (evening), scanner cron, 1 role added.** 🎯 Teledyne FLIR Systems Technologies Intern (Orlando FL / Wilsonville OR; year-round 2027 internship, controls/embedded SW/imaging, posted same day; CW req REQ37278 folded in as duplicate). Excluded: Leidos Business Systems AI Intern ×2 (business/IT systems, non-technical-fit).
 > **2026-10-06 (night), scanner cron, 2 roles added.** 🎯 Leidos Software Engineer Intern and 🎯 Data Science Intern (both Arlington VA, posted same day). No exclusions.
 > **2026-10-07, scanner cron, 5 roles added.** 🎯 Northrop 2027 Software Engineering Intern (Dulles VA), Northrop 2027 Structural Engineering Intern (Dulles VA) and 2027 Mechanical Engineer Intern (Sunnyvale CA), Draper Microsystems Integration Intern (Cambridge MA, new req JR003002-1), Leidos Technical Intern (Remote US; 2 reqs R-00193990/R-00193992 folded into one row). Excluded: Anduril 2027 Software Engineer Intern + Deployment Logistics Intern (London UK; non-US), Leidos Business Systems AI Intern (non-technical).
+> **2026-10-07 (later), scanner cron, 3 roles added.** 🎯 Northrop 2027 Intern - Systems Engineering (Melbourne FL, new req 1340074645766), Aerospace Corp 2027 Radiation Effects Graduate + Undergraduate Interns (El Segundo, posted same day). No exclusions.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
