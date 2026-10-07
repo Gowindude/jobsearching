@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-07
-Open verified 2027 roles: 654
+Open verified 2027 roles: 656
 
 ---
 
@@ -156,6 +156,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | K2 Space ⭐ 🔥 | Mechanical Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411915008) |
 | K2 Space ⭐ 🔥 | RF Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411919008) |
 | K2 Space ⭐ 🔥 | Vehicle Operations Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411914008) |
+| K2 Space ⭐ 🔥 🎯 | Platform Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-10-07 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5447206008) |
 | Stoke Space ⭐ 🔥 🎯 | Summer 2027 Internship - Engineering | Cape Canaveral, FL / Kent, WA / Moses Lake, WA | 🇺🇸 | 2026-09-01 | [Apply](https://stokespace.com/careers/current-openings?gh_jid=6175828004) |
 | Stoke Space ⭐ 🔥 🎯 | Summer 2027 Internship - Software | Kent, WA | 🇺🇸 | 2026-09-01 | [Apply](https://stokespace.com/careers/current-openings?gh_jid=6176786004) |
 | Stoke Space ⭐ 🔥 | Summer 2027 Internship - Operations | Kent, WA | 🇺🇸 | 2026-09-01 | [Apply](https://stokespace.com/careers/current-openings?gh_jid=6176785004) |
@@ -557,6 +558,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | The Aerospace Corporation 🔥 | 2027 Radiation Effects Graduate Intern | El Segundo, CA | 🇺🇸 | 2026-10-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Radiation-Effects-Graduate-Intern_R016793) |
 | The Aerospace Corporation 🔥 | 2027 Radiation Effects Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-10-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Radiation-Effects-Undergraduate-Intern_R016791) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Embedded Systems / Software Engineering Undergrad Intern | Chantilly, VA (+1 other site) | 🇺🇸 | 2026-10-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Chantilly-VA/XMLNAME-2027-Embedded-Systems---Software-Engineering-Undergrad-Intern_R016804) |
+| The Aerospace Corporation 🔥 | 2027 Network Systems Grad Intern | El Segundo, CA | 🇺🇸 | 2026-10-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Network-Systems-Grad-Intern_R016836) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Systems Engineer Intern | McLean, VA (11 locations) | 🇺🇸 | 2026-09-04 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University---2027-Summer-Games-Systems-Engineer-Intern---McLean--VA_R0248361) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Software Developer Intern | McLean, VA (10 locations) | 🇺🇸 | 2026-09-15 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029) |
 | Booz Allen Hamilton 🔥 🎯 | AI Software Developer Intern | San Diego, CA | 🇺🇸 | Unknown | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/AI-Software-Developer-Intern_R0248115) |
@@ -654,6 +656,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-07, scanner cron, 5 roles added.** 🎯 Northrop 2027 Software Engineering Intern (Dulles VA), Northrop 2027 Structural Engineering Intern (Dulles VA) and 2027 Mechanical Engineer Intern (Sunnyvale CA), Draper Microsystems Integration Intern (Cambridge MA, new req JR003002-1), Leidos Technical Intern (Remote US; 2 reqs R-00193990/R-00193992 folded into one row). Excluded: Anduril 2027 Software Engineer Intern + Deployment Logistics Intern (London UK; non-US), Leidos Business Systems AI Intern (non-technical).
 > **2026-10-07 (later), scanner cron, 3 roles added.** 🎯 Northrop 2027 Intern - Systems Engineering (Melbourne FL, new req 1340074645766), Aerospace Corp 2027 Radiation Effects Graduate + Undergraduate Interns (El Segundo, posted same day). No exclusions.
 > **2026-10-07 (evening), scanner cron, 4 roles added.** 🎯 Aerospace Corp 2027 Embedded Systems / Software Engineering Undergrad Intern (Chantilly VA +1, posted same day), 🎯 Northrop 2027 Software Engineering Intern (Roy UT) + Software Developer Intern (Chantilly VA), Nvidia PhD Research Intern AI-Aided Engineering 2027 (Santa Clara). No exclusions.
+> **2026-10-07 (night), scanner cron, 2 roles added.** 🎯 K2 Space ⭐ Platform Engineering Intern – Summer 2027 (Los Angeles, posted same day; first K2 addition since the 2026-09 wave) and Aerospace Corp 2027 Network Systems Grad Intern (El Segundo CA, posted same day). No exclusions.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
