@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-07
-Open verified 2027 roles: 656
+Open verified 2027 roles: 659
 
 ---
 
@@ -157,6 +157,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | K2 Space ⭐ 🔥 | RF Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411919008) |
 | K2 Space ⭐ 🔥 | Vehicle Operations Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411914008) |
 | K2 Space ⭐ 🔥 🎯 | Platform Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-10-07 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5447206008) |
+| K2 Space ⭐ 🔥 | Mission Operations Engineering Intern – Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-10-07 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5447292008) |
 | Stoke Space ⭐ 🔥 🎯 | Summer 2027 Internship - Engineering | Cape Canaveral, FL / Kent, WA / Moses Lake, WA | 🇺🇸 | 2026-09-01 | [Apply](https://stokespace.com/careers/current-openings?gh_jid=6175828004) |
 | Stoke Space ⭐ 🔥 🎯 | Summer 2027 Internship - Software | Kent, WA | 🇺🇸 | 2026-09-01 | [Apply](https://stokespace.com/careers/current-openings?gh_jid=6176786004) |
 | Stoke Space ⭐ 🔥 | Summer 2027 Internship - Operations | Kent, WA | 🇺🇸 | 2026-09-01 | [Apply](https://stokespace.com/careers/current-openings?gh_jid=6176785004) |
@@ -305,6 +306,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | AeroVironment 🔥 🎯 | Hypersonic RF Software Engineering Intern | Germantown, MD | 🇺🇸 | 2026-10-06 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Germantown-MD/Hypersonic-RF-Software-Engineering-Intern_8993) |
 | AeroVironment 🔥 | Production Engineering Intern | Simi Valley, CA | 🇺🇸 | Unknown | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Production-Engineering-Intern_8887) |
 | AeroVironment 🔥 🎯 | Titan-SV Software Engineer Intern | Leesburg, VA | 🇺🇸 | Unknown | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Leesburg-VA/Titan-SV-Software-Engineer-Intern_8901) |
+| AeroVironment 🔥 | Electrical Engineering Intern | Petaluma, CA | 🇺🇸 | 2026-10-07 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Petaluma-CA/Electrical-Engineering-Intern_9037) |
+| AeroVironment 🔥 | Mechanical Engineering Intern | Petaluma, CA | 🇺🇸 | 2026-10-07 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Petaluma-CA/Mechanical-Engineering-Intern_9038) |
 | Hermeus 🔥 | Subsystem Test Engineering Intern - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/643fd7b7-9015-43a1-aa2b-a54f117b403c) |
 | Hermeus 🔥 🎯 | Software Engineering Intern (Modeling & Simulation) - Spring/Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936) |
 | Hermeus 🔥 🎯 | Software Engineering Intern (HIL) - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b) |
@@ -657,6 +660,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-07 (later), scanner cron, 3 roles added.** 🎯 Northrop 2027 Intern - Systems Engineering (Melbourne FL, new req 1340074645766), Aerospace Corp 2027 Radiation Effects Graduate + Undergraduate Interns (El Segundo, posted same day). No exclusions.
 > **2026-10-07 (evening), scanner cron, 4 roles added.** 🎯 Aerospace Corp 2027 Embedded Systems / Software Engineering Undergrad Intern (Chantilly VA +1, posted same day), 🎯 Northrop 2027 Software Engineering Intern (Roy UT) + Software Developer Intern (Chantilly VA), Nvidia PhD Research Intern AI-Aided Engineering 2027 (Santa Clara). No exclusions.
 > **2026-10-07 (night), scanner cron, 2 roles added.** 🎯 K2 Space ⭐ Platform Engineering Intern – Summer 2027 (Los Angeles, posted same day; first K2 addition since the 2026-09 wave) and Aerospace Corp 2027 Network Systems Grad Intern (El Segundo CA, posted same day). No exclusions.
+> **2026-10-07 (late night), scanner cron, 3 roles added.** K2 Space ⭐ Mission Operations Engineering Intern – Summer 2027 (Los Angeles, posted same day) and AeroVironment Electrical + Mechanical Engineering Interns (Petaluma CA, no stated term, posted same day). No exclusions. Partial coverage: Northrop Grumman board fetch failed this run.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
