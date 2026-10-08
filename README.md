@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-08
-Open verified 2027 roles: 660
+Open verified 2027 roles: 662
 
 ---
 
@@ -452,6 +452,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Leidos 🔥 🎯 | Data Science Intern | Arlington, VA | 🇺🇸 | 2026-10-06 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Arlington-VA/Data-Science-Intern_R-00193937) |
 | Leidos 🔥 | Technical Intern | Remote (US) | 🇺🇸 | 2026-10-02 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00193820) |
 | Leidos 🔥 | Technical Intern (2 reqs: R-00193990 / R-00193992) | Remote (US) | 🇺🇸 | 2026-10-07 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00193990) |
+| Leidos 🔥 🎯 | Systems, Integration and Software Engineer Intern | Atlantic City, NJ | 🇺🇸 | 2026-10-08 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152) |
+| Leidos 🔥 | Power Delivery Engineering Intern | Chicago, IL | 🇺🇸 | 2026-10-08 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Chicago-IL/Power-Delivery-Engineering-Intern_R-00194148) |
 | GE Aerospace 🔥 🎯 | Applied AI Engineer Intern – Summer 2027 (May/June Start) | Evendale, OH (53 locations) | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) |
 | GE Aerospace 🔥 | Unison Engineering Part-time Intern - US - Summer 2027 | Saint George, UT | 🇺🇸 | 2026-09-16 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Saint-George-UT-US-1/Unison-Engineering-Part-time-Intern---US---Summer-2027_R5040163-1) |
 | GE Aerospace 🔥 | Product Definition Engineering Intern - Lynn, MA - Summer 2027 | Lynn, MA | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Lynn/Product-Definition-Engineering-Intern---Lynn--MA---Summer-2027_R5039185-1) |
@@ -663,6 +665,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-07 (night), scanner cron, 2 roles added.** 🎯 K2 Space ⭐ Platform Engineering Intern – Summer 2027 (Los Angeles, posted same day; first K2 addition since the 2026-09 wave) and Aerospace Corp 2027 Network Systems Grad Intern (El Segundo CA, posted same day). No exclusions.
 > **2026-10-07 (late night), scanner cron, 3 roles added.** K2 Space ⭐ Mission Operations Engineering Intern – Summer 2027 (Los Angeles, posted same day) and AeroVironment Electrical + Mechanical Engineering Interns (Petaluma CA, no stated term, posted same day). No exclusions. Partial coverage: Northrop Grumman board fetch failed this run.
 > **2026-10-08, scanner cron, 1 role added.** Northrop 2027 Mechanical Engineer Intern (Annapolis MD, req 1340074647793). Excluded: GE Aerospace Quality Intern (Singapore, non-US).
+> **2026-10-08 (later), scanner cron, 2 roles added.** Leidos 🎯 Systems, Integration and Software Engineer Intern (Atlantic City NJ) and Power Delivery Engineering Intern (Chicago IL), both posted same day, no stated term. Excluded: Nvidia AI Developer Technology Intern (Munich, non-US) and Silicon Validation Engineer RDSS Intern (Taipei, non-US). Partial coverage: Northrop Grumman board fetch failed this run.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
