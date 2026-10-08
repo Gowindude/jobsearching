@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-10-07
-Open verified 2027 roles: 659
+Last updated: 2026-10-08
+Open verified 2027 roles: 660
 
 ---
 
@@ -416,6 +416,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern Dulles VA | Dulles, VA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074541190) |
 | Northrop Grumman 🔥 | 2027 Structural Engineering Intern Dulles Va | Dulles, VA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074556462) |
 | Northrop Grumman 🔥 | 2027 Mechanical Engineer Intern - Sunnyvale CA | Sunnyvale, CA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074338545) |
+| Northrop Grumman 🔥 | 2027 Mechanical Engineer Intern - Annapolis MD | Annapolis, MD | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074647793) |
 | Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Roy UT | Roy, UT | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074637147) |
 | Northrop Grumman 🔥 🎯 | 2027 Software Developer Intern- Chantilly VA | Chantilly, VA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074638250) |
 | GE Aerospace 🔥 | Unison Engineering Intern (Summer 2027) | Jacksonville, FL / Norwich, NY / Dayton, OH / St. George, UT | | 2026-08-18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) |
@@ -661,6 +662,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-07 (evening), scanner cron, 4 roles added.** 🎯 Aerospace Corp 2027 Embedded Systems / Software Engineering Undergrad Intern (Chantilly VA +1, posted same day), 🎯 Northrop 2027 Software Engineering Intern (Roy UT) + Software Developer Intern (Chantilly VA), Nvidia PhD Research Intern AI-Aided Engineering 2027 (Santa Clara). No exclusions.
 > **2026-10-07 (night), scanner cron, 2 roles added.** 🎯 K2 Space ⭐ Platform Engineering Intern – Summer 2027 (Los Angeles, posted same day; first K2 addition since the 2026-09 wave) and Aerospace Corp 2027 Network Systems Grad Intern (El Segundo CA, posted same day). No exclusions.
 > **2026-10-07 (late night), scanner cron, 3 roles added.** K2 Space ⭐ Mission Operations Engineering Intern – Summer 2027 (Los Angeles, posted same day) and AeroVironment Electrical + Mechanical Engineering Interns (Petaluma CA, no stated term, posted same day). No exclusions. Partial coverage: Northrop Grumman board fetch failed this run.
+> **2026-10-08, scanner cron, 1 role added.** Northrop 2027 Mechanical Engineer Intern (Annapolis MD, req 1340074647793). Excluded: GE Aerospace Quality Intern (Singapore, non-US).
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
