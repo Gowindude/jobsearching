@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-08
-Open verified 2027 roles: 662
+Open verified 2027 roles: 669
 
 ---
 
@@ -223,6 +223,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Varda Space Industries 🔥 | Thermal Engineering Internship - Summer 2027 | El Segundo, CA | 🇺🇸 | 2026-10-01 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010172003) |
 | Varda Space Industries 🔥 | Vehicle Integration & Test Internship - Summer 2027 | El Segundo, CA | 🇺🇸 | 2026-10-01 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010170003) |
 | Sierra Space 🔥 🎯 | 2027 Systems Engineer Intern | Louisville, CO (+1 other site) | 🇺🇸 | 2026-10-02 | [Apply](https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Louisville-CO/XMLNAME-2027-Systems-Engineer-Intern_R26378) |
+| Sierra Space 🔥 | Summer 2027 Manufacturing Engineer Intern | Broomfield, CO | 🇺🇸 | 2026-10-08 | [Apply](https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Broomfield-CO/Summer-2027-Manufacturing-Engineer-Intern_R26389) |
+| Sierra Space 🔥 | Summer 2027 Mechanical Engineer Intern | Madison, WI | 🇺🇸 | 2026-10-08 | [Apply](https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Madison-WI/Mechanical-Engineer-Intern_R26410) |
 
 > Astranis (SF, priority target) posted a full Spring/Summer/Winter 2027 intern wave 2026-08-14 for Mechanical and CAD Engineer/Librarian tracks — sourced 2026-08-16 via jobs.spacecrew.com and jobs.spacecapital.com. Not 🎯 (mechanical/CAD, not GNC/sim/SWE) but added per the "verified-open target company" rule. Checked the full Greenhouse board directly: every other Astranis intern req (Flight Software, Avionics, Embedded Software, PCB Layout, Radiation Effects, etc.) is Fall 2026 only — no Spring/Summer 2027 counterpart yet, so those are skipped per the term filter.
 > **Blue Origin (priority target) — 2026-09-01: full Summer 2027 intern wave**, 20 technical roles across Undergraduate and Graduate tracks, all posted same day (the exact "September 1" drop the user was watching for). Direct **Guidance, Navigation & Controls Internship** (both levels) is the strongest 🎯 hit; also tagged Aerospace Systems Engineering, Software Developer, and Avionics Software (both levels each). The prior Spring 2027 wave with matching titles closed back on 2026-08-07 — these are new Summer 2027 req IDs, not reopenings. Skipped as non-technical: Corporate Development Intern, Corporate Strategy Intern, Education Programs and Outreach Intern, Finance Intern (x2 levels). Skipped Return Internship (Undergraduate/Graduate) — restricted to students who already completed a prior Blue Origin internship, not open to new applicants.
@@ -308,6 +310,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | AeroVironment 🔥 🎯 | Titan-SV Software Engineer Intern | Leesburg, VA | 🇺🇸 | Unknown | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Leesburg-VA/Titan-SV-Software-Engineer-Intern_8901) |
 | AeroVironment 🔥 | Electrical Engineering Intern | Petaluma, CA | 🇺🇸 | 2026-10-07 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Petaluma-CA/Electrical-Engineering-Intern_9037) |
 | AeroVironment 🔥 | Mechanical Engineering Intern | Petaluma, CA | 🇺🇸 | 2026-10-07 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Petaluma-CA/Mechanical-Engineering-Intern_9038) |
+| AeroVironment 🔥 🎯 | Summer 2027 Autonomy & Robotics Engineering Intern | Simi Valley, CA (14 locations) | 🇺🇸 | 2026-10-08 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8556) |
+| AeroVironment 🔥 | Quality Engineer Intern | Petaluma, CA | 🇺🇸 | 2026-10-08 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Petaluma-CA/Quality-Engineer-Intern_9073) |
 | Hermeus 🔥 | Subsystem Test Engineering Intern - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/643fd7b7-9015-43a1-aa2b-a54f117b403c) |
 | Hermeus 🔥 🎯 | Software Engineering Intern (Modeling & Simulation) - Spring/Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936) |
 | Hermeus 🔥 🎯 | Software Engineering Intern (HIL) - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b) |
@@ -419,6 +423,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 | 2027 Mechanical Engineer Intern - Annapolis MD | Annapolis, MD | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074647793) |
 | Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Roy UT | Roy, UT | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074637147) |
 | Northrop Grumman 🔥 🎯 | 2027 Software Developer Intern- Chantilly VA | Chantilly, VA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074638250) |
+| Northrop Grumman 🔥 | 2027 Intern - Airworthiness Engineer | San Diego, CA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074662338) |
+| Northrop Grumman 🔥 | 2027 Mechanical Engineer Intern - Ocean Springs MS | Ocean Springs, MS | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074648169) |
 | GE Aerospace 🔥 | Unison Engineering Intern (Summer 2027) | Jacksonville, FL / Norwich, NY / Dayton, OH / St. George, UT | | 2026-08-18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) |
 | GE Aerospace 🔥 🎯 | Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 | Evendale, OH | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) |
 | GE Aerospace 🔥 | Digital Technology Intern – US – Atlanta, GA – Summer 2027 | Atlanta, GA | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Atlanta/Digital-Technology-Intern---US---Atlanta--GA----Summer-2027_R5038078) |
@@ -573,6 +579,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Booz Allen Hamilton 🔥 | Systems Administrator Intern | Annapolis Junction, MD | 🇺🇸 | Unknown | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0249565) |
 | Booz Allen Hamilton 🔥 | Product Engineering Intern | McLean, VA | 🇺🇸 | 2026-10-01 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Product-Engineering-Intern_R0250655) |
 | Booz Allen Hamilton 🔥 | University - 2027 Summer Games Cyber Security Intern - Annapolis Junction, MD | Annapolis Junction, MD | 🇺🇸 | 2026-09-08 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Cyber-Security-Intern---Annapolis-Junction--MD_R0248414) |
+| Booz Allen Hamilton 🔥 🎯 | University, Applied AI Software Development Intern | McLean, VA | 🇺🇸 | 2026-10-08 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Applied-AI-Software-Development-Intern_R0251314) |
 | Leidos 🔥 🎯 | Software Developer Intern | Annapolis Junction, MD | 🇺🇸 | Unknown | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00192858) |
 | Leidos 🔥 🎯 | Software Development Intern | Gaithersburg, MD | 🇺🇸 | Unknown | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Gaithersburg-MD/Software-Development-Intern_R-00193103) |
 | Leidos 🔥 🎯 | Lunar Terrain Vehicle – Engineering Intern | Huntsville, AL | 🇺🇸 | Unknown | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Lunar-Terrain-Vehicle---Engineering-Intern_R-00192848) |
@@ -666,6 +673,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-07 (late night), scanner cron, 3 roles added.** K2 Space ⭐ Mission Operations Engineering Intern – Summer 2027 (Los Angeles, posted same day) and AeroVironment Electrical + Mechanical Engineering Interns (Petaluma CA, no stated term, posted same day). No exclusions. Partial coverage: Northrop Grumman board fetch failed this run.
 > **2026-10-08, scanner cron, 1 role added.** Northrop 2027 Mechanical Engineer Intern (Annapolis MD, req 1340074647793). Excluded: GE Aerospace Quality Intern (Singapore, non-US).
 > **2026-10-08 (later), scanner cron, 2 roles added.** Leidos 🎯 Systems, Integration and Software Engineer Intern (Atlantic City NJ) and Power Delivery Engineering Intern (Chicago IL), both posted same day, no stated term. Excluded: Nvidia AI Developer Technology Intern (Munich, non-US) and Silicon Validation Engineer RDSS Intern (Taipei, non-US). Partial coverage: Northrop Grumman board fetch failed this run.
+> **2026-10-08 (afternoon), scanner cron, 7 roles added.** 🎯 AeroVironment Summer 2027 Autonomy & Robotics Engineering Intern (Simi Valley CA, 14 locations) and 🎯 Booz Allen Applied AI Software Development Intern (McLean VA); also Sierra Space Summer 2027 Manufacturing Engineer Intern (Broomfield CO) and Mechanical Engineer Intern (Madison WI), AeroVironment Quality Engineer Intern (Petaluma), Northrop 2027 Airworthiness Engineer Intern (San Diego) and Mechanical Engineer Intern (Ocean Springs MS). Excluded: SNC Test Engineer I (For SNC Summer 2026 Interns Only — existing-intern conversion req), GE Aerospace Queretaro Fielded Engine Performance + MRO Test Cell Services Interns (non-US). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
