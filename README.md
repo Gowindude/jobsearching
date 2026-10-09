@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-08
-Open verified 2027 roles: 669
+Open verified 2027 roles: 672
 
 ---
 
@@ -495,6 +495,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Nvidia 🔥 🎯 | Research Intern, Robotics - Summer 2027 | Seattle, WA (+ Santa Clara, CA) | 🇺🇸 | 2026-09-21 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Intern--Robotics---Summer-2027_JR2025647) |
 | Nvidia 🔥 | PhD Research Intern, Networking - 2027 | Santa Clara, CA | 🇺🇸 | 2026-09-21 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098) |
 | Nvidia 🔥 | PhD Research Intern, AI-Aided Engineering – 2027 | Santa Clara, CA | 🇺🇸 | 2026-10-07 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Aided-Engineering---2027_JR2026940) |
+| Nvidia 🔥 | Research Intern, Spatial Intelligence - Summer 2027 | Santa Clara, CA | 🇺🇸 | 2026-10-08 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Spatial-Intelligence---Summer-2027_JR2027305) |
 | Gulfstream (General Dynamics) 🔥 | Summer 2027 IEF - Advanced Structures & Materials (ASMI) College Associate Intern | Savannah, GA | | Unknown | [Apply](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Advanced-Structures-and-Materials-%28ASMI%29-College-Associate-Intern-GA-31401/1417869000/) |
 | Draper Laboratory 🔥 | Mechanical Engineering & System Packaging Intern | Cambridge, MA | | 2026-08-12 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002797) |
 | Draper Laboratory 🔥 🎯 | Embedded Quality & Fielded Systems Intern | Cambridge, MA | | 2026-08-05 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718) |
@@ -571,6 +572,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | The Aerospace Corporation 🔥 | 2027 Radiation Effects Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-10-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Radiation-Effects-Undergraduate-Intern_R016791) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Embedded Systems / Software Engineering Undergrad Intern | Chantilly, VA (+1 other site) | 🇺🇸 | 2026-10-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Chantilly-VA/XMLNAME-2027-Embedded-Systems---Software-Engineering-Undergrad-Intern_R016804) |
 | The Aerospace Corporation 🔥 | 2027 Network Systems Grad Intern | El Segundo, CA | 🇺🇸 | 2026-10-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Network-Systems-Grad-Intern_R016836) |
+| The Aerospace Corporation 🔥 🎯 | 2027 Space Systems Architecture Undergrad Intern | Chantilly, VA (+2 other sites) | 🇺🇸 | 2026-10-08 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Chantilly-VA/XMLNAME-2027-Space-Systems-Architecture-Undergrad-Intern_R016772) |
+| The Aerospace Corporation 🔥 🎯 | 2027 Space Systems Architect Graduate Intern | Chantilly, VA (+2 other sites) | 🇺🇸 | 2026-10-08 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Chantilly-VA/XMLNAME-2027-Space-Systems-Architect-Graduate-Intern_R016773) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Systems Engineer Intern | McLean, VA (11 locations) | 🇺🇸 | 2026-09-04 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University---2027-Summer-Games-Systems-Engineer-Intern---McLean--VA_R0248361) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Software Developer Intern | McLean, VA (10 locations) | 🇺🇸 | 2026-09-15 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029) |
 | Booz Allen Hamilton 🔥 🎯 | AI Software Developer Intern | San Diego, CA | 🇺🇸 | Unknown | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/AI-Software-Developer-Intern_R0248115) |
@@ -674,6 +677,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-08, scanner cron, 1 role added.** Northrop 2027 Mechanical Engineer Intern (Annapolis MD, req 1340074647793). Excluded: GE Aerospace Quality Intern (Singapore, non-US).
 > **2026-10-08 (later), scanner cron, 2 roles added.** Leidos 🎯 Systems, Integration and Software Engineer Intern (Atlantic City NJ) and Power Delivery Engineering Intern (Chicago IL), both posted same day, no stated term. Excluded: Nvidia AI Developer Technology Intern (Munich, non-US) and Silicon Validation Engineer RDSS Intern (Taipei, non-US). Partial coverage: Northrop Grumman board fetch failed this run.
 > **2026-10-08 (afternoon), scanner cron, 7 roles added.** 🎯 AeroVironment Summer 2027 Autonomy & Robotics Engineering Intern (Simi Valley CA, 14 locations) and 🎯 Booz Allen Applied AI Software Development Intern (McLean VA); also Sierra Space Summer 2027 Manufacturing Engineer Intern (Broomfield CO) and Mechanical Engineer Intern (Madison WI), AeroVironment Quality Engineer Intern (Petaluma), Northrop 2027 Airworthiness Engineer Intern (San Diego) and Mechanical Engineer Intern (Ocean Springs MS). Excluded: SNC Test Engineer I (For SNC Summer 2026 Interns Only — existing-intern conversion req), GE Aerospace Queretaro Fielded Engine Performance + MRO Test Cell Services Interns (non-US). No scanner errors.
+> **2026-10-08 (night), scanner cron, 3 roles added.** The Aerospace Corporation 🎯 2027 Space Systems Architecture Undergrad Intern and Space Systems Architect Graduate Intern (Chantilly VA +2 sites) and Nvidia Research Intern, Spatial Intelligence - Summer 2027 (Santa Clara). Excluded: Zipline Corporate Tax Intern (non-technical).
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
