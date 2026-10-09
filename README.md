@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-09
-Open verified 2027 roles: 674
+Open verified 2027 roles: 675
 
 ---
 
@@ -498,6 +498,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Nvidia 🔥 | PhD Research Intern, Networking - 2027 | Santa Clara, CA | 🇺🇸 | 2026-09-21 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Networking---2027_JR2025098) |
 | Nvidia 🔥 | PhD Research Intern, AI-Aided Engineering – 2027 | Santa Clara, CA | 🇺🇸 | 2026-10-07 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Aided-Engineering---2027_JR2026940) |
 | Nvidia 🔥 | Research Intern, Spatial Intelligence - Summer 2027 | Santa Clara, CA | 🇺🇸 | 2026-10-08 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Spatial-Intelligence---Summer-2027_JR2027305) |
+| Nvidia 🔥 🎯 | Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027 | Santa Clara, CA | 🇺🇸 | 2026-10-09 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1) |
 | Gulfstream (General Dynamics) 🔥 | Summer 2027 IEF - Advanced Structures & Materials (ASMI) College Associate Intern | Savannah, GA | | Unknown | [Apply](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Advanced-Structures-and-Materials-%28ASMI%29-College-Associate-Intern-GA-31401/1417869000/) |
 | Draper Laboratory 🔥 | Mechanical Engineering & System Packaging Intern | Cambridge, MA | | 2026-08-12 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002797) |
 | Draper Laboratory 🔥 🎯 | Embedded Quality & Fielded Systems Intern | Cambridge, MA | | 2026-08-05 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718) |
@@ -681,6 +682,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-08 (afternoon), scanner cron, 7 roles added.** 🎯 AeroVironment Summer 2027 Autonomy & Robotics Engineering Intern (Simi Valley CA, 14 locations) and 🎯 Booz Allen Applied AI Software Development Intern (McLean VA); also Sierra Space Summer 2027 Manufacturing Engineer Intern (Broomfield CO) and Mechanical Engineer Intern (Madison WI), AeroVironment Quality Engineer Intern (Petaluma), Northrop 2027 Airworthiness Engineer Intern (San Diego) and Mechanical Engineer Intern (Ocean Springs MS). Excluded: SNC Test Engineer I (For SNC Summer 2026 Interns Only — existing-intern conversion req), GE Aerospace Queretaro Fielded Engine Performance + MRO Test Cell Services Interns (non-US). No scanner errors.
 > **2026-10-08 (night), scanner cron, 3 roles added.** The Aerospace Corporation 🎯 2027 Space Systems Architecture Undergrad Intern and Space Systems Architect Graduate Intern (Chantilly VA +2 sites) and Nvidia Research Intern, Spatial Intelligence - Summer 2027 (Santa Clara). Excluded: Zipline Corporate Tax Intern (non-technical).
 > **2026-10-09 (evening), scanner cron, 2 roles added.** 🎯 Sierra Space Summer 2027 Test Framework Intern (Louisville CO) and Leidos Naval Architecture and Marine Engineering Intern (Chesapeake VA), both posted same day. Excluded: Northrop 2027 Business Management Intern (San Diego, non-technical); Northrop 2027 Intern Engineer - Product Support (Melbourne FL, req 1340074689352 — same title/site as already-tracked req 1340074238820, folded as duplicate). No scanner errors.
+> **2026-10-09 (night), scanner cron, 1 role added.** 🎯 Nvidia Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027 (Santa Clara CA, posted same day). No exclusions; no scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
