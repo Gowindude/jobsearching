@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-09
-Open verified 2027 roles: 675
+Open verified 2027 roles: 677
 
 ---
 
@@ -272,6 +272,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Zipline 🔥 🎯 | Flight Test Engineer Intern (Summer 2027) | South San Francisco, CA | 🇺🇸 | 2026-09-21 | [Apply](https://www.zipline.com/open-roles/7999924003?gh_jid=7999924003) |
 | Zipline 🔥 🎯 | Droid Autonomy Intern (Summer 2027) | South San Francisco, CA | 🇺🇸 | 2026-09-23 | [Apply](https://www.zipline.com/open-roles/8002829003?gh_jid=8002829003) |
 | Zipline 🔥 🎯 | Zip Motion Planning Intern (Summer 2027) | South San Francisco, CA | 🇺🇸 | 2026-09-30 | [Apply](https://www.zipline.com/open-roles/7992001003?gh_jid=7992001003) |
+| Zipline 🔥 🎯 | Firmware Engineer Intern (Summer 2027) | South San Francisco, CA | 🇺🇸 | 2026-10-09 | [Apply](https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003) |
 | Shield AI 🔥 🎯 | Summer 2027 - Software Engineer Intern | San Diego, CA | 🇺🇸 | 2026-09-10 | [Apply](https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010) |
 | Shield AI 🔥 | Summer 2027 - Mechanical Engineering Intern | Seattle, WA | 🇺🇸 | 2026-09-21 | [Apply](https://jobs.lever.co/shieldai/da54c482-fe62-4f60-98b1-55ac0b82b3bc) |
 | Shield AI 🔥 | Summer 2027 - Advanced Manufacturing Engineering Intern | Dallas, TX | 🇺🇸 | 2026-08-27 | [Apply](https://jobs.lever.co/shieldai/c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a) |
@@ -683,6 +684,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-08 (night), scanner cron, 3 roles added.** The Aerospace Corporation 🎯 2027 Space Systems Architecture Undergrad Intern and Space Systems Architect Graduate Intern (Chantilly VA +2 sites) and Nvidia Research Intern, Spatial Intelligence - Summer 2027 (Santa Clara). Excluded: Zipline Corporate Tax Intern (non-technical).
 > **2026-10-09 (evening), scanner cron, 2 roles added.** 🎯 Sierra Space Summer 2027 Test Framework Intern (Louisville CO) and Leidos Naval Architecture and Marine Engineering Intern (Chesapeake VA), both posted same day. Excluded: Northrop 2027 Business Management Intern (San Diego, non-technical); Northrop 2027 Intern Engineer - Product Support (Melbourne FL, req 1340074689352 — same title/site as already-tracked req 1340074238820, folded as duplicate). No scanner errors.
 > **2026-10-09 (night), scanner cron, 1 role added.** 🎯 Nvidia Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027 (Santa Clara CA, posted same day). No exclusions; no scanner errors.
+> **2026-10-09 (late night), scanner cron, 2 roles added.** 🎯 Zipline Firmware Engineer Intern, Summer 2027 and Spring 2027 (South San Francisco CA, posted same day). No exclusions; no scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
@@ -810,6 +812,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Zipline 🔥 🎯 | Maps Intern (Spring 2027) | South San Francisco, CA | | 2026-08-28 | [Apply](https://www.zipline.com/open-roles?gh_jid=7929354003) |
 | Zipline 🔥 | Electrical Project Engineer Intern (Spring 2027) | South San Francisco, CA | | 2026-08-28 | [Apply](https://www.zipline.com/open-roles?gh_jid=7980874003) |
 | Zipline 🔥 🎯 | Field Systems Engineer Intern (Spring 2027) | South San Francisco, CA | 🇺🇸 | 2026-09-25 | [Apply](https://www.zipline.com/open-roles/8004729003?gh_jid=8004729003) |
+| Zipline 🔥 🎯 | Firmware Engineer Intern (Spring 2027) | South San Francisco, CA | 🇺🇸 | 2026-10-09 | [Apply](https://www.zipline.com/open-roles/8020863003?gh_jid=8020863003) |
 | Hermeus 🔥 | Propulsion Component Engineering Intern (Spring 2027) | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/2cbb75f7-a040-47b2-a442-d9cc1faedb11) |
 | Hermeus 🔥 | Propulsion Test Engineering Intern - Spring 2027 | Jacksonville, FL | 🇺🇸 | Unknown | [Apply](https://jobs.lever.co/hermeus/d2651ecb-9aab-4d84-8e69-cbcf7cece28d) |
 
