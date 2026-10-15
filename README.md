@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-15
-Open verified 2027 roles: 696
+Open verified 2027 roles: 698
 
 ---
 
@@ -473,6 +473,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Leidos 🔥 | Power Delivery Engineering Intern | Chicago, IL | 🇺🇸 | 2026-10-08 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Chicago-IL/Power-Delivery-Engineering-Intern_R-00194148) |
 | Leidos 🔥 | Naval Architecture and Marine Engineering Intern | Chesapeake, VA | 🇺🇸 | 2026-10-09 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Chesapeake-VA/Naval-Architecture-and-Marine-Engineering-Intern_R-00194266) |
 | Leidos 🔥 | Power Delivery Engineering Intern | Charlotte, NC | 🇺🇸 | 2026-10-13 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Charlotte-NC/Power-Delivery-Engineering-Intern_R-00193282) |
+| Leidos 🔥 🎯 | Performance Enablement AI/ML Intern | Remote (US) | 🇺🇸 | 2026-10-15 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Performance-Enablement-AI-ML-Intern_R-00194656) |
 | GE Aerospace 🔥 🎯 | Applied AI Engineer Intern – Summer 2027 (May/June Start) | Evendale, OH (53 locations) | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) |
 | GE Aerospace 🔥 | Unison Engineering Part-time Intern - US - Summer 2027 | Saint George, UT | 🇺🇸 | 2026-09-16 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Saint-George-UT-US-1/Unison-Engineering-Part-time-Intern---US---Summer-2027_R5040163-1) |
 | GE Aerospace 🔥 | Product Definition Engineering Intern - Lynn, MA - Summer 2027 | Lynn, MA | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Lynn/Product-Definition-Engineering-Intern---Lynn--MA---Summer-2027_R5039185-1) |
@@ -523,6 +524,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Draper Laboratory 🔥 | Cable And Harnessing Intern (Summer 2027) | Cambridge, MA | 🇺🇸 | 2026-10-01 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Cable-And-Harnessing-Intern--Summer-2027-_JR002963) |
 | Draper Laboratory 🔥 | Microsystems Integration Intern | Cambridge, MA | | Posted Today | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Intern_JR003002-1) |
 | Draper Laboratory 🔥 | Acoustic and Vibration Technologies Intern (Summer 2027) | Cambridge, MA | 🇺🇸 | 2026-10-13 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Acoustic-and-Vibration-Technologies-Intern--Summer-2027-_JR003003-1) |
+| Draper Laboratory 🔥 | Operations Engineering Intern (Summer 2027) | Cambridge, MA | | Posted Today | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Operations-Engineering-Intern--Summer-2027-_JR003037) |
 | Leidos 🔥 | Manufacturing/Quality Intern | Huntsville, AL | 🇺🇸 | 2026-08-31 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Manufacturing-Quality-Intern_R-00190547) |
 | Leidos 🔥 | Electronics Technician Co-Op | Huntsville, AL | 🇺🇸 | 2026-09-04 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Electronics-Technician-Co-Op_R-00191451) |
 | Leidos 🔥 | Civil Engineer Intern | Chicago, IL | 🇺🇸 | 2026-09-08 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Chicago-IL/Civil-Engineer-Intern_R-00191578) |
@@ -705,6 +707,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-09 (late night), scanner cron, 2 roles added.** 🎯 Zipline Firmware Engineer Intern, Summer 2027 and Spring 2027 (South San Francisco CA, posted same day). No exclusions; no scanner errors.
 > **2026-10-14, scanner cron, 18 roles added.** 🎯 Anduril 2027 Firmware Engineer Intern + Flight Test Engineer Intern (Costa Mesa); Muon Space Spacecraft Test Engineering Intern (San Jose); 🎯 Aerospace Corp Sensor Modeling & Simulation Undergrad/Grad Interns (Chantilly) + Photonics Device Characterization Intern; 🎯 Nvidia Differentiable Simulation Research Intern + Sparse Linear Algebra Libraries Intern (Santa Clara); Rocket Lab Ground Systems Engineering Intern Spring 2027 (Stennis); Draper Acoustic & Vibration Technologies Intern; GE US Engineering Intern (Muskegon); Leidos Power Delivery Engineering Intern (Charlotte); BAH Summer Games Data Scientist Intern; 5 Northrop 2027 reqs (EE/Computer Eng Manhattan Beach, Airworthiness Melbourne, Systems Eng Annapolis/Chantilly). Excluded: non-technical (Rocket Lab Export Compliance, Anduril Product Designer, Northrop Project Management, AeroVironment Finance Systems, GE Operations/Supply Chain/EHS/Finance, Nvidia Technical Marketing, Draper Cybersecurity/IT), wrong season (Anduril Winter 2027 Co-op, GE Fall 2027 co-ops), restricted to existing interns (2 SNC "Summer 2026 Intern Only"), GE "Returning Students" re-posts of already-tracked reqs, GE Lynn CNC Co-op dup, Northrop OKC Product Support dup req, and ~22 non-US Nvidia reqs (China/Taiwan/UK/Germany/Sweden). No scanner errors.
 > **2026-10-15, scanner cron, 1 role added.** 🎯 Muon Space Ground Software Engineering Intern (Summer 2027, San Jose). Excluded: non-technical/IT support (Leidos IT Desktop Engineering Intern). No scanner errors.
+> **2026-10-15 (evening), scanner cron, 2 roles added.** Draper Operations Engineering Intern (Summer 2027, Cambridge MA) and 🎯 Leidos Performance Enablement AI/ML Intern (Remote US, Navy SMIT), both posted same day. Excluded: SNC SWE Intern (Summer 2026 interns only), GE Data Science/AI Intern (Queretaro, non-US), Blue Origin Terawave Product Management MBA (non-technical), BAH Digital Transformation Analyst ×2 (non-technical), Leidos Data Engineering & Analytics Intern (dup of R-00190672-1) and Electrical Hardware Design Engineering Intern (dup of R-00193413). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
