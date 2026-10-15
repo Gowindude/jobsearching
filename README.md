@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-10-14
-Open verified 2027 roles: 695
+Last updated: 2026-10-15
+Open verified 2027 roles: 696
 
 ---
 
@@ -204,6 +204,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Muon Space 🔥 🎯 | Mission Architecture Intern (Summer 2027) | Woodbridge, VA | 🇺🇸 | 2026-09-29 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5252672007) |
 | Muon Space 🔥 | Applied Science Intern (Summer 2027) | Woodbridge, VA | 🇺🇸 | 2026-09-23 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5244641007) |
 | Muon Space 🔥 🎯 | Flight Software Engineering Intern (Summer 2027) | San Jose, CA | 🇺🇸 | 2026-09-30 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5247725007) |
+| Muon Space 🔥 🎯 | Ground Software Engineering Intern (Summer 2027) | San Jose, CA | 🇺🇸 | 2026-10-15 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5266679007) |
 | Muon Space 🔥 | Quality Engineering Intern (Summer 2027) | San Jose, CA | 🇺🇸 | 2026-09-30 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5253432007) |
 | Muon Space 🔥 | Thermal Engineering Intern (Summer 2027) | San Jose, CA | 🇺🇸 | 2026-09-30 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5253474007) |
 | Muon Space 🔥 | Electrical Engineering Intern (Summer 2027) | San Jose, CA | 🇺🇸 | 2026-10-01 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5255112007) |
@@ -703,6 +704,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-09 (night), scanner cron, 1 role added.** 🎯 Nvidia Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027 (Santa Clara CA, posted same day). No exclusions; no scanner errors.
 > **2026-10-09 (late night), scanner cron, 2 roles added.** 🎯 Zipline Firmware Engineer Intern, Summer 2027 and Spring 2027 (South San Francisco CA, posted same day). No exclusions; no scanner errors.
 > **2026-10-14, scanner cron, 18 roles added.** 🎯 Anduril 2027 Firmware Engineer Intern + Flight Test Engineer Intern (Costa Mesa); Muon Space Spacecraft Test Engineering Intern (San Jose); 🎯 Aerospace Corp Sensor Modeling & Simulation Undergrad/Grad Interns (Chantilly) + Photonics Device Characterization Intern; 🎯 Nvidia Differentiable Simulation Research Intern + Sparse Linear Algebra Libraries Intern (Santa Clara); Rocket Lab Ground Systems Engineering Intern Spring 2027 (Stennis); Draper Acoustic & Vibration Technologies Intern; GE US Engineering Intern (Muskegon); Leidos Power Delivery Engineering Intern (Charlotte); BAH Summer Games Data Scientist Intern; 5 Northrop 2027 reqs (EE/Computer Eng Manhattan Beach, Airworthiness Melbourne, Systems Eng Annapolis/Chantilly). Excluded: non-technical (Rocket Lab Export Compliance, Anduril Product Designer, Northrop Project Management, AeroVironment Finance Systems, GE Operations/Supply Chain/EHS/Finance, Nvidia Technical Marketing, Draper Cybersecurity/IT), wrong season (Anduril Winter 2027 Co-op, GE Fall 2027 co-ops), restricted to existing interns (2 SNC "Summer 2026 Intern Only"), GE "Returning Students" re-posts of already-tracked reqs, GE Lynn CNC Co-op dup, Northrop OKC Product Support dup req, and ~22 non-US Nvidia reqs (China/Taiwan/UK/Germany/Sweden). No scanner errors.
+> **2026-10-15, scanner cron, 1 role added.** 🎯 Muon Space Ground Software Engineering Intern (Summer 2027, San Jose). Excluded: non-technical/IT support (Leidos IT Desktop Engineering Intern). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
