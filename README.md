@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-16
-Open verified 2027 roles: 706
+Open verified 2027 roles: 707
 
 ---
 
@@ -321,6 +321,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | AeroVironment 🔥 | Quality Engineer Intern | Petaluma, CA | 🇺🇸 | 2026-10-08 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Petaluma-CA/Quality-Engineer-Intern_9073) |
 | AeroVironment 🔥 | Manufacturing Engineering Intern | Pottstown, PA | 🇺🇸 | 2026-10-15 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Pottstown-PA/Manufacturing-Engineering-Intern_9104) |
 | AeroVironment 🔥 | Electrical Engineer Intern | Pottstown, PA | 🇺🇸 | 2026-10-15 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Pottstown-PA/Electrical-Engineer-Intern_9103) |
+| AeroVironment 🔥 🎯 🆕 | Software Engineering Intern | Moorpark, CA | 🇺🇸 | 2026-10-16 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Moorpark-CA/Software-Engineering-Intern_9094) |
 | Hermeus 🔥 | Subsystem Test Engineering Intern - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/643fd7b7-9015-43a1-aa2b-a54f117b403c) |
 | Hermeus 🔥 🎯 | Software Engineering Intern (Modeling & Simulation) - Spring/Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936) |
 | Hermeus 🔥 🎯 | Software Engineering Intern (HIL) - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b) |
@@ -721,6 +722,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-16 (later), scanner cron, 1 role added.** Northrop Grumman 2027 Mechanical Engineering Intern (Roy UT). Excluded: NG 2027 Technical Writer Intern (Cape Canaveral FL) as non-technical. No scanner errors.
 > **2026-10-16, scanner cron, 1 role added.** Xona Space Systems Mechanical Engineering Co-op (Burlingame CA, 6-month, no season stated, posted same day; separate req from the Spring 2027 co-op already tracked). No exclusions; no scanner errors.
 > **2026-10-16 (evening 4), scanner cron, 1 role added.** 🎯 Booz Allen University Software Engineer Intern (Fayetteville NC, posted same day). Excluded: Rocket Lab Supply Chain Intern (non-technical), SNC Electrical + Systems Engineering Interns (For SNC Summer 2026 Interns Only). Scanner error: Northrop Grumman board fetch failed (partial coverage).
+> **2026-10-16 (evening 5), scanner cron, 1 role added.** 🎯 AeroVironment Software Engineering Intern (Moorpark CA, no stated term, posted same day). No exclusions. Scanner error: Northrop Grumman board fetch failed (partial coverage).
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
