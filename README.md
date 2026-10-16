@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-16
-Open verified 2027 roles: 704
+Open verified 2027 roles: 705
 
 ---
 
@@ -98,6 +98,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Impulse Space 🔥 | Development Test Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-14 | [Apply](https://impulsespace.pinpointhq.com/en/postings/8b8a0693-fcf2-4cc4-8e2d-130d68fd6566) |
 | Impulse Space 🔥 | Tooling/Ground Support Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-17 | [Apply](https://impulsespace.pinpointhq.com/en/postings/3ca4f02c-eede-41ce-8132-da5db3ff2bd2) |
 | Impulse Space 🔥 | Thermal Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-17 | [Apply](https://impulsespace.pinpointhq.com/en/postings/79cd1c7d-c918-4656-9b75-9e6ffe81c08e) |
+| Impulse Space 🔥 | Enterprise Software Engineer Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-10-16 | [Apply](https://impulsespace.pinpointhq.com/en/postings/66981a77-8e79-4050-9818-4ed4209c5579) |
 | Blue Origin ⭐ 🔥 🎯 | Summer 2027 Guidance, Navigation & Controls Internship - Undergraduate | Greater Seattle Area | 🇺🇸 | 2026-09-01 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Guidance--Navigation---Controls-Internship---Undergraduate_R71443) |
 | Blue Origin ⭐ 🔥 🎯 | Summer 2027 Guidance, Navigation & Controls Internship - Graduate | Greater Seattle Area (3 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Guidance--Navigation---Controls-Internship---Graduate_R71442) |
 | Blue Origin ⭐ 🔥 🎯 | Summer 2027 Aerospace Systems Engineering Internship - Undergraduate | Greater Seattle Area (3 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Aerospace-Systems-Engineering-Internship----Undergraduate_R71436) |
@@ -714,6 +715,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-15, scanner cron, 1 role added.** 🎯 Muon Space Ground Software Engineering Intern (Summer 2027, San Jose). Excluded: non-technical/IT support (Leidos IT Desktop Engineering Intern). No scanner errors.
 > **2026-10-15 (evening), scanner cron, 2 roles added.** Draper Operations Engineering Intern (Summer 2027, Cambridge MA) and 🎯 Leidos Performance Enablement AI/ML Intern (Remote US, Navy SMIT), both posted same day. Excluded: SNC SWE Intern (Summer 2026 interns only), GE Data Science/AI Intern (Queretaro, non-US), Blue Origin Terawave Product Management MBA (non-technical), BAH Digital Transformation Analyst ×2 (non-technical), Leidos Data Engineering & Analytics Intern (dup of R-00190672-1) and Electrical Hardware Design Engineering Intern (dup of R-00193413). No scanner errors.
 > **2026-10-15 (late night), scanner cron, 2 roles added.** AeroVironment Manufacturing Engineering Intern and Electrical Engineer Intern (both Pottstown PA, year-round, posted same day). No exclusions; no scanner errors.
+> **2026-10-16 (evening 3), scanner cron, 1 role added.** Impulse Space Enterprise Software Engineer Intern (Summer 2027, Redondo Beach). Excluded: Varda EHS Internship (El Segundo) as non-technical. Scanner error: Northrop Grumman board fetch failed (partial coverage).
 > **2026-10-16 (evening 2), scanner cron, 2 roles added.** Leidos Cloud Engineering Intern + Engineering Projects Intern (both Remote US, posted same day). No exclusions; no scanner errors.
 > **2026-10-16 (later), scanner cron, 1 role added.** Northrop Grumman 2027 Mechanical Engineering Intern (Roy UT). Excluded: NG 2027 Technical Writer Intern (Cape Canaveral FL) as non-technical. No scanner errors.
 > **2026-10-16, scanner cron, 1 role added.** Xona Space Systems Mechanical Engineering Co-op (Burlingame CA, 6-month, no season stated, posted same day; separate req from the Spring 2027 co-op already tracked). No exclusions; no scanner errors.
