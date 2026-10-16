@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-16
-Open verified 2027 roles: 701
+Open verified 2027 roles: 702
 
 ---
 
@@ -438,6 +438,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 | 2027 Intern - Airworthiness Engineer | Melbourne, FL | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074662469) |
 | Northrop Grumman 🔥 🎯 | 2027 Systems Engineering Intern – Annapolis MD | Annapolis, MD | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074623404) |
 | Northrop Grumman 🔥 🎯 | 2027 Systems Engineer Intern - Chantilly VA | Chantilly, VA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074721747) |
+| Northrop Grumman 🔥 | 2027 Mechanical Engineering Intern - Roy UT | Roy, UT | 🇺🇸 | 2026-10-16 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074791631) |
 | GE Aerospace 🔥 | Unison Engineering Intern (Summer 2027) | Jacksonville, FL / Norwich, NY / Dayton, OH / St. George, UT | | 2026-08-18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) |
 | GE Aerospace 🔥 🎯 | Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 | Evendale, OH | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) |
 | GE Aerospace 🔥 | Digital Technology Intern – US – Atlanta, GA – Summer 2027 | Atlanta, GA | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Atlanta/Digital-Technology-Intern---US---Atlanta--GA----Summer-2027_R5038078) |
@@ -711,6 +712,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-15, scanner cron, 1 role added.** 🎯 Muon Space Ground Software Engineering Intern (Summer 2027, San Jose). Excluded: non-technical/IT support (Leidos IT Desktop Engineering Intern). No scanner errors.
 > **2026-10-15 (evening), scanner cron, 2 roles added.** Draper Operations Engineering Intern (Summer 2027, Cambridge MA) and 🎯 Leidos Performance Enablement AI/ML Intern (Remote US, Navy SMIT), both posted same day. Excluded: SNC SWE Intern (Summer 2026 interns only), GE Data Science/AI Intern (Queretaro, non-US), Blue Origin Terawave Product Management MBA (non-technical), BAH Digital Transformation Analyst ×2 (non-technical), Leidos Data Engineering & Analytics Intern (dup of R-00190672-1) and Electrical Hardware Design Engineering Intern (dup of R-00193413). No scanner errors.
 > **2026-10-15 (late night), scanner cron, 2 roles added.** AeroVironment Manufacturing Engineering Intern and Electrical Engineer Intern (both Pottstown PA, year-round, posted same day). No exclusions; no scanner errors.
+> **2026-10-16 (later), scanner cron, 1 role added.** Northrop Grumman 2027 Mechanical Engineering Intern (Roy UT). Excluded: NG 2027 Technical Writer Intern (Cape Canaveral FL) as non-technical. No scanner errors.
 > **2026-10-16, scanner cron, 1 role added.** Xona Space Systems Mechanical Engineering Co-op (Burlingame CA, 6-month, no season stated, posted same day; separate req from the Spring 2027 co-op already tracked). No exclusions; no scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
