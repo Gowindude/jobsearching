@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-16
-Open verified 2027 roles: 705
+Open verified 2027 roles: 706
 
 ---
 
@@ -611,6 +611,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Booz Allen Hamilton 🔥 | Systems Administrator Intern | Annapolis Junction, MD | 🇺🇸 | Unknown | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0249565) |
 | Booz Allen Hamilton 🔥 | Product Engineering Intern | McLean, VA | 🇺🇸 | 2026-10-01 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Product-Engineering-Intern_R0250655) |
 | Booz Allen Hamilton 🔥 | University - 2027 Summer Games Cyber Security Intern - Annapolis Junction, MD | Annapolis Junction, MD | 🇺🇸 | 2026-09-08 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Cyber-Security-Intern---Annapolis-Junction--MD_R0248414) |
+| Booz Allen Hamilton 🔥 🎯 | University, Software Engineer Intern | Fayetteville, NC | 🇺🇸 | 2026-10-16 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Software-Engineer-Intern_R0251802) |
 | Booz Allen Hamilton 🔥 🎯 | University, Applied AI Software Development Intern | McLean, VA | 🇺🇸 | 2026-10-08 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Applied-AI-Software-Development-Intern_R0251314) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Data Scientist Intern - Annapolis Junction, MD | Annapolis Junction, MD | 🇺🇸 | Unknown | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Data-Scientist-Intern---Annapolis-Junction--MD_R0248408) |
 | Leidos 🔥 🎯 | Software Developer Intern | Annapolis Junction, MD | 🇺🇸 | Unknown | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00192858) |
@@ -719,6 +720,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-16 (evening 2), scanner cron, 2 roles added.** Leidos Cloud Engineering Intern + Engineering Projects Intern (both Remote US, posted same day). No exclusions; no scanner errors.
 > **2026-10-16 (later), scanner cron, 1 role added.** Northrop Grumman 2027 Mechanical Engineering Intern (Roy UT). Excluded: NG 2027 Technical Writer Intern (Cape Canaveral FL) as non-technical. No scanner errors.
 > **2026-10-16, scanner cron, 1 role added.** Xona Space Systems Mechanical Engineering Co-op (Burlingame CA, 6-month, no season stated, posted same day; separate req from the Spring 2027 co-op already tracked). No exclusions; no scanner errors.
+> **2026-10-16 (evening 4), scanner cron, 1 role added.** 🎯 Booz Allen University Software Engineer Intern (Fayetteville NC, posted same day). Excluded: Rocket Lab Supply Chain Intern (non-technical), SNC Electrical + Systems Engineering Interns (For SNC Summer 2026 Interns Only). Scanner error: Northrop Grumman board fetch failed (partial coverage).
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
