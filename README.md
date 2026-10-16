@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-16
-Open verified 2027 roles: 702
+Open verified 2027 roles: 704
 
 ---
 
@@ -477,6 +477,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Leidos 🔥 | Naval Architecture and Marine Engineering Intern | Chesapeake, VA | 🇺🇸 | 2026-10-09 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Chesapeake-VA/Naval-Architecture-and-Marine-Engineering-Intern_R-00194266) |
 | Leidos 🔥 | Power Delivery Engineering Intern | Charlotte, NC | 🇺🇸 | 2026-10-13 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Charlotte-NC/Power-Delivery-Engineering-Intern_R-00193282) |
 | Leidos 🔥 🎯 | Performance Enablement AI/ML Intern | Remote (US) | 🇺🇸 | 2026-10-15 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Performance-Enablement-AI-ML-Intern_R-00194656) |
+| Leidos 🔥 🎯 | Cloud Engineering Intern | Remote (US) | 🇺🇸 | 2026-10-16 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Cloud-Engineering-Intern_R-00194668) |
+| Leidos 🔥 | Engineering Projects Intern | Remote (US) | 🇺🇸 | 2026-10-16 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Engineering-Projects-Intern_R-00194672) |
 | GE Aerospace 🔥 🎯 | Applied AI Engineer Intern – Summer 2027 (May/June Start) | Evendale, OH (53 locations) | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) |
 | GE Aerospace 🔥 | Unison Engineering Part-time Intern - US - Summer 2027 | Saint George, UT | 🇺🇸 | 2026-09-16 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Saint-George-UT-US-1/Unison-Engineering-Part-time-Intern---US---Summer-2027_R5040163-1) |
 | GE Aerospace 🔥 | Product Definition Engineering Intern - Lynn, MA - Summer 2027 | Lynn, MA | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Lynn/Product-Definition-Engineering-Intern---Lynn--MA---Summer-2027_R5039185-1) |
@@ -712,6 +714,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-15, scanner cron, 1 role added.** 🎯 Muon Space Ground Software Engineering Intern (Summer 2027, San Jose). Excluded: non-technical/IT support (Leidos IT Desktop Engineering Intern). No scanner errors.
 > **2026-10-15 (evening), scanner cron, 2 roles added.** Draper Operations Engineering Intern (Summer 2027, Cambridge MA) and 🎯 Leidos Performance Enablement AI/ML Intern (Remote US, Navy SMIT), both posted same day. Excluded: SNC SWE Intern (Summer 2026 interns only), GE Data Science/AI Intern (Queretaro, non-US), Blue Origin Terawave Product Management MBA (non-technical), BAH Digital Transformation Analyst ×2 (non-technical), Leidos Data Engineering & Analytics Intern (dup of R-00190672-1) and Electrical Hardware Design Engineering Intern (dup of R-00193413). No scanner errors.
 > **2026-10-15 (late night), scanner cron, 2 roles added.** AeroVironment Manufacturing Engineering Intern and Electrical Engineer Intern (both Pottstown PA, year-round, posted same day). No exclusions; no scanner errors.
+> **2026-10-16 (evening 2), scanner cron, 2 roles added.** Leidos Cloud Engineering Intern + Engineering Projects Intern (both Remote US, posted same day). No exclusions; no scanner errors.
 > **2026-10-16 (later), scanner cron, 1 role added.** Northrop Grumman 2027 Mechanical Engineering Intern (Roy UT). Excluded: NG 2027 Technical Writer Intern (Cape Canaveral FL) as non-technical. No scanner errors.
 > **2026-10-16, scanner cron, 1 role added.** Xona Space Systems Mechanical Engineering Co-op (Burlingame CA, 6-month, no season stated, posted same day; separate req from the Spring 2027 co-op already tracked). No exclusions; no scanner errors.
 
