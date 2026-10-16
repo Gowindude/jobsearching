@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-15
-Open verified 2027 roles: 698
+Open verified 2027 roles: 700
 
 ---
 
@@ -318,6 +318,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | AeroVironment 🔥 | Mechanical Engineering Intern | Petaluma, CA | 🇺🇸 | 2026-10-07 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Petaluma-CA/Mechanical-Engineering-Intern_9038) |
 | AeroVironment 🔥 🎯 | Summer 2027 Autonomy & Robotics Engineering Intern | Simi Valley, CA (14 locations) | 🇺🇸 | 2026-10-08 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8556) |
 | AeroVironment 🔥 | Quality Engineer Intern | Petaluma, CA | 🇺🇸 | 2026-10-08 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Petaluma-CA/Quality-Engineer-Intern_9073) |
+| AeroVironment 🔥 | Manufacturing Engineering Intern | Pottstown, PA | 🇺🇸 | 2026-10-15 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Pottstown-PA/Manufacturing-Engineering-Intern_9104) |
+| AeroVironment 🔥 | Electrical Engineer Intern | Pottstown, PA | 🇺🇸 | 2026-10-15 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Pottstown-PA/Electrical-Engineer-Intern_9103) |
 | Hermeus 🔥 | Subsystem Test Engineering Intern - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/643fd7b7-9015-43a1-aa2b-a54f117b403c) |
 | Hermeus 🔥 🎯 | Software Engineering Intern (Modeling & Simulation) - Spring/Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936) |
 | Hermeus 🔥 🎯 | Software Engineering Intern (HIL) - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b) |
@@ -708,6 +710,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-14, scanner cron, 18 roles added.** 🎯 Anduril 2027 Firmware Engineer Intern + Flight Test Engineer Intern (Costa Mesa); Muon Space Spacecraft Test Engineering Intern (San Jose); 🎯 Aerospace Corp Sensor Modeling & Simulation Undergrad/Grad Interns (Chantilly) + Photonics Device Characterization Intern; 🎯 Nvidia Differentiable Simulation Research Intern + Sparse Linear Algebra Libraries Intern (Santa Clara); Rocket Lab Ground Systems Engineering Intern Spring 2027 (Stennis); Draper Acoustic & Vibration Technologies Intern; GE US Engineering Intern (Muskegon); Leidos Power Delivery Engineering Intern (Charlotte); BAH Summer Games Data Scientist Intern; 5 Northrop 2027 reqs (EE/Computer Eng Manhattan Beach, Airworthiness Melbourne, Systems Eng Annapolis/Chantilly). Excluded: non-technical (Rocket Lab Export Compliance, Anduril Product Designer, Northrop Project Management, AeroVironment Finance Systems, GE Operations/Supply Chain/EHS/Finance, Nvidia Technical Marketing, Draper Cybersecurity/IT), wrong season (Anduril Winter 2027 Co-op, GE Fall 2027 co-ops), restricted to existing interns (2 SNC "Summer 2026 Intern Only"), GE "Returning Students" re-posts of already-tracked reqs, GE Lynn CNC Co-op dup, Northrop OKC Product Support dup req, and ~22 non-US Nvidia reqs (China/Taiwan/UK/Germany/Sweden). No scanner errors.
 > **2026-10-15, scanner cron, 1 role added.** 🎯 Muon Space Ground Software Engineering Intern (Summer 2027, San Jose). Excluded: non-technical/IT support (Leidos IT Desktop Engineering Intern). No scanner errors.
 > **2026-10-15 (evening), scanner cron, 2 roles added.** Draper Operations Engineering Intern (Summer 2027, Cambridge MA) and 🎯 Leidos Performance Enablement AI/ML Intern (Remote US, Navy SMIT), both posted same day. Excluded: SNC SWE Intern (Summer 2026 interns only), GE Data Science/AI Intern (Queretaro, non-US), Blue Origin Terawave Product Management MBA (non-technical), BAH Digital Transformation Analyst ×2 (non-technical), Leidos Data Engineering & Analytics Intern (dup of R-00190672-1) and Electrical Hardware Design Engineering Intern (dup of R-00193413). No scanner errors.
+> **2026-10-15 (late night), scanner cron, 2 roles added.** AeroVironment Manufacturing Engineering Intern and Electrical Engineer Intern (both Pottstown PA, year-round, posted same day). No exclusions; no scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
