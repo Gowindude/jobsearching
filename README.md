@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-19
-Open verified 2027 roles: 711
+Open verified 2027 roles: 716
 
 ---
 
@@ -250,6 +250,9 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Anduril ⭐ 🔥 | 2027 Reliability Engineer Intern | Costa Mesa, CA | 🇺🇸 | 2026-10-05 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5257682007?gh_jid=5257682007) |
 | Anduril ⭐ 🔥 🎯 | 2027 Firmware Engineer Intern | Costa Mesa, CA | 🇺🇸 | 2026-10-13 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007) |
 | Anduril ⭐ 🔥 | 2027 Flight Test Engineer Intern | Costa Mesa, CA | 🇺🇸 | 2026-10-14 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5257709007?gh_jid=5257709007) |
+| Anduril ⭐ 🔥 🎯 | 2027 Guidance, Navigation, & Control Engineer Intern | Costa Mesa, CA | 🇺🇸 | 2026-10-19 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5268736007?gh_jid=5268736007) |
+| Anduril ⭐ 🔥 | 2027 Field Test Engineer Intern | Costa Mesa, CA / Quincy, MA | 🇺🇸 | 2026-10-19 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5268689007?gh_jid=5268689007) |
+| Anduril ⭐ 🔥 | 2027 Low Observables Engineer Intern | Costa Mesa, CA | 🇺🇸 | 2026-10-19 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5268752007?gh_jid=5268752007) |
 | Palantir ⭐ | Deployment Strategist, Internship – US Government | Honolulu, HI | 🇺🇸 | 2025-12-11 | [Apply](https://jobs.lever.co/palantir/a49d4181-a289-435a-b581-7f5af0497c8e) |
 | Zipline 🔥 | Quality & Manufacturing Intern (Summer 2027) | South San Francisco, CA | | 2026-08-03 | [Apply](https://www.zipline.com/open-roles?gh_jid=7824316003) |
 | Zipline 🔥 🎯 | Computational Physics Intern (Summer 2027) | South San Francisco, CA | | 2026-08-19 | [Apply](https://www.zipline.com/open-roles?gh_jid=7904720003) |
@@ -673,6 +676,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Sierra Nevada Corporation 🔥 | Aerospace Engineering Intern (Summer 2027) | Plano, TX | 🇺🇸 | 2026-09-04 | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Plano-TX/Aerospace-Engineering-Intern--Summer-2027-Intern-_R0030736) |
 | Sierra Nevada Corporation 🔥 | Aerospace Engineering Intern (Summer 2027) | Lone Tree, CO | 🇺🇸 | 2026-09-04 | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Aerospace-Engineering-Intern--Summer-2027-_R0030735) |
 | Sierra Nevada Corporation 🔥 | Aerospace Engineering Intern (Summer 2027) | Dayton, OH | 🇺🇸 | 2026-09-04 | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Dayton-OH/Aerospace-Engineering-Intern--Summer-2027-_R0030727) |
+| Sierra Nevada Corporation 🔥 | RF Engineer Intern | Lone Tree, CO | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/RF-Engineer-Intern_R0031110) |
 
 > **2026-09-04: Sierra Nevada Corporation's full Summer 2027 intern wave dropped** (spacecraft/satellite systems & defense electronics — distinct from Sierra Space), first-ever roles tracked for this company. 35 postings found across Hagerstown MD, Lone Tree CO, Plano TX, Dayton OH, Sparks NV, Southern Pines NC, Folsom CA; added the 29 technical ones above. Skipped as non-technical: 4x Project Coordinator Intern (Sparks NV, Hagerstown MD, Plano TX, Lone Tree CO) and IT Support Technician Intern (Lone Tree CO, Summer 2027). Also skipped IT Support Technician Intern (Sparks NV) — wrong term (Summer 2026). 🎯-tagged: all 6 Software Engineering Intern reqs and all 4 Systems Engineering/Systems Engineer Intern reqs.
 
@@ -730,6 +734,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 
 > **2026-10-16 (evening 6), scanner cron, 1 role added.** 🎯 Northrop Grumman 2027 Intern - Guidance Navigation and Control Engineer (San Diego CA, req 1340074811354). No exclusions. No scanner errors.
 > **2026-10-19, scanner cron, 2 roles added.** 🎯 Northrop Grumman 2027 Software Engineering Intern (Aurora CO, req 1340074792683); Leidos Electrical Hardware Design Engineering Intern (Huntsville AL, 2nd req R-00194798). Excluded 6 Nvidia Shanghai China 2027 intern reqs as non-US. No scanner errors.
+> **2026-10-19 (later), scanner cron, 5 roles added.** 🎯 Anduril 2027 Guidance, Navigation, & Control Engineer Intern (Costa Mesa CA), Anduril 2027 Field Test Engineer Intern (Costa Mesa / Quincy MA) + Low Observables Engineer Intern (Costa Mesa), SNC RF Engineer Intern (Lone Tree CO), Draper Optoelectronics Electrical Engineering Co-Op (Cambridge MA), all posted same day. Excluded: Anduril 2027 Technical Program Manager Intern (non-technical), SNC Systems Engineer I/II (For SNC Summer 2026 Interns Only), SNC Project Management Intern + Legal Intern (non-technical), Nvidia ASIC Verification Intern Toronto (non-US) + Sales Operations Intern (non-technical). No scanner errors.
 > **2026-10-19 (later), scanner cron, 1 role added.** Northrop Grumman 2027 Intern - Survivability Engineer (Palmdale CA, req 1340074832465). Excluded Teledyne FLIR Product Management Dental Internship (Grenoble France) as non-US/non-technical. No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
@@ -893,6 +898,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Draper Laboratory 🔥 | Electro-Mechanical Instrument Co-op (Spring 2027) | Cambridge, MA | | 2026-08-31 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Electro-Mechanical-Instrument-Co-op--Spring-2027-_JR002883-1) |
 | Draper Laboratory 🔥 | Materials and Chemistry Engineering Co-op (Spring 2027) | Cambridge, MA | 🇺🇸 | 2026-09-21 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Materials-and-Chemistry-Engineering-Co-op--Spring-2027-_JR002942) |
 | Draper Laboratory 🔥 🎯 | Systems Engineering Co-Op (Spring 2027) | Cambridge, MA | 🇺🇸 | 2026-09-11 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Systems-Engineering-Co-Op--Spring-2027-_JR002882) |
+| Draper Laboratory 🔥 | Optoelectronics Electrical Engineering Co-Op | Cambridge, MA | | Posted Today | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Optoelectronics-Electrical-Engineering-Co-Op_JR003044-1) |
 | Amentum 🔥 🎯 | Intern - GN&C Spring Intern | Huntsville, AL | 🇺🇸 | 2026-09-11 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-AL-Huntsville/Intern---GN-C-Spring-Intern_R0170497) |
 | Northrop Grumman 🔥 🎯 | 2027 Spring Co-op Cyber Software Engineer Intern - Cincinnati OH | Cincinnati, OH | 🇺🇸 | 2026-09-13 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074236827) |
 | GE Aerospace 🔥 | Technical Coop – 2 Year Technical Associates Degree programs – Spring 2027 | Evendale, OH (+1 other site) | 🇺🇸 | 2026-09-11 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Technical-Coop---2-Year-Technical-Associates-Degree-programs---Spring-2027_R5036325-2) |
