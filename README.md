@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-19
-Open verified 2027 roles: 710
+Open verified 2027 roles: 711
 
 ---
 
@@ -443,6 +443,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 | 2027 Mechanical Engineering Intern - Roy UT | Roy, UT | 🇺🇸 | 2026-10-16 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074791631) |
 | Northrop Grumman 🔥 🎯 | 2027 Intern - Guidance Navigation and Control Engineer | San Diego, CA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074811354) |
 | Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Aurora CO | Aurora, CO | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074792683) |
+| Northrop Grumman 🔥 | 2027 Intern - Survivability Engineer | Palmdale, CA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074832465) |
 | GE Aerospace 🔥 | Unison Engineering Intern (Summer 2027) | Jacksonville, FL / Norwich, NY / Dayton, OH / St. George, UT | | 2026-08-18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) |
 | GE Aerospace 🔥 🎯 | Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 | Evendale, OH | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) |
 | GE Aerospace 🔥 | Digital Technology Intern – US – Atlanta, GA – Summer 2027 | Atlanta, GA | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Atlanta/Digital-Technology-Intern---US---Atlanta--GA----Summer-2027_R5038078) |
@@ -729,6 +730,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 
 > **2026-10-16 (evening 6), scanner cron, 1 role added.** 🎯 Northrop Grumman 2027 Intern - Guidance Navigation and Control Engineer (San Diego CA, req 1340074811354). No exclusions. No scanner errors.
 > **2026-10-19, scanner cron, 2 roles added.** 🎯 Northrop Grumman 2027 Software Engineering Intern (Aurora CO, req 1340074792683); Leidos Electrical Hardware Design Engineering Intern (Huntsville AL, 2nd req R-00194798). Excluded 6 Nvidia Shanghai China 2027 intern reqs as non-US. No scanner errors.
+> **2026-10-19 (later), scanner cron, 1 role added.** Northrop Grumman 2027 Intern - Survivability Engineer (Palmdale CA, req 1340074832465). Excluded Teledyne FLIR Product Management Dental Internship (Grenoble France) as non-US/non-technical. No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
