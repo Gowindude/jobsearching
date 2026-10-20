@@ -448,10 +448,10 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 🎯 | 2027 Intern - Guidance Navigation and Control Engineer | San Diego, CA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074811354) |
 | Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Aurora CO | Aurora, CO | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074792683) |
 | Northrop Grumman 🔥 | 2027 Intern - Survivability Engineer | Palmdale, CA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074832465) |
-| Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Boulder CO | Boulder, CO | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074770889) | 🆕 |
-| Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Aurora CO | Aurora, CO | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074810534) | 🆕 |
-| Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Colorado Springs | Colorado Springs, CO | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074774928) | 🆕 |
-| Northrop Grumman 🔥 🎯 | 2027 Systems Engineering Intern - Aurora CO | Aurora, CO | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074792500) | 🆕 |
+| Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Boulder CO | Boulder, CO | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074770889) |
+| Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Aurora CO | Aurora, CO | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074810534) |
+| Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Colorado Springs | Colorado Springs, CO | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074774928) |
+| Northrop Grumman 🔥 🎯 | 2027 Systems Engineering Intern - Aurora CO | Aurora, CO | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074792500) |
 | GE Aerospace 🔥 | Unison Engineering Intern (Summer 2027) | Jacksonville, FL / Norwich, NY / Dayton, OH / St. George, UT | | 2026-08-18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) |
 | GE Aerospace 🔥 🎯 | Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 | Evendale, OH | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) |
 | GE Aerospace 🔥 | Digital Technology Intern – US – Atlanta, GA – Summer 2027 | Atlanta, GA | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Atlanta/Digital-Technology-Intern---US---Atlanta--GA----Summer-2027_R5038078) |
