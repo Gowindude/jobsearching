@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-20
-Open verified 2027 roles: 725
+Open verified 2027 roles: 729
 
 ---
 
@@ -686,6 +686,10 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Sierra Nevada Corporation 🔥 | Aerospace Engineering Intern (Summer 2027) | Lone Tree, CO | 🇺🇸 | 2026-09-04 | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Aerospace-Engineering-Intern--Summer-2027-_R0030735) |
 | Sierra Nevada Corporation 🔥 | Aerospace Engineering Intern (Summer 2027) | Dayton, OH | 🇺🇸 | 2026-09-04 | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Dayton-OH/Aerospace-Engineering-Intern--Summer-2027-_R0030727) |
 | Sierra Nevada Corporation 🔥 | RF Engineer Intern | Lone Tree, CO | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/RF-Engineer-Intern_R0031110) |
+| Sierra Nevada Corporation 🔥 🎯 | Systems Engineering Intern (Summer 2027) | Lone Tree, CO | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Systems-Engineering-Intern--Summer-2027-_R0031166-1) |
+| Sierra Nevada Corporation 🔥 🎯 | Systems Engineering Intern (Summer 2027) | Lone Tree, CO | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Systems-Engineering-Intern--Summer-2027-_R0031180-1) |
+| Sierra Nevada Corporation 🔥 🎯 | Systems Engineer Intern (Summer 2027) | Lone Tree, CO + 1 other | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Systems-Engineer-Intern--Summer-2027-_R0031189) |
+| Sierra Nevada Corporation 🔥 | Flight Test Engineer Intern | Vandalia, OH | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Vandalia-OH/Flight-Test-Engineer-Intern_R0031069) |
 
 > **2026-09-04: Sierra Nevada Corporation's full Summer 2027 intern wave dropped** (spacecraft/satellite systems & defense electronics — distinct from Sierra Space), first-ever roles tracked for this company. 35 postings found across Hagerstown MD, Lone Tree CO, Plano TX, Dayton OH, Sparks NV, Southern Pines NC, Folsom CA; added the 29 technical ones above. Skipped as non-technical: 4x Project Coordinator Intern (Sparks NV, Hagerstown MD, Plano TX, Lone Tree CO) and IT Support Technician Intern (Lone Tree CO, Summer 2027). Also skipped IT Support Technician Intern (Sparks NV) — wrong term (Summer 2026). 🎯-tagged: all 6 Software Engineering Intern reqs and all 4 Systems Engineering/Systems Engineer Intern reqs.
 
@@ -747,6 +751,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-19 (later), scanner cron, 1 role added.** Northrop Grumman 2027 Intern - Survivability Engineer (Palmdale CA, req 1340074832465). Excluded Teledyne FLIR Product Management Dental Internship (Grenoble France) as non-US/non-technical. No scanner errors.
 > **2026-10-20, scanner cron, 4 roles added.** 🎯 Northrop Grumman 2027 Software Engineering Intern (Boulder CO req 1340074770889, Aurora CO req 1340074810534, Colorado Springs CO req 1340074774928) + 2027 Systems Engineering Intern (Aurora CO, req 1340074792500). Excluded Nvidia Developer Technology Engineering Intern - Compute Performance (Munich Germany + 2 other locations) as non-US. No scanner errors.
 > **2026-10-20 (later), scanner cron, 3 roles added.** 🎯 The Aerospace Corporation 2027 Enterprise Performance Modeling and Simulation Graduate Intern (Colorado Springs CO, posted same day), Northrop Grumman 2027 Engineering Intern (Manufacturing and Operations) (Chandler AZ) and 2027 Engineering Intern (ME/EE) (Wallops VA). No exclusions; no scanner errors.
+> **2026-10-20 (later 2), scanner cron, 4 roles added.** 🎯 SNC Systems Engineering Intern Summer 2027 (Lone Tree CO, reqs R0031166 + R0031180), SNC Systems Engineer Intern Summer 2027 (Lone Tree CO + 1 other, R0031189), SNC Flight Test Engineer Intern (Vandalia OH, R0031069), all posted same day. Excluded Nvidia Order Management Intern (Santa Clara CA; non-technical). No scanner errors.
 > **2026-10-19 (later 3), scanner cron, 2 roles added.** Rocket Lab Ground Systems Engineering Intern Summer 2027 (Stennis Space Center MS), The Aerospace Corporation 2027 Electromechanical Undergraduate Intern (El Segundo CA). Excluded 2 Palantir Software Engineer Internship - Query Engines reqs (London UK non-US; New York NY Palantir SWE per standing preference). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
