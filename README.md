@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-19
-Open verified 2027 roles: 716
+Open verified 2027 roles: 718
 
 ---
 
@@ -200,6 +200,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Rocket Lab 🔥 | Structural Analysis Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-11 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986690003) |
 | Rocket Lab 🔥 | Mechanical Engineering Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-13 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7991448003) |
 | Rocket Lab 🔥 | Test Engineering Intern Summer 2027 | Wallops Island, VA | 🇺🇸 | 2026-09-24 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8003529003) |
+| Rocket Lab 🔥 | Ground Systems Engineering Intern Summer 2027 | Stennis Space Center, MS | 🇺🇸 | 2026-10-19 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8007202003) |
 | Muon Space 🔥 🎯 | GNC Hardware Engineering Intern (Summer 2027) | Mountain View, CA | 🇺🇸 | 2026-09-29 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5252677007) |
 | Muon Space 🔥 🎯 | GNC Software Engineering Intern (Summer 2027) | Mountain View, CA | 🇺🇸 | 2026-09-29 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5252680007) |
 | Muon Space 🔥 🎯 | Mission Architecture Intern (Summer 2027) | Woodbridge, VA | 🇺🇸 | 2026-09-29 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5252672007) |
@@ -611,6 +612,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | The Aerospace Corporation 🔥 | 2027 Photonics Device Characterization Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-10-13 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Photonics-Device-Characterization-Undergraduate-Intern_R016860) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Sensor Modeling and Simulation Undergrad Intern | Chantilly, VA | 🇺🇸 | 2026-10-14 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Chantilly-VA/XMLNAME-2027-Sensor-Modeling-and-Simulation-Undergrad-Intern_R016876) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Sensor Modeling and Simulation Grad Intern | Chantilly, VA | 🇺🇸 | 2026-10-14 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Chantilly-VA/XMLNAME-2027-Sensor-Modeling-and-Simulation-Grad-Intern_R016875) |
+| The Aerospace Corporation 🔥 | 2027 Electromechanical Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-10-19 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Electromechanical-Undergraduate-Intern_R016918) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Systems Engineer Intern | McLean, VA (11 locations) | 🇺🇸 | 2026-09-04 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University---2027-Summer-Games-Systems-Engineer-Intern---McLean--VA_R0248361) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Software Developer Intern | McLean, VA (10 locations) | 🇺🇸 | 2026-09-15 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029) |
 | Booz Allen Hamilton 🔥 🎯 | AI Software Developer Intern | San Diego, CA | 🇺🇸 | Unknown | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/AI-Software-Developer-Intern_R0248115) |
@@ -736,6 +738,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-19, scanner cron, 2 roles added.** 🎯 Northrop Grumman 2027 Software Engineering Intern (Aurora CO, req 1340074792683); Leidos Electrical Hardware Design Engineering Intern (Huntsville AL, 2nd req R-00194798). Excluded 6 Nvidia Shanghai China 2027 intern reqs as non-US. No scanner errors.
 > **2026-10-19 (later), scanner cron, 5 roles added.** 🎯 Anduril 2027 Guidance, Navigation, & Control Engineer Intern (Costa Mesa CA), Anduril 2027 Field Test Engineer Intern (Costa Mesa / Quincy MA) + Low Observables Engineer Intern (Costa Mesa), SNC RF Engineer Intern (Lone Tree CO), Draper Optoelectronics Electrical Engineering Co-Op (Cambridge MA), all posted same day. Excluded: Anduril 2027 Technical Program Manager Intern (non-technical), SNC Systems Engineer I/II (For SNC Summer 2026 Interns Only), SNC Project Management Intern + Legal Intern (non-technical), Nvidia ASIC Verification Intern Toronto (non-US) + Sales Operations Intern (non-technical). No scanner errors.
 > **2026-10-19 (later), scanner cron, 1 role added.** Northrop Grumman 2027 Intern - Survivability Engineer (Palmdale CA, req 1340074832465). Excluded Teledyne FLIR Product Management Dental Internship (Grenoble France) as non-US/non-technical. No scanner errors.
+> **2026-10-19 (later 3), scanner cron, 2 roles added.** Rocket Lab Ground Systems Engineering Intern Summer 2027 (Stennis Space Center MS), The Aerospace Corporation 2027 Electromechanical Undergraduate Intern (El Segundo CA). Excluded 2 Palantir Software Engineer Internship - Query Engines reqs (London UK non-US; New York NY Palantir SWE per standing preference). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
