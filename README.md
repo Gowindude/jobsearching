@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-10-19
-Open verified 2027 roles: 718
+Last updated: 2026-10-20
+Open verified 2027 roles: 722
 
 ---
 
@@ -448,6 +448,10 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 🎯 | 2027 Intern - Guidance Navigation and Control Engineer | San Diego, CA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074811354) |
 | Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Aurora CO | Aurora, CO | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074792683) |
 | Northrop Grumman 🔥 | 2027 Intern - Survivability Engineer | Palmdale, CA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074832465) |
+| Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Boulder CO | Boulder, CO | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074770889) | 🆕 |
+| Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Aurora CO | Aurora, CO | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074810534) | 🆕 |
+| Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Colorado Springs | Colorado Springs, CO | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074774928) | 🆕 |
+| Northrop Grumman 🔥 🎯 | 2027 Systems Engineering Intern - Aurora CO | Aurora, CO | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074792500) | 🆕 |
 | GE Aerospace 🔥 | Unison Engineering Intern (Summer 2027) | Jacksonville, FL / Norwich, NY / Dayton, OH / St. George, UT | | 2026-08-18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) |
 | GE Aerospace 🔥 🎯 | Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 | Evendale, OH | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) |
 | GE Aerospace 🔥 | Digital Technology Intern – US – Atlanta, GA – Summer 2027 | Atlanta, GA | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Atlanta/Digital-Technology-Intern---US---Atlanta--GA----Summer-2027_R5038078) |
@@ -738,6 +742,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-19, scanner cron, 2 roles added.** 🎯 Northrop Grumman 2027 Software Engineering Intern (Aurora CO, req 1340074792683); Leidos Electrical Hardware Design Engineering Intern (Huntsville AL, 2nd req R-00194798). Excluded 6 Nvidia Shanghai China 2027 intern reqs as non-US. No scanner errors.
 > **2026-10-19 (later), scanner cron, 5 roles added.** 🎯 Anduril 2027 Guidance, Navigation, & Control Engineer Intern (Costa Mesa CA), Anduril 2027 Field Test Engineer Intern (Costa Mesa / Quincy MA) + Low Observables Engineer Intern (Costa Mesa), SNC RF Engineer Intern (Lone Tree CO), Draper Optoelectronics Electrical Engineering Co-Op (Cambridge MA), all posted same day. Excluded: Anduril 2027 Technical Program Manager Intern (non-technical), SNC Systems Engineer I/II (For SNC Summer 2026 Interns Only), SNC Project Management Intern + Legal Intern (non-technical), Nvidia ASIC Verification Intern Toronto (non-US) + Sales Operations Intern (non-technical). No scanner errors.
 > **2026-10-19 (later), scanner cron, 1 role added.** Northrop Grumman 2027 Intern - Survivability Engineer (Palmdale CA, req 1340074832465). Excluded Teledyne FLIR Product Management Dental Internship (Grenoble France) as non-US/non-technical. No scanner errors.
+> **2026-10-20, scanner cron, 4 roles added.** 🎯 Northrop Grumman 2027 Software Engineering Intern (Boulder CO req 1340074770889, Aurora CO req 1340074810534, Colorado Springs CO req 1340074774928) + 2027 Systems Engineering Intern (Aurora CO, req 1340074792500). Excluded Nvidia Developer Technology Engineering Intern - Compute Performance (Munich Germany + 2 other locations) as non-US. No scanner errors.
 > **2026-10-19 (later 3), scanner cron, 2 roles added.** Rocket Lab Ground Systems Engineering Intern Summer 2027 (Stennis Space Center MS), The Aerospace Corporation 2027 Electromechanical Undergraduate Intern (El Segundo CA). Excluded 2 Palantir Software Engineer Internship - Query Engines reqs (London UK non-US; New York NY Palantir SWE per standing preference). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
