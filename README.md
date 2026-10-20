@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-20
-Open verified 2027 roles: 729
+Open verified 2027 roles: 733
 
 ---
 
@@ -326,6 +326,10 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | AeroVironment 🔥 | Manufacturing Engineering Intern | Pottstown, PA | 🇺🇸 | 2026-10-15 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Pottstown-PA/Manufacturing-Engineering-Intern_9104) |
 | AeroVironment 🔥 | Electrical Engineer Intern | Pottstown, PA | 🇺🇸 | 2026-10-15 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Pottstown-PA/Electrical-Engineer-Intern_9103) |
 | AeroVironment 🔥 🎯 🆕 | Software Engineering Intern | Moorpark, CA | 🇺🇸 | 2026-10-16 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Moorpark-CA/Software-Engineering-Intern_9094) |
+| AeroVironment 🔥 🎯 🆕 | Software Engineering Intern | Minneapolis, MN | 🇺🇸 | 2026-10-20 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Minneapolis-MN/Software-Engineering-Intern_8940) |
+| AeroVironment 🔥 🎯 🆕 | Software Engineering Intern | San Diego, CA | 🇺🇸 | 2026-10-20 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/San-Diego-CA/Software-Engineering-Intern_8828) |
+| AeroVironment 🔥 🆕 | Electrical Engineering Intern | San Diego, CA | 🇺🇸 | 2026-10-20 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/San-Diego-CA/Electrical-Engineering-Intern_9143) |
+| AeroVironment 🔥 🎯 🆕 | Machine Learning Engineering Intern | Centreville, VA | 🇺🇸 | 2026-10-20 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Centreville-VA/Machine-Learning-Engineering-Intern_8941) |
 | Hermeus 🔥 | Subsystem Test Engineering Intern - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/643fd7b7-9015-43a1-aa2b-a54f117b403c) |
 | Hermeus 🔥 🎯 | Software Engineering Intern (Modeling & Simulation) - Spring/Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936) |
 | Hermeus 🔥 🎯 | Software Engineering Intern (HIL) - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b) |
@@ -752,6 +756,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-20, scanner cron, 4 roles added.** 🎯 Northrop Grumman 2027 Software Engineering Intern (Boulder CO req 1340074770889, Aurora CO req 1340074810534, Colorado Springs CO req 1340074774928) + 2027 Systems Engineering Intern (Aurora CO, req 1340074792500). Excluded Nvidia Developer Technology Engineering Intern - Compute Performance (Munich Germany + 2 other locations) as non-US. No scanner errors.
 > **2026-10-20 (later), scanner cron, 3 roles added.** 🎯 The Aerospace Corporation 2027 Enterprise Performance Modeling and Simulation Graduate Intern (Colorado Springs CO, posted same day), Northrop Grumman 2027 Engineering Intern (Manufacturing and Operations) (Chandler AZ) and 2027 Engineering Intern (ME/EE) (Wallops VA). No exclusions; no scanner errors.
 > **2026-10-20 (later 2), scanner cron, 4 roles added.** 🎯 SNC Systems Engineering Intern Summer 2027 (Lone Tree CO, reqs R0031166 + R0031180), SNC Systems Engineer Intern Summer 2027 (Lone Tree CO + 1 other, R0031189), SNC Flight Test Engineer Intern (Vandalia OH, R0031069), all posted same day. Excluded Nvidia Order Management Intern (Santa Clara CA; non-technical). No scanner errors.
+> **2026-10-20 (later 3), scanner cron, 4 roles added.** 🎯 AeroVironment Software Engineering Intern (Minneapolis MN, San Diego CA), 🎯 Machine Learning Engineering Intern (Centreville VA), Electrical Engineering Intern (San Diego CA), all posted same day. Excluded: Anduril 2027 Finance Data Analyst Intern (Costa Mesa, non-technical). Partial coverage: Northrop Grumman board fetch failed this run.
 > **2026-10-19 (later 3), scanner cron, 2 roles added.** Rocket Lab Ground Systems Engineering Intern Summer 2027 (Stennis Space Center MS), The Aerospace Corporation 2027 Electromechanical Undergraduate Intern (El Segundo CA). Excluded 2 Palantir Software Engineer Internship - Query Engines reqs (London UK non-US; New York NY Palantir SWE per standing preference). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
