@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-20
-Open verified 2027 roles: 722
+Open verified 2027 roles: 725
 
 ---
 
@@ -452,6 +452,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Aurora CO | Aurora, CO | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074810534) |
 | Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Colorado Springs | Colorado Springs, CO | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074774928) |
 | Northrop Grumman 🔥 🎯 | 2027 Systems Engineering Intern - Aurora CO | Aurora, CO | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074792500) |
+| Northrop Grumman 🔥 | 2027 Engineering Intern (Manufacturing and Operations) - Chandler AZ | Chandler, AZ | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074834354) |
+| Northrop Grumman 🔥 | 2027 Engineering Intern (ME/EE) - Wallops VA | Wallops Island, VA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074832201) |
 | GE Aerospace 🔥 | Unison Engineering Intern (Summer 2027) | Jacksonville, FL / Norwich, NY / Dayton, OH / St. George, UT | | 2026-08-18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) |
 | GE Aerospace 🔥 🎯 | Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 | Evendale, OH | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) |
 | GE Aerospace 🔥 | Digital Technology Intern – US – Atlanta, GA – Summer 2027 | Atlanta, GA | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Atlanta/Digital-Technology-Intern---US---Atlanta--GA----Summer-2027_R5038078) |
@@ -617,6 +619,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | The Aerospace Corporation 🔥 🎯 | 2027 Sensor Modeling and Simulation Undergrad Intern | Chantilly, VA | 🇺🇸 | 2026-10-14 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Chantilly-VA/XMLNAME-2027-Sensor-Modeling-and-Simulation-Undergrad-Intern_R016876) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Sensor Modeling and Simulation Grad Intern | Chantilly, VA | 🇺🇸 | 2026-10-14 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Chantilly-VA/XMLNAME-2027-Sensor-Modeling-and-Simulation-Grad-Intern_R016875) |
 | The Aerospace Corporation 🔥 | 2027 Electromechanical Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-10-19 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Electromechanical-Undergraduate-Intern_R016918) |
+| The Aerospace Corporation 🔥 🎯 | 2027 Enterprise Performance Modeling and Simulation Graduate Intern | Colorado Springs, CO | 🇺🇸 | 2026-10-20 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Colorado-Springs-CO/XMLNAME-2027-Enterprise-Performance-Modeling-and-Simulation-Graduate-Intern_R016942) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Systems Engineer Intern | McLean, VA (11 locations) | 🇺🇸 | 2026-09-04 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University---2027-Summer-Games-Systems-Engineer-Intern---McLean--VA_R0248361) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Software Developer Intern | McLean, VA (10 locations) | 🇺🇸 | 2026-09-15 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029) |
 | Booz Allen Hamilton 🔥 🎯 | AI Software Developer Intern | San Diego, CA | 🇺🇸 | Unknown | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/AI-Software-Developer-Intern_R0248115) |
@@ -743,6 +746,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-19 (later), scanner cron, 5 roles added.** 🎯 Anduril 2027 Guidance, Navigation, & Control Engineer Intern (Costa Mesa CA), Anduril 2027 Field Test Engineer Intern (Costa Mesa / Quincy MA) + Low Observables Engineer Intern (Costa Mesa), SNC RF Engineer Intern (Lone Tree CO), Draper Optoelectronics Electrical Engineering Co-Op (Cambridge MA), all posted same day. Excluded: Anduril 2027 Technical Program Manager Intern (non-technical), SNC Systems Engineer I/II (For SNC Summer 2026 Interns Only), SNC Project Management Intern + Legal Intern (non-technical), Nvidia ASIC Verification Intern Toronto (non-US) + Sales Operations Intern (non-technical). No scanner errors.
 > **2026-10-19 (later), scanner cron, 1 role added.** Northrop Grumman 2027 Intern - Survivability Engineer (Palmdale CA, req 1340074832465). Excluded Teledyne FLIR Product Management Dental Internship (Grenoble France) as non-US/non-technical. No scanner errors.
 > **2026-10-20, scanner cron, 4 roles added.** 🎯 Northrop Grumman 2027 Software Engineering Intern (Boulder CO req 1340074770889, Aurora CO req 1340074810534, Colorado Springs CO req 1340074774928) + 2027 Systems Engineering Intern (Aurora CO, req 1340074792500). Excluded Nvidia Developer Technology Engineering Intern - Compute Performance (Munich Germany + 2 other locations) as non-US. No scanner errors.
+> **2026-10-20 (later), scanner cron, 3 roles added.** 🎯 The Aerospace Corporation 2027 Enterprise Performance Modeling and Simulation Graduate Intern (Colorado Springs CO, posted same day), Northrop Grumman 2027 Engineering Intern (Manufacturing and Operations) (Chandler AZ) and 2027 Engineering Intern (ME/EE) (Wallops VA). No exclusions; no scanner errors.
 > **2026-10-19 (later 3), scanner cron, 2 roles added.** Rocket Lab Ground Systems Engineering Intern Summer 2027 (Stennis Space Center MS), The Aerospace Corporation 2027 Electromechanical Undergraduate Intern (El Segundo CA). Excluded 2 Palantir Software Engineer Internship - Query Engines reqs (London UK non-US; New York NY Palantir SWE per standing preference). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
