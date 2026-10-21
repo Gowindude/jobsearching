@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-21
-Open verified 2027 roles: 751
+Open verified 2027 roles: 752
 
 ---
 
@@ -635,6 +635,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | The Aerospace Corporation 🔥 🎯 | 2027 Embedded Software Engineering Grad Intern | El Segundo, CA | 🇺🇸 | 2026-10-21 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-Embedded-Software-Engineering-Grad-Intern_R016950) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Microwave Measurements, Modeling and Simulation UndergradIntern | El Segundo, CA | 🇺🇸 | 2026-10-21 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-Microwave-Measurements--Modeling-and-Simulation-UndergradIntern_R016892) |
 | The Aerospace Corporation 🔥 | 2027 Digital Communication Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-10-21 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-Digital-Communication-Undergraduate-Intern_R016948) |
+| The Aerospace Corporation 🔥 | 2027 Digital Communication Grad Intern | El Segundo, CA | 🇺🇸 | 2026-10-21 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Digital-Communication-Grad-Intern_R016966) |
 | The Aerospace Corporation 🔥 | 2027 Hardware Security Engineering Grad Intern | El Segundo, CA (+1 other site) | 🇺🇸 | 2026-10-21 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-Hardware-Security-Engineering-Grad-Intern_R016953) |
 | The Aerospace Corporation 🔥 | 2027 Hardware Security Engineering Undergrad  Intern | El Segundo, CA (+1 other site) | 🇺🇸 | 2026-10-21 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-Hardware-Security-Engineering-Undergrad--Intern_R016954) |
 | The Aerospace Corporation 🔥 | 2027 Digital Signals & RF Engineering Undergrad Intern | El Segundo, CA | 🇺🇸 | 2026-10-21 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-Digital-Signals---RF-Engineering-Undergrad-Intern_R016951) |
@@ -780,6 +781,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-21, scanner cron, 10 roles added.** The Aerospace Corporation 2027 interns, all El Segundo CA, posted same day: 🎯 Embedded Software Engineering (Undergrad + Grad), 🎯 Microwave Measurements, Modeling and Simulation (Undergrad), Digital Communication (Undergrad), Hardware Security Engineering (Grad + Undergrad), Digital Signals & RF Engineering (Undergrad + Grad), Signal Processing and RF Engineering (Grad + Undergrad). Excluded: Aerospace Cloud Solutions Engineer / SRE Undergrad Intern R016936 (near-duplicate of existing R016714 row), Leidos Network Site Design Intern (network ops-flavored). No scanner errors.
 > **2026-10-21 (later), scanner cron, 1 role added.** 🎯 Sierra Space Summer 2027 Flight Software Engineer Intern (Louisville CO), posted same day. Excluded: Anduril 2027 Product Sourcing Engineer Intern (Costa Mesa/Irvine/Santa Ana CA, sourcing = supply chain, non-technical). No scanner errors.
 > **2026-10-21 (later 5), scanner cron, 3 roles added.** Sierra Nevada Corporation Aerodynamics Engineer Intern (Summer 2027, Lone Tree CO) and The Aerospace Corporation 2027 Photonics Technologies Intern (Undergrad + Grad, El Segundo CA), all posted same day. Excluded: Anduril 2027 Business Operations Intern (non-technical), Anduril Winter 2027 Business Operations Engineer Co-op (non-technical, Winter), Anduril Winter 2027 Robotics Engineer Co-op Quincy MA (Winter term). No scanner errors.
+> **2026-10-21 (later 6), scanner cron, 1 role added.** The Aerospace Corporation 2027 Digital Communication Grad Intern (El Segundo CA, posted same day; pairs with tracked Undergrad R016948). No exclusions; no scanner errors.
 > **2026-10-19 (later 3), scanner cron, 2 roles added.** Rocket Lab Ground Systems Engineering Intern Summer 2027 (Stennis Space Center MS), The Aerospace Corporation 2027 Electromechanical Undergraduate Intern (El Segundo CA). Excluded 2 Palantir Software Engineer Internship - Query Engines reqs (London UK non-US; New York NY Palantir SWE per standing preference). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
