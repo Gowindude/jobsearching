@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-21
-Open verified 2027 roles: 748
+Open verified 2027 roles: 751
 
 ---
 
@@ -590,6 +590,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | The Aerospace Corporation 🔥 🎯 | 2027 Vehicle and Ground Concepts Grad Intern | El Segundo, CA (+1 other site) | 🇺🇸 | 2026-09-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Vehicle-and-Ground-Concepts-Grad-Intern_R016300) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Vehicle and Ground Concepts Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-09-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Vehicle-and-Ground-Concepts-Undergraduate-Intern_R016433) |
 | The Aerospace Corporation 🔥 | 2027 Electro-Optical Engineering Graduate Intern | El Segundo, CA | 🇺🇸 | 2026-10-02 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Electro-Optical-Engineering-Grad-Intern_R016684) |
+| The Aerospace Corporation 🔥 | 2027 Photonics Technologies Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-10-21 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Photonics-Technologies-Undergraduate-Intern_R016927) |
+| The Aerospace Corporation 🔥 | 2027 Photonics Technologies Graduate Intern | El Segundo, CA | 🇺🇸 | 2026-10-21 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Photonics-Technologies-Graduate-Intern_R016926) |
 | The Aerospace Corporation 🔥 | 2027 Flight Loads Structural Dynamics Graduate Intern | El Segundo, CA | 🇺🇸 | 2026-10-02 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Flight-Loads-Structural-Dynamics-Graduate-Intern_R016755) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Aerospace Software Engineer Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-09-16 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605) |
 | The Aerospace Corporation 🔥 | 2027 Reliability and Statistics Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-09-20 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Reliability-and-Statistics-Undergraduate-Intern_R016594) |
@@ -704,6 +706,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Sierra Nevada Corporation 🔥 | Aerospace Engineering Intern (Summer 2027) | Plano, TX | 🇺🇸 | 2026-09-04 | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Plano-TX/Aerospace-Engineering-Intern--Summer-2027-Intern-_R0030736) |
 | Sierra Nevada Corporation 🔥 | Aerospace Engineering Intern (Summer 2027) | Lone Tree, CO | 🇺🇸 | 2026-09-04 | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Aerospace-Engineering-Intern--Summer-2027-_R0030735) |
 | Sierra Nevada Corporation 🔥 | Aerospace Engineering Intern (Summer 2027) | Dayton, OH | 🇺🇸 | 2026-09-04 | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Dayton-OH/Aerospace-Engineering-Intern--Summer-2027-_R0030727) |
+| Sierra Nevada Corporation 🔥 | Aerodynamics Engineer Intern (Summer 2027) | Lone Tree, CO | 🇺🇸 | 2026-10-21 | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Aerodynamics-Engineer-Intern---Summer-2027_R0031131) |
 | Sierra Nevada Corporation 🔥 | RF Engineer Intern | Lone Tree, CO | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/RF-Engineer-Intern_R0031110) |
 | Sierra Nevada Corporation 🔥 🎯 | Systems Engineering Intern (Summer 2027) | Lone Tree, CO | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Systems-Engineering-Intern--Summer-2027-_R0031166-1) |
 | Sierra Nevada Corporation 🔥 🎯 | Systems Engineering Intern (Summer 2027) | Lone Tree, CO | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Systems-Engineering-Intern--Summer-2027-_R0031180-1) |
@@ -776,6 +779,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-20 (later 5), scanner cron, 1 role added.** 🎯 The Aerospace Corporation 2027 Space Domain Awareness Graduate Intern (Colorado Springs, CO +1 other site, posted same day). No exclusions; no scanner errors.
 > **2026-10-21, scanner cron, 10 roles added.** The Aerospace Corporation 2027 interns, all El Segundo CA, posted same day: 🎯 Embedded Software Engineering (Undergrad + Grad), 🎯 Microwave Measurements, Modeling and Simulation (Undergrad), Digital Communication (Undergrad), Hardware Security Engineering (Grad + Undergrad), Digital Signals & RF Engineering (Undergrad + Grad), Signal Processing and RF Engineering (Grad + Undergrad). Excluded: Aerospace Cloud Solutions Engineer / SRE Undergrad Intern R016936 (near-duplicate of existing R016714 row), Leidos Network Site Design Intern (network ops-flavored). No scanner errors.
 > **2026-10-21 (later), scanner cron, 1 role added.** 🎯 Sierra Space Summer 2027 Flight Software Engineer Intern (Louisville CO), posted same day. Excluded: Anduril 2027 Product Sourcing Engineer Intern (Costa Mesa/Irvine/Santa Ana CA, sourcing = supply chain, non-technical). No scanner errors.
+> **2026-10-21 (later 5), scanner cron, 3 roles added.** Sierra Nevada Corporation Aerodynamics Engineer Intern (Summer 2027, Lone Tree CO) and The Aerospace Corporation 2027 Photonics Technologies Intern (Undergrad + Grad, El Segundo CA), all posted same day. Excluded: Anduril 2027 Business Operations Intern (non-technical), Anduril Winter 2027 Business Operations Engineer Co-op (non-technical, Winter), Anduril Winter 2027 Robotics Engineer Co-op Quincy MA (Winter term). No scanner errors.
 > **2026-10-19 (later 3), scanner cron, 2 roles added.** Rocket Lab Ground Systems Engineering Intern Summer 2027 (Stennis Space Center MS), The Aerospace Corporation 2027 Electromechanical Undergraduate Intern (El Segundo CA). Excluded 2 Palantir Software Engineer Internship - Query Engines reqs (London UK non-US; New York NY Palantir SWE per standing preference). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
