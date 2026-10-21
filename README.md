@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-10-20
-Open verified 2027 roles: 737
+Last updated: 2026-10-21
+Open verified 2027 roles: 747
 
 ---
 
@@ -628,6 +628,16 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | The Aerospace Corporation 🔥 🎯 | 2027 Control Analysis Graduate Intern | El Segundo, CA | 🇺🇸 | 2026-10-20 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Control-Analysis-Graduate-Intern_R016931) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Enterprise Modeling and Simulation Graduate Intern | El Segundo, CA (+2 other sites) | 🇺🇸 | 2026-10-20 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Enterprise-Modeling-and-Simulation-Graduate-Intern_R016933) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Space Domain Awareness Graduate Intern | Colorado Springs, CO (+1 other site) | 🇺🇸 | 2026-10-20 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Colorado-Springs-CO/XMLNAME-2027-Space-Domain-Awareness-Graduate-Intern_R016958) |
+| The Aerospace Corporation 🔥 🎯 | 2027 Embedded Software Engineering Undergrad Intern | El Segundo, CA | 🇺🇸 | 2026-10-21 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-Embedded-Software-Engineering-Undergrad-Intern_R016949) |
+| The Aerospace Corporation 🔥 🎯 | 2027 Embedded Software Engineering Grad Intern | El Segundo, CA | 🇺🇸 | 2026-10-21 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-Embedded-Software-Engineering-Grad-Intern_R016950) |
+| The Aerospace Corporation 🔥 🎯 | 2027 Microwave Measurements, Modeling and Simulation UndergradIntern | El Segundo, CA | 🇺🇸 | 2026-10-21 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-Microwave-Measurements--Modeling-and-Simulation-UndergradIntern_R016892) |
+| The Aerospace Corporation 🔥 | 2027 Digital Communication Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-10-21 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-Digital-Communication-Undergraduate-Intern_R016948) |
+| The Aerospace Corporation 🔥 | 2027 Hardware Security Engineering Grad Intern | El Segundo, CA (+1 other site) | 🇺🇸 | 2026-10-21 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-Hardware-Security-Engineering-Grad-Intern_R016953) |
+| The Aerospace Corporation 🔥 | 2027 Hardware Security Engineering Undergrad  Intern | El Segundo, CA (+1 other site) | 🇺🇸 | 2026-10-21 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-Hardware-Security-Engineering-Undergrad--Intern_R016954) |
+| The Aerospace Corporation 🔥 | 2027 Digital Signals & RF Engineering Undergrad Intern | El Segundo, CA | 🇺🇸 | 2026-10-21 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-Digital-Signals---RF-Engineering-Undergrad-Intern_R016951) |
+| The Aerospace Corporation 🔥 | 2027 Digital Signals & RF Engineering Grad Intern | El Segundo, CA | 🇺🇸 | 2026-10-21 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-Digital-Signals---RF-Engineering-Grad-Intern_R016952) |
+| The Aerospace Corporation 🔥 | 2027 Signal Processing and RF Engineering Grad Intern | El Segundo, CA | 🇺🇸 | 2026-10-21 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-Signal-Processing-and-RF-Engineering-Grad-Intern_R016848) |
+| The Aerospace Corporation 🔥 | 2027 Signal Processing and RF Engineering Undergrad Intern | El Segundo, CA | 🇺🇸 | 2026-10-21 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-Signal-Processing-and-RF-Engineering-Undergrad-Intern_R016849) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Systems Engineer Intern | McLean, VA (11 locations) | 🇺🇸 | 2026-09-04 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University---2027-Summer-Games-Systems-Engineer-Intern---McLean--VA_R0248361) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Software Developer Intern | McLean, VA (10 locations) | 🇺🇸 | 2026-09-15 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029) |
 | Booz Allen Hamilton 🔥 🎯 | AI Software Developer Intern | San Diego, CA | 🇺🇸 | Unknown | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/AI-Software-Developer-Intern_R0248115) |
@@ -763,6 +773,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-20 (later 3), scanner cron, 4 roles added.** 🎯 AeroVironment Software Engineering Intern (Minneapolis MN, San Diego CA), 🎯 Machine Learning Engineering Intern (Centreville VA), Electrical Engineering Intern (San Diego CA), all posted same day. Excluded: Anduril 2027 Finance Data Analyst Intern (Costa Mesa, non-technical). Partial coverage: Northrop Grumman board fetch failed this run.
 > **2026-10-20 (later 4), scanner cron, 3 roles added.** 🎯 The Aerospace Corporation 2027 Control Analysis Graduate Intern (El Segundo CA) and 🎯 2027 Enterprise Modeling and Simulation Graduate Intern (El Segundo CA + 2 other sites), both posted same day; Shield AI Summer 2027 Data Science Intern (San Diego CA, Lever, no posted date). No exclusions; no scanner errors.
 > **2026-10-20 (later 5), scanner cron, 1 role added.** 🎯 The Aerospace Corporation 2027 Space Domain Awareness Graduate Intern (Colorado Springs, CO +1 other site, posted same day). No exclusions; no scanner errors.
+> **2026-10-21, scanner cron, 10 roles added.** The Aerospace Corporation 2027 interns, all El Segundo CA, posted same day: 🎯 Embedded Software Engineering (Undergrad + Grad), 🎯 Microwave Measurements, Modeling and Simulation (Undergrad), Digital Communication (Undergrad), Hardware Security Engineering (Grad + Undergrad), Digital Signals & RF Engineering (Undergrad + Grad), Signal Processing and RF Engineering (Grad + Undergrad). Excluded: Aerospace Cloud Solutions Engineer / SRE Undergrad Intern R016936 (near-duplicate of existing R016714 row), Leidos Network Site Design Intern (network ops-flavored). No scanner errors.
 > **2026-10-19 (later 3), scanner cron, 2 roles added.** Rocket Lab Ground Systems Engineering Intern Summer 2027 (Stennis Space Center MS), The Aerospace Corporation 2027 Electromechanical Undergraduate Intern (El Segundo CA). Excluded 2 Palantir Software Engineer Internship - Query Engines reqs (London UK non-US; New York NY Palantir SWE per standing preference). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
