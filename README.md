@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-21
-Open verified 2027 roles: 752
+Open verified 2027 roles: 753
 
 ---
 
@@ -541,6 +541,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Nvidia 🔥 🎯 | Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027 | Santa Clara, CA | 🇺🇸 | 2026-10-09 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1) |
 | Nvidia 🔥 🎯 | Differentiable Simulation Research Intern - Summer 2027 | Santa Clara, CA | 🇺🇸 | 2026-10-12 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561) |
 | Nvidia 🔥 🎯 | Sparse Linear Algebra Libraries Intern - Summer 2027 | Santa Clara, CA | 🇺🇸 | 2026-10-13 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Sparse-Linear-Algebra-Libraries-Intern---Summer-2027_JR2027429) |
+| Nvidia 🔥 🎯 | PhD Research Intern, Robotic Perception and Learning - 2027 | Redmond, WA (+2 other sites) | 🇺🇸 | 2026-10-21 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/PhD-Research-Intern--Robotic-Perception-and-Learning---2027_JR2027089) |
 | Gulfstream (General Dynamics) 🔥 | Summer 2027 IEF - Advanced Structures & Materials (ASMI) College Associate Intern | Savannah, GA | | Unknown | [Apply](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Advanced-Structures-and-Materials-%28ASMI%29-College-Associate-Intern-GA-31401/1417869000/) |
 | Draper Laboratory 🔥 | Mechanical Engineering & System Packaging Intern | Cambridge, MA | | 2026-08-12 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002797) |
 | Draper Laboratory 🔥 🎯 | Embedded Quality & Fielded Systems Intern | Cambridge, MA | | 2026-08-05 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718) |
@@ -782,6 +783,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-21 (later), scanner cron, 1 role added.** 🎯 Sierra Space Summer 2027 Flight Software Engineer Intern (Louisville CO), posted same day. Excluded: Anduril 2027 Product Sourcing Engineer Intern (Costa Mesa/Irvine/Santa Ana CA, sourcing = supply chain, non-technical). No scanner errors.
 > **2026-10-21 (later 5), scanner cron, 3 roles added.** Sierra Nevada Corporation Aerodynamics Engineer Intern (Summer 2027, Lone Tree CO) and The Aerospace Corporation 2027 Photonics Technologies Intern (Undergrad + Grad, El Segundo CA), all posted same day. Excluded: Anduril 2027 Business Operations Intern (non-technical), Anduril Winter 2027 Business Operations Engineer Co-op (non-technical, Winter), Anduril Winter 2027 Robotics Engineer Co-op Quincy MA (Winter term). No scanner errors.
 > **2026-10-21 (later 6), scanner cron, 1 role added.** The Aerospace Corporation 2027 Digital Communication Grad Intern (El Segundo CA, posted same day; pairs with tracked Undergrad R016948). No exclusions; no scanner errors.
+> **2026-10-21 (later 8), scanner cron, 1 role added.** Nvidia PhD Research Intern, Robotic Perception and Learning - 2027 (Redmond WA +2 sites, posted same day). No exclusions; no scanner errors.
 > **2026-10-19 (later 3), scanner cron, 2 roles added.** Rocket Lab Ground Systems Engineering Intern Summer 2027 (Stennis Space Center MS), The Aerospace Corporation 2027 Electromechanical Undergraduate Intern (El Segundo CA). Excluded 2 Palantir Software Engineer Internship - Query Engines reqs (London UK non-US; New York NY Palantir SWE per standing preference). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
