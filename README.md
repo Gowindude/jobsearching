@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-10-21
-Open verified 2027 roles: 753
+Last updated: 2026-10-22
+Open verified 2027 roles: 754
 
 ---
 
@@ -367,6 +367,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Teledyne FLIR 🔥 🎯 | EADSIM Software Engineering Intern (Summer 2027) | Huntsville, AL | | 2026-09-01 | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667) |
 | Teledyne FLIR 🔥 🎯 | EADSIM MBSE Intern (Summer 2027) | Huntsville, AL | 🇺🇸 | 2026-09-16 | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/EADSIM-MBSE-Intern--Summer-2027-_REQ36670-1) |
 | Teledyne FLIR 🔥 🎯 | Systems Technologies Intern (year-round 2027; controls/embedded SW/imaging; CW variant REQ37278) | Orlando, FL (+Wilsonville, OR) | 🇺🇸 | 2026-10-06 | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Orlando-FL/Systems-Technologies-Intern_REQ37282) |
+| Teledyne FLIR 🔥 | Mechanical Engineering Intern (CW; year-round 2027) | Wilsonville, OR | 🇺🇸 | 2026-10-22 | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Wilsonville-OR/Mechanical-Engineering-Intern---CW_REQ37514) |
 | Teledyne FLIR 🔥 | Manufacturing Engineer Co-Op | Chestnut Ridge, NY | 🇺🇸 | 2026-10-01 | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Chestnut-Ridge-NY/Manufacturing-Engineer-Co-Op_REQ36603) |
 | RTX/Raytheon 🔥 🎯 | Systems Engineering Test Equipment Intern (Summer 2027) | El Segundo, CA | | Unknown | [Apply](https://careers.rtx.com/global/en/job/01867450/Systems-Engineering-Test-Equipment-Intern-Summer-2027) |
 | GD-OTS (General Dynamics) 🔥 | Intern, Technical Support | Springboro, OH | 🇺🇸 | 2026-07-28 | [Apply](https://careers-gd-ots.icims.com/jobs/36724/intern%2c-technical-support/job) |
@@ -785,6 +786,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-21 (later 6), scanner cron, 1 role added.** The Aerospace Corporation 2027 Digital Communication Grad Intern (El Segundo CA, posted same day; pairs with tracked Undergrad R016948). No exclusions; no scanner errors.
 > **2026-10-21 (later 8), scanner cron, 1 role added.** Nvidia PhD Research Intern, Robotic Perception and Learning - 2027 (Redmond WA +2 sites, posted same day). No exclusions; no scanner errors.
 > **2026-10-19 (later 3), scanner cron, 2 roles added.** Rocket Lab Ground Systems Engineering Intern Summer 2027 (Stennis Space Center MS), The Aerospace Corporation 2027 Electromechanical Undergraduate Intern (El Segundo CA). Excluded 2 Palantir Software Engineer Internship - Query Engines reqs (London UK non-US; New York NY Palantir SWE per standing preference). No scanner errors.
+> **2026-10-22, scanner cron, 1 role added (partial coverage: SpaceX and Northrop Grumman boards errored, fetch failed).** Teledyne FLIR Mechanical Engineering Intern - CW (Wilsonville OR, REQ37514, posted same day). Excluded GE Aerospace Internship - Production Analysis (Pomigliano d'Arco, Italy) as non-US.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
