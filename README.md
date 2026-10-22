@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-22
-Open verified 2027 roles: 754
+Open verified 2027 roles: 755
 
 ---
 
@@ -502,6 +502,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Leidos 🔥 🎯 | Cloud Engineering Intern | Remote (US) | 🇺🇸 | 2026-10-16 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Cloud-Engineering-Intern_R-00194668) |
 | Leidos 🔥 | Engineering Projects Intern | Remote (US) | 🇺🇸 | 2026-10-16 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Engineering-Projects-Intern_R-00194672) |
 | Leidos 🔥 | Electrical Hardware Design Engineering Intern (2nd req R-00194798) | Huntsville, AL | 🇺🇸 | 2026-10-19 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00194798) |
+| Leidos 🔥 🎯 | Systems Engineering Intern 🆕 | Huntsville, AL | 🇺🇸 | 2026-10-22 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Systems-Engineering-Intern_R-00195148) |
 | GE Aerospace 🔥 🎯 | Applied AI Engineer Intern – Summer 2027 (May/June Start) | Evendale, OH (53 locations) | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) |
 | GE Aerospace 🔥 | Unison Engineering Part-time Intern - US - Summer 2027 | Saint George, UT | 🇺🇸 | 2026-09-16 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Saint-George-UT-US-1/Unison-Engineering-Part-time-Intern---US---Summer-2027_R5040163-1) |
 | GE Aerospace 🔥 | Product Definition Engineering Intern - Lynn, MA - Summer 2027 | Lynn, MA | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Lynn/Product-Definition-Engineering-Intern---Lynn--MA---Summer-2027_R5039185-1) |
@@ -786,6 +787,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-21 (later 6), scanner cron, 1 role added.** The Aerospace Corporation 2027 Digital Communication Grad Intern (El Segundo CA, posted same day; pairs with tracked Undergrad R016948). No exclusions; no scanner errors.
 > **2026-10-21 (later 8), scanner cron, 1 role added.** Nvidia PhD Research Intern, Robotic Perception and Learning - 2027 (Redmond WA +2 sites, posted same day). No exclusions; no scanner errors.
 > **2026-10-19 (later 3), scanner cron, 2 roles added.** Rocket Lab Ground Systems Engineering Intern Summer 2027 (Stennis Space Center MS), The Aerospace Corporation 2027 Electromechanical Undergraduate Intern (El Segundo CA). Excluded 2 Palantir Software Engineer Internship - Query Engines reqs (London UK non-US; New York NY Palantir SWE per standing preference). No scanner errors.
+> **2026-10-22 (later), scanner cron, 1 role added.** Leidos Systems Engineering Intern (Huntsville AL, posted same day). Excluded: GE Aerospace Program Management Intern (Rivalta di Torino, non-US + program mgmt), Sierra Nevada Human Resource Intern (non-technical), Leidos AI/ML Intern R-00195168 Huntsville (near-duplicate of tracked R-00192042). No scanner errors.
 > **2026-10-22, scanner cron, 1 role added (partial coverage: SpaceX and Northrop Grumman boards errored, fetch failed).** Teledyne FLIR Mechanical Engineering Intern - CW (Wilsonville OR, REQ37514, posted same day). Excluded GE Aerospace Internship - Production Analysis (Pomigliano d'Arco, Italy) as non-US.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
