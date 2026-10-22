@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-22
-Open verified 2027 roles: 755
+Open verified 2027 roles: 760
 
 ---
 
@@ -503,6 +503,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Leidos 🔥 | Engineering Projects Intern | Remote (US) | 🇺🇸 | 2026-10-16 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Engineering-Projects-Intern_R-00194672) |
 | Leidos 🔥 | Electrical Hardware Design Engineering Intern (2nd req R-00194798) | Huntsville, AL | 🇺🇸 | 2026-10-19 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00194798) |
 | Leidos 🔥 🎯 | Systems Engineering Intern 🆕 | Huntsville, AL | 🇺🇸 | 2026-10-22 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Systems-Engineering-Intern_R-00195148) |
+| Leidos 🔥 🎯 | Missile Systems Engineer Intern 🆕 | Huntsville, AL | 🇺🇸 | 2026-10-22 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Missile-Systems-Engineer-Intern_R-00195265) |
 | GE Aerospace 🔥 🎯 | Applied AI Engineer Intern – Summer 2027 (May/June Start) | Evendale, OH (53 locations) | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) |
 | GE Aerospace 🔥 | Unison Engineering Part-time Intern - US - Summer 2027 | Saint George, UT | 🇺🇸 | 2026-09-16 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Saint-George-UT-US-1/Unison-Engineering-Part-time-Intern---US---Summer-2027_R5040163-1) |
 | GE Aerospace 🔥 | Product Definition Engineering Intern - Lynn, MA - Summer 2027 | Lynn, MA | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Lynn/Product-Definition-Engineering-Intern---Lynn--MA---Summer-2027_R5039185-1) |
@@ -716,6 +717,10 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Sierra Nevada Corporation 🔥 🎯 | Systems Engineering Intern (Summer 2027) | Lone Tree, CO | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Systems-Engineering-Intern--Summer-2027-_R0031180-1) |
 | Sierra Nevada Corporation 🔥 🎯 | Systems Engineer Intern (Summer 2027) | Lone Tree, CO + 1 other | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Systems-Engineer-Intern--Summer-2027-_R0031189) |
 | Sierra Nevada Corporation 🔥 | Flight Test Engineer Intern | Vandalia, OH | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Vandalia-OH/Flight-Test-Engineer-Intern_R0031069) |
+| Sierra Nevada Corporation 🔥 🎯 | Systems Engineer Intern (Summer 2027) 🆕 | Lone Tree, CO | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Systems-Engineer-Intern--Summer-2027-_R0031176) |
+| Sierra Nevada Corporation 🔥 | Mechanical Engineer Intern - Summer 2027 🆕 | Lone Tree, CO | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Mechanical-Engineer-Intern---Summer-2027_R0031084) |
+| Sierra Nevada Corporation 🔥 | Mechanical Engineer Intern (Summer 2027) 🆕 | Lone Tree, CO | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Mechanical-Engineer-Intern--Summer-2027-_R0031177) |
+| Sierra Nevada Corporation 🔥 | Structural Engineering Intern - Summer 2027 🆕 | Lone Tree, CO | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Structural-Engineering-Intern---Summer-2027_R0031160-1) |
 
 > **2026-09-04: Sierra Nevada Corporation's full Summer 2027 intern wave dropped** (spacecraft/satellite systems & defense electronics — distinct from Sierra Space), first-ever roles tracked for this company. 35 postings found across Hagerstown MD, Lone Tree CO, Plano TX, Dayton OH, Sparks NV, Southern Pines NC, Folsom CA; added the 29 technical ones above. Skipped as non-technical: 4x Project Coordinator Intern (Sparks NV, Hagerstown MD, Plano TX, Lone Tree CO) and IT Support Technician Intern (Lone Tree CO, Summer 2027). Also skipped IT Support Technician Intern (Sparks NV) — wrong term (Summer 2026). 🎯-tagged: all 6 Software Engineering Intern reqs and all 4 Systems Engineering/Systems Engineer Intern reqs.
 
@@ -789,6 +794,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-19 (later 3), scanner cron, 2 roles added.** Rocket Lab Ground Systems Engineering Intern Summer 2027 (Stennis Space Center MS), The Aerospace Corporation 2027 Electromechanical Undergraduate Intern (El Segundo CA). Excluded 2 Palantir Software Engineer Internship - Query Engines reqs (London UK non-US; New York NY Palantir SWE per standing preference). No scanner errors.
 > **2026-10-22 (later), scanner cron, 1 role added.** Leidos Systems Engineering Intern (Huntsville AL, posted same day). Excluded: GE Aerospace Program Management Intern (Rivalta di Torino, non-US + program mgmt), Sierra Nevada Human Resource Intern (non-technical), Leidos AI/ML Intern R-00195168 Huntsville (near-duplicate of tracked R-00192042). No scanner errors.
 > **2026-10-22, scanner cron, 1 role added (partial coverage: SpaceX and Northrop Grumman boards errored, fetch failed).** Teledyne FLIR Mechanical Engineering Intern - CW (Wilsonville OR, REQ37514, posted same day). Excluded GE Aerospace Internship - Production Analysis (Pomigliano d'Arco, Italy) as non-US.
+> **2026-10-22 (later 2), scanner cron, 5 roles added.** Sierra Nevada Corporation Systems Engineer Intern (Summer 2027), 2x Mechanical Engineer Intern (Summer 2027), Structural Engineering Intern (Summer 2027), all Lone Tree CO, and Leidos Missile Systems Engineer Intern (Huntsville AL), all posted same day. Excluded: Palantir Forward Deployed Software Engineer Internship (standing preference) and Deployment Strategist Internship (non-technical), SNC Project Management Intern (PM), SNC Mechanical Engineer Intern Summer 2027, Systems Security Engineer Intern Summer 2027 and Mechanical Engineer Intern Summer 2026 (all For SNC Summer 2026 Interns Only). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
