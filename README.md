@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-10-22
-Open verified 2027 roles: 760
+Last updated: 2026-10-23
+Open verified 2027 roles: 762
 
 ---
 
@@ -289,6 +289,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Shield AI 🔥 | Summer 2027 - Electrical Engineering Co-op (June 2027) | Dallas, TX | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/shieldai/8c6cfcee-c6da-4a73-9bdf-3ef098ff59e6) |
 | Shield AI 🔥 | Summer 2027 - Electrical Engineering Intern | Dallas, TX | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/shieldai/200a293f-71ce-4982-a100-ac4b500c4cf7) |
 | Shield AI 🔥 | Summer 2027 - Data Science Intern | San Diego, CA | 🇺🇸 | 2026-10-20 | [Apply](https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797) |
+| Shield AI 🔥 | June 2027 Co-op - Reliability Engineering | Seattle, WA | 🇺🇸 | Unknown | [Apply](https://jobs.lever.co/shieldai/bef440ce-0365-4de7-9b1e-b1288cdaf7f3) |
 | Katalyst Space Technologies 🔥 🎯 | Engineering Intern (Electrical / Mechanical / GNC / Software) | Broomfield, CO | 🇺🇸 | 2026-08-31 | [Apply](https://job-boards.greenhouse.io/katalyst/jobs/6176711004) |
 | AeroVironment 🔥 | Electrical Engineering Intern | Simi Valley, CA | 🇺🇸 | 2026-09-01 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Electrical-Engineering-Intern_8588) |
 | AeroVironment 🔥 🎯 | Software Engineering Intern | Sunrise, FL | 🇺🇸 | 2026-09-01 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Sunrise-FL/Software-Engineering-Intern_8589) |
@@ -458,6 +459,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Boulder CO | Boulder, CO | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074770889) |
 | Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Aurora CO | Aurora, CO | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074810534) |
 | Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Colorado Springs | Colorado Springs, CO | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074774928) |
+| Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Colorado Springs | Colorado Springs, CO | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074793190) |
 | Northrop Grumman 🔥 🎯 | 2027 Systems Engineering Intern - Aurora CO | Aurora, CO | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074792500) |
 | Northrop Grumman 🔥 | 2027 Engineering Intern (Manufacturing and Operations) - Chandler AZ | Chandler, AZ | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074834354) |
 | Northrop Grumman 🔥 | 2027 Engineering Intern (ME/EE) - Wallops VA | Wallops Island, VA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074832201) |
@@ -795,6 +797,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-22 (later), scanner cron, 1 role added.** Leidos Systems Engineering Intern (Huntsville AL, posted same day). Excluded: GE Aerospace Program Management Intern (Rivalta di Torino, non-US + program mgmt), Sierra Nevada Human Resource Intern (non-technical), Leidos AI/ML Intern R-00195168 Huntsville (near-duplicate of tracked R-00192042). No scanner errors.
 > **2026-10-22, scanner cron, 1 role added (partial coverage: SpaceX and Northrop Grumman boards errored, fetch failed).** Teledyne FLIR Mechanical Engineering Intern - CW (Wilsonville OR, REQ37514, posted same day). Excluded GE Aerospace Internship - Production Analysis (Pomigliano d'Arco, Italy) as non-US.
 > **2026-10-22 (later 2), scanner cron, 5 roles added.** Sierra Nevada Corporation Systems Engineer Intern (Summer 2027), 2x Mechanical Engineer Intern (Summer 2027), Structural Engineering Intern (Summer 2027), all Lone Tree CO, and Leidos Missile Systems Engineer Intern (Huntsville AL), all posted same day. Excluded: Palantir Forward Deployed Software Engineer Internship (standing preference) and Deployment Strategist Internship (non-technical), SNC Project Management Intern (PM), SNC Mechanical Engineer Intern Summer 2027, Systems Security Engineer Intern Summer 2027 and Mechanical Engineer Intern Summer 2026 (all For SNC Summer 2026 Interns Only). No scanner errors.
+> **2026-10-23, scanner cron, 2 roles added.** Shield AI June 2027 Co-op - Reliability Engineering (Seattle WA) and 🎯 Northrop Grumman 2027 Software Engineering Intern (Colorado Springs). Excluded: Northrop 2027 Supply Chain Intern (non-technical), The Aerospace Corporation 2027 Defensive Cyber Operations Undergrad Intern (cyber ops/IT-flavored), Booz Allen 2027 Summer Games Data Scientist Intern (posted 30+ days ago), GE Aerospace Production Control Internship (Italy) and 5 Nvidia 2027 reqs (China/Singapore) as non-US. PARTIAL COVERAGE: Leidos board errored (fetch failed).
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
