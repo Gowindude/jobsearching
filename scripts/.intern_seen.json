@@ -6346,5 +6346,53 @@
   "wd:leidos.wd5:/job/Huntsville-AL/Missile-Systems-Engineer-Intern_R-00195265": {
     "title": "Missile Systems Engineer Intern",
     "seenAt": "2026-10-22"
+  },
+  "lever:shieldai:bef440ce-0365-4de7-9b1e-b1288cdaf7f3": {
+    "title": "June 2027 Co-op - Reliability Engineering #5953",
+    "seenAt": "2026-10-24"
+  },
+  "wd:geaerospace.wd5:/job/Pomigliano-DArco/Internship---Production-Control_R5042085-1": {
+    "title": "Internship - Production Control",
+    "seenAt": "2026-10-24"
+  },
+  "wd:aero.wd5:/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011": {
+    "title": "2027 Defensive Cyber Operations Undergrad Intern",
+    "seenAt": "2026-10-24"
+  },
+  "wd:bah.wd1:/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Data-Scientist-Intern---Ft-Walton-Beach--FL_R0248409": {
+    "title": "University - 2027 Summer Games Data Scientist Intern - Ft. Walton Beach, FL",
+    "seenAt": "2026-10-24"
+  },
+  "wd:nvidia.wd5:/job/China-Shanghai/Computer-Architecture-Intern---2027_JR2026052": {
+    "title": "Computer Architecture Intern - 2027",
+    "seenAt": "2026-10-24"
+  },
+  "wd:nvidia.wd5:/job/Singapore-Pasir-Panjang/Research-Intern--Robotics---2027_JR2028499": {
+    "title": "Research Intern, Robotics - 2027",
+    "seenAt": "2026-10-24"
+  },
+  "wd:nvidia.wd5:/job/China-Beijing/Software-Engineer-Intern---NVEX--2027_JR2028186": {
+    "title": "Software Engineer Intern - NVEX, 2027",
+    "seenAt": "2026-10-24"
+  },
+  "wd:nvidia.wd5:/job/China-Shanghai/System-Software-Engineer-Intern--Embedded---2027_JR2028298": {
+    "title": "System Software Engineer Intern, Embedded - 2027",
+    "seenAt": "2026-10-24"
+  },
+  "wd:nvidia.wd5:/job/China-Shanghai/Software-Engineering-Intern--AI-Automation-Infra---2027_JR2028205": {
+    "title": "Software Engineering Intern, AI Automation Infra - 2027",
+    "seenAt": "2026-10-24"
+  },
+  "ef:1340074832534": {
+    "title": "2027 Supply Chain Intern - HYBRID/Baltimore MD/Redondo Beach CA",
+    "seenAt": "2026-10-24"
+  },
+  "ef:1340074793190": {
+    "title": "2027 Software Engineering Intern - Colorado Springs",
+    "seenAt": "2026-10-24"
+  },
+  "wd:leidos.wd5:/job/Huntsville-AL/Lunar-Terrain-Vehicle---Engineering-Intern_R-00195252": {
+    "title": "Lunar Terrain Vehicle – Engineering Intern",
+    "seenAt": "2026-10-24"
   }
 }

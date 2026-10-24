@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-23
-Open verified 2027 roles: 762
+Open verified 2027 roles: 763
 
 ---
 
@@ -506,6 +506,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Leidos 🔥 | Electrical Hardware Design Engineering Intern (2nd req R-00194798) | Huntsville, AL | 🇺🇸 | 2026-10-19 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Electrical-Hardware-Design-Engineering-Intern_R-00194798) |
 | Leidos 🔥 🎯 | Systems Engineering Intern 🆕 | Huntsville, AL | 🇺🇸 | 2026-10-22 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Systems-Engineering-Intern_R-00195148) |
 | Leidos 🔥 🎯 | Missile Systems Engineer Intern 🆕 | Huntsville, AL | 🇺🇸 | 2026-10-22 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Missile-Systems-Engineer-Intern_R-00195265) |
+| Leidos 🔥 🎯 | Lunar Terrain Vehicle – Engineering Intern (2nd req R-00195252) 🆕 | Huntsville, AL | 🇺🇸 | 2026-10-23 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Lunar-Terrain-Vehicle---Engineering-Intern_R-00195252) |
 | GE Aerospace 🔥 🎯 | Applied AI Engineer Intern – Summer 2027 (May/June Start) | Evendale, OH (53 locations) | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) |
 | GE Aerospace 🔥 | Unison Engineering Part-time Intern - US - Summer 2027 | Saint George, UT | 🇺🇸 | 2026-09-16 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Saint-George-UT-US-1/Unison-Engineering-Part-time-Intern---US---Summer-2027_R5040163-1) |
 | GE Aerospace 🔥 | Product Definition Engineering Intern - Lynn, MA - Summer 2027 | Lynn, MA | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Lynn/Product-Definition-Engineering-Intern---Lynn--MA---Summer-2027_R5039185-1) |
@@ -797,6 +798,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-22 (later), scanner cron, 1 role added.** Leidos Systems Engineering Intern (Huntsville AL, posted same day). Excluded: GE Aerospace Program Management Intern (Rivalta di Torino, non-US + program mgmt), Sierra Nevada Human Resource Intern (non-technical), Leidos AI/ML Intern R-00195168 Huntsville (near-duplicate of tracked R-00192042). No scanner errors.
 > **2026-10-22, scanner cron, 1 role added (partial coverage: SpaceX and Northrop Grumman boards errored, fetch failed).** Teledyne FLIR Mechanical Engineering Intern - CW (Wilsonville OR, REQ37514, posted same day). Excluded GE Aerospace Internship - Production Analysis (Pomigliano d'Arco, Italy) as non-US.
 > **2026-10-22 (later 2), scanner cron, 5 roles added.** Sierra Nevada Corporation Systems Engineer Intern (Summer 2027), 2x Mechanical Engineer Intern (Summer 2027), Structural Engineering Intern (Summer 2027), all Lone Tree CO, and Leidos Missile Systems Engineer Intern (Huntsville AL), all posted same day. Excluded: Palantir Forward Deployed Software Engineer Internship (standing preference) and Deployment Strategist Internship (non-technical), SNC Project Management Intern (PM), SNC Mechanical Engineer Intern Summer 2027, Systems Security Engineer Intern Summer 2027 and Mechanical Engineer Intern Summer 2026 (all For SNC Summer 2026 Interns Only). No scanner errors.
+> **2026-10-23 (later), scanner cron, 1 role added.** 🎯 Leidos Lunar Terrain Vehicle – Engineering Intern (Huntsville AL, 2nd req R-00195252, posted yesterday). No exclusions; no scanner errors.
 > **2026-10-23, scanner cron, 2 roles added.** Shield AI June 2027 Co-op - Reliability Engineering (Seattle WA) and 🎯 Northrop Grumman 2027 Software Engineering Intern (Colorado Springs). Excluded: Northrop 2027 Supply Chain Intern (non-technical), The Aerospace Corporation 2027 Defensive Cyber Operations Undergrad Intern (cyber ops/IT-flavored), Booz Allen 2027 Summer Games Data Scientist Intern (posted 30+ days ago), GE Aerospace Production Control Internship (Italy) and 5 Nvidia 2027 reqs (China/Singapore) as non-US. PARTIAL COVERAGE: Leidos board errored (fetch failed).
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
