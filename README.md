@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-10-26
-Open verified 2027 roles: 778
+Last updated: 2026-10-27
+Open verified 2027 roles: 779
 
 ---
 
@@ -373,6 +373,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Teledyne FLIR 🔥 | Manufacturing Engineer Co-Op | Chestnut Ridge, NY | 🇺🇸 | 2026-10-01 | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Chestnut-Ridge-NY/Manufacturing-Engineer-Co-Op_REQ36603) |
 | Teledyne FLIR 🔥 | College Intern - Technical (no term stated; REQ36728) 🆕 | Woodridge, IL | 🇺🇸 | 2026-10-26 | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Woodridge-IL/College-Intern---Technical_REQ36728) |
 | Teledyne FLIR 🔥 🆕 | Quality Engineer Intern (no term stated; REQ35284) | Portsmouth, NH | 🇺🇸 | 2026-10-26 | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Portsmouth-NH-TDY/Quality-Engineer-Intern_REQ35284) |
+| Teledyne FLIR 🔥 🆕 | Manufacturing Engineering Intern (no term stated; REQ37414) | Miamisburg, OH | 🇺🇸 | 2026-10-27 | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Miamisburg-OH/Manufacturing-Engineering-Intern_REQ37414) |
 | RTX/Raytheon 🔥 🎯 | Systems Engineering Test Equipment Intern (Summer 2027) | El Segundo, CA | | Unknown | [Apply](https://careers.rtx.com/global/en/job/01867450/Systems-Engineering-Test-Equipment-Intern-Summer-2027) |
 | GD-OTS (General Dynamics) 🔥 | Intern, Technical Support | Springboro, OH | 🇺🇸 | 2026-07-28 | [Apply](https://careers-gd-ots.icims.com/jobs/36724/intern%2c-technical-support/job) |
 | Northrop Grumman 🔥 🎯 | 2027 Guidance Navigation and Control Intern | Dulles, VA | 🇺🇸 | 2026-08-18 | [Apply](https://jobs.northropgrumman.com/careers/job/1340073702822) |
@@ -819,6 +820,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-26 (later), scanner cron, 4 roles added.** 🎯 Booz Allen University 2027 Summer Games Software Developer Intern (Lexington MA), Booz Allen 2027 Summer Games Data Scientist Intern (Lexington MA), AeroVironment Electrical Engineering Intern (Sunrise FL, no stated term), Teledyne FLIR Quality Engineer Intern (Portsmouth NH, no stated term), all posted same day. Excluded: Booz Allen 2027 Summer Games Cyber Security Intern (cyber/IT-flavored), Northrop 2027 Supply Chain Intern (non-technical). No scanner errors.
 > **2026-10-26 (evening), scanner cron, 3 roles added.** 🎯 Booz Allen University 2027 Summer Games Systems Engineer Intern (Albuquerque NM), 🎯 Software Developer Intern (Albuquerque NM), 🎯 Software Developer Intern (Dayton OH), all posted same day. No exclusions. No scanner errors.
 > **2026-10-26 (night), scanner cron, 4 roles added.** 🎯 Booz Allen University 2027 Summer Games Systems Engineer Intern (Dayton OH), 🎯 Systems Engineer Intern (Royal Oaks MI), 🎯 Software Developer Intern (Royal Oaks MI), and Sierra Nevada Corporation Aircraft Certification Intern (Summer 2027, Hagerstown MD), all posted same day. Excluded: SNC Environmental Intern (Sparks NV) as EHS/non-core. No scanner errors.
+> **2026-10-27, scanner cron, 1 role added.** Teledyne FLIR Manufacturing Engineering Intern (Miamisburg OH, no stated term, REQ37414), posted same day. Excluded: SNC Quality Engineer II (For Summer 2026 SNC Interns Only, restricted), Nvidia Math Device Extension Libraries Intern (Warsaw-primary, non-US), Leidos Cybersecurity Analyst Intern (cyber/IT-flavored). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
