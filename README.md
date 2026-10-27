@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-27
-Open verified 2027 roles: 779
+Open verified 2027 roles: 780
 
 ---
 
@@ -675,6 +675,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Booz Allen Hamilton 🔥 🎯 | University, Software Engineer Intern | Fayetteville, NC | 🇺🇸 | 2026-10-16 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Software-Engineer-Intern_R0251802) |
 | Booz Allen Hamilton 🔥 🎯 | University, Applied AI Software Development Intern | McLean, VA | 🇺🇸 | 2026-10-08 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Applied-AI-Software-Development-Intern_R0251314) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Data Scientist Intern - Annapolis Junction, MD | Annapolis Junction, MD | 🇺🇸 | Unknown | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Data-Scientist-Intern---Annapolis-Junction--MD_R0248408) |
+| Booz Allen Hamilton 🔥 🆕 | Test Engineer Intern | Lexington Park, MD | 🇺🇸 | 2026-10-27 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-Park-MD/Test-Engineer-Intern_R0252409) |
 | Leidos 🔥 🎯 | Software Developer Intern | Annapolis Junction, MD | 🇺🇸 | Unknown | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00192858) |
 | Leidos 🔥 🎯 | Software Development Intern | Gaithersburg, MD | 🇺🇸 | Unknown | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Gaithersburg-MD/Software-Development-Intern_R-00193103) |
 | Leidos 🔥 🎯 | Lunar Terrain Vehicle – Engineering Intern | Huntsville, AL | 🇺🇸 | Unknown | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Lunar-Terrain-Vehicle---Engineering-Intern_R-00192848) |
@@ -821,6 +822,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-26 (evening), scanner cron, 3 roles added.** 🎯 Booz Allen University 2027 Summer Games Systems Engineer Intern (Albuquerque NM), 🎯 Software Developer Intern (Albuquerque NM), 🎯 Software Developer Intern (Dayton OH), all posted same day. No exclusions. No scanner errors.
 > **2026-10-26 (night), scanner cron, 4 roles added.** 🎯 Booz Allen University 2027 Summer Games Systems Engineer Intern (Dayton OH), 🎯 Systems Engineer Intern (Royal Oaks MI), 🎯 Software Developer Intern (Royal Oaks MI), and Sierra Nevada Corporation Aircraft Certification Intern (Summer 2027, Hagerstown MD), all posted same day. Excluded: SNC Environmental Intern (Sparks NV) as EHS/non-core. No scanner errors.
 > **2026-10-27, scanner cron, 1 role added.** Teledyne FLIR Manufacturing Engineering Intern (Miamisburg OH, no stated term, REQ37414), posted same day. Excluded: SNC Quality Engineer II (For Summer 2026 SNC Interns Only, restricted), Nvidia Math Device Extension Libraries Intern (Warsaw-primary, non-US), Leidos Cybersecurity Analyst Intern (cyber/IT-flavored). No scanner errors.
+> **2026-10-27 (midday), scanner cron, 1 role added.** BAH Test Engineer Intern (Lexington Park MD). Excluded: SNC IT Service Desk/Security Specialist/Cybersecurity Analyst Interns (IT/cyber/non-core), SNC Project Engineer Intern (Summer 2026 SNC interns only), BAH Systems Administrator + Digital Transformation Analyst Interns (IT/non-technical), Boeing Systems Eng Student Engineer (Bristol UK, non-US), Leidos Cybersecurity + Regulatory Document Interns. Scanner error: Northrop Grumman fetch failed (partial coverage).
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
