@@ -6514,5 +6514,45 @@
   "wd:flir.wd1:/job/US---Miamisburg-OH/Manufacturing-Engineering-Intern_REQ37414": {
     "title": "Manufacturing Engineering Intern",
     "seenAt": "2026-10-27"
+  },
+  "wd:snc.wd1:/job/Lone-Tree-CO/IT-Service-Desk-Intern--Summer-2027-_R0031251": {
+    "title": "IT Service Desk Intern (Summer 2027)",
+    "seenAt": "2026-10-27"
+  },
+  "wd:snc.wd1:/job/Hagerstown-MD/Project-Engineer-Intern--For-SNC-Summer-2026-Intern-Only-_R0031064": {
+    "title": "Project Engineer Intern (For SNC Summer 2026 Intern Only)",
+    "seenAt": "2026-10-27"
+  },
+  "wd:snc.wd1:/job/Arlington-VA/Security-Specialist-Intern--Summer-2027-_R0031250": {
+    "title": "Security Specialist Intern (Summer 2027)",
+    "seenAt": "2026-10-27"
+  },
+  "wd:snc.wd1:/job/Sparks-NV/Cybersecurity-Analyst-Intern_R0031269": {
+    "title": "Cybersecurity Analyst Intern",
+    "seenAt": "2026-10-27"
+  },
+  "wd:bah.wd1:/job/Lexington-Park-MD/Test-Engineer-Intern_R0252409": {
+    "title": "Test Engineer Intern",
+    "seenAt": "2026-10-27"
+  },
+  "wd:bah.wd1:/job/Annapolis-Junction-MD/Systems-Administrator---Summer-Intern_R0252406": {
+    "title": "Systems Administrator - Summer Intern",
+    "seenAt": "2026-10-27"
+  },
+  "wd:bah.wd1:/job/Arlington-VA/University--Digital-Transformation-Analyst---Summer-Intern_R0252403": {
+    "title": "University, Digital Transformation Analyst - Summer Intern",
+    "seenAt": "2026-10-27"
+  },
+  "wd:boeing.wd1:/job/GBR---Bristol-UK/Intern---Student-Engineer--Systems-Eng-_JR2026525683": {
+    "title": "Intern - Student Engineer (Systems Eng)",
+    "seenAt": "2026-10-27"
+  },
+  "wd:leidos.wd5:/job/Arlington-VA/Cybersecurity-Intern_R-00195531": {
+    "title": "Cybersecurity Intern",
+    "seenAt": "2026-10-27"
+  },
+  "wd:leidos.wd5:/job/6314-RemoteTeleworker-US/Regulatory-Document-Intern_R-00195537": {
+    "title": "Regulatory Document Intern",
+    "seenAt": "2026-10-27"
   }
 }
