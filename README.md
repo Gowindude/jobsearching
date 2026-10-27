@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-27
-Open verified 2027 roles: 781
+Open verified 2027 roles: 785
 
 ---
 
@@ -468,6 +468,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 🎯 | 2027 Systems Engineering Intern - Aurora CO | Aurora, CO | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074792500) |
 | Northrop Grumman 🔥 | 2027 Engineering Intern (Manufacturing and Operations) - Chandler AZ | Chandler, AZ | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074834354) |
 | Northrop Grumman 🔥 | 2027 Engineering Intern (ME/EE) - Wallops VA | Wallops Island, VA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074832201) |
+| Northrop Grumman 🔥 | 2027 Mechanical Engineering Intern - Clearfield UT | Clearfield, UT | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074950454) |
+| Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Beavercreek OH | Beavercreek, OH | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074952406) |
 | GE Aerospace 🔥 | Unison Engineering Intern (Summer 2027) | Jacksonville, FL / Norwich, NY / Dayton, OH / St. George, UT | | 2026-08-18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) |
 | GE Aerospace 🔥 🎯 | Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 | Evendale, OH | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) |
 | GE Aerospace 🔥 | Digital Technology Intern – US – Atlanta, GA – Summer 2027 | Atlanta, GA | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Atlanta/Digital-Technology-Intern---US---Atlanta--GA----Summer-2027_R5038078) |
@@ -656,6 +658,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | The Aerospace Corporation 🔥 | 2027 Signal Processing and RF Engineering Grad Intern | El Segundo, CA | 🇺🇸 | 2026-10-21 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-Signal-Processing-and-RF-Engineering-Grad-Intern_R016848) |
 | The Aerospace Corporation 🔥 | 2027 Signal Processing and RF Engineering Undergrad Intern | El Segundo, CA | 🇺🇸 | 2026-10-21 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-Signal-Processing-and-RF-Engineering-Undergrad-Intern_R016849) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Emerging Missions Flight Dynamics Graduate Intern 🆕 | El Segundo, CA (+1 other site) | 🇺🇸 | 2026-10-26 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Emerging-Missions-Flight-Dynamics-Graduate-Intern_R016984) |
+| The Aerospace Corporation 🔥 🎯 | 2027 Communication Architectures Modeling and Analysis Engineering Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-10-27 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Communication-Architectures-Modeling-and-Analysis-Engineering-Undergraduate-Intern_R017009) |
+| The Aerospace Corporation 🔥 🎯 | 2027 Communication Architectures Modeling and Analysis Engineering Grad Intern | El Segundo, CA | 🇺🇸 | 2026-10-27 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Communication-Architectures-Modeling-and-Analysis-Engineering-Grad-Intern_R017010) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Systems Engineer Intern | McLean, VA (11 locations) | 🇺🇸 | 2026-09-04 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University---2027-Summer-Games-Systems-Engineer-Intern---McLean--VA_R0248361) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Software Developer Intern | McLean, VA (10 locations) | 🇺🇸 | 2026-09-15 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Systems Engineer Intern (Lexington, MA req R0252273) 🆕 | Lexington, MA | 🇺🇸 | 2026-10-26 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Systems-Engineer-Intern---Lexington--MA_R0252273) |
@@ -825,6 +829,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-27, scanner cron, 1 role added.** Teledyne FLIR Manufacturing Engineering Intern (Miamisburg OH, no stated term, REQ37414), posted same day. Excluded: SNC Quality Engineer II (For Summer 2026 SNC Interns Only, restricted), Nvidia Math Device Extension Libraries Intern (Warsaw-primary, non-US), Leidos Cybersecurity Analyst Intern (cyber/IT-flavored). No scanner errors.
 > **2026-10-27 (midday), scanner cron, 1 role added.** BAH Test Engineer Intern (Lexington Park MD). Excluded: SNC IT Service Desk/Security Specialist/Cybersecurity Analyst Interns (IT/cyber/non-core), SNC Project Engineer Intern (Summer 2026 SNC interns only), BAH Systems Administrator + Digital Transformation Analyst Interns (IT/non-technical), Boeing Systems Eng Student Engineer (Bristol UK, non-US), Leidos Cybersecurity + Regulatory Document Interns. Scanner error: Northrop Grumman fetch failed (partial coverage).
 > **2026-10-27 (afternoon), scanner cron, 1 role added.** AeroVironment Manufacturing Engineering Intern (Petaluma CA, summer internship, no stated year, posted same day). Excluded: BAH Digital Transformation Analyst Spring Intern (non-technical), Leidos SharePoint & Systems Engineering Intern (PMO/SharePoint IT-flavored). Scanner error: Northrop Grumman fetch failed (partial coverage).
+> **2026-10-27 (evening), scanner cron, 4 roles added.** 🎯 The Aerospace Corporation 2027 Communication Architectures Modeling and Analysis Engineering Undergraduate + Grad Interns (El Segundo CA, posted same day), 🎯 Northrop Grumman 2027 Software Engineering Intern (Beavercreek OH), Northrop Grumman 2027 Mechanical Engineering Intern (Clearfield UT, new req). Excluded Leidos Cybersecurity Analyst Intern (Pearl Harbor HI) as cyber/IT. No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
