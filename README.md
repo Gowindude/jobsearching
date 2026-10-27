@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-27
-Open verified 2027 roles: 780
+Open verified 2027 roles: 781
 
 ---
 
@@ -334,6 +334,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | AeroVironment 🔥 🆕 | Electrical Engineering Intern | San Diego, CA | 🇺🇸 | 2026-10-20 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/San-Diego-CA/Electrical-Engineering-Intern_9143) |
 | AeroVironment 🔥 🎯 🆕 | Machine Learning Engineering Intern | Centreville, VA | 🇺🇸 | 2026-10-20 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Centreville-VA/Machine-Learning-Engineering-Intern_8941) |
 | AeroVironment 🔥 🆕 | Electrical Engineering Intern | Sunrise, FL | 🇺🇸 | 2026-10-26 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Sunrise-FL/Electrical-Engineering-Intern_9185) |
+| AeroVironment 🔥 🆕 | Manufacturing Engineering Intern | Petaluma, CA | 🇺🇸 | 2026-10-27 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Petaluma-CA/Manufacturing-Engineering-Intern_8792) |
 | Hermeus 🔥 | Subsystem Test Engineering Intern - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/643fd7b7-9015-43a1-aa2b-a54f117b403c) |
 | Hermeus 🔥 🎯 | Software Engineering Intern (Modeling & Simulation) - Spring/Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936) |
 | Hermeus 🔥 🎯 | Software Engineering Intern (HIL) - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b) |
@@ -823,6 +824,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-26 (night), scanner cron, 4 roles added.** 🎯 Booz Allen University 2027 Summer Games Systems Engineer Intern (Dayton OH), 🎯 Systems Engineer Intern (Royal Oaks MI), 🎯 Software Developer Intern (Royal Oaks MI), and Sierra Nevada Corporation Aircraft Certification Intern (Summer 2027, Hagerstown MD), all posted same day. Excluded: SNC Environmental Intern (Sparks NV) as EHS/non-core. No scanner errors.
 > **2026-10-27, scanner cron, 1 role added.** Teledyne FLIR Manufacturing Engineering Intern (Miamisburg OH, no stated term, REQ37414), posted same day. Excluded: SNC Quality Engineer II (For Summer 2026 SNC Interns Only, restricted), Nvidia Math Device Extension Libraries Intern (Warsaw-primary, non-US), Leidos Cybersecurity Analyst Intern (cyber/IT-flavored). No scanner errors.
 > **2026-10-27 (midday), scanner cron, 1 role added.** BAH Test Engineer Intern (Lexington Park MD). Excluded: SNC IT Service Desk/Security Specialist/Cybersecurity Analyst Interns (IT/cyber/non-core), SNC Project Engineer Intern (Summer 2026 SNC interns only), BAH Systems Administrator + Digital Transformation Analyst Interns (IT/non-technical), Boeing Systems Eng Student Engineer (Bristol UK, non-US), Leidos Cybersecurity + Regulatory Document Interns. Scanner error: Northrop Grumman fetch failed (partial coverage).
+> **2026-10-27 (afternoon), scanner cron, 1 role added.** AeroVironment Manufacturing Engineering Intern (Petaluma CA, summer internship, no stated year, posted same day). Excluded: BAH Digital Transformation Analyst Spring Intern (non-technical), Leidos SharePoint & Systems Engineering Intern (PMO/SharePoint IT-flavored). Scanner error: Northrop Grumman fetch failed (partial coverage).
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
