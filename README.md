@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-10-27
-Open verified 2027 roles: 789
+Last updated: 2026-10-28
+Open verified 2027 roles: 791
 
 ---
 
@@ -540,6 +540,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Amentum 🔥 | Structural Engineer Intern | Englewood, CO | 🇺🇸 | 2026-10-01 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-CO-Englewood/Structural-Engineer-Intern_R0171935) |
 | Amentum 🔥 | Intern - Damage Tolerance Intern | Huntsville, AL | 🇺🇸 | 2026-10-02 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-AL-Huntsville/Intern---Damage-Tolerance-Intern_R0172055) |
 | Amentum 🔥 | Performance Engineering Intern | Houston, TX | 🇺🇸 | 2026-10-05 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-TX-Houston/Performance-Engineering-Intern_R0172180-1) |
+| Amentum 🔥 🆕 | Mechanical Engineering Intern | Oak Ridge, TN | 🇺🇸 | 2026-10-28 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-TN-Oak-Ridge/Mechanical-Engineering-Intern_R0174161) |
 | Nvidia 🔥 🎯 | NVIDIA 2027 Internships: Software Engineering | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) |
 | Nvidia 🔥 🎯 | NVIDIA 2027 Internships: Systems Software Engineering | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) |
 | Nvidia 🔥 🎯 | NVIDIA 2027 Internships: Deep Learning | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) |
@@ -835,6 +836,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-27 (afternoon), scanner cron, 1 role added.** AeroVironment Manufacturing Engineering Intern (Petaluma CA, summer internship, no stated year, posted same day). Excluded: BAH Digital Transformation Analyst Spring Intern (non-technical), Leidos SharePoint & Systems Engineering Intern (PMO/SharePoint IT-flavored). Scanner error: Northrop Grumman fetch failed (partial coverage).
 > **2026-10-27 (evening), scanner cron, 4 roles added.** 🎯 The Aerospace Corporation 2027 Communication Architectures Modeling and Analysis Engineering Undergraduate + Grad Interns (El Segundo CA, posted same day), 🎯 Northrop Grumman 2027 Software Engineering Intern (Beavercreek OH), Northrop Grumman 2027 Mechanical Engineering Intern (Clearfield UT, new req). Excluded Leidos Cybersecurity Analyst Intern (Pearl Harbor HI) as cyber/IT. No scanner errors.
 > **2026-10-27 (night), scanner cron, 4 roles added.** 🎯 AeroVironment Systems Engineering Intern, plus Test, Mechanical, Electrical Engineering Interns (all Space Technologies, Albuquerque NM, posted same day). Excluded Northrop Grumman 2027 Intern Industrial Security (security/non-technical). No scanner errors.
+> **2026-10-28, scanner cron, 2 roles added.** 🎯 Amentum Spring 2027 Intern - Structural Dynamics Engineer (Houston TX) and Mechanical Engineering Intern (Oak Ridge TN; no term stated, posted same day). Excluded: non-US/non-technical (GE Aerospace Talent Acquisition Intern Queretaro), IT/network/sysadmin/data (SNC Network Engineer Intern, Leidos Systems Administration + Data Engineer Interns), non-technical (Leidos Project Management Intern, Energy & Infrastructure Consulting Summer Interns ×2, Northrop 2027 Business Management Intern). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
@@ -999,6 +1001,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Draper Laboratory 🔥 🎯 | Systems Engineering Co-Op (Spring 2027) | Cambridge, MA | 🇺🇸 | 2026-09-11 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Systems-Engineering-Co-Op--Spring-2027-_JR002882) |
 | Draper Laboratory 🔥 | Optoelectronics Electrical Engineering Co-Op | Cambridge, MA | | Posted Today | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Optoelectronics-Electrical-Engineering-Co-Op_JR003044-1) |
 | Amentum 🔥 🎯 | Intern - GN&C Spring Intern | Huntsville, AL | 🇺🇸 | 2026-09-11 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-AL-Huntsville/Intern---GN-C-Spring-Intern_R0170497) |
+| Amentum 🔥 🎯 🆕 | Spring 2027 Intern - Structural Dynamics Engineer | Houston, TX | 🇺🇸 | 2026-10-28 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-TX-Houston/Spring-2027-Intern---Structural-Dynamics-Engineer_R0174115) |
 | Northrop Grumman 🔥 🎯 | 2027 Spring Co-op Cyber Software Engineer Intern - Cincinnati OH | Cincinnati, OH | 🇺🇸 | 2026-09-13 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074236827) |
 | GE Aerospace 🔥 | Technical Coop – 2 Year Technical Associates Degree programs – Spring 2027 | Evendale, OH (+1 other site) | 🇺🇸 | 2026-09-11 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Technical-Coop---2-Year-Technical-Associates-Degree-programs---Spring-2027_R5036325-2) |
 | L3Harris 🔥 🎯 | Intern, Software Engineer (Spring 2027) | Greenville, TX | 🇺🇸 | Unknown | [Apply](https://careers.l3harris.com/en/job/greenville/intern-software-engineer-spring-2027/4832/99372978528) |
