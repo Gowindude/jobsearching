@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-28
-Open verified 2027 roles: 793
+Open verified 2027 roles: 794
 
 ---
 
@@ -841,6 +841,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-28, scanner cron, 2 roles added.** 🎯 Amentum Spring 2027 Intern - Structural Dynamics Engineer (Houston TX) and Mechanical Engineering Intern (Oak Ridge TN; no term stated, posted same day). Excluded: non-US/non-technical (GE Aerospace Talent Acquisition Intern Queretaro), IT/network/sysadmin/data (SNC Network Engineer Intern, Leidos Systems Administration + Data Engineer Interns), non-technical (Leidos Project Management Intern, Energy & Infrastructure Consulting Summer Interns ×2, Northrop 2027 Business Management Intern). No scanner errors.
 > **2026-10-28 (later), scanner cron, 1 role added.** Draper Analog ASIC Design Intern (Summer 2027, Cambridge MA, posted same day). No scanner errors.
 > **2026-10-28 (later 2), scanner cron, 1 role added.** Shield AI Summer 2027 Mechanical Engineering Intern, Air Vehicle Systems and Test (Seattle WA, Lever, no posted date). Excluded: Booz Allen Business & Office Management Intern (non-technical), 2 Nvidia Shanghai 2027 Perf Engineering Interns (non-US), Northrop 2027 Intern Facilities Management (non-technical). No scanner errors.
+> **2026-10-28 (later 3), scanner cron, 1 role added.** 🎯 Amentum Intern - GN&C Graduate Spring Intern (Huntsville AL, Spring 2027, posted same day). Excluded: Amentum Intern - GN&C Spring Intern R0174254 (Huntsville; near-duplicate of tracked R0170497). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
@@ -1005,6 +1006,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Draper Laboratory 🔥 🎯 | Systems Engineering Co-Op (Spring 2027) | Cambridge, MA | 🇺🇸 | 2026-09-11 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Systems-Engineering-Co-Op--Spring-2027-_JR002882) |
 | Draper Laboratory 🔥 | Optoelectronics Electrical Engineering Co-Op | Cambridge, MA | | Posted Today | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Optoelectronics-Electrical-Engineering-Co-Op_JR003044-1) |
 | Amentum 🔥 🎯 | Intern - GN&C Spring Intern | Huntsville, AL | 🇺🇸 | 2026-09-11 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-AL-Huntsville/Intern---GN-C-Spring-Intern_R0170497) |
+| Amentum 🔥 🎯 🆕 | Intern - GN&C Graduate Spring Intern | Huntsville, AL | 🇺🇸 | 2026-10-28 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-AL-Huntsville/Intern---GN-C-Graduate-Spring-Intern_R0174245) |
 | Amentum 🔥 🎯 🆕 | Spring 2027 Intern - Structural Dynamics Engineer | Houston, TX | 🇺🇸 | 2026-10-28 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-TX-Houston/Spring-2027-Intern---Structural-Dynamics-Engineer_R0174115) |
 | Northrop Grumman 🔥 🎯 | 2027 Spring Co-op Cyber Software Engineer Intern - Cincinnati OH | Cincinnati, OH | 🇺🇸 | 2026-09-13 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074236827) |
 | GE Aerospace 🔥 | Technical Coop – 2 Year Technical Associates Degree programs – Spring 2027 | Evendale, OH (+1 other site) | 🇺🇸 | 2026-09-11 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Technical-Coop---2-Year-Technical-Associates-Degree-programs---Spring-2027_R5036325-2) |
