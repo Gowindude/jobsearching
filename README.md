@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-27
-Open verified 2027 roles: 785
+Open verified 2027 roles: 789
 
 ---
 
@@ -335,6 +335,10 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | AeroVironment 🔥 🎯 🆕 | Machine Learning Engineering Intern | Centreville, VA | 🇺🇸 | 2026-10-20 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Centreville-VA/Machine-Learning-Engineering-Intern_8941) |
 | AeroVironment 🔥 🆕 | Electrical Engineering Intern | Sunrise, FL | 🇺🇸 | 2026-10-26 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Sunrise-FL/Electrical-Engineering-Intern_9185) |
 | AeroVironment 🔥 🆕 | Manufacturing Engineering Intern | Petaluma, CA | 🇺🇸 | 2026-10-27 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Petaluma-CA/Manufacturing-Engineering-Intern_8792) |
+| AeroVironment 🔥 🎯 🆕 | Systems Engineering Intern - Space Technologies | Albuquerque, NM | 🇺🇸 | 2026-10-27 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Albuquerque-NM/Systems-Engineering-Intern---Space-Technologies_9250) |
+| AeroVironment 🔥 🆕 | Test Engineering Intern - Space Technologies | Albuquerque, NM | 🇺🇸 | 2026-10-27 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Albuquerque-NM/Test-Engineering-Intern---Space-Technologies_9253) |
+| AeroVironment 🔥 🆕 | Mechanical Engineering Intern - Space Technologies | Albuquerque, NM | 🇺🇸 | 2026-10-27 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Albuquerque-NM/Mechanical-Engineering-Intern---Space-Technologies_9247) |
+| AeroVironment 🔥 🆕 | Electrical Engineering Intern - Space Technologies | Albuquerque, NM | 🇺🇸 | 2026-10-27 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Albuquerque-NM/Electrical-Engineering-Intern---Space-Technologies_9256) |
 | Hermeus 🔥 | Subsystem Test Engineering Intern - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/643fd7b7-9015-43a1-aa2b-a54f117b403c) |
 | Hermeus 🔥 🎯 | Software Engineering Intern (Modeling & Simulation) - Spring/Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936) |
 | Hermeus 🔥 🎯 | Software Engineering Intern (HIL) - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b) |
@@ -830,6 +834,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-27 (midday), scanner cron, 1 role added.** BAH Test Engineer Intern (Lexington Park MD). Excluded: SNC IT Service Desk/Security Specialist/Cybersecurity Analyst Interns (IT/cyber/non-core), SNC Project Engineer Intern (Summer 2026 SNC interns only), BAH Systems Administrator + Digital Transformation Analyst Interns (IT/non-technical), Boeing Systems Eng Student Engineer (Bristol UK, non-US), Leidos Cybersecurity + Regulatory Document Interns. Scanner error: Northrop Grumman fetch failed (partial coverage).
 > **2026-10-27 (afternoon), scanner cron, 1 role added.** AeroVironment Manufacturing Engineering Intern (Petaluma CA, summer internship, no stated year, posted same day). Excluded: BAH Digital Transformation Analyst Spring Intern (non-technical), Leidos SharePoint & Systems Engineering Intern (PMO/SharePoint IT-flavored). Scanner error: Northrop Grumman fetch failed (partial coverage).
 > **2026-10-27 (evening), scanner cron, 4 roles added.** 🎯 The Aerospace Corporation 2027 Communication Architectures Modeling and Analysis Engineering Undergraduate + Grad Interns (El Segundo CA, posted same day), 🎯 Northrop Grumman 2027 Software Engineering Intern (Beavercreek OH), Northrop Grumman 2027 Mechanical Engineering Intern (Clearfield UT, new req). Excluded Leidos Cybersecurity Analyst Intern (Pearl Harbor HI) as cyber/IT. No scanner errors.
+> **2026-10-27 (night), scanner cron, 4 roles added.** 🎯 AeroVironment Systems Engineering Intern, plus Test, Mechanical, Electrical Engineering Interns (all Space Technologies, Albuquerque NM, posted same day). Excluded Northrop Grumman 2027 Intern Industrial Security (security/non-technical). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
