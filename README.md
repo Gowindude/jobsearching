@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-28
-Open verified 2027 roles: 794
+Open verified 2027 roles: 796
 
 ---
 
@@ -667,6 +667,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | The Aerospace Corporation 🔥 🎯 | 2027 Emerging Missions Flight Dynamics Graduate Intern 🆕 | El Segundo, CA (+1 other site) | 🇺🇸 | 2026-10-26 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Emerging-Missions-Flight-Dynamics-Graduate-Intern_R016984) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Communication Architectures Modeling and Analysis Engineering Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-10-27 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Communication-Architectures-Modeling-and-Analysis-Engineering-Undergraduate-Intern_R017009) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Communication Architectures Modeling and Analysis Engineering Grad Intern | El Segundo, CA | 🇺🇸 | 2026-10-27 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Communication-Architectures-Modeling-and-Analysis-Engineering-Grad-Intern_R017010) |
+| The Aerospace Corporation 🔥 🆕 | 2027 Radio Frequency (RF) Spectrum Engineering Undergrad Intern | El Segundo, CA | 🇺🇸 | 2026-10-28 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Radio-Frequency--RF--Spectrum-Engineering-Undergrad-Intern_R017050) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Systems Engineer Intern | McLean, VA (11 locations) | 🇺🇸 | 2026-09-04 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University---2027-Summer-Games-Systems-Engineer-Intern---McLean--VA_R0248361) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Software Developer Intern | McLean, VA (10 locations) | 🇺🇸 | 2026-09-15 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Systems Engineer Intern (Lexington, MA req R0252273) 🆕 | Lexington, MA | 🇺🇸 | 2026-10-26 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Systems-Engineer-Intern---Lexington--MA_R0252273) |
@@ -688,6 +689,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Booz Allen Hamilton 🔥 🎯 | University, Applied AI Software Development Intern | McLean, VA | 🇺🇸 | 2026-10-08 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--Applied-AI-Software-Development-Intern_R0251314) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Data Scientist Intern - Annapolis Junction, MD | Annapolis Junction, MD | 🇺🇸 | Unknown | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Data-Scientist-Intern---Annapolis-Junction--MD_R0248408) |
 | Booz Allen Hamilton 🔥 🆕 | Test Engineer Intern | Lexington Park, MD | 🇺🇸 | 2026-10-27 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-Park-MD/Test-Engineer-Intern_R0252409) |
+| Booz Allen Hamilton 🔥 🆕 | Design and Verification Engineer Intern | Beavercreek, OH | 🇺🇸 | 2026-10-28 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Design-and-Verification-Engineer-Intern_R0252482) |
 | Leidos 🔥 🎯 | Software Developer Intern | Annapolis Junction, MD | 🇺🇸 | Unknown | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00192858) |
 | Leidos 🔥 🎯 | Software Development Intern | Gaithersburg, MD | 🇺🇸 | Unknown | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Gaithersburg-MD/Software-Development-Intern_R-00193103) |
 | Leidos 🔥 🎯 | Lunar Terrain Vehicle – Engineering Intern | Huntsville, AL | 🇺🇸 | Unknown | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Lunar-Terrain-Vehicle---Engineering-Intern_R-00192848) |
@@ -842,6 +844,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-28 (later), scanner cron, 1 role added.** Draper Analog ASIC Design Intern (Summer 2027, Cambridge MA, posted same day). No scanner errors.
 > **2026-10-28 (later 2), scanner cron, 1 role added.** Shield AI Summer 2027 Mechanical Engineering Intern, Air Vehicle Systems and Test (Seattle WA, Lever, no posted date). Excluded: Booz Allen Business & Office Management Intern (non-technical), 2 Nvidia Shanghai 2027 Perf Engineering Interns (non-US), Northrop 2027 Intern Facilities Management (non-technical). No scanner errors.
 > **2026-10-28 (later 3), scanner cron, 1 role added.** 🎯 Amentum Intern - GN&C Graduate Spring Intern (Huntsville AL, Spring 2027, posted same day). Excluded: Amentum Intern - GN&C Spring Intern R0174254 (Huntsville; near-duplicate of tracked R0170497). No scanner errors.
+> **2026-10-28 (later 4), scanner cron, 2 roles added.** The Aerospace Corporation 2027 RF Spectrum Engineering Undergrad Intern (El Segundo CA, posted same day) and Booz Allen Design and Verification Engineer Intern (Beavercreek OH, posted same day). Excluded Anduril Winter 2027 Library Science Co-op (Winter term, non-technical). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
