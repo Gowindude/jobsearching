@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-28
-Open verified 2027 roles: 792
+Open verified 2027 roles: 793
 
 ---
 
@@ -285,6 +285,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Zipline 🔥 🎯 | Firmware Engineer Intern (Summer 2027) | South San Francisco, CA | 🇺🇸 | 2026-10-09 | [Apply](https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003) |
 | Shield AI 🔥 🎯 | Summer 2027 - Software Engineer Intern | San Diego, CA | 🇺🇸 | 2026-09-10 | [Apply](https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010) |
 | Shield AI 🔥 | Summer 2027 - Mechanical Engineering Intern | Seattle, WA | 🇺🇸 | 2026-09-21 | [Apply](https://jobs.lever.co/shieldai/da54c482-fe62-4f60-98b1-55ac0b82b3bc) |
+| Shield AI 🔥 | Summer 2027 - Mechanical Engineering Intern, Air Vehicle Systems and Test | Seattle, WA | 🇺🇸 | Unknown | [Apply](https://jobs.lever.co/shieldai/bc41648b-c201-4b01-8feb-d228cbfdd875) |
 | Shield AI 🔥 | Summer 2027 - Advanced Manufacturing Engineering Intern | Dallas, TX | 🇺🇸 | 2026-08-27 | [Apply](https://jobs.lever.co/shieldai/c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a) |
 | Shield AI 🔥 | Summer 2027 - Electrical Engineering Co-op (June 2027) | Dallas, TX | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/shieldai/8c6cfcee-c6da-4a73-9bdf-3ef098ff59e6) |
 | Shield AI 🔥 | Summer 2027 - Electrical Engineering Intern | Dallas, TX | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/shieldai/200a293f-71ce-4982-a100-ac4b500c4cf7) |
@@ -839,6 +840,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-27 (night), scanner cron, 4 roles added.** 🎯 AeroVironment Systems Engineering Intern, plus Test, Mechanical, Electrical Engineering Interns (all Space Technologies, Albuquerque NM, posted same day). Excluded Northrop Grumman 2027 Intern Industrial Security (security/non-technical). No scanner errors.
 > **2026-10-28, scanner cron, 2 roles added.** 🎯 Amentum Spring 2027 Intern - Structural Dynamics Engineer (Houston TX) and Mechanical Engineering Intern (Oak Ridge TN; no term stated, posted same day). Excluded: non-US/non-technical (GE Aerospace Talent Acquisition Intern Queretaro), IT/network/sysadmin/data (SNC Network Engineer Intern, Leidos Systems Administration + Data Engineer Interns), non-technical (Leidos Project Management Intern, Energy & Infrastructure Consulting Summer Interns ×2, Northrop 2027 Business Management Intern). No scanner errors.
 > **2026-10-28 (later), scanner cron, 1 role added.** Draper Analog ASIC Design Intern (Summer 2027, Cambridge MA, posted same day). No scanner errors.
+> **2026-10-28 (later 2), scanner cron, 1 role added.** Shield AI Summer 2027 Mechanical Engineering Intern, Air Vehicle Systems and Test (Seattle WA, Lever, no posted date). Excluded: Booz Allen Business & Office Management Intern (non-technical), 2 Nvidia Shanghai 2027 Perf Engineering Interns (non-US), Northrop 2027 Intern Facilities Management (non-technical). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
