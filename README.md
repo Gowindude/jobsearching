@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-28
-Open verified 2027 roles: 791
+Open verified 2027 roles: 792
 
 ---
 
@@ -572,6 +572,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Draper Laboratory 🔥 | Microsystems Integration Intern | Cambridge, MA | | Posted Today | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Intern_JR003002-1) |
 | Draper Laboratory 🔥 | Acoustic and Vibration Technologies Intern (Summer 2027) | Cambridge, MA | 🇺🇸 | 2026-10-13 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Acoustic-and-Vibration-Technologies-Intern--Summer-2027-_JR003003-1) |
 | Draper Laboratory 🔥 | Operations Engineering Intern (Summer 2027) | Cambridge, MA | | Posted Today | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Operations-Engineering-Intern--Summer-2027-_JR003037) |
+| Draper Laboratory 🔥 | Analog ASIC Design Intern (Summer 2027) | Cambridge, MA | | Posted Today | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Analog-ASIC-Design-Intern--Summer-2027-_JR003085) |
 | Leidos 🔥 | Manufacturing/Quality Intern | Huntsville, AL | 🇺🇸 | 2026-08-31 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Manufacturing-Quality-Intern_R-00190547) |
 | Leidos 🔥 | Electronics Technician Co-Op | Huntsville, AL | 🇺🇸 | 2026-09-04 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Electronics-Technician-Co-Op_R-00191451) |
 | Leidos 🔥 | Civil Engineer Intern | Chicago, IL | 🇺🇸 | 2026-09-08 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Chicago-IL/Civil-Engineer-Intern_R-00191578) |
@@ -837,6 +838,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-27 (evening), scanner cron, 4 roles added.** 🎯 The Aerospace Corporation 2027 Communication Architectures Modeling and Analysis Engineering Undergraduate + Grad Interns (El Segundo CA, posted same day), 🎯 Northrop Grumman 2027 Software Engineering Intern (Beavercreek OH), Northrop Grumman 2027 Mechanical Engineering Intern (Clearfield UT, new req). Excluded Leidos Cybersecurity Analyst Intern (Pearl Harbor HI) as cyber/IT. No scanner errors.
 > **2026-10-27 (night), scanner cron, 4 roles added.** 🎯 AeroVironment Systems Engineering Intern, plus Test, Mechanical, Electrical Engineering Interns (all Space Technologies, Albuquerque NM, posted same day). Excluded Northrop Grumman 2027 Intern Industrial Security (security/non-technical). No scanner errors.
 > **2026-10-28, scanner cron, 2 roles added.** 🎯 Amentum Spring 2027 Intern - Structural Dynamics Engineer (Houston TX) and Mechanical Engineering Intern (Oak Ridge TN; no term stated, posted same day). Excluded: non-US/non-technical (GE Aerospace Talent Acquisition Intern Queretaro), IT/network/sysadmin/data (SNC Network Engineer Intern, Leidos Systems Administration + Data Engineer Interns), non-technical (Leidos Project Management Intern, Energy & Infrastructure Consulting Summer Interns ×2, Northrop 2027 Business Management Intern). No scanner errors.
+> **2026-10-28 (later), scanner cron, 1 role added.** Draper Analog ASIC Design Intern (Summer 2027, Cambridge MA, posted same day). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
