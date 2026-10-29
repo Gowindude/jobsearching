@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-29
-Open verified 2027 roles: 800
+Open verified 2027 roles: 804
 
 ---
 
@@ -523,6 +523,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Leidos 🔥 🎯 | Missile Systems Engineer Intern 🆕 | Huntsville, AL | 🇺🇸 | 2026-10-22 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Missile-Systems-Engineer-Intern_R-00195265) |
 | Leidos 🔥 🎯 | Lunar Terrain Vehicle – Engineering Intern (2nd req R-00195252) 🆕 | Huntsville, AL | 🇺🇸 | 2026-10-23 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Lunar-Terrain-Vehicle---Engineering-Intern_R-00195252) |
 | Leidos 🔥 | Electrical Design Engineering Intern (R-00195400) 🆕 | Huntsville, AL | 🇺🇸 | 2026-10-26 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Electrical-Design-Engineering-Intern_R-00195400) |
+| Leidos 🔥 🎯 🆕 | Software Developer Intern (2nd req R-00195829) | Annapolis Junction, MD | 🇺🇸 | 2026-10-29 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00195829) |
 | GE Aerospace 🔥 🎯 | Applied AI Engineer Intern – Summer 2027 (May/June Start) | Evendale, OH (53 locations) | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) |
 | GE Aerospace 🔥 | Unison Engineering Part-time Intern - US - Summer 2027 | Saint George, UT | 🇺🇸 | 2026-09-16 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Saint-George-UT-US-1/Unison-Engineering-Part-time-Intern---US---Summer-2027_R5040163-1) |
 | GE Aerospace 🔥 | Product Definition Engineering Intern - Lynn, MA - Summer 2027 | Lynn, MA | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Lynn/Product-Definition-Engineering-Intern---Lynn--MA---Summer-2027_R5039185-1) |
@@ -565,6 +566,9 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Nvidia 🔥 🎯 | Differentiable Simulation Research Intern - Summer 2027 | Santa Clara, CA | 🇺🇸 | 2026-10-12 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Differentiable-Simulation-Research-Intern---Summer-2027_JR2027561) |
 | Nvidia 🔥 🎯 | Sparse Linear Algebra Libraries Intern - Summer 2027 | Santa Clara, CA | 🇺🇸 | 2026-10-13 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Sparse-Linear-Algebra-Libraries-Intern---Summer-2027_JR2027429) |
 | Nvidia 🔥 🎯 | PhD Research Intern, Robotic Perception and Learning - 2027 | Redmond, WA (+2 other sites) | 🇺🇸 | 2026-10-21 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/PhD-Research-Intern--Robotic-Perception-and-Learning---2027_JR2027089) |
+| Nvidia 🔥 🎯 🆕 | Compiler Software Engineering Intern - Summer 2027 | Redmond, WA | 🇺🇸 | 2026-10-29 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607) |
+| Nvidia 🔥 🎯 🆕 | AI Systems Software Engineering Intern – Summer 2027 | Austin, TX | 🇺🇸 | 2026-10-29 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170) |
+| Nvidia 🔥 🆕 | VLSI CAD Timing Intern, Applied AI - Summer 2027 | Santa Clara, CA | 🇺🇸 | 2026-10-29 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799) |
 | Gulfstream (General Dynamics) 🔥 | Summer 2027 IEF - Advanced Structures & Materials (ASMI) College Associate Intern | Savannah, GA | | Unknown | [Apply](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Advanced-Structures-and-Materials-%28ASMI%29-College-Associate-Intern-GA-31401/1417869000/) |
 | Draper Laboratory 🔥 | Mechanical Engineering & System Packaging Intern | Cambridge, MA | | 2026-08-12 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002797) |
 | Draper Laboratory 🔥 🎯 | Embedded Quality & Fielded Systems Intern | Cambridge, MA | | 2026-08-05 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718) |
@@ -851,6 +855,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-28 (later 5), scanner cron, 1 role added.** Shield AI Summer 2027 Product Support Engineering Intern (Dallas TX, Lever, no posted date). No exclusions; no scanner errors.
 > **2026-10-29, scanner cron, 1 role added.** 🎯 AeroVironment GNC / Autonomy Engineering Intern (Simi Valley CA, posted same day). Excluded AeroVironment Aeromechanical Engineering Intern (Moorpark; near-duplicate of tracked _8787). No scanner errors.
 > **2026-10-29 (later), scanner cron, 2 roles added.** Rendezvous Robotics Manufacturing and Test Engineering Intern (Summer 2027, Golden CO); Rocket Lab Quality Engineering Intern Spring 2027 (Long Beach CA). Excluded SNC Program Financial Analyst Intern (finance, non-technical) and Nvidia Performance Testing Engineering Intern (Yerevan, Armenia; non-US). No scanner errors.
+> **2026-10-29 (later 2), scanner cron, 4 roles added.** 🎯 Nvidia Compiler Software Engineering Intern (Summer 2027, Redmond WA); 🎯 Nvidia AI Systems Software Engineering Intern (Summer 2027, Austin TX); Nvidia VLSI CAD Timing Intern, Applied AI (Summer 2027, Santa Clara); 🎯 Leidos Software Developer Intern (2nd req R-00195829, Annapolis Junction MD). Excluded Astranis Procurement Intern (Winter 2027, non-technical), SNC Program Management Intern and Program Finance Systems Analyst Intern (non-technical), SNC Structural Engineering Intern (For SNC Summer 2026 Interns Only). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
