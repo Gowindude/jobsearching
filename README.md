@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-29
-Open verified 2027 roles: 798
+Open verified 2027 roles: 800
 
 ---
 
@@ -167,6 +167,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Rendezvous Robotics 🔥 🎯 | Avionics Engineering Intern (Summer 2027) | Golden, CO | 🇺🇸 | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408578009) |
 | Rendezvous Robotics 🔥 🎯 | Software Engineering Intern (Summer 2027) | Golden, CO | 🇺🇸 | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408590009) |
 | Rendezvous Robotics 🔥 | Mechanical Engineering Intern (Summer 2027) | Golden, CO | 🇺🇸 | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408601009) |
+| Rendezvous Robotics 🔥 🆕 | Manufacturing and Test Engineering Intern (Summer 2027) | Golden, CO | 🇺🇸 | 2026-10-29 | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408588009) |
 | Rocket Lab 🔥 🎯 | GNC Intern Summer 2027 | Littleton, CO | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989993003) |
 | Rocket Lab 🔥 🎯 | Flight Software Intern Summer 2027 | Littleton, CO | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989722003) |
 | Rocket Lab 🔥 🎯 | Systems Engineering Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987046003) |
@@ -849,6 +850,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-28 (later 4), scanner cron, 2 roles added.** The Aerospace Corporation 2027 RF Spectrum Engineering Undergrad Intern (El Segundo CA, posted same day) and Booz Allen Design and Verification Engineer Intern (Beavercreek OH, posted same day). Excluded Anduril Winter 2027 Library Science Co-op (Winter term, non-technical). No scanner errors.
 > **2026-10-28 (later 5), scanner cron, 1 role added.** Shield AI Summer 2027 Product Support Engineering Intern (Dallas TX, Lever, no posted date). No exclusions; no scanner errors.
 > **2026-10-29, scanner cron, 1 role added.** 🎯 AeroVironment GNC / Autonomy Engineering Intern (Simi Valley CA, posted same day). Excluded AeroVironment Aeromechanical Engineering Intern (Moorpark; near-duplicate of tracked _8787). No scanner errors.
+> **2026-10-29 (later), scanner cron, 2 roles added.** Rendezvous Robotics Manufacturing and Test Engineering Intern (Summer 2027, Golden CO); Rocket Lab Quality Engineering Intern Spring 2027 (Long Beach CA). Excluded SNC Program Financial Analyst Intern (finance, non-technical) and Nvidia Performance Testing Engineering Intern (Yerevan, Armenia; non-US). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
@@ -920,6 +922,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Rocket Lab 🔥 | Propulsion Analyst Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-16 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7986824003) |
 | Rocket Lab 🔥 | Test Engineering Intern Spring 2027 | Wallops Island, VA | 🇺🇸 | 2026-09-24 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8003533003) |
 | Rocket Lab 🔥 | Ground Systems Engineering Intern Spring 2027 | Stennis Space Center, MS | 🇺🇸 | 2026-10-12 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8007204003) |
+| Rocket Lab 🔥 🆕 | Quality Engineering Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-10-29 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8042031003) |
 | NASA (JSC) 🔥 🎯 | Mission and Trajectory Design (Orion Artemis III-V trajectory design, Copernicus tool) | Houston, TX | 🇺🇸 | Unknown | [Apply](https://stemgateway.nasa.gov/s/course-offering/a0BSJ000007OPFl2AO/mission-and-trajectory-design) |
 | NASA (JSC) 🔥 🎯 | Flight Mechanics and Trajectory Design (Artemis/HyperSTEP/HiMOM) | Houston, TX | 🇺🇸 | Unknown | [Apply](https://stemgateway.nasa.gov/s/course-offering/a0BSJ000007OObS2AW/flight-mechanics-and-trajectory-design) |
 | NASA (JSC) 🔥 🎯 | Lunar Surface GN&C Robotic Testbed Development (closed-loop GN&C on a Clearpath Husky UGV, Artemis 4/MoonBase) | Houston, TX | 🇺🇸 | Unknown | [Apply](https://stemgateway.nasa.gov/s/course-offering/a0BSJ000007sPzt2AE/lunar-surface-gnc-robotic-testbed-development) |
