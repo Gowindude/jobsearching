@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-10-28
-Open verified 2027 roles: 797
+Last updated: 2026-10-29
+Open verified 2027 roles: 798
 
 ---
 
@@ -332,6 +332,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | AeroVironment 🔥 | Electrical Engineer Intern | Pottstown, PA | 🇺🇸 | 2026-10-15 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Pottstown-PA/Electrical-Engineer-Intern_9103) |
 | AeroVironment 🔥 🎯 🆕 | Software Engineering Intern | Moorpark, CA | 🇺🇸 | 2026-10-16 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Moorpark-CA/Software-Engineering-Intern_9094) |
 | AeroVironment 🔥 🎯 🆕 | Software Engineering Intern | Minneapolis, MN | 🇺🇸 | 2026-10-20 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Minneapolis-MN/Software-Engineering-Intern_8940) |
+| AeroVironment 🔥 🎯 🆕 | GNC / Autonomy Engineering Intern | Simi Valley, CA | 🇺🇸 | 2026-10-29 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/GNC---Autonomy-Engineering-Intern_9222) |
 | AeroVironment 🔥 🎯 🆕 | Software Engineering Intern | San Diego, CA | 🇺🇸 | 2026-10-20 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/San-Diego-CA/Software-Engineering-Intern_8828) |
 | AeroVironment 🔥 🆕 | Electrical Engineering Intern | San Diego, CA | 🇺🇸 | 2026-10-20 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/San-Diego-CA/Electrical-Engineering-Intern_9143) |
 | AeroVironment 🔥 🎯 🆕 | Machine Learning Engineering Intern | Centreville, VA | 🇺🇸 | 2026-10-20 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Centreville-VA/Machine-Learning-Engineering-Intern_8941) |
@@ -847,6 +848,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-28 (later 3), scanner cron, 1 role added.** 🎯 Amentum Intern - GN&C Graduate Spring Intern (Huntsville AL, Spring 2027, posted same day). Excluded: Amentum Intern - GN&C Spring Intern R0174254 (Huntsville; near-duplicate of tracked R0170497). No scanner errors.
 > **2026-10-28 (later 4), scanner cron, 2 roles added.** The Aerospace Corporation 2027 RF Spectrum Engineering Undergrad Intern (El Segundo CA, posted same day) and Booz Allen Design and Verification Engineer Intern (Beavercreek OH, posted same day). Excluded Anduril Winter 2027 Library Science Co-op (Winter term, non-technical). No scanner errors.
 > **2026-10-28 (later 5), scanner cron, 1 role added.** Shield AI Summer 2027 Product Support Engineering Intern (Dallas TX, Lever, no posted date). No exclusions; no scanner errors.
+> **2026-10-29, scanner cron, 1 role added.** 🎯 AeroVironment GNC / Autonomy Engineering Intern (Simi Valley CA, posted same day). Excluded AeroVironment Aeromechanical Engineering Intern (Moorpark; near-duplicate of tracked _8787). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
