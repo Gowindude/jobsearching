@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-10-30
-Open verified 2027 roles: 809
+Open verified 2027 roles: 812
 
 ---
 
@@ -122,6 +122,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Blue Origin ⭐ 🔥 | Summer 2027 Materials & Processes Internship - Graduate | Greater Seattle Area (3 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Summer-2027-Materials---Processes-Internship---Graduate_R71429) |
 | Blue Origin ⭐ 🔥 | Summer 2027 Manufacturing Engineering Internship - Undergraduate | Space Coast, FL (4 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Space-Coast-FL/Summer-2027-Manufacturing-Engineering-Internship---Undergraduate_R71428) |
 | Blue Origin ⭐ 🔥 | Summer 2027 Manufacturing Engineering Internship - Graduate | Huntsville, AL (4 locations) | 🇺🇸 | 2026-09-01 | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Huntsville-AL/Summer-2027-Manufacturing-Engineering-Internship---Graduate_R71427) |
+| Blue Origin ⭐ 🔥 🆕 | Summer 2027 Non-Destructive Test Inspector – Internship | Space Coast, FL | 🇺🇸 | Posted Today | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Space-Coast-FL/Summer-2027-Non-Destructive-Test-Inspector---Internship_R75183) |
 | Astranis ⭐ 🔥 | Mechanical Engineer Intern (Summer 2027) | San Francisco, CA | | 2026-08-14 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704601006) |
 | Astranis ⭐ 🔥 | CAD Engineer/Librarian Intern (Summer 2027) | San Francisco, CA | | 2026-08-14 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704742006) |
 | Astranis ⭐ 🔥 | Harness Manufacturing Intern (Summer 2027) | San Francisco, CA | 🇺🇸 | 2026-09-18 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705255006) |
@@ -711,6 +712,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Leidos 🔥 | Flight Test and Integration Summer Intern | Huntsville, AL | 🇺🇸 | 2026-10-02 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Flight-Test-and-Integration-Summer-Intern_R-00193562-1) |
 | Leidos 🔥 | Power Delivery Engineering Intern | Charlotte, NC | 🇺🇸 | Posted Today | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Charlotte-NC/Power-Delivery-Engineering-Intern_R-00195881) |
 | Leidos 🔥 | Power Delivery Engineering Intern | Atlanta, GA | 🇺🇸 | Posted Today | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Atlanta-GA/Power-Delivery-Engineering-Intern_R-00195828) |
+| Leidos 🔥 🆕 | Power Delivery Engineering Intern | Pittsburgh, PA | 🇺🇸 | Posted Today | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Pittsburgh-PA/Power-Delivery-Engineering-Intern_R-00195917) |
 | L3Harris 🔥 🎯 | Intern, Systems Engineer | Waco, TX | | Unknown | [Apply](https://careers.l3harris.com/en/job/waco/intern-systems-engineer/4832/99403546960) |
 | L3Harris 🔥 🎯 | Intern, Systems Engineer | Greenville, TX | | Unknown | [Apply](https://careers.l3harris.com/en/search-jobs/intern) |
 | L3Harris 🔥 🎯 | Intern, Software Engineer | Palm Bay, FL | | Unknown | [Apply](https://careers.l3harris.com/en/search-jobs/intern) |
@@ -767,6 +769,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Sierra Nevada Corporation 🔥 | Specialty Engineering Intern (Summer 2027) | Dayton, OH | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Dayton-OH/Specialty-Engineering-Intern--Summer-2027-_R0031161) |
 | Sierra Nevada Corporation 🔥 | Quality Engineer Intern (Summer 2027) | Dayton, OH | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Dayton-OH/Quality-Engineer-Intern--Summer-2027-_R0031194) |
 | Sierra Nevada Corporation 🔥 | Manufacturing Engineer Intern (Summer 2027) | Sparks, NV | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Sparks-NV/Manufacturing-Engineer-Intern--Summer-2027-_R0031241) |
+| Sierra Nevada Corporation 🔥 🎯 🆕 | Firmware Engineering Intern | Folsom, CA | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Folsom-CA/Firmware-Engineering-Intern_R0031219) |
 
 > **2026-09-04: Sierra Nevada Corporation's full Summer 2027 intern wave dropped** (spacecraft/satellite systems & defense electronics — distinct from Sierra Space), first-ever roles tracked for this company. 35 postings found across Hagerstown MD, Lone Tree CO, Plano TX, Dayton OH, Sparks NV, Southern Pines NC, Folsom CA; added the 29 technical ones above. Skipped as non-technical: 4x Project Coordinator Intern (Sparks NV, Hagerstown MD, Plano TX, Lone Tree CO) and IT Support Technician Intern (Lone Tree CO, Summer 2027). Also skipped IT Support Technician Intern (Sparks NV) — wrong term (Summer 2026). 🎯-tagged: all 6 Software Engineering Intern reqs and all 4 Systems Engineering/Systems Engineer Intern reqs.
 
@@ -862,6 +865,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-29 (later), scanner cron, 2 roles added.** Rendezvous Robotics Manufacturing and Test Engineering Intern (Summer 2027, Golden CO); Rocket Lab Quality Engineering Intern Spring 2027 (Long Beach CA). Excluded SNC Program Financial Analyst Intern (finance, non-technical) and Nvidia Performance Testing Engineering Intern (Yerevan, Armenia; non-US). No scanner errors.
 > **2026-10-29 (later 2), scanner cron, 4 roles added.** 🎯 Nvidia Compiler Software Engineering Intern (Summer 2027, Redmond WA); 🎯 Nvidia AI Systems Software Engineering Intern (Summer 2027, Austin TX); Nvidia VLSI CAD Timing Intern, Applied AI (Summer 2027, Santa Clara); 🎯 Leidos Software Developer Intern (2nd req R-00195829, Annapolis Junction MD). Excluded Astranis Procurement Intern (Winter 2027, non-technical), SNC Program Management Intern and Program Finance Systems Analyst Intern (non-technical), SNC Structural Engineering Intern (For SNC Summer 2026 Interns Only). No scanner errors.
 > **2026-10-30, scanner cron, 5 roles added.** SNC Specialty Engineering Intern (Dayton OH), Quality Engineer Intern (Dayton OH), Manufacturing Engineer Intern (Sparks NV); Leidos Power Delivery Engineering Intern x2 (Charlotte NC, Atlanta GA). Excluded SNC Accounting Intern (Sparks NV) as non-technical. Partial coverage: 6 boards errored (Terran Orbital, Zipline, Freeform, Gravitics, SimScale, Northrop Grumman).
+> **2026-10-30 (later), scanner cron, 3 roles added.** 🎯 SNC Firmware Engineering Intern (Folsom CA); Blue Origin Summer 2027 Non-Destructive Test Inspector Internship (Space Coast FL); Leidos Power Delivery Engineering Intern (Pittsburgh PA). Excluded SNC Program Planning and Scheduling Analyst Intern as non-technical (program mgmt) and Northrop Grumman 2027 Intern Engineer - Product Support Melbourne FL as near-duplicate of tracked _1340074238820. No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
