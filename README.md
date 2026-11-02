@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-11-02
-Open verified 2027 roles: 822
+Open verified 2027 roles: 824
 
 ---
 
@@ -468,6 +468,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 🎯 | 2027 Systems Engineering Intern – Annapolis MD | Annapolis, MD | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074623404) |
 | Northrop Grumman 🔥 🎯 | 2027 Systems Engineer Intern - Chantilly VA | Chantilly, VA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074721747) |
 | Northrop Grumman 🔥 | 2027 Mechanical Engineering Intern - Roy UT | Roy, UT | 🇺🇸 | 2026-10-16 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074791631) |
+| Northrop Grumman 🔥 | 2027 Structural Engineering Intern - Roy UT | Roy, UT | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075050602) |
 | Northrop Grumman 🔥 🎯 | 2027 Intern - Guidance Navigation and Control Engineer | San Diego, CA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074811354) |
 | Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Aurora CO | Aurora, CO | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074792683) |
 | Northrop Grumman 🔥 | 2027 Intern - Survivability Engineer | Palmdale, CA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074832465) |
@@ -881,6 +882,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-01, scanner cron, 2 roles added.** GE Aerospace Artificial Intelligence Intern x2 (Remote, reqs R5042294 and R5042291, posted 2026-11-01, no stated term, year-round rule). PARTIAL COVERAGE: Northrop Grumman board errored (fetch failed).
 > **2026-11-02, scanner cron, 2 roles added.** SNC Data Science Intern Summer 2027 (Sparks NV, R0031257, posted same day); The Aerospace Corporation 2027 Space Communications and Network Systems Undergrad Intern (El Segundo CA, posted 5 days ago). PARTIAL COVERAGE: Relativity Space, Northrop Grumman, Impulse Space boards errored (fetch failed).
 > **2026-11-02 (later), scanner cron, 4 roles added.** 🎯 SNC DevOps Engineer Intern + 2x 🎯 Software Engineer Intern (all Summer 2027, Southern Pines NC, posted same day); Draper Integrated Circuits Intern (Cambridge MA, req JR002783, posted same day). PARTIAL COVERAGE: Northrop Grumman board errored (fetch failed).
+> **2026-11-02 (later 2), scanner cron, 2 roles added.** Shield AI Structures / Mechanical Test Co-op January 2027 (Dallas TX, Lever, Spring table, no posted date); Northrop Grumman 2027 Structural Engineering Intern (Roy UT). Excluded GE Aerospace EID Intern - Fluids Systems (Queretaro, non-US). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
@@ -1014,6 +1016,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Zipline 🔥 🎯 | Firmware Engineer Intern (Spring 2027) | South San Francisco, CA | 🇺🇸 | 2026-10-09 | [Apply](https://www.zipline.com/open-roles/8020863003?gh_jid=8020863003) |
 | Hermeus 🔥 | Propulsion Component Engineering Intern (Spring 2027) | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/2cbb75f7-a040-47b2-a442-d9cc1faedb11) |
 | Hermeus 🔥 | Propulsion Test Engineering Intern - Spring 2027 | Jacksonville, FL | 🇺🇸 | Unknown | [Apply](https://jobs.lever.co/hermeus/d2651ecb-9aab-4d84-8e69-cbcf7cece28d) |
+| Shield AI 🔥 | Structures / Mechanical Test Co-op - January 2027 Co-op | Dallas, TX | 🇺🇸 | Unknown | [Apply](https://jobs.lever.co/shieldai/1be0e71a-cf7f-4966-8532-09e6f40bb9dc) |
 
 > Anduril's Naval Architect Co-op – Winter 2027 was removed 2026-08-08 to enforce the Spring/Summer-2027-only standing preference (it predated that rule and had slipped through). Still live on their board if a Winter term becomes acceptable later.
 > Shield AI's Electrical Engineering Spring Co-op (January 2027) — **closed as of 2026-08-16** (full re-sweep found their Lever board down to 7 postings, none intern/co-op). Moved to Closed/Expired below.
