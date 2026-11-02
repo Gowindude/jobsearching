@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-10-31
-Open verified 2027 roles: 814
+Last updated: 2026-11-01
+Open verified 2027 roles: 816
 
 ---
 
@@ -534,6 +534,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | GE Aerospace 🔥 | Lynn CNC Programmer Co-Op | Lynn, MA |  | 2026-10-01 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Lynn/Lynn-CNC-Programmer-Co-Op_R5040944-1) |
 | GE Aerospace 🔥 | Inspection Engineering Intern - Summer 2027 | Springdale, OH (+West Chester, Evendale) | | 2026-10-06 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Springdale/Inspection-Engineering-Intern---Summer-2027_R5040956-1) |
 | GE Aerospace 🔥 | US Engineering Intern – Muskegon, MI – Summer 2027 | Muskegon, MI |  | 2026-10-13 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Muskegon/US-Engineering-Intern---Muskegon--MI---Summer-2027_R5041531-1) |
+| GE Aerospace 🔥 | Artificial Intelligence Intern | Remote | 🇺🇸 | 2026-11-01 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Remote/Artificial-Intelligence-Intern_R5042294-1) |
+| GE Aerospace 🔥 | Artificial Intelligence Intern | Remote | 🇺🇸 | 2026-11-01 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Remote/Artificial-Intelligence-Intern_R5042291-1) |
 | Amentum 🔥 🎯 | Software Engineering Intern (Space Force Range Contract) | Cocoa Beach, FL | 🇺🇸 | 2026-08-31 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-FL-Cocoa-Beach/Software-Engineering-Intern_R0169322) |
 | Amentum 🔥 🎯 | Summer 2027 Intern - Structural Dynamics Engineer | Houston, TX | 🇺🇸 | 2026-08-24 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-TX-Houston/Summer-2027-Intern---Structural-Dynamics-Engineer_R0168655) |
 | Amentum 🔥 🎯 | Controls & Instrumentation Engineer Intern | Detroit, MI | 🇺🇸 | 2026-09-04 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-MI-Detroit/Controls---Instrumentation-Engineer-Intern_R0169793) |
@@ -870,6 +872,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-30 (later), scanner cron, 3 roles added.** 🎯 SNC Firmware Engineering Intern (Folsom CA); Blue Origin Summer 2027 Non-Destructive Test Inspector Internship (Space Coast FL); Leidos Power Delivery Engineering Intern (Pittsburgh PA). Excluded SNC Program Planning and Scheduling Analyst Intern as non-technical (program mgmt) and Northrop Grumman 2027 Intern Engineer - Product Support Melbourne FL as near-duplicate of tracked _1340074238820. No scanner errors.
 > **2026-10-30 (later 2), scanner cron, 1 role added.** The Aerospace Corporation 2027 Risk and Reliability Graduate Intern (El Segundo CA). Excluded Anduril Fall 2027 Manufacturing Engineer Co-op as Fall. No scanner errors.
 > **2026-10-31, scanner cron, 1 role added.** Northrop Grumman 2027 Intern Product Support – Data Scientist (San Diego CA, no posted date). Excluded: Northrop 2027 Intern Product Support – Logistics Planner (San Diego, supply chain/non-technical) and Nvidia Deep Learning Model and System Optimization Engineering Intern – 2027 (China-Shanghai, non-US). No scanner errors.
+> **2026-11-01, scanner cron, 2 roles added.** GE Aerospace Artificial Intelligence Intern x2 (Remote, reqs R5042294 and R5042291, posted 2026-11-01, no stated term, year-round rule). PARTIAL COVERAGE: Northrop Grumman board errored (fetch failed).
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
