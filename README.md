@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-11-01
-Open verified 2027 roles: 816
+Last updated: 2026-11-02
+Open verified 2027 roles: 818
 
 ---
 
@@ -680,6 +680,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | The Aerospace Corporation 🔥 🎯 | 2027 Communication Architectures Modeling and Analysis Engineering Grad Intern | El Segundo, CA | 🇺🇸 | 2026-10-27 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Communication-Architectures-Modeling-and-Analysis-Engineering-Grad-Intern_R017010) |
 | The Aerospace Corporation 🔥 🆕 | 2027 Radio Frequency (RF) Spectrum Engineering Undergrad Intern | El Segundo, CA | 🇺🇸 | 2026-10-28 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Radio-Frequency--RF--Spectrum-Engineering-Undergrad-Intern_R017050) |
 | The Aerospace Corporation 🔥 | 2027 Risk and Reliability Graduate Intern | El Segundo, CA (+1 other site) | 🇺🇸 | 2026-10-30 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Risk-and-Reliability-Graduate-Intern_R017072) |
+| The Aerospace Corporation 🔥 | 2027 Space Communications and Network Systems Undergrad Intern | El Segundo, CA | 🇺🇸 | 2026-10-28 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Space-Communications-and-Network-Systems-Undergrad-Intern_R017064) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Systems Engineer Intern | McLean, VA (11 locations) | 🇺🇸 | 2026-09-04 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University---2027-Summer-Games-Systems-Engineer-Intern---McLean--VA_R0248361) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Software Developer Intern | McLean, VA (10 locations) | 🇺🇸 | 2026-09-15 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Systems Engineer Intern (Lexington, MA req R0252273) 🆕 | Lexington, MA | 🇺🇸 | 2026-10-26 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Systems-Engineer-Intern---Lexington--MA_R0252273) |
@@ -773,6 +774,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Sierra Nevada Corporation 🔥 | Specialty Engineering Intern (Summer 2027) | Dayton, OH | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Dayton-OH/Specialty-Engineering-Intern--Summer-2027-_R0031161) |
 | Sierra Nevada Corporation 🔥 | Quality Engineer Intern (Summer 2027) | Dayton, OH | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Dayton-OH/Quality-Engineer-Intern--Summer-2027-_R0031194) |
 | Sierra Nevada Corporation 🔥 | Manufacturing Engineer Intern (Summer 2027) | Sparks, NV | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Sparks-NV/Manufacturing-Engineer-Intern--Summer-2027-_R0031241) |
+| Sierra Nevada Corporation 🔥 | Data Science Intern (Summer 2027) | Sparks, NV | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Sparks-NV/Data-Science-Intern--Summer-2027-_R0031257) |
 | Sierra Nevada Corporation 🔥 🎯 🆕 | Firmware Engineering Intern | Folsom, CA | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Folsom-CA/Firmware-Engineering-Intern_R0031219) |
 
 > **2026-09-04: Sierra Nevada Corporation's full Summer 2027 intern wave dropped** (spacecraft/satellite systems & defense electronics — distinct from Sierra Space), first-ever roles tracked for this company. 35 postings found across Hagerstown MD, Lone Tree CO, Plano TX, Dayton OH, Sparks NV, Southern Pines NC, Folsom CA; added the 29 technical ones above. Skipped as non-technical: 4x Project Coordinator Intern (Sparks NV, Hagerstown MD, Plano TX, Lone Tree CO) and IT Support Technician Intern (Lone Tree CO, Summer 2027). Also skipped IT Support Technician Intern (Sparks NV) — wrong term (Summer 2026). 🎯-tagged: all 6 Software Engineering Intern reqs and all 4 Systems Engineering/Systems Engineer Intern reqs.
@@ -873,6 +875,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-10-30 (later 2), scanner cron, 1 role added.** The Aerospace Corporation 2027 Risk and Reliability Graduate Intern (El Segundo CA). Excluded Anduril Fall 2027 Manufacturing Engineer Co-op as Fall. No scanner errors.
 > **2026-10-31, scanner cron, 1 role added.** Northrop Grumman 2027 Intern Product Support – Data Scientist (San Diego CA, no posted date). Excluded: Northrop 2027 Intern Product Support – Logistics Planner (San Diego, supply chain/non-technical) and Nvidia Deep Learning Model and System Optimization Engineering Intern – 2027 (China-Shanghai, non-US). No scanner errors.
 > **2026-11-01, scanner cron, 2 roles added.** GE Aerospace Artificial Intelligence Intern x2 (Remote, reqs R5042294 and R5042291, posted 2026-11-01, no stated term, year-round rule). PARTIAL COVERAGE: Northrop Grumman board errored (fetch failed).
+> **2026-11-02, scanner cron, 2 roles added.** SNC Data Science Intern Summer 2027 (Sparks NV, R0031257, posted same day); The Aerospace Corporation 2027 Space Communications and Network Systems Undergrad Intern (El Segundo CA, posted 5 days ago). PARTIAL COVERAGE: Relativity Space, Northrop Grumman, Impulse Space boards errored (fetch failed).
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
