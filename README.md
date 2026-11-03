@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-11-02
-Open verified 2027 roles: 828
+Last updated: 2026-11-03
+Open verified 2027 roles: 833
 
 ---
 
@@ -174,6 +174,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Rocket Lab 🔥 🎯 | Systems Engineering Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987046003) |
 | Rocket Lab 🔥 🎯 | Systems Engineering Intern Summer 2027 | Pasadena, CA | 🇺🇸 | 2026-09-17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990138003) |
 | Rocket Lab 🔥 | Test Engineering Intern - Manufacturing Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987042003) |
+| Rocket Lab 🔥 🆕 | Ground Systems Engineering Intern Spring 2027 | Middle River, MD | 🇺🇸 | 2026-11-02 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8042094003) |
 | Rocket Lab 🔥 | Test Engineering Intern Summer 2027 | Stennis Space Center, MS | 🇺🇸 | 2026-09-17 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990350003) |
 | Rocket Lab 🔥 🎯 | Avionics Engineering Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989733003) |
 | Rocket Lab 🔥 🎯 | HITL Engineering Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7990268003) |
@@ -203,6 +204,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Rocket Lab 🔥 | Mechanical Engineering Intern Summer 2027 | Long Beach, CA | 🇺🇸 | 2026-09-13 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7991448003) |
 | Rocket Lab 🔥 | Test Engineering Intern Summer 2027 | Wallops Island, VA | 🇺🇸 | 2026-09-24 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8003529003) |
 | Rocket Lab 🔥 | Ground Systems Engineering Intern Summer 2027 | Stennis Space Center, MS | 🇺🇸 | 2026-10-19 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8007202003) |
+| Rocket Lab 🔥 🆕 | Ground Systems Engineering Intern Summer 2027 | Middle River, MD | 🇺🇸 | 2026-11-02 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/8042092003) |
 | Muon Space 🔥 🎯 | GNC Hardware Engineering Intern (Summer 2027) | Mountain View, CA | 🇺🇸 | 2026-09-29 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5252677007) |
 | Muon Space 🔥 🎯 | GNC Software Engineering Intern (Summer 2027) | Mountain View, CA | 🇺🇸 | 2026-09-29 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5252680007) |
 | Muon Space 🔥 🎯 | Mission Architecture Intern (Summer 2027) | Woodbridge, VA | 🇺🇸 | 2026-09-29 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5252672007) |
@@ -294,6 +296,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Shield AI 🔥 | Summer 2027 - Data Science Intern | San Diego, CA | 🇺🇸 | 2026-10-20 | [Apply](https://jobs.lever.co/shieldai/aa71c28a-be00-43ca-8aa7-b764b2143797) |
 | Shield AI 🔥 | June 2027 Co-op - Reliability Engineering | Seattle, WA | 🇺🇸 | Unknown | [Apply](https://jobs.lever.co/shieldai/bef440ce-0365-4de7-9b1e-b1288cdaf7f3) |
 | Shield AI 🔥 | Summer 2027 - Product Support Engineering Intern | Dallas, TX | 🇺🇸 | Unknown | [Apply](https://jobs.lever.co/shieldai/5fb0fc3c-3747-4351-92fd-459b3df7c82c) |
+| Shield AI 🔥 🎯 🆕 | Summer 2027 - Embedded Firmware Intern | Dallas, TX | 🇺🇸 | Unknown | [Apply](https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4) |
 | Katalyst Space Technologies 🔥 🎯 | Engineering Intern (Electrical / Mechanical / GNC / Software) | Broomfield, CO | 🇺🇸 | 2026-08-31 | [Apply](https://job-boards.greenhouse.io/katalyst/jobs/6176711004) |
 | AeroVironment 🔥 | Electrical Engineering Intern | Simi Valley, CA | 🇺🇸 | 2026-09-01 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Electrical-Engineering-Intern_8588) |
 | AeroVironment 🔥 🎯 | Software Engineering Intern | Sunrise, FL | 🇺🇸 | 2026-09-01 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Sunrise-FL/Software-Engineering-Intern_8589) |
@@ -478,6 +481,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Colorado Springs | Colorado Springs, CO | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074793190) |
 | Northrop Grumman 🔥 🎯 | 2027 Systems Engineering Intern - Aurora CO | Aurora, CO | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074792500) |
 | Northrop Grumman 🔥 | 2027 Engineering Intern (Manufacturing and Operations) - Chandler AZ | Chandler, AZ | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074834354) |
+| Northrop Grumman 🔥 🎯 🆕 | 2027 Engineering Intern (Software/Mission Assurance/Quality) - Chandler AZ | Chandler, AZ | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075111456) |
 | Northrop Grumman 🔥 | 2027 Engineering Intern (ME/EE) - Wallops VA | Wallops Island, VA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074832201) |
 | Northrop Grumman 🔥 | 2027 Mechanical Engineering Intern - Clearfield UT | Clearfield, UT | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074950454) |
 | Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Beavercreek OH | Beavercreek, OH | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074952406) |
@@ -573,6 +577,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Nvidia 🔥 🎯 | PhD Research Intern, Robotic Perception and Learning - 2027 | Redmond, WA (+2 other sites) | 🇺🇸 | 2026-10-21 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/PhD-Research-Intern--Robotic-Perception-and-Learning---2027_JR2027089) |
 | Nvidia 🔥 🎯 🆕 | Compiler Software Engineering Intern - Summer 2027 | Redmond, WA | 🇺🇸 | 2026-10-29 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607) |
 | Nvidia 🔥 🎯 🆕 | AI Systems Software Engineering Intern – Summer 2027 | Austin, TX | 🇺🇸 | 2026-10-29 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170) |
+| Nvidia 🔥 🎯 🆕 | AI Compiler and Kernel Intern – Summer 2027 | Austin, TX | 🇺🇸 | 2026-11-02 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1) |
 | Nvidia 🔥 🆕 | VLSI CAD Timing Intern, Applied AI - Summer 2027 | Santa Clara, CA | 🇺🇸 | 2026-10-29 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799) |
 | Gulfstream (General Dynamics) 🔥 | Summer 2027 IEF - Advanced Structures & Materials (ASMI) College Associate Intern | Savannah, GA | | Unknown | [Apply](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Advanced-Structures-and-Materials-%28ASMI%29-College-Associate-Intern-GA-31401/1417869000/) |
 | Draper Laboratory 🔥 | Mechanical Engineering & System Packaging Intern | Cambridge, MA | | 2026-08-12 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002797) |
@@ -887,6 +892,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-02, scanner cron, 2 roles added.** SNC Data Science Intern Summer 2027 (Sparks NV, R0031257, posted same day); The Aerospace Corporation 2027 Space Communications and Network Systems Undergrad Intern (El Segundo CA, posted 5 days ago). PARTIAL COVERAGE: Relativity Space, Northrop Grumman, Impulse Space boards errored (fetch failed).
 > **2026-11-02 (later), scanner cron, 4 roles added.** 🎯 SNC DevOps Engineer Intern + 2x 🎯 Software Engineer Intern (all Summer 2027, Southern Pines NC, posted same day); Draper Integrated Circuits Intern (Cambridge MA, req JR002783, posted same day). PARTIAL COVERAGE: Northrop Grumman board errored (fetch failed).
 > **2026-11-02 (later 2), scanner cron, 2 roles added.** Shield AI Structures / Mechanical Test Co-op January 2027 (Dallas TX, Lever, Spring table, no posted date); Northrop Grumman 2027 Structural Engineering Intern (Roy UT). Excluded GE Aerospace EID Intern - Fluids Systems (Queretaro, non-US). No scanner errors.
+> **2026-11-03, scanner cron, 5 roles added.** Rocket Lab Ground Systems Engineering Intern Spring 2027 + Summer 2027 (Middle River MD, posted 11-02); Shield AI 🎯 Summer 2027 Embedded Firmware Intern (Dallas TX, no posted date); 🎯 Nvidia AI Compiler and Kernel Intern Summer 2027 (Austin TX); 🎯 Northrop Grumman 2027 Engineering Intern (Software/Mission Assurance/Quality) Chandler AZ. Excluded: Nvidia SWE Intern Munich (non-US), Leidos Intern Engineer (Australia, non-US), Northrop 2027 Global Supply Intern (supply chain). No scanner errors.
 > **2026-11-02 (later 3), scanner cron, 4 roles added.** 🎯 The Aerospace Corporation 2027 Software Engineering Undergrad + Grad Interns (El Segundo CA, R017102/R017101, posted same day); 🎯 Leidos Software Engineering Intern + Data Science Intern (Arlington VA, posted same day). PARTIAL COVERAGE: Northrop Grumman board errored (fetch failed).
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
