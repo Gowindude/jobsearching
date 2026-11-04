@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-11-04
-Open verified 2027 roles: 839
+Open verified 2027 roles: 842
 
 ---
 
@@ -597,6 +597,9 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Draper Laboratory 🔥 | Operations Engineering Intern (Summer 2027) | Cambridge, MA | | Posted Today | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Operations-Engineering-Intern--Summer-2027-_JR003037) |
 | Draper Laboratory 🔥 | Analog ASIC Design Intern (Summer 2027) | Cambridge, MA | | Posted Today | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Analog-ASIC-Design-Intern--Summer-2027-_JR003085) |
 | Draper Laboratory 🔥 🆕 | Integrated Circuits Intern | Cambridge, MA | | Posted Today | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Integrated-Circuits-Intern_JR002783) |
+| Draper Laboratory 🔥 🎯 🆕 | Sensor Electrical Engineering Intern (Summer 2027) | Cambridge, MA | | Posted Today | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Sensor-Electrical-Engineering-Intern--Summer-2027-_JR003095) |
+| Draper Laboratory 🔥 🎯 🆕 | Optics-Physics Sensor Engineering Intern (Summer 2027) | Cambridge, MA | | Posted Today | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Intern--Summer-2027-_JR003094) |
+| Draper Laboratory 🔥 🆕 | Electro-Mechanical Instrument Intern (Summer 2027) | Cambridge, MA | | Posted Today | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Electro-Mechanical-Instrument-Intern--Summer-2027-_JR003093) |
 | Leidos 🔥 | Manufacturing/Quality Intern | Huntsville, AL | 🇺🇸 | 2026-08-31 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Manufacturing-Quality-Intern_R-00190547) |
 | Leidos 🔥 | Electronics Technician Co-Op | Huntsville, AL | 🇺🇸 | 2026-09-04 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Electronics-Technician-Co-Op_R-00191451) |
 | Leidos 🔥 | Civil Engineer Intern | Chicago, IL | 🇺🇸 | 2026-09-08 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Chicago-IL/Civil-Engineer-Intern_R-00191578) |
@@ -901,6 +904,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-04 (later), scanner cron, 3 roles added.** 🎯 Northrop Grumman 2027 Software Engineering Intern Boulder CO + Roy UT; 🎯 Leidos Software Engineering & AI Intern (remote US, posted same day). No scanner errors.
 > **2026-11-03, scanner cron, 5 roles added.** Rocket Lab Ground Systems Engineering Intern Spring 2027 + Summer 2027 (Middle River MD, posted 11-02); Shield AI 🎯 Summer 2027 Embedded Firmware Intern (Dallas TX, no posted date); 🎯 Nvidia AI Compiler and Kernel Intern Summer 2027 (Austin TX); 🎯 Northrop Grumman 2027 Engineering Intern (Software/Mission Assurance/Quality) Chandler AZ. Excluded: Nvidia SWE Intern Munich (non-US), Leidos Intern Engineer (Australia, non-US), Northrop 2027 Global Supply Intern (supply chain). No scanner errors.
 > **2026-11-02 (later 3), scanner cron, 4 roles added.** 🎯 The Aerospace Corporation 2027 Software Engineering Undergrad + Grad Interns (El Segundo CA, R017102/R017101, posted same day); 🎯 Leidos Software Engineering Intern + Data Science Intern (Arlington VA, posted same day). PARTIAL COVERAGE: Northrop Grumman board errored (fetch failed).
+> **2026-11-04 (later 2), scanner cron, 3 roles added.** Draper Sensor Electrical Engineering Intern + Optics-Physics Sensor Engineering Intern + Electro-Mechanical Instrument Intern (all Summer 2027, Cambridge MA, posted same day). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
