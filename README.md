@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-11-03
-Open verified 2027 roles: 833
+Last updated: 2026-11-04
+Open verified 2027 roles: 836
 
 ---
 
@@ -484,6 +484,9 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 🎯 🆕 | 2027 Engineering Intern (Software/Mission Assurance/Quality) - Chandler AZ | Chandler, AZ | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075111456) |
 | Northrop Grumman 🔥 | 2027 Engineering Intern (ME/EE) - Wallops VA | Wallops Island, VA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074832201) |
 | Northrop Grumman 🔥 | 2027 Mechanical Engineering Intern - Clearfield UT | Clearfield, UT | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074950454) |
+| Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Colorado Springs | Colorado Springs, CO | 🇺🇸 | 2026-11-04 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074993344) |
+| Northrop Grumman 🔥 🎯 | 2027 Systems Engineering Intern - Colorado Springs CO | Colorado Springs, CO | 🇺🇸 | 2026-11-04 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074993705) |
+| Northrop Grumman 🔥 | 2027 Electrical Engineering Intern - Colorado Springs | Colorado Springs, CO | 🇺🇸 | 2026-11-04 | [Apply](https://jobs.northropgrumman.com/careers/job/1340075142292) |
 | Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Beavercreek OH | Beavercreek, OH | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074952406) |
 | GE Aerospace 🔥 | Unison Engineering Intern (Summer 2027) | Jacksonville, FL / Norwich, NY / Dayton, OH / St. George, UT | | 2026-08-18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) |
 | GE Aerospace 🔥 🎯 | Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 | Evendale, OH | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) |
@@ -892,6 +895,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-02, scanner cron, 2 roles added.** SNC Data Science Intern Summer 2027 (Sparks NV, R0031257, posted same day); The Aerospace Corporation 2027 Space Communications and Network Systems Undergrad Intern (El Segundo CA, posted 5 days ago). PARTIAL COVERAGE: Relativity Space, Northrop Grumman, Impulse Space boards errored (fetch failed).
 > **2026-11-02 (later), scanner cron, 4 roles added.** 🎯 SNC DevOps Engineer Intern + 2x 🎯 Software Engineer Intern (all Summer 2027, Southern Pines NC, posted same day); Draper Integrated Circuits Intern (Cambridge MA, req JR002783, posted same day). PARTIAL COVERAGE: Northrop Grumman board errored (fetch failed).
 > **2026-11-02 (later 2), scanner cron, 2 roles added.** Shield AI Structures / Mechanical Test Co-op January 2027 (Dallas TX, Lever, Spring table, no posted date); Northrop Grumman 2027 Structural Engineering Intern (Roy UT). Excluded GE Aerospace EID Intern - Fluids Systems (Queretaro, non-US). No scanner errors.
+> **2026-11-04, scanner cron, 3 roles added.** 🎯 Northrop Grumman 2027 Software Engineering Intern + 🎯 Systems Engineering Intern + Electrical Engineering Intern (all Colorado Springs CO). Excluded: GE Aerospace Materials Science Intern (Bengaluru), Teledyne FLIR Hardware Design Test Co-op (Waterloo, Canada), Boeing Future Flight Operations Research Intern (Germany) as non-US; Leidos Migration Execution Intern as IT/non-engineering. No scanner errors.
 > **2026-11-03, scanner cron, 5 roles added.** Rocket Lab Ground Systems Engineering Intern Spring 2027 + Summer 2027 (Middle River MD, posted 11-02); Shield AI 🎯 Summer 2027 Embedded Firmware Intern (Dallas TX, no posted date); 🎯 Nvidia AI Compiler and Kernel Intern Summer 2027 (Austin TX); 🎯 Northrop Grumman 2027 Engineering Intern (Software/Mission Assurance/Quality) Chandler AZ. Excluded: Nvidia SWE Intern Munich (non-US), Leidos Intern Engineer (Australia, non-US), Northrop 2027 Global Supply Intern (supply chain). No scanner errors.
 > **2026-11-02 (later 3), scanner cron, 4 roles added.** 🎯 The Aerospace Corporation 2027 Software Engineering Undergrad + Grad Interns (El Segundo CA, R017102/R017101, posted same day); 🎯 Leidos Software Engineering Intern + Data Science Intern (Arlington VA, posted same day). PARTIAL COVERAGE: Northrop Grumman board errored (fetch failed).
 
