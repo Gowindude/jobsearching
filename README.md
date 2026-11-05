@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-11-05
-Open verified 2027 roles: 847
+Open verified 2027 roles: 848
 
 ---
 
@@ -547,6 +547,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | GE Aerospace 🔥 | US Engineering Intern – Muskegon, MI – Summer 2027 | Muskegon, MI |  | 2026-10-13 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Muskegon/US-Engineering-Intern---Muskegon--MI---Summer-2027_R5041531-1) |
 | GE Aerospace 🔥 | Artificial Intelligence Intern | Remote | 🇺🇸 | 2026-11-01 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Remote/Artificial-Intelligence-Intern_R5042294-1) |
 | GE Aerospace 🔥 | Artificial Intelligence Intern | Remote | 🇺🇸 | 2026-11-01 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Remote/Artificial-Intelligence-Intern_R5042291-1) |
+| GE Aerospace 🔥 🆕 | Propulsion Performance Engineering Intern - Bohemia, NY - Summer 2027 | Bohemia, NY | 🇺🇸 | 2026-11-05 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Bohemia/Propulsion-Performance-Engineering-Intern---Bohemia--NY---Summer-2027_R5042754-2) |
 | Amentum 🔥 🎯 | Software Engineering Intern (Space Force Range Contract) | Cocoa Beach, FL | 🇺🇸 | 2026-08-31 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-FL-Cocoa-Beach/Software-Engineering-Intern_R0169322) |
 | Amentum 🔥 🎯 | Summer 2027 Intern - Structural Dynamics Engineer | Houston, TX | 🇺🇸 | 2026-08-24 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-TX-Houston/Summer-2027-Intern---Structural-Dynamics-Engineer_R0168655) |
 | Amentum 🔥 🎯 | Controls & Instrumentation Engineer Intern | Detroit, MI | 🇺🇸 | 2026-09-04 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-MI-Detroit/Controls---Instrumentation-Engineer-Intern_R0169793) |
@@ -912,6 +913,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-04 (later 2), scanner cron, 3 roles added.** Draper Sensor Electrical Engineering Intern + Optics-Physics Sensor Engineering Intern + Electro-Mechanical Instrument Intern (all Summer 2027, Cambridge MA, posted same day). No scanner errors.
 > **2026-11-04 (later 3), scanner cron, 2 roles added.** Nvidia VLSI Timing Methodology Intern - Summer 2027 (Santa Clara CA, posted same day); Booz Allen University AI RAN Telecommunications Engineer Intern (McLean VA, req R0253024, no stated term, posted same day). Excluded: Teledyne FLIR Software Engineering Coop (Waterloo, Canada, non-US). No scanner errors.
 > **2026-11-05, scanner cron, 3 roles added.** 🎯 Shield AI June 2027 Co-Op - Software Engineer Intern (Dallas TX); 🎯 SNC Firmware Engineer Intern Summer 2027 (Sparks NV, posted same day); The Aerospace Corporation 2027 Battery Test Lab Undergraduate Intern (El Segundo CA, posted same day). Excluded: Palantir SWE Internship - Sovereign AI Systems (London UK + New York; standing Palantir SWE exclusion), SNC Systems Engineer Intern (For SNC Summer 2026 Interns Only), Nvidia Physics Simulation SWE Intern (Zurich, non-US), Nvidia HR Intern (non-technical), Northrop Grumman Business Development Interns (Roy UT + Mesa AZ; non-technical). No scanner errors.
+> **2026-11-05 (later), scanner cron, 1 role added.** GE Aerospace Propulsion Performance Engineering Intern Summer 2027 (Bohemia NY, posted same day). Excluded: Leidos Physiology Research Intern (San Diego; biomedical research, not engineering). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
