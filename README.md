@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-11-04
-Open verified 2027 roles: 842
+Open verified 2027 roles: 844
 
 ---
 
@@ -584,6 +584,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Nvidia 🔥 🎯 🆕 | AI Systems Software Engineering Intern – Summer 2027 | Austin, TX | 🇺🇸 | 2026-10-29 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170) |
 | Nvidia 🔥 🎯 🆕 | AI Compiler and Kernel Intern – Summer 2027 | Austin, TX | 🇺🇸 | 2026-11-02 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1) |
 | Nvidia 🔥 🆕 | VLSI CAD Timing Intern, Applied AI - Summer 2027 | Santa Clara, CA | 🇺🇸 | 2026-10-29 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799) |
+| Nvidia 🔥 🆕 | VLSI Timing Methodology Intern - Summer 2027 | Santa Clara, CA | 🇺🇸 | 2026-11-04 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-Timing-Methodology-Intern---Summer-2027_JR2026798) |
 | Gulfstream (General Dynamics) 🔥 | Summer 2027 IEF - Advanced Structures & Materials (ASMI) College Associate Intern | Savannah, GA | | Unknown | [Apply](https://careers.gulfstream.com/job/Savannah-Summer-2027-IEF-Advanced-Structures-and-Materials-%28ASMI%29-College-Associate-Intern-GA-31401/1417869000/) |
 | Draper Laboratory 🔥 | Mechanical Engineering & System Packaging Intern | Cambridge, MA | | 2026-08-12 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern_JR002797) |
 | Draper Laboratory 🔥 🎯 | Embedded Quality & Fielded Systems Intern | Cambridge, MA | | 2026-08-05 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718) |
@@ -720,6 +721,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Data Scientist Intern - Annapolis Junction, MD | Annapolis Junction, MD | 🇺🇸 | Unknown | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Data-Scientist-Intern---Annapolis-Junction--MD_R0248408) |
 | Booz Allen Hamilton 🔥 🆕 | Test Engineer Intern | Lexington Park, MD | 🇺🇸 | 2026-10-27 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-Park-MD/Test-Engineer-Intern_R0252409) |
 | Booz Allen Hamilton 🔥 🆕 | Design and Verification Engineer Intern | Beavercreek, OH | 🇺🇸 | 2026-10-28 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Design-and-Verification-Engineer-Intern_R0252482) |
+| Booz Allen Hamilton 🔥 🆕 | University, AI RAN Telecommunications Engineer Intern (req R0253024) | McLean, VA | 🇺🇸 | 2026-11-04 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024) |
 | Leidos 🔥 🎯 | Software Developer Intern | Annapolis Junction, MD | 🇺🇸 | Unknown | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00192858) |
 | Leidos 🔥 🎯 | Software Development Intern | Gaithersburg, MD | 🇺🇸 | Unknown | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Gaithersburg-MD/Software-Development-Intern_R-00193103) |
 | Leidos 🔥 🎯 | Lunar Terrain Vehicle – Engineering Intern | Huntsville, AL | 🇺🇸 | Unknown | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Lunar-Terrain-Vehicle---Engineering-Intern_R-00192848) |
@@ -905,6 +907,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-03, scanner cron, 5 roles added.** Rocket Lab Ground Systems Engineering Intern Spring 2027 + Summer 2027 (Middle River MD, posted 11-02); Shield AI 🎯 Summer 2027 Embedded Firmware Intern (Dallas TX, no posted date); 🎯 Nvidia AI Compiler and Kernel Intern Summer 2027 (Austin TX); 🎯 Northrop Grumman 2027 Engineering Intern (Software/Mission Assurance/Quality) Chandler AZ. Excluded: Nvidia SWE Intern Munich (non-US), Leidos Intern Engineer (Australia, non-US), Northrop 2027 Global Supply Intern (supply chain). No scanner errors.
 > **2026-11-02 (later 3), scanner cron, 4 roles added.** 🎯 The Aerospace Corporation 2027 Software Engineering Undergrad + Grad Interns (El Segundo CA, R017102/R017101, posted same day); 🎯 Leidos Software Engineering Intern + Data Science Intern (Arlington VA, posted same day). PARTIAL COVERAGE: Northrop Grumman board errored (fetch failed).
 > **2026-11-04 (later 2), scanner cron, 3 roles added.** Draper Sensor Electrical Engineering Intern + Optics-Physics Sensor Engineering Intern + Electro-Mechanical Instrument Intern (all Summer 2027, Cambridge MA, posted same day). No scanner errors.
+> **2026-11-04 (later 3), scanner cron, 2 roles added.** Nvidia VLSI Timing Methodology Intern - Summer 2027 (Santa Clara CA, posted same day); Booz Allen University AI RAN Telecommunications Engineer Intern (McLean VA, req R0253024, no stated term, posted same day). Excluded: Teledyne FLIR Software Engineering Coop (Waterloo, Canada, non-US). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
