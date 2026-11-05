@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-11-04
-Open verified 2027 roles: 844
+Last updated: 2026-11-05
+Open verified 2027 roles: 847
 
 ---
 
@@ -297,6 +297,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Shield AI 🔥 | June 2027 Co-op - Reliability Engineering | Seattle, WA | 🇺🇸 | Unknown | [Apply](https://jobs.lever.co/shieldai/bef440ce-0365-4de7-9b1e-b1288cdaf7f3) |
 | Shield AI 🔥 | Summer 2027 - Product Support Engineering Intern | Dallas, TX | 🇺🇸 | Unknown | [Apply](https://jobs.lever.co/shieldai/5fb0fc3c-3747-4351-92fd-459b3df7c82c) |
 | Shield AI 🔥 🎯 🆕 | Summer 2027 - Embedded Firmware Intern | Dallas, TX | 🇺🇸 | Unknown | [Apply](https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4) |
+| Shield AI 🔥 🎯 | June 2027 Co-Op - Software Engineer Intern | Dallas, TX | 🇺🇸 | Unknown | [Apply](https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949) |
 | Katalyst Space Technologies 🔥 🎯 | Engineering Intern (Electrical / Mechanical / GNC / Software) | Broomfield, CO | 🇺🇸 | 2026-08-31 | [Apply](https://job-boards.greenhouse.io/katalyst/jobs/6176711004) |
 | AeroVironment 🔥 | Electrical Engineering Intern | Simi Valley, CA | 🇺🇸 | 2026-09-01 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Electrical-Engineering-Intern_8588) |
 | AeroVironment 🔥 🎯 | Software Engineering Intern | Sunrise, FL | 🇺🇸 | 2026-09-01 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Sunrise-FL/Software-Engineering-Intern_8589) |
@@ -627,6 +628,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | The Aerospace Corporation 🔥 🎯 | 2027 Communication Systems and Signal Processing Undergrad Intern | El Segundo, CA | 🇺🇸 | 2026-09-17 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Communication-Systems-and-Signal-Processing-Undergrad-Intern_R016600) |
 | The Aerospace Corporation 🔥 🎯 | 2027 SDR/Digital Signal Processing Undergraduate Intern | Chantilly, VA | 🇺🇸 | 2026-09-15 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Chantilly-VA/XMLNAME-2027-SDR-Digital-Signal-Processing-Undergraduate-Intern_R016558) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Formal Methods Researcher Graduate Intern | El Segundo, CA (+6 other sites) | 🇺🇸 | 2026-09-15 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Formal-Methods-Researcher-Graduate-Intern_R016552) |
+| The Aerospace Corporation 🔥 | 2027 Battery Test Lab Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-11-05 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Battery-Test-Lab-Undergraduate-Intern_R016885) |
 | The Aerospace Corporation 🔥 | 2027 Power Systems Engineering Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-09-15 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Undergraduate-Intern_R016530) |
 | The Aerospace Corporation 🔥 | 2027 Power Systems Engineering Graduate Intern | El Segundo, CA | 🇺🇸 | 2026-09-15 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Graduate-Intern_R016527) |
 | The Aerospace Corporation 🔥 | 2027 Power and Analog Circuit Engineering Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-09-15 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Power-and-Analog-Circuit-Engineering-Undergraduate-Intern_R016533) |
@@ -761,6 +763,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Sierra Nevada Corporation 🔥 🎯 | Systems Engineering Intern (Summer 2027) | Lone Tree, CO | 🇺🇸 | 2026-09-04 | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Systems-Engineering-Intern--Summer-2027-_R0030750) |
 | Sierra Nevada Corporation 🔥 🎯 | Systems Engineering Intern (Summer 2027) | Plano, TX | 🇺🇸 | 2026-09-04 | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Plano-TX/Systems-Engineering-Intern--Summer-2027-_R0030752) |
 | Sierra Nevada Corporation 🔥 🎯 | Systems Engineer Intern (Summer 2027) | Dayton, OH | 🇺🇸 | 2026-09-04 | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Dayton-OH/Systems-Engineer-Intern--Summer-2027-_R0030749) |
+| Sierra Nevada Corporation 🔥 🎯 | Firmware Engineer Intern (Summer 2027) | Sparks, NV | 🇺🇸 | 2026-11-05 | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Sparks-NV/Firmware-Engineer-Intern--Summer-2027-_R0031233) |
 | Sierra Nevada Corporation 🔥 | Test Engineering Intern (Summer 2027) | Hagerstown, MD | 🇺🇸 | 2026-09-04 | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Hagerstown-MD/Test-Engineering-Intern--Summer-2027-_R0030772) |
 | Sierra Nevada Corporation 🔥 | Test Engineering Intern (Summer 2027) | Dayton, OH | 🇺🇸 | 2026-09-04 | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Dayton-OH/Test-Engineering-Intern--Summer-2027-_R0030766) |
 | Sierra Nevada Corporation 🔥 | Test Engineering Intern (Summer 2027) | Lone Tree, CO | 🇺🇸 | 2026-09-04 | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Test-Engineering-Intern--Summer-2027-_R0030771) |
@@ -908,6 +911,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-02 (later 3), scanner cron, 4 roles added.** 🎯 The Aerospace Corporation 2027 Software Engineering Undergrad + Grad Interns (El Segundo CA, R017102/R017101, posted same day); 🎯 Leidos Software Engineering Intern + Data Science Intern (Arlington VA, posted same day). PARTIAL COVERAGE: Northrop Grumman board errored (fetch failed).
 > **2026-11-04 (later 2), scanner cron, 3 roles added.** Draper Sensor Electrical Engineering Intern + Optics-Physics Sensor Engineering Intern + Electro-Mechanical Instrument Intern (all Summer 2027, Cambridge MA, posted same day). No scanner errors.
 > **2026-11-04 (later 3), scanner cron, 2 roles added.** Nvidia VLSI Timing Methodology Intern - Summer 2027 (Santa Clara CA, posted same day); Booz Allen University AI RAN Telecommunications Engineer Intern (McLean VA, req R0253024, no stated term, posted same day). Excluded: Teledyne FLIR Software Engineering Coop (Waterloo, Canada, non-US). No scanner errors.
+> **2026-11-05, scanner cron, 3 roles added.** 🎯 Shield AI June 2027 Co-Op - Software Engineer Intern (Dallas TX); 🎯 SNC Firmware Engineer Intern Summer 2027 (Sparks NV, posted same day); The Aerospace Corporation 2027 Battery Test Lab Undergraduate Intern (El Segundo CA, posted same day). Excluded: Palantir SWE Internship - Sovereign AI Systems (London UK + New York; standing Palantir SWE exclusion), SNC Systems Engineer Intern (For SNC Summer 2026 Interns Only), Nvidia Physics Simulation SWE Intern (Zurich, non-US), Nvidia HR Intern (non-technical), Northrop Grumman Business Development Interns (Roy UT + Mesa AZ; non-technical). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
