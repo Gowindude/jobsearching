@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-11-06
-Open verified 2027 roles: 853
+Open verified 2027 roles: 855
 
 ---
 
@@ -516,6 +516,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Leidos 🔥 🎯 | Jr. Software Engineer Intern | Tucson, AZ | 🇺🇸 | 2026-09-21 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Tucson-AZ/Jr-Software-Engineer-Intern_R-00192184) |
 | Leidos 🔥 | Power Delivery Engineering Intern | Greensboro, NC | 🇺🇸 | 2026-09-15 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Greensboro-NC/Power-Delivery-Engineering-Intern_R-00192019) |
 | Leidos 🔥 | Research Engineer Intern | Pittsburgh, PA | 🇺🇸 | 2026-09-17 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Pittsburgh-PA/Research-Engineer-Intern_R-00192500) |
+| Leidos 🔥 🎯 🆕 | AI/Automation Development Intern - Assessment & Authorization | Remote (US) | 🇺🇸 | Posted Today | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319) |
 | Leidos 🔥 | Naval Architecture Intern | New York, NY | 🇺🇸 | 2026-09-17 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/New-York-NY/Naval-Architecture-Intern_R-00192491) |
 | Leidos 🔥 | Relay Settings Intern | Remote (US) | 🇺🇸 | 2026-09-18 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Relay-Settings-Intern_R-00192628) |
 | Leidos 🔥 🎯 | Technical Intern (AI/Automation, Navy SMIT) | Remote (US) | 🇺🇸 | 2026-09-16 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00192448) |
@@ -808,6 +809,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Sierra Nevada Corporation 🔥 🎯 🆕 | DevOps Engineer Intern (Summer 2027) | Southern Pines, NC | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Southern-Pines-NC/DevOps-Engineer-Intern--Summer-2027-_R0031238-1) |
 | Sierra Nevada Corporation 🔥 🎯 🆕 | Software Engineer Intern (Summer 2027) | Southern Pines, NC | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031230) |
 | Sierra Nevada Corporation 🔥 🎯 🆕 | Software Engineer Intern (Summer 2027) | Southern Pines, NC | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031229) |
+| Sierra Nevada Corporation 🔥 🆕 | Liaison Engineer Intern - Summer 2027 | Vandalia, OH | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Vandalia-OH/Liason-Engineer-Intern_R0031178) |
 
 > **2026-09-04: Sierra Nevada Corporation's full Summer 2027 intern wave dropped** (spacecraft/satellite systems & defense electronics — distinct from Sierra Space), first-ever roles tracked for this company. 35 postings found across Hagerstown MD, Lone Tree CO, Plano TX, Dayton OH, Sparks NV, Southern Pines NC, Folsom CA; added the 29 technical ones above. Skipped as non-technical: 4x Project Coordinator Intern (Sparks NV, Hagerstown MD, Plano TX, Lone Tree CO) and IT Support Technician Intern (Lone Tree CO, Summer 2027). Also skipped IT Support Technician Intern (Sparks NV) — wrong term (Summer 2026). 🎯-tagged: all 6 Software Engineering Intern reqs and all 4 Systems Engineering/Systems Engineer Intern reqs.
 
@@ -920,6 +922,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-05 (later), scanner cron, 1 role added.** GE Aerospace Propulsion Performance Engineering Intern Summer 2027 (Bohemia NY, posted same day). Excluded: Leidos Physiology Research Intern (San Diego; biomedical research, not engineering). No scanner errors.
 > **2026-11-06, scanner cron, 2 roles added.** Northrop Grumman 2027 Electrical Engineering Intern (Huntsville AL); Northrop Grumman 2027 Mechanical Engineer Intern (Gilbert AZ). No scanner errors.
 > **2026-11-06 (later), scanner cron, 3 roles added.** Draper GNC Systems Engineering Intern (Summer 2027) and GNC Systems Engineering Co-Op (Spring 2027), both Cambridge MA; Booz Allen Test Engineer Intern (Lexington Park MD, no term, posted same day). Excluded: Teledyne FLIR Lifesciences Coop (Waterloo, Canada, non-US); Leidos Strategic Sourcing Buyer Intern (supply chain, non-technical). No scanner errors.
+> **2026-11-06 (later 3), scanner cron, 2 roles added.** SNC Liaison Engineer Intern - Summer 2027 (Vandalia OH, R0031178, posted same day); 🎯 Leidos AI/Automation Development Intern - Assessment & Authorization (Remote US, no stated term, posted same day). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
