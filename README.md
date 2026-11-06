@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-11-06
-Open verified 2027 roles: 850
+Open verified 2027 roles: 853
 
 ---
 
@@ -605,6 +605,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Draper Laboratory 🔥 🎯 🆕 | Sensor Electrical Engineering Intern (Summer 2027) | Cambridge, MA | | Posted Today | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Sensor-Electrical-Engineering-Intern--Summer-2027-_JR003095) |
 | Draper Laboratory 🔥 🎯 🆕 | Optics-Physics Sensor Engineering Intern (Summer 2027) | Cambridge, MA | | Posted Today | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Optics-Physics-Sensor-Engineering-Intern--Summer-2027-_JR003094) |
 | Draper Laboratory 🔥 🆕 | Electro-Mechanical Instrument Intern (Summer 2027) | Cambridge, MA | | Posted Today | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Electro-Mechanical-Instrument-Intern--Summer-2027-_JR003093) |
+| Draper Laboratory 🔥 🎯 🆕 | GNC Systems Engineering Intern (Summer 2027) | Cambridge, MA | | Posted Today | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/GNC-Systems-Engineering-Intern--Summer-2027-_JR003129) |
 | Leidos 🔥 | Manufacturing/Quality Intern | Huntsville, AL | 🇺🇸 | 2026-08-31 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Manufacturing-Quality-Intern_R-00190547) |
 | Leidos 🔥 | Electronics Technician Co-Op | Huntsville, AL | 🇺🇸 | 2026-09-04 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Electronics-Technician-Co-Op_R-00191451) |
 | Leidos 🔥 | Civil Engineer Intern | Chicago, IL | 🇺🇸 | 2026-09-08 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Chicago-IL/Civil-Engineer-Intern_R-00191578) |
@@ -718,6 +719,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Booz Allen Hamilton 🔥 🎯 | AI Software Developer Intern | San Diego, CA | 🇺🇸 | Unknown | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/AI-Software-Developer-Intern_R0248115) |
 | Booz Allen Hamilton 🔥 🎯 | University - Summer 2027 Electronic Warfare FPGA Engineering Intern | Beavercreek, OH | 🇺🇸 | Unknown | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/University---Summer-2027-Electronic-Warfare-FPGA-Engineering-Intern_R0248465-1) |
 | Booz Allen Hamilton 🔥 | University - Summer 2027 Quantum Computing Research Intern | Washington, DC | 🇺🇸 | Unknown | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/University---Summer-2027-Quantum-Computing-Research-Intern_R0249046) |
+| Booz Allen Hamilton 🔥 🆕 | Test Engineer Intern | Lexington Park, MD | | Posted Today | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-Park-MD/Test-Engineer-Intern_R0253124) |
 | Booz Allen Hamilton 🔥 | Systems Administrator Intern | Annapolis Junction, MD | 🇺🇸 | Unknown | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Systems-Administrator-Intern_R0249565) |
 | Booz Allen Hamilton 🔥 | Product Engineering Intern | McLean, VA | 🇺🇸 | 2026-10-01 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Product-Engineering-Intern_R0250655) |
 | Booz Allen Hamilton 🔥 | University - 2027 Summer Games Cyber Security Intern - Annapolis Junction, MD | Annapolis Junction, MD | 🇺🇸 | 2026-09-08 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Cyber-Security-Intern---Annapolis-Junction--MD_R0248414) |
@@ -917,6 +919,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-05, scanner cron, 3 roles added.** 🎯 Shield AI June 2027 Co-Op - Software Engineer Intern (Dallas TX); 🎯 SNC Firmware Engineer Intern Summer 2027 (Sparks NV, posted same day); The Aerospace Corporation 2027 Battery Test Lab Undergraduate Intern (El Segundo CA, posted same day). Excluded: Palantir SWE Internship - Sovereign AI Systems (London UK + New York; standing Palantir SWE exclusion), SNC Systems Engineer Intern (For SNC Summer 2026 Interns Only), Nvidia Physics Simulation SWE Intern (Zurich, non-US), Nvidia HR Intern (non-technical), Northrop Grumman Business Development Interns (Roy UT + Mesa AZ; non-technical). No scanner errors.
 > **2026-11-05 (later), scanner cron, 1 role added.** GE Aerospace Propulsion Performance Engineering Intern Summer 2027 (Bohemia NY, posted same day). Excluded: Leidos Physiology Research Intern (San Diego; biomedical research, not engineering). No scanner errors.
 > **2026-11-06, scanner cron, 2 roles added.** Northrop Grumman 2027 Electrical Engineering Intern (Huntsville AL); Northrop Grumman 2027 Mechanical Engineer Intern (Gilbert AZ). No scanner errors.
+> **2026-11-06 (later), scanner cron, 3 roles added.** Draper GNC Systems Engineering Intern (Summer 2027) and GNC Systems Engineering Co-Op (Spring 2027), both Cambridge MA; Booz Allen Test Engineer Intern (Lexington Park MD, no term, posted same day). Excluded: Teledyne FLIR Lifesciences Coop (Waterloo, Canada, non-US); Leidos Strategic Sourcing Buyer Intern (supply chain, non-technical). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
@@ -1082,6 +1085,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Draper Laboratory 🔥 | Materials and Chemistry Engineering Co-op (Spring 2027) | Cambridge, MA | 🇺🇸 | 2026-09-21 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Materials-and-Chemistry-Engineering-Co-op--Spring-2027-_JR002942) |
 | Draper Laboratory 🔥 🎯 | Systems Engineering Co-Op (Spring 2027) | Cambridge, MA | 🇺🇸 | 2026-09-11 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Systems-Engineering-Co-Op--Spring-2027-_JR002882) |
 | Draper Laboratory 🔥 | Optoelectronics Electrical Engineering Co-Op | Cambridge, MA | | Posted Today | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Optoelectronics-Electrical-Engineering-Co-Op_JR003044-1) |
+| Draper Laboratory 🔥 🎯 🆕 | GNC Systems Engineering Co-Op (Spring 2027) | Cambridge, MA | | Posted Today | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/GNC-Systems-Engineering-Co-Op--Spring-2027-_JR003131) |
 | Amentum 🔥 🎯 | Intern - GN&C Spring Intern | Huntsville, AL | 🇺🇸 | 2026-09-11 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-AL-Huntsville/Intern---GN-C-Spring-Intern_R0170497) |
 | Amentum 🔥 🎯 🆕 | Intern - GN&C Graduate Spring Intern | Huntsville, AL | 🇺🇸 | 2026-10-28 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-AL-Huntsville/Intern---GN-C-Graduate-Spring-Intern_R0174245) |
 | Amentum 🔥 🎯 🆕 | Spring 2027 Intern - Structural Dynamics Engineer | Houston, TX | 🇺🇸 | 2026-10-28 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-TX-Houston/Spring-2027-Intern---Structural-Dynamics-Engineer_R0174115) |
