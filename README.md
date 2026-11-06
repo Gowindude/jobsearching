@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-11-05
-Open verified 2027 roles: 848
+Last updated: 2026-11-06
+Open verified 2027 roles: 850
 
 ---
 
@@ -434,6 +434,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 | 2027 Facilities Engineering Intern | Clearfield, UT | 🇺🇸 | 2026-09-19 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074348455) |
 | Northrop Grumman 🔥 | 2027 Manufacturing Engineer Intern | Iuka, MS | 🇺🇸 | 2026-09-19 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074352752) |
 | Northrop Grumman 🔥 | 2027 Structural Engineer Intern | Clearfield, UT | 🇺🇸 | 2026-09-20 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074355009) |
+| Northrop Grumman 🔥 🆕 | 2027 Electrical Engineering Intern- Huntsville AL | Huntsville, AL | 🇺🇸 | 2026-11-06 | [Apply](https://jobs.northropgrumman.com/careers/job/1340075168503) |
+| Northrop Grumman 🔥 🆕 | 2027 Mechanical Engineer Intern- Gilbert AZ | Gilbert, AZ | 🇺🇸 | 2026-11-06 | [Apply](https://jobs.northropgrumman.com/careers/job/1340075030334) |
 | Northrop Grumman 🔥 | 2027 Engineering Intern - Huntsville AL | Huntsville, AL | 🇺🇸 | 2026-09-10 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074242619) |
 | Northrop Grumman 🔥 | 2027 Systems Security Engineering Intern - Roy UT | Roy, UT | 🇺🇸 | 2026-09-13 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074212960) |
 | Northrop Grumman 🔥 🎯 | 2027 Intern Software Engineer | San Diego, CA (+3 other CA sites) | 🇺🇸 | 2026-09-14 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074283170) |
@@ -914,6 +916,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-04 (later 3), scanner cron, 2 roles added.** Nvidia VLSI Timing Methodology Intern - Summer 2027 (Santa Clara CA, posted same day); Booz Allen University AI RAN Telecommunications Engineer Intern (McLean VA, req R0253024, no stated term, posted same day). Excluded: Teledyne FLIR Software Engineering Coop (Waterloo, Canada, non-US). No scanner errors.
 > **2026-11-05, scanner cron, 3 roles added.** 🎯 Shield AI June 2027 Co-Op - Software Engineer Intern (Dallas TX); 🎯 SNC Firmware Engineer Intern Summer 2027 (Sparks NV, posted same day); The Aerospace Corporation 2027 Battery Test Lab Undergraduate Intern (El Segundo CA, posted same day). Excluded: Palantir SWE Internship - Sovereign AI Systems (London UK + New York; standing Palantir SWE exclusion), SNC Systems Engineer Intern (For SNC Summer 2026 Interns Only), Nvidia Physics Simulation SWE Intern (Zurich, non-US), Nvidia HR Intern (non-technical), Northrop Grumman Business Development Interns (Roy UT + Mesa AZ; non-technical). No scanner errors.
 > **2026-11-05 (later), scanner cron, 1 role added.** GE Aerospace Propulsion Performance Engineering Intern Summer 2027 (Bohemia NY, posted same day). Excluded: Leidos Physiology Research Intern (San Diego; biomedical research, not engineering). No scanner errors.
+> **2026-11-06, scanner cron, 2 roles added.** Northrop Grumman 2027 Electrical Engineering Intern (Huntsville AL); Northrop Grumman 2027 Mechanical Engineer Intern (Gilbert AZ). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
