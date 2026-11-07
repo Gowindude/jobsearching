@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-11-06
-Open verified 2027 roles: 855
+Open verified 2027 roles: 857
 
 ---
 
@@ -229,6 +229,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Varda Space Industries 🔥 | Propulsion Engineering Internship - Summer 2027 | El Segundo, CA | 🇺🇸 | 2026-10-01 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010169003) |
 | Varda Space Industries 🔥 | Structures Engineering Internship - Summer 2027 | El Segundo, CA | 🇺🇸 | 2026-10-01 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010167003) |
 | Varda Space Industries 🔥 | Thermal Engineering Internship - Summer 2027 | El Segundo, CA | 🇺🇸 | 2026-10-01 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010172003) |
+| Varda Space Industries 🔥 🆕 | Site Reliability Internship - Summer 2027 | El Segundo, CA | 🇺🇸 | 2026-11-06 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8198267003) |
 | Varda Space Industries 🔥 | Vehicle Integration & Test Internship - Summer 2027 | El Segundo, CA | 🇺🇸 | 2026-10-01 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010170003) |
 | Sierra Space 🔥 🎯 | 2027 Systems Engineer Intern | Louisville, CO (+1 other site) | 🇺🇸 | 2026-10-02 | [Apply](https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Louisville-CO/XMLNAME-2027-Systems-Engineer-Intern_R26378) |
 | Sierra Space 🔥 | Summer 2027 Manufacturing Engineer Intern | Broomfield, CO | 🇺🇸 | 2026-10-08 | [Apply](https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Broomfield-CO/Summer-2027-Manufacturing-Engineer-Intern_R26389) |
@@ -417,6 +418,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 | 2027 Electrical Engineering Internship - Dulles VA | Dulles, VA | 🇺🇸 | 2026-09-08 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074156812) |
 | Northrop Grumman 🔥 🎯 | 2027 Systems Engineer Intern - Colorado Springs CO | Colorado Springs, CO | 🇺🇸 | 2026-09-08 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074210540) |
 | Northrop Grumman 🔥 🎯 | 2027 Systems Engineering Intern - Huntsville AL | Huntsville, AL | 🇺🇸 | 2026-09-08 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074210255) |
+| Northrop Grumman 🔥 🆕 🎯 | 2027 Systems Engineer Intern - Cape Canaveral FL | Cape Canaveral, FL | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074357144) |
 | Northrop Grumman 🔥 | 2027 Systems Safety Engineering Intern - Roy UT | Roy, UT | 🇺🇸 | 2026-09-08 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074210819) |
 | Northrop Grumman 🔥 | 2027 Engineering Intern - Huntsville AL | Huntsville, AL | 🇺🇸 | 2026-09-08 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074213696) |
 | Northrop Grumman 🔥 🎯 | 2027 Intern Software Engineer | San Diego, CA (+5 other CA/OK/ND sites) | 🇺🇸 | 2026-09-10 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074229261) |
@@ -923,6 +925,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-06, scanner cron, 2 roles added.** Northrop Grumman 2027 Electrical Engineering Intern (Huntsville AL); Northrop Grumman 2027 Mechanical Engineer Intern (Gilbert AZ). No scanner errors.
 > **2026-11-06 (later), scanner cron, 3 roles added.** Draper GNC Systems Engineering Intern (Summer 2027) and GNC Systems Engineering Co-Op (Spring 2027), both Cambridge MA; Booz Allen Test Engineer Intern (Lexington Park MD, no term, posted same day). Excluded: Teledyne FLIR Lifesciences Coop (Waterloo, Canada, non-US); Leidos Strategic Sourcing Buyer Intern (supply chain, non-technical). No scanner errors.
 > **2026-11-06 (later 3), scanner cron, 2 roles added.** SNC Liaison Engineer Intern - Summer 2027 (Vandalia OH, R0031178, posted same day); 🎯 Leidos AI/Automation Development Intern - Assessment & Authorization (Remote US, no stated term, posted same day). No scanner errors.
+> **2026-11-06 (later 4), scanner cron, 2 roles added.** 🎯 Northrop Grumman 2027 Systems Engineer Intern (Cape Canaveral FL); Varda Site Reliability Internship - Summer 2027 (El Segundo CA, posted same day). Excluded: Astranis Embedded Software Network/Payload Intern (Winter 2027, wrong term); Shield AI Supplier Development Engineer and Supply Chain Materials Planner interns (supply chain, non-technical). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
