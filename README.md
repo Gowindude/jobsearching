@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-11-06
-Open verified 2027 roles: 857
+Last updated: 2026-11-09
+Open verified 2027 roles: 868
 
 ---
 
@@ -495,6 +495,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 🎯 🆕 | 2027 Software Engineering Intern - Boulder CO | Boulder, CO | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074983403) |
 | Northrop Grumman 🔥 🎯 🆕 | 2027 Software Engineering Intern - Roy UT | Roy, UT | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075153147) |
 | Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Beavercreek OH | Beavercreek, OH | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074952406) |
+| Northrop Grumman 🔥 🎯 🆕 | 2027 Software Testing Engineering Intern - Apopka FL | Apopka, FL | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075237932) |
 | GE Aerospace 🔥 | Unison Engineering Intern (Summer 2027) | Jacksonville, FL / Norwich, NY / Dayton, OH / St. George, UT | | 2026-08-18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) |
 | GE Aerospace 🔥 🎯 | Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 | Evendale, OH | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) |
 | GE Aerospace 🔥 | Digital Technology Intern – US – Atlanta, GA – Summer 2027 | Atlanta, GA | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Atlanta/Digital-Technology-Intern---US---Atlanta--GA----Summer-2027_R5038078) |
@@ -553,6 +554,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | GE Aerospace 🔥 | Artificial Intelligence Intern | Remote | 🇺🇸 | 2026-11-01 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Remote/Artificial-Intelligence-Intern_R5042294-1) |
 | GE Aerospace 🔥 | Artificial Intelligence Intern | Remote | 🇺🇸 | 2026-11-01 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Remote/Artificial-Intelligence-Intern_R5042291-1) |
 | GE Aerospace 🔥 🆕 | Propulsion Performance Engineering Intern - Bohemia, NY - Summer 2027 | Bohemia, NY | 🇺🇸 | 2026-11-05 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Bohemia/Propulsion-Performance-Engineering-Intern---Bohemia--NY---Summer-2027_R5042754-2) |
+| GE Aerospace 🔥 🎯 🆕 | Digital Systems Intern - Bohemia, NY - Summer 2027 | Bohemia, NY | | Posted Today | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Bohemia/Digital-Systems-Intern---Bohemia--NY---Summer-2027_R5042864-1) |
+| GE Aerospace 🔥 🎯 🆕 | GE Aerospace Research - Controls & Optimization Internship, 2027 | Niskayuna, NY | | Posted Today | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Niskayuna/GE-Aerospace-Research---Controls---Optimization-Internship--2027_R5043004-1) |
 | Amentum 🔥 🎯 | Software Engineering Intern (Space Force Range Contract) | Cocoa Beach, FL | 🇺🇸 | 2026-08-31 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-FL-Cocoa-Beach/Software-Engineering-Intern_R0169322) |
 | Amentum 🔥 🎯 | Summer 2027 Intern - Structural Dynamics Engineer | Houston, TX | 🇺🇸 | 2026-08-24 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-TX-Houston/Summer-2027-Intern---Structural-Dynamics-Engineer_R0168655) |
 | Amentum 🔥 🎯 | Controls & Instrumentation Engineer Intern | Detroit, MI | 🇺🇸 | 2026-09-04 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-MI-Detroit/Controls---Instrumentation-Engineer-Intern_R0169793) |
@@ -812,6 +815,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Sierra Nevada Corporation 🔥 🎯 🆕 | Software Engineer Intern (Summer 2027) | Southern Pines, NC | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031230) |
 | Sierra Nevada Corporation 🔥 🎯 🆕 | Software Engineer Intern (Summer 2027) | Southern Pines, NC | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031229) |
 | Sierra Nevada Corporation 🔥 🆕 | Liaison Engineer Intern - Summer 2027 | Vandalia, OH | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Vandalia-OH/Liason-Engineer-Intern_R0031178) |
+| Sierra Nevada Corporation 🔥 🆕 | Functional Materials & Process Engineer Intern (Summer 2027) | Lone Tree, CO | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Functional-Materials---Process-Engineer-Intern--Summer-2027-_R0031370) |
+| Sierra Nevada Corporation 🔥 🆕 | Functional Structural Engineer Intern (Summer 2027) | Lone Tree, CO | 🇺🇸 | Posted Today | [Apply](https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Lone-Tree-CO/Functional-Structural-Engineer-Intern--Summer-2027-_R0031371-1) |
 
 > **2026-09-04: Sierra Nevada Corporation's full Summer 2027 intern wave dropped** (spacecraft/satellite systems & defense electronics — distinct from Sierra Space), first-ever roles tracked for this company. 35 postings found across Hagerstown MD, Lone Tree CO, Plano TX, Dayton OH, Sparks NV, Southern Pines NC, Folsom CA; added the 29 technical ones above. Skipped as non-technical: 4x Project Coordinator Intern (Sparks NV, Hagerstown MD, Plano TX, Lone Tree CO) and IT Support Technician Intern (Lone Tree CO, Summer 2027). Also skipped IT Support Technician Intern (Sparks NV) — wrong term (Summer 2026). 🎯-tagged: all 6 Software Engineering Intern reqs and all 4 Systems Engineering/Systems Engineer Intern reqs.
 
@@ -926,12 +931,19 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-06 (later), scanner cron, 3 roles added.** Draper GNC Systems Engineering Intern (Summer 2027) and GNC Systems Engineering Co-Op (Spring 2027), both Cambridge MA; Booz Allen Test Engineer Intern (Lexington Park MD, no term, posted same day). Excluded: Teledyne FLIR Lifesciences Coop (Waterloo, Canada, non-US); Leidos Strategic Sourcing Buyer Intern (supply chain, non-technical). No scanner errors.
 > **2026-11-06 (later 3), scanner cron, 2 roles added.** SNC Liaison Engineer Intern - Summer 2027 (Vandalia OH, R0031178, posted same day); 🎯 Leidos AI/Automation Development Intern - Assessment & Authorization (Remote US, no stated term, posted same day). No scanner errors.
 > **2026-11-06 (later 4), scanner cron, 2 roles added.** 🎯 Northrop Grumman 2027 Systems Engineer Intern (Cape Canaveral FL); Varda Site Reliability Internship - Summer 2027 (El Segundo CA, posted same day). Excluded: Astranis Embedded Software Network/Payload Intern (Winter 2027, wrong term); Shield AI Supplier Development Engineer and Supply Chain Materials Planner interns (supply chain, non-technical). No scanner errors.
+> **2026-11-09, scanner cron, 11 roles added.** Pivotal's first Summer 2027 intern wave (Palo Alto, 6 roles: 🎯 Software Engineering, 🎯 Flight Test Engineer, Electrical, Mechanical, MRO, Manufacturing); GE Aerospace 🎯 Controls & Optimization Research Intern (Niskayuna) + 🎯 Digital Systems Intern (Bohemia); SNC Functional Materials & Process + Functional Structural Intern (Lone Tree CO); 🎯 Northrop Software Testing Engineering Intern (Apopka FL). Excluded: Leidos Helpdesk IT Support Intern (IT support), Northrop Strategic Growth Intern (business). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
 
 | Company | Role | Location | | Posted | Apply |
 |---------|------|----------|--|--------|-------|
+| Pivotal 🔥 🎯 🆕 | Internship, Software Engineering (Summer 2027) | Palo Alto, CA | | Unknown | [Apply](https://jobs.lever.co/pivotal/3a80913d-886a-4d22-bf5e-9a011b157ec4) |
+| Pivotal 🔥 🎯 🆕 | Internship, Flight Test Engineer (Summer 2027) | Palo Alto, CA | | Unknown | [Apply](https://jobs.lever.co/pivotal/67927cb0-cf1a-4775-93be-61db3efe684b) |
+| Pivotal 🔥 🆕 | Internship, Electrical Engineering (Summer 2027) | Palo Alto, CA | | Unknown | [Apply](https://jobs.lever.co/pivotal/442a0450-f911-4ac1-a112-03374217f7fb) |
+| Pivotal 🔥 🆕 | Internship, Mechanical Engineering (Summer 2027) | Palo Alto, CA | | Unknown | [Apply](https://jobs.lever.co/pivotal/b7f01112-1ca4-47c4-bd34-c291206bd506) |
+| Pivotal 🔥 🆕 | Internship, Maintenance, Repair & Overhaul Engineering (Summer 2027) | Palo Alto, CA | | Unknown | [Apply](https://jobs.lever.co/pivotal/23e45f4a-ab7f-4d45-9ec8-bae2ced5d583) |
+| Pivotal 🔥 🆕 | Manufacturing Engineering Internship (Summer 2027) | Palo Alto, CA | | Unknown | [Apply](https://jobs.lever.co/pivotal/9aeda482-373d-4916-82a6-180748708ac2) |
 | Freeform 🔥 🎯 | Software Engineering Intern (Summer 2027) | Los Angeles, CA | | 2026-08-14 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) |
 | Freeform 🔥 | Additive Engineering Intern (Summer 2027) | Los Angeles, CA | | 2026-08-24 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7963719003) |
 | Freeform 🔥 | Electrical Engineering Intern (Summer 2027) | Los Angeles, CA | | 2026-08-19 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895657003) |
