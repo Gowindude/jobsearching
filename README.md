@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-11-09
-Open verified 2027 roles: 868
+Last updated: 2026-11-10
+Open verified 2027 roles: 875
 
 ---
 
@@ -299,6 +299,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Shield AI 🔥 | Summer 2027 - Product Support Engineering Intern | Dallas, TX | 🇺🇸 | Unknown | [Apply](https://jobs.lever.co/shieldai/5fb0fc3c-3747-4351-92fd-459b3df7c82c) |
 | Shield AI 🔥 🎯 🆕 | Summer 2027 - Embedded Firmware Intern | Dallas, TX | 🇺🇸 | Unknown | [Apply](https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4) |
 | Shield AI 🔥 🎯 | June 2027 Co-Op - Software Engineer Intern | Dallas, TX | 🇺🇸 | Unknown | [Apply](https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949) |
+| Shield AI 🔥 | Summer 2027 - Aviation Safety & Airworthiness Intern | Dallas, TX | 🇺🇸 | 2026-11-10 | [Apply](https://jobs.lever.co/shieldai/082808e5-5e3b-4189-9034-3ebd69d8c0dc) |
 | Katalyst Space Technologies 🔥 🎯 | Engineering Intern (Electrical / Mechanical / GNC / Software) | Broomfield, CO | 🇺🇸 | 2026-08-31 | [Apply](https://job-boards.greenhouse.io/katalyst/jobs/6176711004) |
 | AeroVironment 🔥 | Electrical Engineering Intern | Simi Valley, CA | 🇺🇸 | 2026-09-01 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Electrical-Engineering-Intern_8588) |
 | AeroVironment 🔥 🎯 | Software Engineering Intern | Sunrise, FL | 🇺🇸 | 2026-09-01 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Sunrise-FL/Software-Engineering-Intern_8589) |
@@ -496,6 +497,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 🎯 🆕 | 2027 Software Engineering Intern - Roy UT | Roy, UT | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075153147) |
 | Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Beavercreek OH | Beavercreek, OH | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074952406) |
 | Northrop Grumman 🔥 🎯 🆕 | 2027 Software Testing Engineering Intern - Apopka FL | Apopka, FL | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075237932) |
+| Northrop Grumman 🔥 | 2027 Manufacturing Engineer Intern- Commerce CA | Commerce, CA | 🇺🇸 | 2026-11-10 | [Apply](https://jobs.northropgrumman.com/careers/job/1340075255100) |
 | GE Aerospace 🔥 | Unison Engineering Intern (Summer 2027) | Jacksonville, FL / Norwich, NY / Dayton, OH / St. George, UT | | 2026-08-18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) |
 | GE Aerospace 🔥 🎯 | Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 | Evendale, OH | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) |
 | GE Aerospace 🔥 | Digital Technology Intern – US – Atlanta, GA – Summer 2027 | Atlanta, GA | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Atlanta/Digital-Technology-Intern---US---Atlanta--GA----Summer-2027_R5038078) |
@@ -711,6 +713,10 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | The Aerospace Corporation 🔥 | 2027 Space Communications and Network Systems Undergrad Intern | El Segundo, CA | 🇺🇸 | 2026-10-28 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Space-Communications-and-Network-Systems-Undergrad-Intern_R017064) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Software Engineering Undergrad Intern | El Segundo, CA | 🇺🇸 | 2026-11-02 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R017102) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Software Engineering Grad Intern | El Segundo, CA | 🇺🇸 | 2026-11-02 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Software-Engineering-Grad-Intern_R017101) |
+| The Aerospace Corporation 🔥 | 2027 Propulsion Science Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-11-10 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Propulsion-Science-Undergraduate-Intern_R017148) |
+| The Aerospace Corporation 🔥 | 2027 Electric Propulsion & Plasma Science Graduate Intern | El Segundo, CA | 🇺🇸 | 2026-11-10 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Electric-Propulsion---Plasma-Science-Graduate-Intern_R017151) |
+| The Aerospace Corporation 🔥 | 2027 Space Domain Awareness Undergraduate Intern | Colorado Springs, CO (+1 other site) | 🇺🇸 | 2026-11-10 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Colorado-Springs-CO/XMLNAME-2027-Space-Domain-Awareness-Undergraduate-Intern_R017183) |
+| The Aerospace Corporation 🔥 | 2027 Defensive Cyber Operations Graduate Intern | El Segundo, CA | 🇺🇸 | 2026-11-09 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Grad-Intern_R017106) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Systems Engineer Intern | McLean, VA (11 locations) | 🇺🇸 | 2026-09-04 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University---2027-Summer-Games-Systems-Engineer-Intern---McLean--VA_R0248361) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Software Developer Intern | McLean, VA (10 locations) | 🇺🇸 | 2026-09-15 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Systems Engineer Intern (Lexington, MA req R0252273) 🆕 | Lexington, MA | 🇺🇸 | 2026-10-26 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Systems-Engineer-Intern---Lexington--MA_R0252273) |
@@ -752,6 +758,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Leidos 🔥 🆕 | Power Delivery Engineering Intern | Pittsburgh, PA | 🇺🇸 | Posted Today | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Pittsburgh-PA/Power-Delivery-Engineering-Intern_R-00195917) |
 | Leidos 🔥 🎯 | Software Engineering Intern | Arlington, VA | 🇺🇸 | 2026-11-02 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Arlington-VA/Software-Engineering-Intern_R-00195980) |
 | Leidos 🔥 🎯 | Data Science Intern | Arlington, VA | 🇺🇸 | 2026-11-02 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Arlington-VA/Data-Science-Intern_R-00196049) |
+| Leidos 🔥 | Power Delivery Engineering Intern | Greenville, SC | 🇺🇸 | 2026-11-10 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Greenville-SC/Power-Delivery-Engineering-Intern_R-00196601) |
 | L3Harris 🔥 🎯 | Intern, Systems Engineer | Waco, TX | | Unknown | [Apply](https://careers.l3harris.com/en/job/waco/intern-systems-engineer/4832/99403546960) |
 | L3Harris 🔥 🎯 | Intern, Systems Engineer | Greenville, TX | | Unknown | [Apply](https://careers.l3harris.com/en/search-jobs/intern) |
 | L3Harris 🔥 🎯 | Intern, Software Engineer | Palm Bay, FL | | Unknown | [Apply](https://careers.l3harris.com/en/search-jobs/intern) |
@@ -931,6 +938,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-06 (later), scanner cron, 3 roles added.** Draper GNC Systems Engineering Intern (Summer 2027) and GNC Systems Engineering Co-Op (Spring 2027), both Cambridge MA; Booz Allen Test Engineer Intern (Lexington Park MD, no term, posted same day). Excluded: Teledyne FLIR Lifesciences Coop (Waterloo, Canada, non-US); Leidos Strategic Sourcing Buyer Intern (supply chain, non-technical). No scanner errors.
 > **2026-11-06 (later 3), scanner cron, 2 roles added.** SNC Liaison Engineer Intern - Summer 2027 (Vandalia OH, R0031178, posted same day); 🎯 Leidos AI/Automation Development Intern - Assessment & Authorization (Remote US, no stated term, posted same day). No scanner errors.
 > **2026-11-06 (later 4), scanner cron, 2 roles added.** 🎯 Northrop Grumman 2027 Systems Engineer Intern (Cape Canaveral FL); Varda Site Reliability Internship - Summer 2027 (El Segundo CA, posted same day). Excluded: Astranis Embedded Software Network/Payload Intern (Winter 2027, wrong term); Shield AI Supplier Development Engineer and Supply Chain Materials Planner interns (supply chain, non-technical). No scanner errors.
+> **2026-11-10, scanner cron, 7 roles added.** Aerospace Corp Propulsion Science, Electric Propulsion & Plasma, Space Domain Awareness, Defensive Cyber Ops interns; Shield AI Aviation Safety & Airworthiness (Dallas); Leidos Power Delivery Engineering (Greenville SC); Northrop Manufacturing Engineer (Commerce CA). Excluded: 3 Palantir SWE interns (standing pref), Aerospace Power & Analog Grad (near-dup of R016531), Nvidia AI Operations Intern (ops/sysadmin-flavored), BAH Defense Strategy and Northrop Business Operations interns (non-technical).
 > **2026-11-09, scanner cron, 11 roles added.** Pivotal's first Summer 2027 intern wave (Palo Alto, 6 roles: 🎯 Software Engineering, 🎯 Flight Test Engineer, Electrical, Mechanical, MRO, Manufacturing); GE Aerospace 🎯 Controls & Optimization Research Intern (Niskayuna) + 🎯 Digital Systems Intern (Bohemia); SNC Functional Materials & Process + Functional Structural Intern (Lone Tree CO); 🎯 Northrop Software Testing Engineering Intern (Apopka FL). Excluded: Leidos Helpdesk IT Support Intern (IT support), Northrop Strategic Growth Intern (business). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
