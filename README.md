@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-11-11
-Open verified 2027 roles: 879
+Open verified 2027 roles: 880
 
 ---
 
@@ -443,6 +443,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 | 2027 Structural Engineer Intern | Clearfield, UT | 🇺🇸 | 2026-09-20 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074355009) |
 | Northrop Grumman 🔥 🆕 | 2027 Electrical Engineering Intern- Huntsville AL | Huntsville, AL | 🇺🇸 | 2026-11-06 | [Apply](https://jobs.northropgrumman.com/careers/job/1340075168503) |
 | Northrop Grumman 🔥 🆕 | 2027 Mechanical Engineer Intern- Gilbert AZ | Gilbert, AZ | 🇺🇸 | 2026-11-06 | [Apply](https://jobs.northropgrumman.com/careers/job/1340075030334) |
+| Northrop Grumman 🔥 🆕 | 2027 Mechanical Engineer Intern- Redondo Beach CA | Redondo Beach, CA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075273682) |
 | Northrop Grumman 🔥 | 2027 Engineering Intern - Huntsville AL | Huntsville, AL | 🇺🇸 | 2026-09-10 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074242619) |
 | Northrop Grumman 🔥 | 2027 Systems Security Engineering Intern - Roy UT | Roy, UT | 🇺🇸 | 2026-09-13 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074212960) |
 | Northrop Grumman 🔥 🎯 | 2027 Intern Software Engineer | San Diego, CA (+3 other CA sites) | 🇺🇸 | 2026-09-14 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074283170) |
@@ -947,6 +948,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-10 (later), scanner cron, 1 role added.** Anduril 2027 Optical Payload Engineer Intern (Costa Mesa CA). Excluded: GE Aerospace Configurations Intern (Remote, no term, config-mgmt/non-engineering). Partial coverage: Northrop Grumman board fetch failed this run.
 > **2026-11-10 (latest), scanner cron, 2 roles added.** Northrop Grumman 2027 Intern Engineer - Product Support (Oklahoma City OK) and 2027 Electromechanical Engineer Intern (Rolling Meadows IL). No exclusions; no scanner errors.
 > **2026-11-11, scanner cron, 1 role added.** Astranis Embedded Software Developer, Network/Payload Intern (Summer 2027, San Francisco CA). No exclusions; no scanner errors.
+> **2026-11-11, scanner cron (later), 1 role added.** Northrop Grumman 2027 Mechanical Engineer Intern (Redondo Beach CA). No exclusions; no scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
