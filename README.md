@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-11-11
-Open verified 2027 roles: 880
+Open verified 2027 roles: 882
 
 ---
 
@@ -334,6 +334,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | AeroVironment 🔥 🎯 | Hypersonic RF Software Engineering Intern | Germantown, MD | 🇺🇸 | 2026-10-06 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Germantown-MD/Hypersonic-RF-Software-Engineering-Intern_8993) |
 | AeroVironment 🔥 | Production Engineering Intern | Simi Valley, CA | 🇺🇸 | Unknown | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Production-Engineering-Intern_8887) |
 | AeroVironment 🔥 🎯 | Titan-SV Software Engineer Intern | Leesburg, VA | 🇺🇸 | Unknown | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Leesburg-VA/Titan-SV-Software-Engineer-Intern_8901) |
+| AeroVironment 🔥 🎯 🆕 | Software Engineering Intern | Lawrence, KS | 🇺🇸 | 2026-11-11 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Lawrence-KS/Software-Engineering-Intern_9360) |
+| AeroVironment 🔥 🎯 🆕 | GNC / Autonomy Engineering Intern | Lawrence, KS | 🇺🇸 | 2026-11-11 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Lawrence-KS/GNC---Autonomy-Engineering-Intern_9363) |
 | AeroVironment 🔥 | Electrical Engineering Intern | Petaluma, CA | 🇺🇸 | 2026-10-07 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Petaluma-CA/Electrical-Engineering-Intern_9037) |
 | AeroVironment 🔥 | Mechanical Engineering Intern | Petaluma, CA | 🇺🇸 | 2026-10-07 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Petaluma-CA/Mechanical-Engineering-Intern_9038) |
 | AeroVironment 🔥 🎯 | Summer 2027 Autonomy & Robotics Engineering Intern | Simi Valley, CA (14 locations) | 🇺🇸 | 2026-10-08 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8556) |
@@ -949,6 +951,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-10 (latest), scanner cron, 2 roles added.** Northrop Grumman 2027 Intern Engineer - Product Support (Oklahoma City OK) and 2027 Electromechanical Engineer Intern (Rolling Meadows IL). No exclusions; no scanner errors.
 > **2026-11-11, scanner cron, 1 role added.** Astranis Embedded Software Developer, Network/Payload Intern (Summer 2027, San Francisco CA). No exclusions; no scanner errors.
 > **2026-11-11, scanner cron (later), 1 role added.** Northrop Grumman 2027 Mechanical Engineer Intern (Redondo Beach CA). No exclusions; no scanner errors.
+> **2026-11-11, scanner cron (latest), 2 roles added.** AeroVironment Software Engineering Intern and GNC / Autonomy Engineering Intern (both Lawrence KS, posted same day, year-round). No exclusions; PARTIAL COVERAGE: Starpath Robotics board fetch failed.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
