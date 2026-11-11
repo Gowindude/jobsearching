@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-11-10
-Open verified 2027 roles: 876
+Open verified 2027 roles: 878
 
 ---
 
@@ -429,6 +429,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 | 2027 Intern Engineer - Product Support | Whiteman AFB, MO | 🇺🇸 | 2026-09-10 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074226586) |
 | Northrop Grumman 🔥 | 2027 Intern Engineer - Product Support | Melbourne, FL | 🇺🇸 | 2026-09-10 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074238820) |
 | Northrop Grumman 🔥 | 2027 Intern Engineer - Product Support | Oklahoma City, OK | 🇺🇸 | 2026-09-14 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074239213) |
+| Northrop Grumman 🔥 🆕 | 2027 Intern Engineer - Product Support | Oklahoma City, OK | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075258349) |
+| Northrop Grumman 🔥 🆕 | 2027 Electromechanical Engineer Intern - Rolling Meadows IL | Rolling Meadows, IL | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075258437) |
 | Northrop Grumman 🔥 | 2027 Intern Product Support – Data Scientist | San Diego, CA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075077218) |
 | GDIT 🔥 🎯 | Summer 2027 Software Development Internship | Falls Church, VA | 🇺🇸 | 2026-09-15 | [Apply](https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228404) |
 | Northrop Grumman 🔥 | 2027 Industrial Engineering Intern - Roy UT | Roy, UT | 🇺🇸 | 2026-09-15 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074304420) |
@@ -942,6 +944,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-10, scanner cron, 7 roles added.** Aerospace Corp Propulsion Science, Electric Propulsion & Plasma, Space Domain Awareness, Defensive Cyber Ops interns; Shield AI Aviation Safety & Airworthiness (Dallas); Leidos Power Delivery Engineering (Greenville SC); Northrop Manufacturing Engineer (Commerce CA). Excluded: 3 Palantir SWE interns (standing pref), Aerospace Power & Analog Grad (near-dup of R016531), Nvidia AI Operations Intern (ops/sysadmin-flavored), BAH Defense Strategy and Northrop Business Operations interns (non-technical).
 > **2026-11-09, scanner cron, 11 roles added.** Pivotal's first Summer 2027 intern wave (Palo Alto, 6 roles: 🎯 Software Engineering, 🎯 Flight Test Engineer, Electrical, Mechanical, MRO, Manufacturing); GE Aerospace 🎯 Controls & Optimization Research Intern (Niskayuna) + 🎯 Digital Systems Intern (Bohemia); SNC Functional Materials & Process + Functional Structural Intern (Lone Tree CO); 🎯 Northrop Software Testing Engineering Intern (Apopka FL). Excluded: Leidos Helpdesk IT Support Intern (IT support), Northrop Strategic Growth Intern (business). No scanner errors.
 > **2026-11-10 (later), scanner cron, 1 role added.** Anduril 2027 Optical Payload Engineer Intern (Costa Mesa CA). Excluded: GE Aerospace Configurations Intern (Remote, no term, config-mgmt/non-engineering). Partial coverage: Northrop Grumman board fetch failed this run.
+> **2026-11-10 (latest), scanner cron, 2 roles added.** Northrop Grumman 2027 Intern Engineer - Product Support (Oklahoma City OK) and 2027 Electromechanical Engineer Intern (Rolling Meadows IL). No exclusions; no scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
