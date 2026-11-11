@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-11-10
-Open verified 2027 roles: 878
+Last updated: 2026-11-11
+Open verified 2027 roles: 879
 
 ---
 
@@ -133,6 +133,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Astranis ⭐ 🔥 🎯 | Guidance, Navigation, and Control Intern (Summer 2027) | San Francisco, CA | 🇺🇸 | 2026-09-22 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705172006) |
 | Astranis ⭐ 🔥 🎯 | Software Engineer Backend Intern (Summer 2027) | San Francisco, CA | 🇺🇸 | 2026-09-22 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705214006) |
 | Astranis ⭐ 🔥 🎯 | Software Engineer - Enterprise Systems Intern (Summer 2027) | San Francisco, CA | 🇺🇸 | 2026-09-22 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4705610006) |
+| Astranis ⭐ 🔥 🎯 🆕 | Embedded Software Developer, Network/Payload Intern (Summer 2027) | San Francisco, CA | 🇺🇸 | 2026-11-10 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704569006) |
 | Astranis ⭐ 🔥 | Antenna Intern (Summer 2027) | San Francisco, CA | 🇺🇸 | 2026-09-23 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704274006) |
 | Astranis ⭐ 🔥 | Avionics Intern (Summer 2027) | San Francisco, CA | 🇺🇸 | 2026-09-22 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4706024006) |
 | Astranis ⭐ 🔥 | Electrical Reliability Intern (Summer 2027) | San Francisco, CA | 🇺🇸 | 2026-09-22 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4704784006) |
@@ -945,6 +946,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-09, scanner cron, 11 roles added.** Pivotal's first Summer 2027 intern wave (Palo Alto, 6 roles: 🎯 Software Engineering, 🎯 Flight Test Engineer, Electrical, Mechanical, MRO, Manufacturing); GE Aerospace 🎯 Controls & Optimization Research Intern (Niskayuna) + 🎯 Digital Systems Intern (Bohemia); SNC Functional Materials & Process + Functional Structural Intern (Lone Tree CO); 🎯 Northrop Software Testing Engineering Intern (Apopka FL). Excluded: Leidos Helpdesk IT Support Intern (IT support), Northrop Strategic Growth Intern (business). No scanner errors.
 > **2026-11-10 (later), scanner cron, 1 role added.** Anduril 2027 Optical Payload Engineer Intern (Costa Mesa CA). Excluded: GE Aerospace Configurations Intern (Remote, no term, config-mgmt/non-engineering). Partial coverage: Northrop Grumman board fetch failed this run.
 > **2026-11-10 (latest), scanner cron, 2 roles added.** Northrop Grumman 2027 Intern Engineer - Product Support (Oklahoma City OK) and 2027 Electromechanical Engineer Intern (Rolling Meadows IL). No exclusions; no scanner errors.
+> **2026-11-11, scanner cron, 1 role added.** Astranis Embedded Software Developer, Network/Payload Intern (Summer 2027, San Francisco CA). No exclusions; no scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
