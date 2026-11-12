@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-11-11
-Open verified 2027 roles: 882
+Last updated: 2026-11-12
+Open verified 2027 roles: 885
 
 ---
 
@@ -505,6 +505,9 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 🎯 | 2027 Software Engineering Intern - Beavercreek OH | Beavercreek, OH | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340074952406) |
 | Northrop Grumman 🔥 🎯 🆕 | 2027 Software Testing Engineering Intern - Apopka FL | Apopka, FL | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075237932) |
 | Northrop Grumman 🔥 | 2027 Manufacturing Engineer Intern- Commerce CA | Commerce, CA | 🇺🇸 | 2026-11-10 | [Apply](https://jobs.northropgrumman.com/careers/job/1340075255100) |
+| Northrop Grumman 🔥 🆕 | 2027 Electrical Engineering Intern - Sunnyvale CA | Sunnyvale, CA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075276997) |
+| Northrop Grumman 🔥 🆕 | 2027 Manufacturing Engineering Intern - Charlottesville VA | Charlottesville, VA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075275839) |
+| Northrop Grumman 🔥 🆕 | 2027 Manufacturing Engineering Intern - Elkridge MD | Elkridge, MD | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075277190) |
 | GE Aerospace 🔥 | Unison Engineering Intern (Summer 2027) | Jacksonville, FL / Norwich, NY / Dayton, OH / St. George, UT | | 2026-08-18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) |
 | GE Aerospace 🔥 🎯 | Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 | Evendale, OH | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) |
 | GE Aerospace 🔥 | Digital Technology Intern – US – Atlanta, GA – Summer 2027 | Atlanta, GA | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Atlanta/Digital-Technology-Intern---US---Atlanta--GA----Summer-2027_R5038078) |
@@ -952,6 +955,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-11, scanner cron, 1 role added.** Astranis Embedded Software Developer, Network/Payload Intern (Summer 2027, San Francisco CA). No exclusions; no scanner errors.
 > **2026-11-11, scanner cron (later), 1 role added.** Northrop Grumman 2027 Mechanical Engineer Intern (Redondo Beach CA). No exclusions; no scanner errors.
 > **2026-11-11, scanner cron (latest), 2 roles added.** AeroVironment Software Engineering Intern and GNC / Autonomy Engineering Intern (both Lawrence KS, posted same day, year-round). No exclusions; PARTIAL COVERAGE: Starpath Robotics board fetch failed.
+> **2026-11-12, scanner cron, 3 roles added.** Northrop Grumman 2027 Electrical Engineering Intern (Sunnyvale CA), Manufacturing Engineering Interns (Charlottesville VA, Elkridge MD). Excluded: Sierra Nevada Software Engineer I (For 2026 Interns Only, restricted to existing interns). PARTIAL COVERAGE: Shield AI board fetch failed (HTTP 500).
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
