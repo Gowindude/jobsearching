@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-11-12
-Open verified 2027 roles: 885
+Open verified 2027 roles: 887
 
 ---
 
@@ -956,6 +956,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-11, scanner cron (later), 1 role added.** Northrop Grumman 2027 Mechanical Engineer Intern (Redondo Beach CA). No exclusions; no scanner errors.
 > **2026-11-11, scanner cron (latest), 2 roles added.** AeroVironment Software Engineering Intern and GNC / Autonomy Engineering Intern (both Lawrence KS, posted same day, year-round). No exclusions; PARTIAL COVERAGE: Starpath Robotics board fetch failed.
 > **2026-11-12, scanner cron, 3 roles added.** Northrop Grumman 2027 Electrical Engineering Intern (Sunnyvale CA), Manufacturing Engineering Interns (Charlottesville VA, Elkridge MD). Excluded: Sierra Nevada Software Engineer I (For 2026 Interns Only, restricted to existing interns). PARTIAL COVERAGE: Shield AI board fetch failed (HTTP 500).
+> **2026-11-12, scanner cron (later), 2 roles added.** The Aerospace Corporation 2027 Lidar Undergraduate Intern and Lidar Graduate Intern (El Segundo CA, posted same day; photonics/optical, not 🎯). No exclusions; no scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
@@ -1270,6 +1271,8 @@ Companies not previously tracked, sourced specifically for the GNC/simulation ro
 | Terran Orbital (a Lockheed Martin company) | [terranorbital.com/careers](https://terranorbital.com/careers) | Greenhouse: `boards-api.greenhouse.io/v1/boards/terranorbitalcorporation/jobs` | Re-checked 2026-08-16: 34 open roles, zero internships |
 | Sierra Nevada Corporation (SNC) 🔥 | [sncorp.com/careers/students](https://www.sncorp.com/careers/students) | Workday (auto-scraped, `snc.wd1/SNC_External_Career_Site`) | Spacecraft/satellite systems & defense electronics — distinct company from Sierra Space. **2026-09-04: full Summer 2027 intern wave posted** (35 postings, 29 technical ones added to the Primes & OEMs table above) — now covered by the automated scanner |
 | The Aerospace Corporation 🔥 | [aerospace.org/careers/students-and-recent-graduates](https://aerospace.org/careers/students-and-recent-graduates) | Workday (auto-scraped, `aero.wd5/External`) | FFRDC — national security/civil space technical support, requires US citizenship + clearance eligibility. **2026-09-07: first-ever open intern wave** — 8 postings (El Segundo CA, Colorado Springs CO, Chantilly VA), added to the Primes & OEMs table above. Also has a restricted "2027 Aerospace Returning Interns" req (El Segundo, posted 2026-08-29) — not open to new applicants, skipped |
+| The Aerospace Corporation 🔥 | 2027 Lidar Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-11-12 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Lidar-Undergraduate-Intern_R017200) |
+| The Aerospace Corporation 🔥 | 2027 Lidar Graduate Intern | El Segundo, CA | 🇺🇸 | 2026-11-12 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Lidar-Graduate-Intern_R017199) |
 
 ---
 
