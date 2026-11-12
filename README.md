@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-11-12
-Open verified 2027 roles: 887
+Open verified 2027 roles: 889
 
 ---
 
@@ -302,6 +302,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Shield AI 🔥 🎯 🆕 | Summer 2027 - Embedded Firmware Intern | Dallas, TX | 🇺🇸 | Unknown | [Apply](https://jobs.lever.co/shieldai/ac38d092-f435-4301-880b-48d0e92679a4) |
 | Shield AI 🔥 🎯 | June 2027 Co-Op - Software Engineer Intern | Dallas, TX | 🇺🇸 | Unknown | [Apply](https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949) |
 | Shield AI 🔥 | Summer 2027 - Aviation Safety & Airworthiness Intern | Dallas, TX | 🇺🇸 | 2026-11-10 | [Apply](https://jobs.lever.co/shieldai/082808e5-5e3b-4189-9034-3ebd69d8c0dc) |
+| Shield AI 🔥 🆕 | June 2027 Co-op - Hardware Test | Dallas, TX | 🇺🇸 | Unknown | [Apply](https://jobs.lever.co/shieldai/3cfe5522-856e-4216-a5f7-c9188bebf12a) |
 | Katalyst Space Technologies 🔥 🎯 | Engineering Intern (Electrical / Mechanical / GNC / Software) | Broomfield, CO | 🇺🇸 | 2026-08-31 | [Apply](https://job-boards.greenhouse.io/katalyst/jobs/6176711004) |
 | AeroVironment 🔥 | Electrical Engineering Intern | Simi Valley, CA | 🇺🇸 | 2026-09-01 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Electrical-Engineering-Intern_8588) |
 | AeroVironment 🔥 🎯 | Software Engineering Intern | Sunrise, FL | 🇺🇸 | 2026-09-01 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Sunrise-FL/Software-Engineering-Intern_8589) |
@@ -568,6 +569,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | GE Aerospace 🔥 🆕 | Propulsion Performance Engineering Intern - Bohemia, NY - Summer 2027 | Bohemia, NY | 🇺🇸 | 2026-11-05 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Bohemia/Propulsion-Performance-Engineering-Intern---Bohemia--NY---Summer-2027_R5042754-2) |
 | GE Aerospace 🔥 🎯 🆕 | Digital Systems Intern - Bohemia, NY - Summer 2027 | Bohemia, NY | | Posted Today | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Bohemia/Digital-Systems-Intern---Bohemia--NY---Summer-2027_R5042864-1) |
 | GE Aerospace 🔥 🎯 🆕 | GE Aerospace Research - Controls & Optimization Internship, 2027 | Niskayuna, NY | | Posted Today | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Niskayuna/GE-Aerospace-Research---Controls---Optimization-Internship--2027_R5043004-1) |
+| GE Aerospace 🔥 🆕 | Test and Manufacturing Operations Intern - Bohemia, NY - Summer 2027 | Bohemia, NY | | Posted Today | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Bohemia/Test-and-Manufacturing-Operations-Intern---Bohemia--NY---Summer-2027_R5042960-1) |
 | Amentum 🔥 🎯 | Software Engineering Intern (Space Force Range Contract) | Cocoa Beach, FL | 🇺🇸 | 2026-08-31 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-FL-Cocoa-Beach/Software-Engineering-Intern_R0169322) |
 | Amentum 🔥 🎯 | Summer 2027 Intern - Structural Dynamics Engineer | Houston, TX | 🇺🇸 | 2026-08-24 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-TX-Houston/Summer-2027-Intern---Structural-Dynamics-Engineer_R0168655) |
 | Amentum 🔥 🎯 | Controls & Instrumentation Engineer Intern | Detroit, MI | 🇺🇸 | 2026-09-04 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-MI-Detroit/Controls---Instrumentation-Engineer-Intern_R0169793) |
@@ -958,6 +960,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-11, scanner cron (later), 1 role added.** Northrop Grumman 2027 Mechanical Engineer Intern (Redondo Beach CA). No exclusions; no scanner errors.
 > **2026-11-11, scanner cron (latest), 2 roles added.** AeroVironment Software Engineering Intern and GNC / Autonomy Engineering Intern (both Lawrence KS, posted same day, year-round). No exclusions; PARTIAL COVERAGE: Starpath Robotics board fetch failed.
 > **2026-11-12, scanner cron, 3 roles added.** Northrop Grumman 2027 Electrical Engineering Intern (Sunnyvale CA), Manufacturing Engineering Interns (Charlottesville VA, Elkridge MD). Excluded: Sierra Nevada Software Engineer I (For 2026 Interns Only, restricted to existing interns). PARTIAL COVERAGE: Shield AI board fetch failed (HTTP 500).
+> **2026-11-12 (later 2), scanner cron, 2 roles added.** Shield AI June 2027 Co-op - Hardware Test (Dallas TX, Lever, no posted date); GE Aerospace Test and Manufacturing Operations Intern Summer 2027 (Bohemia NY, posted same day). No exclusions. PARTIAL COVERAGE: Northrop Grumman board fetch failed.
 > **2026-11-12, scanner cron (later), 2 roles added.** The Aerospace Corporation 2027 Lidar Undergraduate Intern and Lidar Graduate Intern (El Segundo CA, posted same day; photonics/optical, not 🎯). No exclusions; no scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
