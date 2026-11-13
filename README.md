@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-11-12
-Open verified 2027 roles: 889
+Open verified 2027 roles: 895
 
 ---
 
@@ -219,6 +219,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Muon Space 🔥 | Environmental Test Engineering Intern (Summer 2027) | San Jose, CA | 🇺🇸 | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5256286007) |
 | Muon Space 🔥 | Industrial Engineering Intern (Summer 2027) | San Jose, CA | 🇺🇸 | 2026-10-02 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5256284007) |
 | Muon Space 🔥 | Spacecraft Test Engineering Intern (Summer 2027) | San Jose, CA | 🇺🇸 | 2026-10-13 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5256288007) |
+| Muon Space 🔥 🎯 | Software Engineering Intern-Information Systems (Summer 2027) | San Jose, CA | 🇺🇸 | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5293973007) |
+| Muon Space 🔥 | Security Engineering Intern (Summer 2027) | Mountain View, CA | 🇺🇸 | 2026-11-12 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5294028007) |
 | Varda Space Industries 🔥 🎯 | Guidance, Navigation & Controls (GNC) Internship - Summer 2027 | El Segundo, CA | 🇺🇸 | 2026-10-01 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7865601003) |
 | Varda Space Industries 🔥 🎯 | Flight Software Internship - Summer 2027 | El Segundo, CA | 🇺🇸 | 2026-10-01 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010159003) |
 | Varda Space Industries 🔥 | Aerodynamics & Analysis Engineering Internship - Summer 2027 | El Segundo, CA | 🇺🇸 | 2026-10-01 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/8010632003) |
@@ -303,6 +305,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Shield AI 🔥 🎯 | June 2027 Co-Op - Software Engineer Intern | Dallas, TX | 🇺🇸 | Unknown | [Apply](https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949) |
 | Shield AI 🔥 | Summer 2027 - Aviation Safety & Airworthiness Intern | Dallas, TX | 🇺🇸 | 2026-11-10 | [Apply](https://jobs.lever.co/shieldai/082808e5-5e3b-4189-9034-3ebd69d8c0dc) |
 | Shield AI 🔥 🆕 | June 2027 Co-op - Hardware Test | Dallas, TX | 🇺🇸 | Unknown | [Apply](https://jobs.lever.co/shieldai/3cfe5522-856e-4216-a5f7-c9188bebf12a) |
+| Shield AI 🔥 🎯 🆕 | 2027 Summer Intern - Solution Systems Engineer | San Diego, CA | 🇺🇸 | Unknown | [Apply](https://jobs.lever.co/shieldai/1bcb2094-e52d-4af9-9eee-2bcd655536ca) |
 | Katalyst Space Technologies 🔥 🎯 | Engineering Intern (Electrical / Mechanical / GNC / Software) | Broomfield, CO | 🇺🇸 | 2026-08-31 | [Apply](https://job-boards.greenhouse.io/katalyst/jobs/6176711004) |
 | AeroVironment 🔥 | Electrical Engineering Intern | Simi Valley, CA | 🇺🇸 | 2026-09-01 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Electrical-Engineering-Intern_8588) |
 | AeroVironment 🔥 🎯 | Software Engineering Intern | Sunrise, FL | 🇺🇸 | 2026-09-01 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Sunrise-FL/Software-Engineering-Intern_8589) |
@@ -509,6 +512,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 🆕 | 2027 Electrical Engineering Intern - Sunnyvale CA | Sunnyvale, CA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075276997) |
 | Northrop Grumman 🔥 🆕 | 2027 Manufacturing Engineering Intern - Charlottesville VA | Charlottesville, VA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075275839) |
 | Northrop Grumman 🔥 🆕 | 2027 Manufacturing Engineering Intern - Elkridge MD | Elkridge, MD | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075277190) |
+| Northrop Grumman 🔥 🆕 | 2027 Manufacturing Engineering Intern - Charlottesville VA (2nd req) | Charlottesville, VA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075275954) |
 | GE Aerospace 🔥 | Unison Engineering Intern (Summer 2027) | Jacksonville, FL / Norwich, NY / Dayton, OH / St. George, UT | | 2026-08-18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) |
 | GE Aerospace 🔥 🎯 | Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 | Evendale, OH | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) |
 | GE Aerospace 🔥 | Digital Technology Intern – US – Atlanta, GA – Summer 2027 | Atlanta, GA | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Atlanta/Digital-Technology-Intern---US---Atlanta--GA----Summer-2027_R5038078) |
@@ -556,6 +560,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Leidos 🔥 🎯 | Lunar Terrain Vehicle – Engineering Intern (2nd req R-00195252) 🆕 | Huntsville, AL | 🇺🇸 | 2026-10-23 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Lunar-Terrain-Vehicle---Engineering-Intern_R-00195252) |
 | Leidos 🔥 | Electrical Design Engineering Intern (R-00195400) 🆕 | Huntsville, AL | 🇺🇸 | 2026-10-26 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Electrical-Design-Engineering-Intern_R-00195400) |
 | Leidos 🔥 🎯 🆕 | Software Developer Intern (2nd req R-00195829) | Annapolis Junction, MD | 🇺🇸 | 2026-10-29 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00195829) |
+| Leidos 🔥 🎯 | Junior Software Engineer / Data Scientist Intern | Tucson, AZ | 🇺🇸 | 2026-11-12 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510) |
 | GE Aerospace 🔥 🎯 | Applied AI Engineer Intern – Summer 2027 (May/June Start) | Evendale, OH (53 locations) | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) |
 | GE Aerospace 🔥 | Unison Engineering Part-time Intern - US - Summer 2027 | Saint George, UT | 🇺🇸 | 2026-09-16 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Saint-George-UT-US-1/Unison-Engineering-Part-time-Intern---US---Summer-2027_R5040163-1) |
 | GE Aerospace 🔥 | Product Definition Engineering Intern - Lynn, MA - Summer 2027 | Lynn, MA | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Lynn/Product-Definition-Engineering-Intern---Lynn--MA---Summer-2027_R5039185-1) |
@@ -731,6 +736,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | The Aerospace Corporation 🔥 | 2027 Defensive Cyber Operations Graduate Intern | El Segundo, CA | 🇺🇸 | 2026-11-09 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Grad-Intern_R017106) |
 | The Aerospace Corporation 🔥 | 2027 Lidar Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-11-12 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Lidar-Undergraduate-Intern_R017200) |
 | The Aerospace Corporation 🔥 | 2027 Lidar Graduate Intern | El Segundo, CA | 🇺🇸 | 2026-11-12 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Lidar-Graduate-Intern_R017199) |
+| The Aerospace Corporation 🔥 🎯 | 2027 Guidance, Navigation, and Control Graduate Intern | El Segundo, CA | 🇺🇸 | 2026-11-12 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Guidance--Navigation--and-Control-Graduate-Intern_R017214) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Systems Engineer Intern | McLean, VA (11 locations) | 🇺🇸 | 2026-09-04 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University---2027-Summer-Games-Systems-Engineer-Intern---McLean--VA_R0248361) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Software Developer Intern | McLean, VA (10 locations) | 🇺🇸 | 2026-09-15 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Systems Engineer Intern (Lexington, MA req R0252273) 🆕 | Lexington, MA | 🇺🇸 | 2026-10-26 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Systems-Engineer-Intern---Lexington--MA_R0252273) |
@@ -962,6 +968,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-12, scanner cron, 3 roles added.** Northrop Grumman 2027 Electrical Engineering Intern (Sunnyvale CA), Manufacturing Engineering Interns (Charlottesville VA, Elkridge MD). Excluded: Sierra Nevada Software Engineer I (For 2026 Interns Only, restricted to existing interns). PARTIAL COVERAGE: Shield AI board fetch failed (HTTP 500).
 > **2026-11-12 (later 2), scanner cron, 2 roles added.** Shield AI June 2027 Co-op - Hardware Test (Dallas TX, Lever, no posted date); GE Aerospace Test and Manufacturing Operations Intern Summer 2027 (Bohemia NY, posted same day). No exclusions. PARTIAL COVERAGE: Northrop Grumman board fetch failed.
 > **2026-11-12, scanner cron (later), 2 roles added.** The Aerospace Corporation 2027 Lidar Undergraduate Intern and Lidar Graduate Intern (El Segundo CA, posted same day; photonics/optical, not 🎯). No exclusions; no scanner errors.
+> **2026-11-12 (later 3), scanner cron, 6 roles added.** 🎯 Aerospace Corp 2027 GNC Graduate Intern (El Segundo), 🎯 Shield AI 2027 Summer Solution Systems Engineer Intern (San Diego), 🎯 Muon Space SWE Intern-Information Systems (San Jose) + Security Engineering Intern (Mountain View), 🎯 Leidos Jr. Software Engineer / Data Scientist Intern (Tucson), Northrop 2027 Manufacturing Engineering Intern (Charlottesville, 2nd req). Excluded: GDIT JMSC-P Boundary Enclave Administrator Intern (sysadmin-flavored IT). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.

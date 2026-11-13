@@ -7322,5 +7322,41 @@
   "wd:aero.wd5:/job/El-Segundo-CA/XMLNAME-2027-Lidar-Graduate-Intern_R017199": {
     "title": "2027 Lidar Graduate Intern",
     "seenAt": "2026-11-12"
+  },
+  "lever:shieldai:3cfe5522-856e-4216-a5f7-c9188bebf12a": {
+    "title": "2027 June Co-op - Hardware Test - #6426",
+    "seenAt": "2026-11-12"
+  },
+  "wd:geaerospace.wd5:/job/Bohemia/Test-and-Manufacturing-Operations-Intern---Bohemia--NY---Summer-2027_R5042960-1": {
+    "title": "Test and Manufacturing Operations Intern - Bohemia, NY - Summer 2027",
+    "seenAt": "2026-11-12"
+  },
+  "gh:muonspace:5294028007": {
+    "title": "Security Engineering Intern (Summer 2027)",
+    "seenAt": "2026-11-13"
+  },
+  "gh:muonspace:5293973007": {
+    "title": "Software Engineering Intern-Information Systems (Summer 2027)",
+    "seenAt": "2026-11-13"
+  },
+  "lever:shieldai:1bcb2094-e52d-4af9-9eee-2bcd655536ca": {
+    "title": "2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541)",
+    "seenAt": "2026-11-13"
+  },
+  "wd:aero.wd5:/job/El-Segundo-CA/XMLNAME-2027-Guidance--Navigation--and-Control-Graduate-Intern_R017214": {
+    "title": "2027 Guidance, Navigation, and Control Graduate Intern",
+    "seenAt": "2026-11-13"
+  },
+  "wd:gdit.wd5:/job/USA-HI-Schofield/JMSC-P-Boundary-Enclave-Administrator-Intern_RQ231969-2": {
+    "title": "JMSC-P Boundary Enclave Administrator Intern",
+    "seenAt": "2026-11-13"
+  },
+  "wd:leidos.wd5:/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510": {
+    "title": "Junior Software Engineer / Data Scientist Intern",
+    "seenAt": "2026-11-13"
+  },
+  "ef:1340075275954": {
+    "title": "2027 Manufacturing Engineering Intern - Charlottesville VA",
+    "seenAt": "2026-11-13"
   }
 }
