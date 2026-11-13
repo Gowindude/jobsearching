@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-11-12
-Open verified 2027 roles: 895
+Last updated: 2026-11-13
+Open verified 2027 roles: 900
 
 ---
 
@@ -306,6 +306,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Shield AI 🔥 | Summer 2027 - Aviation Safety & Airworthiness Intern | Dallas, TX | 🇺🇸 | 2026-11-10 | [Apply](https://jobs.lever.co/shieldai/082808e5-5e3b-4189-9034-3ebd69d8c0dc) |
 | Shield AI 🔥 🆕 | June 2027 Co-op - Hardware Test | Dallas, TX | 🇺🇸 | Unknown | [Apply](https://jobs.lever.co/shieldai/3cfe5522-856e-4216-a5f7-c9188bebf12a) |
 | Shield AI 🔥 🎯 🆕 | 2027 Summer Intern - Solution Systems Engineer | San Diego, CA | 🇺🇸 | Unknown | [Apply](https://jobs.lever.co/shieldai/1bcb2094-e52d-4af9-9eee-2bcd655536ca) |
+| Shield AI 🔥 🆕 | 2027 Summer Intern - Future Concepts | Washington, DC | 🇺🇸 | Unknown | [Apply](https://jobs.lever.co/shieldai/cf89556f-a5ea-4a3a-81c7-944890f76ade) |
+| Shield AI 🔥 🆕 | 2027 Summer Intern - Human Machine Teaming | Washington, DC | 🇺🇸 | Unknown | [Apply](https://jobs.lever.co/shieldai/a737063e-e831-49e1-98c3-25be44faac30) |
 | Katalyst Space Technologies 🔥 🎯 | Engineering Intern (Electrical / Mechanical / GNC / Software) | Broomfield, CO | 🇺🇸 | 2026-08-31 | [Apply](https://job-boards.greenhouse.io/katalyst/jobs/6176711004) |
 | AeroVironment 🔥 | Electrical Engineering Intern | Simi Valley, CA | 🇺🇸 | 2026-09-01 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Electrical-Engineering-Intern_8588) |
 | AeroVironment 🔥 🎯 | Software Engineering Intern | Sunrise, FL | 🇺🇸 | 2026-09-01 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Sunrise-FL/Software-Engineering-Intern_8589) |
@@ -513,6 +515,9 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 🆕 | 2027 Manufacturing Engineering Intern - Charlottesville VA | Charlottesville, VA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075275839) |
 | Northrop Grumman 🔥 🆕 | 2027 Manufacturing Engineering Intern - Elkridge MD | Elkridge, MD | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075277190) |
 | Northrop Grumman 🔥 🆕 | 2027 Manufacturing Engineering Intern - Charlottesville VA (2nd req) | Charlottesville, VA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075275954) |
+| Northrop Grumman 🔥 🆕 | 2027 Manufacturing Engineering Intern - Waynesboro VA | Charlottesville, VA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075276072) |
+| Northrop Grumman 🔥 🆕 | 2027 Industrial Engineering Intern - Elkridge MD | Elkridge, MD | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075277184) |
+| Northrop Grumman 🔥 🆕 | 2027 Propulsion Engineering Intern - Promontory UT | Corinne / Clearfield / Magna, UT | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075274426) |
 | GE Aerospace 🔥 | Unison Engineering Intern (Summer 2027) | Jacksonville, FL / Norwich, NY / Dayton, OH / St. George, UT | | 2026-08-18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) |
 | GE Aerospace 🔥 🎯 | Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 | Evendale, OH | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) |
 | GE Aerospace 🔥 | Digital Technology Intern – US – Atlanta, GA – Summer 2027 | Atlanta, GA | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Atlanta/Digital-Technology-Intern---US---Atlanta--GA----Summer-2027_R5038078) |
@@ -969,6 +974,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-12 (later 2), scanner cron, 2 roles added.** Shield AI June 2027 Co-op - Hardware Test (Dallas TX, Lever, no posted date); GE Aerospace Test and Manufacturing Operations Intern Summer 2027 (Bohemia NY, posted same day). No exclusions. PARTIAL COVERAGE: Northrop Grumman board fetch failed.
 > **2026-11-12, scanner cron (later), 2 roles added.** The Aerospace Corporation 2027 Lidar Undergraduate Intern and Lidar Graduate Intern (El Segundo CA, posted same day; photonics/optical, not 🎯). No exclusions; no scanner errors.
 > **2026-11-12 (later 3), scanner cron, 6 roles added.** 🎯 Aerospace Corp 2027 GNC Graduate Intern (El Segundo), 🎯 Shield AI 2027 Summer Solution Systems Engineer Intern (San Diego), 🎯 Muon Space SWE Intern-Information Systems (San Jose) + Security Engineering Intern (Mountain View), 🎯 Leidos Jr. Software Engineer / Data Scientist Intern (Tucson), Northrop 2027 Manufacturing Engineering Intern (Charlottesville, 2nd req). Excluded: GDIT JMSC-P Boundary Enclave Administrator Intern (sysadmin-flavored IT). No scanner errors.
+> **2026-11-13, scanner cron, 5 roles added.** Shield AI 2027 Summer Intern - Future Concepts + Human Machine Teaming (Washington DC); Northrop 2027 Manufacturing Engineering Intern (Waynesboro VA), Industrial Engineering Intern (Elkridge MD), Propulsion Engineering Intern (Promontory UT). Excluded: GE Aerospace Intern - Legal (Bengaluru, non-US/non-technical), Nvidia SWE Intern NCCL 2027 (Shanghai/non-US). No scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
