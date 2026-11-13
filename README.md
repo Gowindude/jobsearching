@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-11-13
-Open verified 2027 roles: 901
+Open verified 2027 roles: 906
 
 ---
 
@@ -403,6 +403,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | RTX/Raytheon 🔥 🎯 | Systems Engineering Test Equipment Intern (Summer 2027) | El Segundo, CA | | Unknown | [Apply](https://careers.rtx.com/global/en/job/01867450/Systems-Engineering-Test-Equipment-Intern-Summer-2027) |
 | GD-OTS (General Dynamics) 🔥 | Intern, Technical Support | Springboro, OH | 🇺🇸 | 2026-07-28 | [Apply](https://careers-gd-ots.icims.com/jobs/36724/intern%2c-technical-support/job) |
 | Northrop Grumman 🔥 🎯 | 2027 Guidance Navigation and Control Intern | Dulles, VA | 🇺🇸 | 2026-08-18 | [Apply](https://jobs.northropgrumman.com/careers/job/1340073702822) |
+| Northrop Grumman 🔥 🎯 🆕 | 2027 Systems Engineering Intern - Graduate Level - Plymouth MN | Plymouth, MN | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075294625) |
 | Northrop Grumman 🔥 | 2027 Spring/Summer Chemistry Co-Op | Redondo Beach, CA | | 2026-08-19 | [Apply](https://jobs.northropgrumman.com/careers/job/1340073708103) |
 | Northrop Grumman 🔥 | 2027 Intern Software Engineer | Melbourne, FL | | Unknown | [Apply](https://jobs.northropgrumman.com/careers?domain=ngc.com&pid=1340073325729) |
 | Northrop Grumman 🔥 🎯 | 2027 Intern - Systems Engineering | Melbourne, FL | | 2026-08-24 | [Apply](https://jobs.northropgrumman.com/careers/job/1340073907032) |
@@ -517,6 +518,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 🆕 | 2027 Manufacturing Engineering Intern - Charlottesville VA (2nd req) | Charlottesville, VA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075275954) |
 | Northrop Grumman 🔥 🆕 | 2027 Manufacturing Engineering Intern - Waynesboro VA | Charlottesville, VA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075276072) |
 | Northrop Grumman 🔥 🆕 | 2027 Industrial Engineering Intern - Elkridge MD | Elkridge, MD | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075277184) |
+| Northrop Grumman 🔥 🆕 | 2027 Manufacturing Engineering Intern - Charlottesville VA (3rd req) | Charlottesville, VA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075276061) |
 | Northrop Grumman 🔥 🆕 | 2027 Propulsion Engineering Intern - Promontory UT | Corinne / Clearfield / Magna, UT | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075274426) |
 | GE Aerospace 🔥 | Unison Engineering Intern (Summer 2027) | Jacksonville, FL / Norwich, NY / Dayton, OH / St. George, UT | | 2026-08-18 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Summer-2027_R5037097) |
 | GE Aerospace 🔥 🎯 | Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027 | Evendale, OH | | 2026-08-17 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) |
@@ -546,6 +548,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Leidos 🔥 | Relay Settings Intern | Remote (US) | 🇺🇸 | 2026-09-18 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Relay-Settings-Intern_R-00192628) |
 | Leidos 🔥 🎯 | Technical Intern (AI/Automation, Navy SMIT) | Remote (US) | 🇺🇸 | 2026-09-16 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00192448) |
 | Leidos 🔥 🎯 | Software Developer Intern | Annapolis Junction, MD | 🇺🇸 | 2026-10-02 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193804) |
+| Leidos 🔥 🎯 🆕 | Chief Engineer Intern | Remote (US) | 🇺🇸 | Posted Today | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Chief-Engineer-Intern_R-00196859) |
 | Leidos 🔥 🎯 | Systems Engineer Intern | Arlington, VA | 🇺🇸 | 2026-10-06 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Arlington-VA/Systems-Engineer-Intern_R-00193940) |
 | Leidos 🔥 🎯 | Controls Engineer Intern | Walled Lake, MI | 🇺🇸 | 2026-10-06 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Walled-Lake-MI/Controls-Engineer-Intern_R-00193953) |
 | Leidos 🔥 🎯 | Software Engineer Intern | Arlington, VA | 🇺🇸 | 2026-10-06 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Arlington-VA/Software-Engineer-Intern_R-00193933) |
@@ -643,6 +646,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Leidos 🔥 🎯 | Aerospace M&S Engineer Intern | Huntsville, AL | 🇺🇸 | 2026-09-09 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Aerospace-M-S-Engineer-Intern_R-00191760) |
 | Leidos 🔥 | Mechanical Design Engineer Summer Intern | Huntsville, AL | 🇺🇸 | 2026-09-09 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Mechanical-Design-Engineer-Summer-Intern_R-00191782) |
 | Leidos 🔥 | Radar Engineer Intern | Huntsville, AL | 🇺🇸 | 2026-09-10 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Radar-Engineer-Intern_R-00191986) |
+| Leidos 🔥 🆕 | Radar Engineering Intern (2nd req) | Huntsville, AL | 🇺🇸 | Posted Today | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Radar-Engineering-Intern_R-00196931-1) |
 | Boeing 🔥 🎯 | Engineering & Technology Innovation Graduate Researcher Program - Computational Fluid Dynamics Intern | Huntington Beach, CA | 🇺🇸 | 2026-09-08 | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation--Graduate-Researcher-Program----Computational-Fluid-Dynamics-Intern_JR2026523774) |
 | Boeing 🔥 🎯 | Engineering & Technology Innovation Graduate Researcher Program - Computational Fluid Dynamics (CFD) Intern | Hazelwood, MO | 🇺🇸 | 2026-09-08 | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Computational-Fluid-Dynamics--CFD--Intern_JR2026523768) |
 | Boeing 🔥 🎯 | Engineering & Technology Innovation Graduate Researcher Program - Software Engineering / Artificial Intelligence Intern | Tukwila, WA | 🇺🇸 | 2026-09-08 | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687) |
@@ -779,6 +783,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Leidos 🔥 | Mechanical Design Intern | Huntsville, AL | 🇺🇸 | 2026-10-02 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Mechanical-Design-Intern_R-00193605) |
 | Leidos 🔥 | Mechanical Analysis Intern | Huntsville, AL | 🇺🇸 | 2026-10-02 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Mechanical-Analysis-Intern_R-00193608) |
 | Leidos 🔥 | Flight Test and Integration Summer Intern | Huntsville, AL | 🇺🇸 | 2026-10-02 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Flight-Test-and-Integration-Summer-Intern_R-00193562-1) |
+| Leidos 🔥 🆕 | Flight Test and Integration Summer Intern (2nd req) | Huntsville, AL | 🇺🇸 | Posted Today | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Flight-Test-and-Integration-Summer-Intern_R-00196666) |
 | Leidos 🔥 | Power Delivery Engineering Intern | Charlotte, NC | 🇺🇸 | Posted Today | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Charlotte-NC/Power-Delivery-Engineering-Intern_R-00195881) |
 | Leidos 🔥 | Power Delivery Engineering Intern | Atlanta, GA | 🇺🇸 | Posted Today | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Atlanta-GA/Power-Delivery-Engineering-Intern_R-00195828) |
 | Leidos 🔥 🆕 | Power Delivery Engineering Intern | Pittsburgh, PA | 🇺🇸 | Posted Today | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Pittsburgh-PA/Power-Delivery-Engineering-Intern_R-00195917) |
@@ -976,6 +981,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-12, scanner cron (later), 2 roles added.** The Aerospace Corporation 2027 Lidar Undergraduate Intern and Lidar Graduate Intern (El Segundo CA, posted same day; photonics/optical, not 🎯). No exclusions; no scanner errors.
 > **2026-11-12 (later 3), scanner cron, 6 roles added.** 🎯 Aerospace Corp 2027 GNC Graduate Intern (El Segundo), 🎯 Shield AI 2027 Summer Solution Systems Engineer Intern (San Diego), 🎯 Muon Space SWE Intern-Information Systems (San Jose) + Security Engineering Intern (Mountain View), 🎯 Leidos Jr. Software Engineer / Data Scientist Intern (Tucson), Northrop 2027 Manufacturing Engineering Intern (Charlottesville, 2nd req). Excluded: GDIT JMSC-P Boundary Enclave Administrator Intern (sysadmin-flavored IT). No scanner errors.
 > **2026-11-13, scanner cron, 5 roles added.** Shield AI 2027 Summer Intern - Future Concepts + Human Machine Teaming (Washington DC); Northrop 2027 Manufacturing Engineering Intern (Waynesboro VA), Industrial Engineering Intern (Elkridge MD), Propulsion Engineering Intern (Promontory UT). Excluded: GE Aerospace Intern - Legal (Bengaluru, non-US/non-technical), Nvidia SWE Intern NCCL 2027 (Shanghai/non-US). No scanner errors.
+> **2026-11-13 (later 2), scanner cron, 5 roles added.** 🎯 Northrop 2027 Systems Engineering Intern - Graduate Level (Plymouth MN), Manufacturing Engineering Intern (Charlottesville VA, 3rd req); Leidos Chief Engineer Intern (Remote US), Radar Engineering Intern (Huntsville AL, new req), Flight Test and Integration Summer Intern (Huntsville AL, new req). Excluded: Booz Allen University - Summer 27 Contracts Intern (McLean VA, non-technical). No scanner errors.
 > **2026-11-13 (later), scanner cron, 1 role added.** 🎯 GE Aerospace Digital Systems Engineering Intern (Bohemia NY, Summer 2027, posted same day; distinct req from the already-tracked Digital Systems Intern). No exclusions; no scanner errors.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
