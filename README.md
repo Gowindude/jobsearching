@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-11-13
-Open verified 2027 roles: 906
+Last updated: 2026-11-19
+Open verified 2027 roles: 921
 
 ---
 
@@ -78,6 +78,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Impulse Space 🔥 🎯 | Avionics Test Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/5d2a522e-a476-4245-b22a-23064642000e) |
 | Impulse Space 🔥 🎯 | Avionics Electrical Propulsion Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-11 | [Apply](https://impulsespace.pinpointhq.com/en/postings/e3b63a8a-129f-4ffa-abe9-fde35e6e6974) |
 | Impulse Space 🔥 | Manufacturing Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/db2664bb-d8ef-41fb-80d6-c19ac0215a34) |
+| Impulse Space 🔥 | Digital Signal Processing Graduate Engineering Internship (Summer 2027) | Redondo Beach, CA | 🇺🇸 | Unknown | [Apply](https://impulsespace.pinpointhq.com/en/postings/db7396dd-50c0-4475-bb42-32f638cd6a3f) |
+| Impulse Space 🔥 | Digital Design (FPGA/ASIC) Engineering Internship (Summer 2027) | Redondo Beach, CA | 🇺🇸 | Unknown | [Apply](https://impulsespace.pinpointhq.com/en/postings/829256fd-cd06-4f0d-91c9-8bb59eaf6772) |
 | Impulse Space 🔥 | Vehicle Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/b7c7e735-fe14-4421-a6ab-ca7cd3fbcf06) |
 | Impulse Space 🔥 | Propulsion Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/b6a1ebef-960b-490d-baf0-db078cfcaa0c) |
 | Impulse Space 🔥 | Electric Propulsion Engineering Intern (Summer 2027) | Redondo Beach, CA | 🇺🇸 | 2026-09-10 | [Apply](https://impulsespace.pinpointhq.com/en/postings/799415b1-cc28-47df-b47c-9fea065e5ef8) |
@@ -251,6 +253,10 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Anduril ⭐ 🎯 | 2027 Software Engineer Intern | Atlanta / Boston / Costa Mesa / Irvine / Reston / Seattle | 🇺🇸 | 2026-06-10 | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007) |
 | Anduril ⭐ 🔥 🎯 | 2027 Flight Software Engineer Intern | Costa Mesa, CA | 🇺🇸 | 2026-09-15 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007) |
 | Anduril ⭐ 🔥 🎯 | 2027 Systems Engineer Intern | Boston, MA / Costa Mesa, CA / Fort Collins, CO / Reston, VA / Seattle, WA | 🇺🇸 | 2026-10-05 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007) |
+| Anduril ⭐ 🔥 🎯 | 2027 Engineering Systems Intern | Costa Mesa, CA | 🇺🇸 | 2026-11-19 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5302147007?gh_jid=5302147007) |
+| Anduril ⭐ 🔥 🎯 | 2027 Machine Learning Engineer Intern | Santa Ana, CA | 🇺🇸 | 2026-11-17 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007) |
+| Anduril ⭐ 🔥 | 2027 Mission Operations Engineer Intern | Honolulu, HI / Washington, DC | 🇺🇸 | 2026-11-16 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5297134007?gh_jid=5297134007) |
+| Anduril ⭐ 🔥 | 2027 Industrial Equipment Maintenance Intern | Ashville, OH | 🇺🇸 | 2026-11-16 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5289632007?gh_jid=5289632007) |
 | Anduril ⭐ | 2027 Electrical Engineer Intern | Atlanta / Boston / Costa Mesa / Irvine / Reston / Seattle | 🇺🇸 | 2026-06-11 | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5148101007) |
 | Anduril ⭐ | 2027 Mechanical Engineer Intern | Atlanta / Boston / Costa Mesa / Irvine / Reston / Seattle | 🇺🇸 | 2026-06-11 | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5153187007) |
 | Anduril ⭐ | 2027 Manufacturing Engineer Intern | Atlanta / Boston / Costa Mesa / Irvine / Reston / Seattle | 🇺🇸 | 2026-06-11 | [Apply](https://job-boards.greenhouse.io/andurilindustries/jobs/5153218007) |
@@ -404,6 +410,12 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | GD-OTS (General Dynamics) 🔥 | Intern, Technical Support | Springboro, OH | 🇺🇸 | 2026-07-28 | [Apply](https://careers-gd-ots.icims.com/jobs/36724/intern%2c-technical-support/job) |
 | Northrop Grumman 🔥 🎯 | 2027 Guidance Navigation and Control Intern | Dulles, VA | 🇺🇸 | 2026-08-18 | [Apply](https://jobs.northropgrumman.com/careers/job/1340073702822) |
 | Northrop Grumman 🔥 🎯 🆕 | 2027 Systems Engineering Intern - Graduate Level - Plymouth MN | Plymouth, MN | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075294625) |
+| Northrop Grumman 🔥 🆕 | 2027 Intern - Human Factors Engineering | Melbourne, FL | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075371195) |
+| Northrop Grumman 🔥 🆕 | 2027 Engineering Intern - Warner Robins GA | Warner Robins, GA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075354773) |
+| Northrop Grumman 🔥 🆕 | 2027 Manufacturing Engineer Intern - Salt Lake City UT | Salt Lake City, UT | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075352744) |
+| Northrop Grumman 🔥 🆕 | 2027 Manufacturing Engineer Intern - Baltimore MD | Baltimore, MD | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075367729) |
+| Northrop Grumman 🔥 🆕 | 2027 Industrial Engineer Intern - Apopka FL | Apopka, FL | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075367951) |
+| Northrop Grumman 🔥 🆕 | 2027 Thermal Engineer Intern - Azusa CA | Azusa, CA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075399057) |
 | Northrop Grumman 🔥 | 2027 Spring/Summer Chemistry Co-Op | Redondo Beach, CA | | 2026-08-19 | [Apply](https://jobs.northropgrumman.com/careers/job/1340073708103) |
 | Northrop Grumman 🔥 | 2027 Intern Software Engineer | Melbourne, FL | | Unknown | [Apply](https://jobs.northropgrumman.com/careers?domain=ngc.com&pid=1340073325729) |
 | Northrop Grumman 🔥 🎯 | 2027 Intern - Systems Engineering | Melbourne, FL | | 2026-08-24 | [Apply](https://jobs.northropgrumman.com/careers/job/1340073907032) |
@@ -983,6 +995,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-13, scanner cron, 5 roles added.** Shield AI 2027 Summer Intern - Future Concepts + Human Machine Teaming (Washington DC); Northrop 2027 Manufacturing Engineering Intern (Waynesboro VA), Industrial Engineering Intern (Elkridge MD), Propulsion Engineering Intern (Promontory UT). Excluded: GE Aerospace Intern - Legal (Bengaluru, non-US/non-technical), Nvidia SWE Intern NCCL 2027 (Shanghai/non-US). No scanner errors.
 > **2026-11-13 (later 2), scanner cron, 5 roles added.** 🎯 Northrop 2027 Systems Engineering Intern - Graduate Level (Plymouth MN), Manufacturing Engineering Intern (Charlottesville VA, 3rd req); Leidos Chief Engineer Intern (Remote US), Radar Engineering Intern (Huntsville AL, new req), Flight Test and Integration Summer Intern (Huntsville AL, new req). Excluded: Booz Allen University - Summer 27 Contracts Intern (McLean VA, non-technical). No scanner errors.
 > **2026-11-13 (later), scanner cron, 1 role added.** 🎯 GE Aerospace Digital Systems Engineering Intern (Bohemia NY, Summer 2027, posted same day; distinct req from the already-tracked Digital Systems Intern). No exclusions; no scanner errors.
+> **2026-11-19, scanner cron, 15 roles added. PARTIAL COVERAGE (12 boards errored: AeroVironment, SNC, Aerospace Corp, Booz Allen, Leidos, Sierra Space, GDIT, Draper, GE Aerospace, Boeing, Amentum, Teledyne FLIR).** 🎯 Anduril 2027 Engineering Systems Intern + Machine Learning Engineer Intern, Mission Operations Engineer Intern, Industrial Equipment Maintenance Intern; 🎯 Pivotal GNC Engineering + Autonomy Path Planning Interns, Quality Intern; Northrop 2027 Human Factors (Melbourne FL), Engineering (Warner Robins GA), Manufacturing (Salt Lake City UT, Baltimore MD), Industrial (Apopka FL), Thermal (Azusa CA) Interns; Impulse Space DSP + FPGA/ASIC Interns. Excluded: Rocket Lab Quality Eng Intern (Toronto, non-US), Anduril Brand/Product Marketing, Business Systems Engineer, Deployment Operations, Product Data Quality Co-op (non-technical/ops), Nvidia Enterprise Sales Intern, Northrop Project Management Intern.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
@@ -990,6 +1003,9 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Company | Role | Location | | Posted | Apply |
 |---------|------|----------|--|--------|-------|
 | Pivotal 🔥 🎯 🆕 | Internship, Software Engineering (Summer 2027) | Palo Alto, CA | | Unknown | [Apply](https://jobs.lever.co/pivotal/3a80913d-886a-4d22-bf5e-9a011b157ec4) |
+| Pivotal 🔥 🎯 🆕 | Internship, GNC Engineering (Summer 2027) | Palo Alto, CA | | Unknown | [Apply](https://jobs.lever.co/pivotal/2c5e6abf-3244-4e46-9c18-fab3fc1c050d) |
+| Pivotal 🔥 🎯 🆕 | Internship, Autonomy - Path Planning (Summer 2027) | Palo Alto, CA | | Unknown | [Apply](https://jobs.lever.co/pivotal/092eb283-16ac-4f68-a6e9-b6a0a9564067) |
+| Pivotal 🔥 🆕 | Internship, Quality (Summer 2027) | Palo Alto, CA | | Unknown | [Apply](https://jobs.lever.co/pivotal/b834685e-f5b7-4d70-a25a-b7c7510f530b) |
 | Pivotal 🔥 🎯 🆕 | Internship, Flight Test Engineer (Summer 2027) | Palo Alto, CA | | Unknown | [Apply](https://jobs.lever.co/pivotal/67927cb0-cf1a-4775-93be-61db3efe684b) |
 | Pivotal 🔥 🆕 | Internship, Electrical Engineering (Summer 2027) | Palo Alto, CA | | Unknown | [Apply](https://jobs.lever.co/pivotal/442a0450-f911-4ac1-a112-03374217f7fb) |
 | Pivotal 🔥 🆕 | Internship, Mechanical Engineering (Summer 2027) | Palo Alto, CA | | Unknown | [Apply](https://jobs.lever.co/pivotal/b7f01112-1ca4-47c4-bd34-c291206bd506) |
