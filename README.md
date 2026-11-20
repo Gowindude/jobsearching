@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-11-20
-Open verified 2027 roles: 932
+Open verified 2027 roles: 938
 
 ---
 
@@ -590,6 +590,12 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Leidos 🔥 | Electrical Design Engineering Intern (R-00195400) 🆕 | Huntsville, AL | 🇺🇸 | 2026-10-26 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Electrical-Design-Engineering-Intern_R-00195400) |
 | Leidos 🔥 🎯 🆕 | Software Developer Intern (2nd req R-00195829) | Annapolis Junction, MD | 🇺🇸 | 2026-10-29 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00195829) |
 | Leidos 🔥 🎯 | Junior Software Engineer / Data Scientist Intern | Tucson, AZ | 🇺🇸 | 2026-11-12 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510) |
+| Leidos 🔥 🎯 🆕 | Systems Engineer Intern | Fort Belvoir, VA | 🇺🇸 | 2026-11-19 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Fort-Belvoir-VA/Systems-Engineer-Intern_R-00197398) |
+| Leidos 🔥 🎯 🆕 | Software Developer Intern | Fort Belvoir, VA | 🇺🇸 | 2026-11-19 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Fort-Belvoir-VA/Software-Developer-Intern_R-00197399-1) |
+| Leidos 🔥 🎯 🆕 | Data Engineer Intern | Fort Belvoir, VA | 🇺🇸 | 2026-11-19 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00196994) |
+| Leidos 🔥 🎯 🆕 | FPGA Engineer Intern | Arlington, VA | 🇺🇸 | 2026-11-18 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Arlington-VA/FPGA-Engineer-Intern_R-00197304) |
+| Leidos 🔥 🆕 | Mechanical Engineering Intern | Poulsbo, WA | 🇺🇸 | 2026-11-17 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Poulsbo-WA/Mechanical-Engineering-Intern_R-00197135) |
+| Leidos 🔥 🆕 | Cybersecurity Intern | Fort Belvoir, VA | 🇺🇸 | 2026-11-16 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Fort-Belvoir-VA/Cybersecurity-Intern_R-00197087) |
 | GE Aerospace 🔥 🎯 | Applied AI Engineer Intern – Summer 2027 (May/June Start) | Evendale, OH (53 locations) | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) |
 | GE Aerospace 🔥 | Unison Engineering Part-time Intern - US - Summer 2027 | Saint George, UT | 🇺🇸 | 2026-09-16 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Saint-George-UT-US-1/Unison-Engineering-Part-time-Intern---US---Summer-2027_R5040163-1) |
 | GE Aerospace 🔥 | Product Definition Engineering Intern - Lynn, MA - Summer 2027 | Lynn, MA | | 2026-08-31 | [Apply](https://geaerospace.wd5.myworkdayjobs.com/en-US/GE_ExternalSite/job/Lynn/Product-Definition-Engineering-Intern---Lynn--MA---Summer-2027_R5039185-1) |
@@ -1008,6 +1014,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-13 (later), scanner cron, 1 role added.** 🎯 GE Aerospace Digital Systems Engineering Intern (Bohemia NY, Summer 2027, posted same day; distinct req from the already-tracked Digital Systems Intern). No exclusions; no scanner errors.
 > **2026-11-19, scanner cron, 15 roles added. PARTIAL COVERAGE (12 boards errored: AeroVironment, SNC, Aerospace Corp, Booz Allen, Leidos, Sierra Space, GDIT, Draper, GE Aerospace, Boeing, Amentum, Teledyne FLIR).** 🎯 Anduril 2027 Engineering Systems Intern + Machine Learning Engineer Intern, Mission Operations Engineer Intern, Industrial Equipment Maintenance Intern; 🎯 Pivotal GNC Engineering + Autonomy Path Planning Interns, Quality Intern; Northrop 2027 Human Factors (Melbourne FL), Engineering (Warner Robins GA), Manufacturing (Salt Lake City UT, Baltimore MD), Industrial (Apopka FL), Thermal (Azusa CA) Interns; Impulse Space DSP + FPGA/ASIC Interns. Excluded: Rocket Lab Quality Eng Intern (Toronto, non-US), Anduril Brand/Product Marketing, Business Systems Engineer, Deployment Operations, Product Data Quality Co-op (non-technical/ops), Nvidia Enterprise Sales Intern, Northrop Project Management Intern.
 > **2026-11-20, scanner cron, 11 roles added.** Sierra Space 2027 Summer wave (9): 🎯 Systems Engineering, 🎯 Software Engineering, 🎯 Rendezvous Proximity Operations (RPO), Flight Operations, Aerospace, Electrical, Mechanical, Propulsion, Materials; 🎯 Draper Space & Strategic Navigation Intern (Cambridge); SNC Test Engineer Intern (Sparks NV). Excluded: Rocket Lab Total Rewards Intern (HR), SNC OCM Intern (business ops), GDIT Jr. Research Analyst (non-technical), Nvidia Cost Accountant Intern (finance), GE Aerospace Subang QC Intern (non-US), Northrop Global Trade Intern (non-technical). No scanner errors.
+> **2026-11-20 later, scanner cron, 6 roles added. PARTIAL COVERAGE (14 boards errored: Draper, Nvidia, Amentum, Aerospace Corp, BAH, Teledyne FLIR, Blue Origin, GE Aerospace, SNC, GDIT, Sierra Space, Boeing, AeroVironment, Northrop).** Leidos (6): 🎯 Systems Engineer Intern + 🎯 Software Developer Intern + 🎯 Data Engineer Intern (Fort Belvoir VA), 🎯 FPGA Engineer Intern (Arlington VA), Mechanical Engineering Intern (Poulsbo WA), Cybersecurity Intern (Fort Belvoir VA). No exclusions.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
