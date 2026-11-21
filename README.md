@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-11-20
-Open verified 2027 roles: 949
+Last updated: 2026-11-21
+Open verified 2027 roles: 950
 
 ---
 
@@ -716,6 +716,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | The Aerospace Corporation 🔥 | 2027 Photonics Technologies Graduate Intern | El Segundo, CA | 🇺🇸 | 2026-10-21 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Photonics-Technologies-Graduate-Intern_R016926) |
 | The Aerospace Corporation 🔥 | 2027 Flight Loads Structural Dynamics Graduate Intern | El Segundo, CA | 🇺🇸 | 2026-10-02 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Flight-Loads-Structural-Dynamics-Graduate-Intern_R016755) |
 | The Aerospace Corporation 🔥 🎯 | 2027 Aerospace Software Engineer Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-09-16 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605) |
+| The Aerospace Corporation 🔥 🎯 | 2027 Enterprise Resiliency Modeling and Simulation Undergraduate Intern | Chantilly, VA | 🇺🇸 | 2026-11-20 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Chantilly-VA/XMLNAME-2027-Enterprise-Resiliency-Modeling-and-Simulation-Undergraduate-Intern_R017274) |
 | The Aerospace Corporation 🔥 | 2027 Reliability and Statistics Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-09-20 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Reliability-and-Statistics-Undergraduate-Intern_R016594) |
 | The Aerospace Corporation 🔥 🎯 | 2027 RF Characterization Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-09-16 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-RF-Characterization-Undergraduate-Intern_R016612) |
 | The Aerospace Corporation 🔥 | 2027 Space Object Risk Graduate Intern | Chantilly, VA (+2 other sites) | 🇺🇸 | 2026-09-07 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/Chantilly-VA/XMLNAME-2027-Space-Object-Risk-Graduate-Intern_R016458) |
@@ -1029,6 +1030,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-20, scanner cron, 11 roles added.** Sierra Space 2027 Summer wave (9): 🎯 Systems Engineering, 🎯 Software Engineering, 🎯 Rendezvous Proximity Operations (RPO), Flight Operations, Aerospace, Electrical, Mechanical, Propulsion, Materials; 🎯 Draper Space & Strategic Navigation Intern (Cambridge); SNC Test Engineer Intern (Sparks NV). Excluded: Rocket Lab Total Rewards Intern (HR), SNC OCM Intern (business ops), GDIT Jr. Research Analyst (non-technical), Nvidia Cost Accountant Intern (finance), GE Aerospace Subang QC Intern (non-US), Northrop Global Trade Intern (non-technical). No scanner errors.
 > **2026-11-20 later, scanner cron, 6 roles added. PARTIAL COVERAGE (14 boards errored: Draper, Nvidia, Amentum, Aerospace Corp, BAH, Teledyne FLIR, Blue Origin, GE Aerospace, SNC, GDIT, Sierra Space, Boeing, AeroVironment, Northrop).** Leidos (6): 🎯 Systems Engineer Intern + 🎯 Software Developer Intern + 🎯 Data Engineer Intern (Fort Belvoir VA), 🎯 FPGA Engineer Intern (Arlington VA), Mechanical Engineering Intern (Poulsbo WA), Cybersecurity Intern (Fort Belvoir VA). No exclusions.
 > **2026-11-20 (latest), scanner cron, 5 roles added. PARTIAL COVERAGE (13 boards errored: Nvidia, SNC, BAH, Blue Origin, Sierra Space, Amentum, Teledyne FLIR, Boeing, Leidos, AeroVironment, Draper, GE Aerospace, Northrop 429).** The Aerospace Corporation (5): 🎯 Agile Space Systems Undergrad Intern (Albuquerque NM), Structural Engineering Undergrad Intern, Dynamic Environments Undergrad Intern (Huntsville AL +1), Composites Undergrad Intern, Electrical Characterization Grad Intern (El Segundo). Excluded as non-technical/program-analysis: 2027 Acquisition and Analysis Undergrad + Graduate Interns.
+> **2026-11-21, scanner cron, 1 role added. PARTIAL COVERAGE (9 boards errored: GDIT, Amentum, Boeing, AeroVironment, SNC, Sierra Space, Teledyne FLIR, BAH, Nvidia).** The Aerospace Corporation: 🎯 2027 Enterprise Resiliency Modeling and Simulation Undergraduate Intern (Chantilly VA). No exclusions.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
