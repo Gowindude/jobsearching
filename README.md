@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-11-21
-Open verified 2027 roles: 950
+Last updated: 2026-11-22
+Open verified 2027 roles: 951
 
 ---
 
@@ -473,6 +473,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Northrop Grumman 🔥 | 2027 Manufacturing Engineer Intern | Iuka, MS | 🇺🇸 | 2026-09-19 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074352752) |
 | Northrop Grumman 🔥 | 2027 Structural Engineer Intern | Clearfield, UT | 🇺🇸 | 2026-09-20 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074355009) |
 | Northrop Grumman 🔥 🆕 | 2027 Electrical Engineering Intern- Huntsville AL | Huntsville, AL | 🇺🇸 | 2026-11-06 | [Apply](https://jobs.northropgrumman.com/careers/job/1340075168503) |
+| Northrop Grumman 🔥 🆕 | 2027 AI/ML Engineering Intern - Morrisville NC | Morrisville, NC | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075424045) |
 | Northrop Grumman 🔥 🆕 | 2027 Mechanical Engineer Intern- Gilbert AZ | Gilbert, AZ | 🇺🇸 | 2026-11-06 | [Apply](https://jobs.northropgrumman.com/careers/job/1340075030334) |
 | Northrop Grumman 🔥 🆕 | 2027 Mechanical Engineer Intern- Redondo Beach CA | Redondo Beach, CA | 🇺🇸 | Unknown | [Apply](https://jobs.northropgrumman.com/careers/job/1340075273682) |
 | Northrop Grumman 🔥 | 2027 Engineering Intern - Huntsville AL | Huntsville, AL | 🇺🇸 | 2026-09-10 | [Apply](https://jobs.northropgrumman.com/careers/job/1340074242619) |
@@ -1031,6 +1032,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-20 later, scanner cron, 6 roles added. PARTIAL COVERAGE (14 boards errored: Draper, Nvidia, Amentum, Aerospace Corp, BAH, Teledyne FLIR, Blue Origin, GE Aerospace, SNC, GDIT, Sierra Space, Boeing, AeroVironment, Northrop).** Leidos (6): 🎯 Systems Engineer Intern + 🎯 Software Developer Intern + 🎯 Data Engineer Intern (Fort Belvoir VA), 🎯 FPGA Engineer Intern (Arlington VA), Mechanical Engineering Intern (Poulsbo WA), Cybersecurity Intern (Fort Belvoir VA). No exclusions.
 > **2026-11-20 (latest), scanner cron, 5 roles added. PARTIAL COVERAGE (13 boards errored: Nvidia, SNC, BAH, Blue Origin, Sierra Space, Amentum, Teledyne FLIR, Boeing, Leidos, AeroVironment, Draper, GE Aerospace, Northrop 429).** The Aerospace Corporation (5): 🎯 Agile Space Systems Undergrad Intern (Albuquerque NM), Structural Engineering Undergrad Intern, Dynamic Environments Undergrad Intern (Huntsville AL +1), Composites Undergrad Intern, Electrical Characterization Grad Intern (El Segundo). Excluded as non-technical/program-analysis: 2027 Acquisition and Analysis Undergrad + Graduate Interns.
 > **2026-11-21, scanner cron, 1 role added. PARTIAL COVERAGE (9 boards errored: GDIT, Amentum, Boeing, AeroVironment, SNC, Sierra Space, Teledyne FLIR, BAH, Nvidia).** The Aerospace Corporation: 🎯 2027 Enterprise Resiliency Modeling and Simulation Undergraduate Intern (Chantilly VA). No exclusions.
+> **2026-11-22, scanner cron, 1 role added. PARTIAL COVERAGE (7 boards errored: SNC, BAH, Teledyne FLIR, Boeing, AeroVironment, Amentum, Sierra Space).** Northrop Grumman: 2027 AI/ML Engineering Intern (Morrisville NC). Excluded: Northrop 2027 EHS Engineer Intern (Sunnyvale, non-technical/safety), GE Aerospace Military DoD SkillBridge Maintenance Technician (military-only, non-engineering).
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
