@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-11-23
-Open verified 2027 roles: 953
+Open verified 2027 roles: 954
 
 ---
 
@@ -630,6 +630,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Amentum 🔥 | Intern - Damage Tolerance Intern | Huntsville, AL | 🇺🇸 | 2026-10-02 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-AL-Huntsville/Intern---Damage-Tolerance-Intern_R0172055) |
 | Amentum 🔥 | Performance Engineering Intern | Houston, TX | 🇺🇸 | 2026-10-05 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-TX-Houston/Performance-Engineering-Intern_R0172180-1) |
 | Amentum 🔥 🆕 | Mechanical Engineering Intern | Oak Ridge, TN | 🇺🇸 | 2026-10-28 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-TN-Oak-Ridge/Mechanical-Engineering-Intern_R0174161) |
+| Amentum 🔥 | Intern - Propulsion Dynamics Graduate Intern | Huntsville, AL | 🇺🇸 | 2026-11-23 | [Apply](https://pae.wd1.myworkdayjobs.com/en-US/Amentum_Careers/job/US-AL-Huntsville/Intern---Propulsion-Dynamics-Graduate-Intern_R0175816) |
 | Nvidia 🔥 🎯 | NVIDIA 2027 Internships: Software Engineering | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495) |
 | Nvidia 🔥 🎯 | NVIDIA 2027 Internships: Systems Software Engineering | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492) |
 | Nvidia 🔥 🎯 | NVIDIA 2027 Internships: Deep Learning | Santa Clara, CA | | 2026-08-19 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Deep-Learning_JR2023497-1) |
@@ -1037,6 +1038,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-22, scanner cron, 1 role added. PARTIAL COVERAGE (7 boards errored: SNC, BAH, Teledyne FLIR, Boeing, AeroVironment, Amentum, Sierra Space).** Northrop Grumman: 2027 AI/ML Engineering Intern (Morrisville NC). Excluded: Northrop 2027 EHS Engineer Intern (Sunnyvale, non-technical/safety), GE Aerospace Military DoD SkillBridge Maintenance Technician (military-only, non-engineering).
 > **2026-11-23, scanner cron, 1 role added. PARTIAL COVERAGE (7 boards errored: Amentum, AeroVironment, SNC, Sierra Space, Boeing, Teledyne FLIR, BAH).** Northrop Grumman: 2027 Software Test Engineering Intern (Roy UT). Excluded: Nvidia Software Engineering Intern + Applied Research Intern 2027 (Yerevan, Armenia, non-US), Northrop 2027 FP&A Intern (Falls Church, finance), Northrop 2027 Critical Skills Development Intern (non-technical/generic program).
 > **2026-11-23 (second run), scanner cron, 1 role added. Full coverage (0 board errors).** Northrop Grumman: 2027 Cyber Systems Engineer Intern (Roy UT). Excluded: Leidos Network Engineering & Operations Intern (Shiloh IL) and System Administration/Cybersecurity Intern (Clarksburg WV) as IT/network-ops/sysadmin-flavored.
+> **2026-11-23 (third run), scanner cron, 1 role added. PARTIAL COVERAGE (13 boards errored on first pass; 6 on re-run).** Amentum Intern - Propulsion Dynamics Graduate Intern (Huntsville AL, no term stated, posted same day). No exclusions.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
