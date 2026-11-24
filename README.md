@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-11-23
-Open verified 2027 roles: 962
+Last updated: 2026-11-24
+Open verified 2027 roles: 963
 
 ---
 
@@ -376,6 +376,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | AeroVironment 🔥 🆕 | Test Engineering Intern - Space Technologies | Albuquerque, NM | 🇺🇸 | 2026-10-27 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Albuquerque-NM/Test-Engineering-Intern---Space-Technologies_9253) |
 | AeroVironment 🔥 🆕 | Mechanical Engineering Intern - Space Technologies | Albuquerque, NM | 🇺🇸 | 2026-10-27 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Albuquerque-NM/Mechanical-Engineering-Intern---Space-Technologies_9247) |
 | AeroVironment 🔥 🆕 | Electrical Engineering Intern - Space Technologies | Albuquerque, NM | 🇺🇸 | 2026-10-27 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Albuquerque-NM/Electrical-Engineering-Intern---Space-Technologies_9256) |
+| AeroVironment 🔥 🆕 | Product Engineering Intern | Simi Valley, CA | 🇺🇸 | 2026-11-23 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Product-Engineering-Intern_8815) |
 | Hermeus 🔥 | Subsystem Test Engineering Intern - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/643fd7b7-9015-43a1-aa2b-a54f117b403c) |
 | Hermeus 🔥 🎯 | Software Engineering Intern (Modeling & Simulation) - Spring/Summer 2027 | Los Angeles, CA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936) |
 | Hermeus 🔥 🎯 | Software Engineering Intern (HIL) - Spring/Summer 2027 | Atlanta, GA | 🇺🇸 | 2026-09-01 | [Apply](https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b) |
@@ -1050,6 +1051,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-23 (fourth run), scanner cron, 6 roles added. Full coverage (0 board errors).** Draper Materials and Chemistry Engineering Intern (Summer 2027, Cambridge MA); Teledyne FLIR Engineering Intern - Summer x2 (REQ34028-1 / REQ34029, North Falmouth MA, year unstated); Leidos Mechanical Analysis Intern + Mechanical Design Intern (Huntsville AL) and Software Engineering Intern (Arlington VA), all posted same day. Excluded: Teledyne FLIR Engineering Intern - Fall (REQ34030, Fall term).
 > **2026-11-23 (fifth run), scanner cron, 1 role added. PARTIAL COVERAGE (7 boards errored: Boeing, Sierra Space, Teledyne FLIR, AeroVironment, BAH, SNC, Amentum).** Draper Space GNC Intern (Summer 2027, Houston TX, posted same day). No exclusions.
 > **2026-11-23 (sixth run), scanner cron, 1 role added. PARTIAL COVERAGE (13 boards errored: Nvidia, Sierra Space, Aerospace Corp, Boeing, BAH, Draper, Leidos, GDIT, SNC, Amentum, GE Aerospace, Blue Origin, AeroVironment).** Northrop Grumman: 2027 Intern Test & Evaluation (Part-Time, Oklahoma City OK).
+> **2026-11-24, scanner cron, 1 role added. Full coverage (0 board errors).** AeroVironment Product Engineering Intern (Simi Valley CA, year unstated, posted 2026-11-23). No exclusions.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
