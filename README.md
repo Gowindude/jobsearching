@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-11-23
-Open verified 2027 roles: 954
+Open verified 2027 roles: 960
 
 ---
 
@@ -416,6 +416,8 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Teledyne FLIR 🔥 | College Intern - Technical (no term stated; REQ36728) 🆕 | Woodridge, IL | 🇺🇸 | 2026-10-26 | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Woodridge-IL/College-Intern---Technical_REQ36728) |
 | Teledyne FLIR 🔥 🆕 | Quality Engineer Intern (no term stated; REQ35284) | Portsmouth, NH | 🇺🇸 | 2026-10-26 | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Portsmouth-NH-TDY/Quality-Engineer-Intern_REQ35284) |
 | Teledyne FLIR 🔥 🆕 | Manufacturing Engineering Intern (no term stated; REQ37414) | Miamisburg, OH | 🇺🇸 | 2026-10-27 | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Miamisburg-OH/Manufacturing-Engineering-Intern_REQ37414) |
+| Teledyne FLIR 🔥 🆕 | Engineering Intern - Summer (year unstated; REQ34028-1) | North Falmouth, MA | | Posted Today | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---North-Falmouth-MA/Engineering-Intern---Summer_REQ34028-1) |
+| Teledyne FLIR 🔥 🆕 | Engineering Intern - Summer (year unstated; REQ34029) | North Falmouth, MA | | Posted Today | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---North-Falmouth-MA/Engineering-Intern---Summer_REQ34029) |
 | RTX/Raytheon 🔥 🎯 | Systems Engineering Test Equipment Intern (Summer 2027) | El Segundo, CA | | Unknown | [Apply](https://careers.rtx.com/global/en/job/01867450/Systems-Engineering-Test-Equipment-Intern-Summer-2027) |
 | GD-OTS (General Dynamics) 🔥 | Intern, Technical Support | Springboro, OH | 🇺🇸 | 2026-07-28 | [Apply](https://careers-gd-ots.icims.com/jobs/36724/intern%2c-technical-support/job) |
 | Northrop Grumman 🔥 🎯 | 2027 Guidance Navigation and Control Intern | Dulles, VA | 🇺🇸 | 2026-08-18 | [Apply](https://jobs.northropgrumman.com/careers/job/1340073702822) |
@@ -598,6 +600,9 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Leidos 🔥 🎯 🆕 | Software Developer Intern | Fort Belvoir, VA | 🇺🇸 | 2026-11-19 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Fort-Belvoir-VA/Software-Developer-Intern_R-00197399-1) |
 | Leidos 🔥 🎯 🆕 | Data Engineer Intern | Fort Belvoir, VA | 🇺🇸 | 2026-11-19 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00196994) |
 | Leidos 🔥 🎯 🆕 | FPGA Engineer Intern | Arlington, VA | 🇺🇸 | 2026-11-18 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Arlington-VA/FPGA-Engineer-Intern_R-00197304) |
+| Leidos 🔥 🎯 🆕 | Software Engineering Intern | Arlington, VA | 🇺🇸 | Posted Today | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Arlington-VA/Software-Engineering-Intern_R-00197526) |
+| Leidos 🔥 🆕 | Mechanical Analysis Intern | Huntsville, AL | 🇺🇸 | Posted Today | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Mechanical-Analysis-Intern_R-00197567) |
+| Leidos 🔥 🆕 | Mechanical Design Intern | Huntsville, AL | 🇺🇸 | Posted Today | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Mechanical-Design-Intern_R-00197572) |
 | Leidos 🔥 🆕 | Mechanical Engineering Intern | Poulsbo, WA | 🇺🇸 | 2026-11-17 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Poulsbo-WA/Mechanical-Engineering-Intern_R-00197135) |
 | Leidos 🔥 🆕 | Cybersecurity Intern | Fort Belvoir, VA | 🇺🇸 | 2026-11-16 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Fort-Belvoir-VA/Cybersecurity-Intern_R-00197087) |
 | Leidos 🔥 🎯 🆕 | Aerospace M&S Engineer Intern | Huntsville, AL | 🇺🇸 | Posted Today | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Aerospace-M-S-Engineer-Intern_R-00197493) |
@@ -676,6 +681,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Draper Laboratory 🔥 🎯 | Space & Strategic Navigation Intern (Summer 2027) | Cambridge, MA | | 2026-11-17 | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Space---Strategic-Navigation-Intern--Summer-2027-_JR003137) |
 | Draper Laboratory 🔥 🆕 | Operational Analysis Intern (Summer 2027) | Cambridge, MA | | Posted Today | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Operational-Analysis-Intern--Summer-2027-_JR003182) |
 | Draper Laboratory 🔥 🎯 | Software Engineering & DevOps Intern | Cambridge, MA | | Posted 3 Days Ago | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Software-Engineering---DevOps-Intern_JR003155) |
+| Draper Laboratory 🔥 🆕 | Materials and Chemistry Engineering Intern (Summer 2027) | Cambridge, MA | | Posted Today | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Materials-and-Chemistry-Engineering-Intern--Summer-2027-_JR003177) |
 | Leidos 🔥 | Manufacturing/Quality Intern | Huntsville, AL | 🇺🇸 | 2026-08-31 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Manufacturing-Quality-Intern_R-00190547) |
 | Leidos 🔥 | Electronics Technician Co-Op | Huntsville, AL | 🇺🇸 | 2026-09-04 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Electronics-Technician-Co-Op_R-00191451) |
 | Leidos 🔥 | Civil Engineer Intern | Chicago, IL | 🇺🇸 | 2026-09-08 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Chicago-IL/Civil-Engineer-Intern_R-00191578) |
@@ -1039,6 +1045,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-23, scanner cron, 1 role added. PARTIAL COVERAGE (7 boards errored: Amentum, AeroVironment, SNC, Sierra Space, Boeing, Teledyne FLIR, BAH).** Northrop Grumman: 2027 Software Test Engineering Intern (Roy UT). Excluded: Nvidia Software Engineering Intern + Applied Research Intern 2027 (Yerevan, Armenia, non-US), Northrop 2027 FP&A Intern (Falls Church, finance), Northrop 2027 Critical Skills Development Intern (non-technical/generic program).
 > **2026-11-23 (second run), scanner cron, 1 role added. Full coverage (0 board errors).** Northrop Grumman: 2027 Cyber Systems Engineer Intern (Roy UT). Excluded: Leidos Network Engineering & Operations Intern (Shiloh IL) and System Administration/Cybersecurity Intern (Clarksburg WV) as IT/network-ops/sysadmin-flavored.
 > **2026-11-23 (third run), scanner cron, 1 role added. PARTIAL COVERAGE (13 boards errored on first pass; 6 on re-run).** Amentum Intern - Propulsion Dynamics Graduate Intern (Huntsville AL, no term stated, posted same day). No exclusions.
+> **2026-11-23 (fourth run), scanner cron, 6 roles added. Full coverage (0 board errors).** Draper Materials and Chemistry Engineering Intern (Summer 2027, Cambridge MA); Teledyne FLIR Engineering Intern - Summer x2 (REQ34028-1 / REQ34029, North Falmouth MA, year unstated); Leidos Mechanical Analysis Intern + Mechanical Design Intern (Huntsville AL) and Software Engineering Intern (Arlington VA), all posted same day. Excluded: Teledyne FLIR Engineering Intern - Fall (REQ34030, Fall term).
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
