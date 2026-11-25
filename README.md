@@ -3,7 +3,7 @@
 Personal tracker. Links verified on last update. US-based roles only.
 
 Last updated: 2026-11-25
-Open verified 2027 roles: 975
+Open verified 2027 roles: 976
 
 ---
 
@@ -1068,6 +1068,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-24 (third run), scanner cron, 2 roles added. PARTIAL COVERAGE (7 boards errored: Sierra Space, BAH, AeroVironment, SNC, Boeing, Teledyne FLIR, Amentum).** Northrop Grumman 2027 Computer Systems Intern + 2027 Cybersecurity Intern (both Linthicum MD). No exclusions.
 > **2026-11-24 (fourth run), scanner cron, 2 roles added. PARTIAL COVERAGE (14 boards errored: BAH, Blue Origin, GE Aerospace, Leidos, AeroVironment, Draper, Sierra Space, Teledyne FLIR, Boeing, Nvidia, GDIT, SNC, Aerospace Corp, Amentum).** Northrop Grumman 2027 Electronics Engineer Intern (Azusa CA) + 2027 Electrical Engineer Intern (Gilbert AZ). No exclusions.
 > **2026-11-25, scanner cron, 7 roles added. PARTIAL COVERAGE (7 boards errored: Sierra Space, Boeing, BAH, Teledyne FLIR, SNC, AeroVironment, Amentum).** 🎯 Draper Simulation Engineering Intern + 🎯 HWIL & Real Time Simulation Intern + Cyber Effects Engineering Intern (Cambridge MA, Summer 2027); The Aerospace Corporation 2027 RF/Antenna Undergrad, Explosives Systems Undergrad + Grad, Mechanical Systems Grad Interns (El Segundo CA). Excluded: GDIT Business Strategy Associate Internship (non-technical).
+> **2026-11-25 (second run), scanner cron, 1 role added. PARTIAL COVERAGE (13 boards errored: Leidos, Boeing, BAH, Nvidia, Sierra Space, AeroVironment, GE Aerospace, Blue Origin, Draper, GDIT, Amentum, SNC, Aerospace Corp).** 🎯 Xona Space Systems Software Engineering (Engineering Productivity) Intern (Burlingame CA, no term stated, posted same day). No exclusions.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
@@ -1125,6 +1126,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Varda Space Industries 🔥 | Vehicle Integration & Test Internship - Spring 2027 | El Segundo, CA | | 2026-08-07 | [Apply](https://job-boards.greenhouse.io/vardaspace/jobs/7824772003) |
 | Xona Space Systems 🔥 | Mechanical Engineering Co-op (Spring 2027) | Burlingame, CA | | 2026-07-17 | [Apply](https://jobs.ashbyhq.com/xona-space/f418fdfc-f439-444a-bb0a-15ec09b39b8e) |
 | Xona Space Systems 🔥 | Mechanical Engineering Co-op (6-month, no season stated) | Burlingame, CA | | 2026-10-16 | [Apply](https://jobs.ashbyhq.com/xona-space/4bf79312-d4c4-4ae2-bdfc-85c9e63937ad) |
+| Xona Space Systems 🔥 🎯 | Software Engineering (Engineering Productivity) Intern | Burlingame, CA | | 2026-11-25 | [Apply](https://jobs.ashbyhq.com/xona-space/d3549244-52e2-4894-87f9-99fc8cbe26ab) |
 | Rendezvous Robotics 🔥 🎯 | GNC Intern (Spring 2027) | Golden, CO | | 2026-07-27 | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4332465009) |
 | Rocket Lab 🔥 🎯 | Flight Software Intern Spring 2027 | Littleton, CO | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7989724003) |
 | Rocket Lab 🔥 🎯 | Systems Engineering Intern Spring 2027 | Long Beach, CA | 🇺🇸 | 2026-09-09 | [Apply](https://job-boards.greenhouse.io/rocketlab/jobs/7987044003) |
