@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-11-24
-Open verified 2027 roles: 968
+Last updated: 2026-11-25
+Open verified 2027 roles: 975
 
 ---
 
@@ -690,6 +690,9 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | Draper Laboratory 🔥 🎯 | Software Engineering & DevOps Intern | Cambridge, MA | | Posted 3 Days Ago | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Software-Engineering---DevOps-Intern_JR003155) |
 | Draper Laboratory 🔥 🆕 | Materials and Chemistry Engineering Intern (Summer 2027) | Cambridge, MA | | Posted Today | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Materials-and-Chemistry-Engineering-Intern--Summer-2027-_JR003177) |
 | Draper Laboratory 🔥 🎯 🆕 | Space GNC Intern (Summer 2027) | Houston, TX | | Posted Today | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Houston-TX/Space-GNC-Intern--Summer-2027-_JR003127) |
+| Draper Laboratory 🔥 🎯 🆕 | Simulation Engineering Intern (Summer 2027) | Cambridge, MA | | Posted Yesterday | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Simulation-Engineering-Intern--Summer-2027-_JR003181) |
+| Draper Laboratory 🔥 🎯 🆕 | HWIL & Real Time Simulation Intern (Summer 2027) | Cambridge, MA | | Posted Yesterday | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/HWIL---Real-Time-Simulation-Intern--Summer-2027-_JR003188) |
+| Draper Laboratory 🔥 🆕 | Cyber Effects Engineering Intern (Summer 2027) | Cambridge, MA | | Posted Today | [Apply](https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Cyber-Effects-Engineering-Intern--Summer-2027-_JR003189) |
 | Leidos 🔥 | Manufacturing/Quality Intern | Huntsville, AL | 🇺🇸 | 2026-08-31 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Manufacturing-Quality-Intern_R-00190547) |
 | Leidos 🔥 | Electronics Technician Co-Op | Huntsville, AL | 🇺🇸 | 2026-09-04 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Electronics-Technician-Co-Op_R-00191451) |
 | Leidos 🔥 | Civil Engineer Intern | Chicago, IL | 🇺🇸 | 2026-09-08 | [Apply](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Chicago-IL/Civil-Engineer-Intern_R-00191578) |
@@ -804,6 +807,10 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | The Aerospace Corporation 🔥 | 2027 Composites Undergraduate Intern | El Segundo, CA | 🇺🇸 | 2026-11-18 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Composites-Undergraduate-Intern_R017255) |
 | The Aerospace Corporation 🔥 | 2027 Electrical Characterization Graduate Intern | El Segundo, CA | 🇺🇸 | 2026-11-19 | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Electrical-Characterization-Graduate-Intern_R017278) |
 | The Aerospace Corporation 🔥 | 2027 Electronic Components Lab Undergrad Intern | El Segundo, CA | 🇺🇸 | Posted Today | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Electronic-Components-Lab-Undergrad-Intern_R017285) |
+| The Aerospace Corporation 🔥 🆕 | 2027 RF/Antenna Undergrad Intern | El Segundo, CA | 🇺🇸 | Posted Today | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-RF-Antenna-Undergrad-Intern_R017114) |
+| The Aerospace Corporation 🔥 🆕 | 2027 Explosives Systems Undergraduate Intern | El Segundo, CA | 🇺🇸 | Posted Yesterday | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Explosives-Systems-Undergraduate-Intern_R017304) |
+| The Aerospace Corporation 🔥 🆕 | 2027 Explosives Systems Graduate Intern | El Segundo, CA | 🇺🇸 | Posted Yesterday | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Explosives-Systems-Graduate-Intern_R017303) |
+| The Aerospace Corporation 🔥 🆕 | 2027 Mechanical Systems Graduate Intern | El Segundo, CA | 🇺🇸 | Posted Yesterday | [Apply](https://aero.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-CA/XMLNAME-2027-Mechanical-Systems-Graduate-Intern_R017301) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Systems Engineer Intern | McLean, VA (11 locations) | 🇺🇸 | 2026-09-04 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University---2027-Summer-Games-Systems-Engineer-Intern---McLean--VA_R0248361) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Software Developer Intern | McLean, VA (10 locations) | 🇺🇸 | 2026-09-15 | [Apply](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029) |
 | Booz Allen Hamilton 🔥 🎯 | University - 2027 Summer Games Systems Engineer Intern (Lexington, MA req R0252273) 🆕 | Lexington, MA | 🇺🇸 | 2026-10-26 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/University---2027-Summer-Games-Systems-Engineer-Intern---Lexington--MA_R0252273) |
@@ -1060,6 +1067,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-24 (second run), scanner cron, 1 role added. PARTIAL COVERAGE (8 boards errored: Boeing, Amentum, BAH, SNC, Sierra Space, Teledyne FLIR, Leidos, AeroVironment).** 🎯 Northrop Grumman 2027 Software Engineering Intern (Colorado Springs CO). No exclusions.
 > **2026-11-24 (third run), scanner cron, 2 roles added. PARTIAL COVERAGE (7 boards errored: Sierra Space, BAH, AeroVironment, SNC, Boeing, Teledyne FLIR, Amentum).** Northrop Grumman 2027 Computer Systems Intern + 2027 Cybersecurity Intern (both Linthicum MD). No exclusions.
 > **2026-11-24 (fourth run), scanner cron, 2 roles added. PARTIAL COVERAGE (14 boards errored: BAH, Blue Origin, GE Aerospace, Leidos, AeroVironment, Draper, Sierra Space, Teledyne FLIR, Boeing, Nvidia, GDIT, SNC, Aerospace Corp, Amentum).** Northrop Grumman 2027 Electronics Engineer Intern (Azusa CA) + 2027 Electrical Engineer Intern (Gilbert AZ). No exclusions.
+> **2026-11-25, scanner cron, 7 roles added. PARTIAL COVERAGE (7 boards errored: Sierra Space, Boeing, BAH, Teledyne FLIR, SNC, AeroVironment, Amentum).** 🎯 Draper Simulation Engineering Intern + 🎯 HWIL & Real Time Simulation Intern + Cyber Effects Engineering Intern (Cambridge MA, Summer 2027); The Aerospace Corporation 2027 RF/Antenna Undergrad, Explosives Systems Undergrad + Grad, Mechanical Systems Grad Interns (El Segundo CA). Excluded: GDIT Business Strategy Associate Internship (non-technical).
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
 > Per 2026-08-16 user direction: target-company preference is relaxed — any company is fair game as long as the role itself is GNC, systems engineering, or simulation/modeling (or close). This subsection is for non-aerospace-named companies whose actual engineering work (real-time controls, embedded systems, robotics) is GNC-adjacent. Sourced from jobs.spacecapital.com.
