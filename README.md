@@ -2,8 +2,8 @@
 
 Personal tracker. Links verified on last update. US-based roles only.
 
-Last updated: 2026-11-25
-Open verified 2027 roles: 976
+Last updated: 2026-11-26
+Open verified 2027 roles: 977
 
 ---
 
@@ -353,6 +353,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 | AeroVironment 🔥 | Test Product Engineering Intern | Simi Valley, CA | 🇺🇸 | 2026-09-16 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Test-Product-Engineering-Intern_8537) |
 | AeroVironment 🔥 | Aeromechanical Engineering Intern | Huntsville, AL | 🇺🇸 | Unknown | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Huntsville-AL/Aeromechanical-Engineering-Intern_8786) |
 | AeroVironment 🔥 🎯 | Software Engineering Intern | Sunrise, FL | 🇺🇸 | Unknown | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Sunrise-FL/Software-Engineering-Intern_8797) |
+| AeroVironment 🔥 | Cyber Internship | Sunrise, FL | 🇺🇸 | 2026-11-25 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Sunrise-FL/Cyber-Internship_9430) |
 | AeroVironment 🔥 🎯 | Hypersonic RF Software Engineering Intern | Germantown, MD | 🇺🇸 | 2026-10-06 | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Germantown-MD/Hypersonic-RF-Software-Engineering-Intern_8993) |
 | AeroVironment 🔥 | Production Engineering Intern | Simi Valley, CA | 🇺🇸 | Unknown | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Simi-Valley-CA/Production-Engineering-Intern_8887) |
 | AeroVironment 🔥 🎯 | Titan-SV Software Engineer Intern | Leesburg, VA | 🇺🇸 | Unknown | [Apply](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/Leesburg-VA/Titan-SV-Software-Engineer-Intern_8901) |
@@ -1068,6 +1069,7 @@ Other technical roles (EE, ME, avionics hardware, propulsion, manufacturing, str
 > **2026-11-24 (third run), scanner cron, 2 roles added. PARTIAL COVERAGE (7 boards errored: Sierra Space, BAH, AeroVironment, SNC, Boeing, Teledyne FLIR, Amentum).** Northrop Grumman 2027 Computer Systems Intern + 2027 Cybersecurity Intern (both Linthicum MD). No exclusions.
 > **2026-11-24 (fourth run), scanner cron, 2 roles added. PARTIAL COVERAGE (14 boards errored: BAH, Blue Origin, GE Aerospace, Leidos, AeroVironment, Draper, Sierra Space, Teledyne FLIR, Boeing, Nvidia, GDIT, SNC, Aerospace Corp, Amentum).** Northrop Grumman 2027 Electronics Engineer Intern (Azusa CA) + 2027 Electrical Engineer Intern (Gilbert AZ). No exclusions.
 > **2026-11-25, scanner cron, 7 roles added. PARTIAL COVERAGE (7 boards errored: Sierra Space, Boeing, BAH, Teledyne FLIR, SNC, AeroVironment, Amentum).** 🎯 Draper Simulation Engineering Intern + 🎯 HWIL & Real Time Simulation Intern + Cyber Effects Engineering Intern (Cambridge MA, Summer 2027); The Aerospace Corporation 2027 RF/Antenna Undergrad, Explosives Systems Undergrad + Grad, Mechanical Systems Grad Interns (El Segundo CA). Excluded: GDIT Business Strategy Associate Internship (non-technical).
+> **2026-11-26, scanner cron, 1 role added. Full coverage (0 board errors).** AeroVironment Cyber Internship (Sunrise FL, no term stated, posted 2026-11-25). No exclusions.
 > **2026-11-25 (second run), scanner cron, 1 role added. PARTIAL COVERAGE (13 boards errored: Leidos, Boeing, BAH, Nvidia, Sierra Space, AeroVironment, GE Aerospace, Blue Origin, Draper, GDIT, Amentum, SNC, Aerospace Corp).** 🎯 Xona Space Systems Software Engineering (Engineering Productivity) Intern (Burlingame CA, no term stated, posted same day). No exclusions.
 
 ### Robotics, Controls & Manufacturing Tech (GNC-adjacent)
